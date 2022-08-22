@@ -6,3 +6,5 @@ if you're coming here you managed to find one of the rare finished tasks.
 Are you interested in my [Adventures](dmgadventures.md)? Or how about joining a session of the games I run at [Pando DND](http://pandodnd.com)?
 
 Or ... I don't know, other stuff will appear here later. If I ever finish this.
+
+[Test](mermaid.md)
