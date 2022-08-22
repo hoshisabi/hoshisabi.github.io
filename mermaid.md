@@ -1,6 +1,15 @@
+---
+title: "A Test Page to Demo Mermaid Syntax"
+tags: Mermaid
+mermaid: true
+---
+
 # Testing mermaid syntax
 
+
 Ignore below this line:
+
+<div class="mermaid">
 
 ```mermaid
 graph TD;
@@ -44,3 +53,5 @@ graph TD;
         Done-->Finale
     end
 ```
+
+</div>
