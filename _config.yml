@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
+title: Hoshisabi's Projects
+description: Various projects being worked on by Daniel E. Chapman II
 plugins:
   - jekyll-mermaid
