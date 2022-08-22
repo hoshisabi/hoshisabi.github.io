@@ -9,8 +9,6 @@ mermaid: true
 
 Ignore below this line:
 
-<div class="mermaid">
-
 ```mermaid
 graph TD;
     CTA[Call to Action: Summoned to Basht]
@@ -53,5 +51,3 @@ graph TD;
         Done-->Finale
     end
 ```
-
-</div>
