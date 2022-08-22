@@ -3,21 +3,7 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="D:\Users\decha\Downloads\DC-PoA List and Story Seeds Used - By Title.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="D:\Users\decha\Downloads\SJ-DC List and Story Seeds Used - By Title.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="D:\Users\decha\Downloads\WBW-DC List and Story Seeds Used - By Title.csv">
+        <entry key="\_data\DC-PoA List and Story Seeds Used - By Title.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -25,6 +11,20 @@
           </value>
         </entry>
         <entry key="\_data\DDALDM.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\_data\SJ-DC List and Story Seeds Used - By Title.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\_data\WBW-DC List and Story Seeds Used - By Title.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
