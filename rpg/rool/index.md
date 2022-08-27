@@ -3,6 +3,8 @@
 ### Location: in-person
 ### DM: Kate Hoff
 
+![](RoolPortrait.png)
+
 This is all placeholder information until I have time to type more.
 
 Rool is loosely based on the brownies from the movie Willow.
