@@ -10,4 +10,4 @@ and was changed as a result. Will eventually be rebuilding him as a Changeling, 
 legal characters to play.
 
 * [Character Sheet](https://ddb.ac/characters/70700295/cYe5ce)
-* [Notes So Far]()
+* [Notes So Far](notes.md)
