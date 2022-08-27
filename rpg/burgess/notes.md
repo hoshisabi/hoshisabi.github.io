@@ -17,7 +17,7 @@ Everyone competed in games of skill
 
 Went to bubble teapot (and got a packet of scatterleaf tea)
 
----
+----
 
 05/07/22
 
@@ -48,7 +48,8 @@ mirror also showed us aging from youth to death
 
 Went through the portal, ended up on a highway, climbed down a long ladder with footholds
 ended up in a swampy region, saw in the distance a hot air balloon start to come down in the distance
----
+
+----
 
 05/21/22
 
@@ -95,6 +96,7 @@ tried to sneak around and tossed a torch into a skiff
 ended session there.
 
 ----
+
 05/21/22
 
 through combination of stealth, magic facepaint, and pixie dust we snuck into the village of the brigands
@@ -108,7 +110,8 @@ Found a building being set o nfire by animated coals, we helped the bullywug nob
 Then ran into Clapperclaw, a strange creature with lobster claws and a gourd head, who asked us to help him find his original head which was being held by Bavlorna, he joined us
 Then talked to the king, told him that we were looking for Bavlorna and could help him he was reading Bavlorna's Big Book of Blood
 Took us to get attired in courtly garb (swamp stained, etc)
----
+
+----
 
 06/04/22
 
@@ -147,7 +150,8 @@ Let the campestri free
 Returned head to Clapperclaw, who agreed to lead us to thither
 talked to Bavlorna about returning our guide's skull as a form of payment to him, so that's where we got his missing head
 
----
+----
+
 07/09/2022
 
 moved to the next realm, came upon a cave and a tree with parchment nailed to the tree, parchment was a wanted poster for "sorry wretch" and reward was ten years of your youth
@@ -174,6 +178,7 @@ Returned paintings to Bavlorna
 She was happy, but she said her sister will be furious
 She had me prick my finger to test the magic
 She then pricked her finger and it worked as expected
+
 ----
 
 08/20/2022
