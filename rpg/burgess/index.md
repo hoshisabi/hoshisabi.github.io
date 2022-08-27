@@ -9,5 +9,5 @@ A variant human, representing a human that was lost in the Feywild for an extend
 and was changed as a result. Will eventually be rebuilding him as a Changeling, now that those are
 legal characters to play.
 
-* [Character Sheet](https://ddb.ac/characters/9641230/D1bmA5)
+* [Character Sheet](https://ddb.ac/characters/70700295/cYe5ce)
 * [Notes So Far]()
