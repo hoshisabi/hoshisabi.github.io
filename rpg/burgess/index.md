@@ -3,6 +3,8 @@
 ### Location: online, pandodnd discord
 ### DM: John Rogers
 
+![](BurgessPortrait.png)
+
 Burgess needs more information here, just typing placeholders.
 
 A variant human, representing a human that was lost in the Feywild for an extended period of time 
