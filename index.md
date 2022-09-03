@@ -3,7 +3,7 @@
 Hello! My name is Dan Chapman and I am working on a variety of tasks in order to avoid ever finishing one, but chances are
 if you're coming here you managed to find one of the rare finished tasks.
 
-* Are you interested in my [Adventures](adventures.md)? 
+* Are you interested in my [Adventures](adventures.md)?
 * Are you interested in joining a session of the games I run at [Pando DND](http://pandodnd.com)?
 * Looking to contact me on [Twitter](https://twitter.com/hoshisabi)?
 
