@@ -1,5 +1,7 @@
 # Hoshisabi's Projects
 
+![](media/oldpicture.jpg)
+
 Hello! My name is Dan Chapman and I am working on a variety of tasks in order to avoid ever finishing one, but chances are
 if you're coming here you managed to find one of the rare finished tasks.
 
