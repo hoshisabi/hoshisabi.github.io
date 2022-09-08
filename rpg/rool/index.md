@@ -19,4 +19,6 @@ But so far, nothing he's tried has given him that.
 That may change now that he's been introduced to actual adventurers.
 
 * [Character Sheet](https://ddb.ac/characters/73151462/6veXru)
-* [Notes So Far](The%20Wild%20Beyond%20The%20Witchlight%20Session%200%20%5BD&D%5D.pdf)
+* Session notes
+  * [Session 0](session_notes/The%20Wild%20Beyond%20The%20Witchlight%20Session%200%20%5BD&D%5D.pdf)
+  * [Session 1](session_notes/The%20Wild%20Beyond%20The%20Witchlight%20Session%200%20%5BD&D%5D.pdf)
