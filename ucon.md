@@ -1,11 +1,17 @@
 # U-Con Gaming Convention
-![](media/gather_for_ucon.png)
 
-## We are coming together to play in person again!
+[<img src="media/gather_for_ucon.png" width="250"/>](media/gather_for_ucon.png)
 
-If you have volunteered to be a DM already, I'll be keeping track of things here. There is still time to get 
-your events listed, so if you're still interested please sign up with the form below. You can, of course, 
-also volunteer with U-Con directly if you'd like to run something not AL related or even not D&D Related! :)
+## Thank You For Accompanying Us On This Expedition!
 
-[Volunteer to DM for Adventurers League](https://forms.gle/H1M2TM6JHH1oG4c38)  (event submission open until September 15th)
+Thank you for attending the Adventurers League portion of U-Con, no matter whether you ran a game or if 
+you played a game, you were a necessary
+component for us to make sure everything happened.
 
+Look at this site for a survey where you can leave feedback about what worked, what didn't work, 
+and what you might like to see in the future!
+
+Also look here for links to purchase any of the adventures that were run at U-Con, along with
+a discount for any adventure that I might be able to give!
+
+I look forward to seeing you next year and hopefully for many many years to come!
