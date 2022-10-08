@@ -1,6 +1,7 @@
 # U-Con Gaming Convention
 
-[<img src="media/gather_for_ucon.png" width="250"/>](media/gather_for_ucon.png)
+![](media/ucon-banner.png)
+
 
 ## Thank You For Accompanying Us On This Expedition!
 
@@ -15,3 +16,5 @@ Also look here for links to purchase any of the adventures that were run at U-Co
 a discount for any adventure that I might be able to give!
 
 I look forward to seeing you next year and hopefully for many many years to come!
+
+[<img src="media/gather_for_ucon.png" width="250"/>](media/gather_for_ucon.png)
