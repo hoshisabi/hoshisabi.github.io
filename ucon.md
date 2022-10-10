@@ -25,9 +25,9 @@ I'm going to post more information about discounts, how to volunteer for future 
 how to get information about Adventurers League... But not yet, today I am most likely going
 to go to sleep.
 
-But in the meantime, feel free to contact me on [https://twitter.com/hoshisabi](Twitter) or 
-[https://www.facebook.com/hoshisabi](Facebook).
+But in the meantime, feel free to contact me on [Twitter](https://twitter.com/hoshisabi) or 
+[Facebook](https://www.facebook.com/hoshisabi).
 
-In addition, you can get information about our local playgroup at [pandodnd.com](PandoDnD)
-or on our [https://discord.gg/4x7p2NPs4Q](Discord).
+In addition, you can get information about our local playgroup at [PandoDnD](pandodnd.com)
+or on our [Discord](https://discord.gg/4x7p2NPs4Q).
 
