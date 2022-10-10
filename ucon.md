@@ -18,3 +18,16 @@ a discount for any adventure that I might be able to give!
 I look forward to seeing you next year and hopefully for many many years to come!
 
 [<img src="media/gather_for_ucon.png" width="250"/>](media/gather_for_ucon.png)
+
+## Contact Dan
+
+I'm going to post more information about discounts, how to volunteer for future U-Cons,
+how to get information about Adventurers League... But not yet, today I am most likely going
+to go to sleep.
+
+But in the meantime, feel free to contact me on [https://twitter.com/hoshisabi](Twitter) or 
+[https://www.facebook.com/hoshisabi](Facebook).
+
+In addition, you can get information about our local playgroup at [pandodnd.com](PandoDnD)
+or on our [https://discord.gg/4x7p2NPs4Q](Discord).
+
