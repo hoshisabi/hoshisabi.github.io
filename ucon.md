@@ -28,6 +28,6 @@ to go to sleep.
 But in the meantime, feel free to contact me on [Twitter](https://twitter.com/hoshisabi) or 
 [Facebook](https://www.facebook.com/hoshisabi).
 
-In addition, you can get information about our local playgroup at [PandoDnD](pandodnd.com)
+In addition, you can get information about our local playgroup at [PandoDnD](http://pandodnd.com)
 or on our [Discord](https://discord.gg/4x7p2NPs4Q).
 
