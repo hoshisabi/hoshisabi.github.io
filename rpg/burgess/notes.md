@@ -363,3 +363,16 @@
 * Moved around the balcony to the remaining door
   * A spectral hand pushed me over the balcony onto the orrery and nearly died
   * Returned upstairs and Kizz saw that there was a glyph that protected the door
+* We left to go get either the cat or the horn, and leveled up at this time
+* Went to go get cat
+  * Kizz had a divination spell to find cat `hold breath, in cupboard`
+  * We followed the instructions, stealthed inside
+  * We grabbed a Lornling, grappled him
+  * Then we captured the cat inside a cupboard that a prismatic pattern incpacitated
+* Went to go get the horn
+  * snuck past redcaps to kitchen door
+  * tried to search the kitchen, but cradlefall the dragon woke up
+  * fought the dragon, managed to kill it
+* Went to a room, found an eyeball, a clockwork toad, and a quill that makes its own ink
+
+Called it an evening at that point.
