@@ -298,9 +298,9 @@
   * Eventually get to the mine, statues outside, hear sounds of hundreds of pickaxes
   * fell asleep in the mine
   * woke up tied down like gulliver from gulliver's travellers
-  * human in the midst named molliver
+  * human in the midst named Molliver
   * they think that the korreds work for creeping lynn as well
-  * we convinced molliver that korreds weren't working with her either
+  * we convinced Molliver that korreds weren't working with her either
   * he had us untied and escorts us through an illusionary wall
 * We come to a bridge with 3 flaming skulls
   * they attacked until we rushed past them
@@ -320,13 +320,13 @@
 * Removed rocks and snuck through
 * Found a marionette that was tangled up in the strings
 * we're in the storage room for endolin's theater
-  * they're rehearsing for a play, perhaops "A village no more," green dragon
+  * they're rehearsing for a play, perhaps "A village no more," green dragon
   * they dont trust the lead actor, since he casts no shadow
 * marionette was interested in being accompanied out, would be willing to guide us around
 * could possibly move about just put on a performance
 * went upstairs, found a rehearsal attended by many unhappy darklings
   * saw goblin directing a tiefling
-* saw burly behind the stage, the missing bugbear frmo the carnival
+* saw burly behind the stage, the missing bugbear from the carnival
 * saw lots of unhappy performers
 * will be doing a performance with lines from stagefright
 * did performance
@@ -433,5 +433,18 @@ Called it an evening at that point.
 * On our way out of Thither, we run into the treehouse with the Treant
   * Run into Elkhorn
   * He said if we are going to the palace, he'd like to go with us
+* Bargained with Endolyn gave her the dollhouse and the stuffed cat
+  * We got Hurley's shadow and freedom
+  * We got my lost thing back, which was a wand of smiles
+  * She would not give us the lost sister (Glister) for the dollhouse
+* We went outside and had a long discussion about our options
+  * We could either sneak up to the bell and ring it, but we'd leave behind the companions
+    * We would also be visible, and if we took the horn risk losing it
+  * We could cause chaos and summon the brigganocks and korreds and free prisoners
+    * If we made sure lots of chaos happened around us, we might avoid being noticed
+    * We could get Glisten which would allow us to return her to Gleam, which would het Amidor to guide us
+* We decided to free prisoners/slaves and get Amidor to help us
+  * We were caught almost immediately by Skylla/Charmay who animated objects to attack us
+  * fought her and knocked her unconscious, took her stuff and got some items from the goblins
   * 
 
