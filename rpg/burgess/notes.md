@@ -6,8 +6,9 @@
 * Found a young boy, and then Talked to Dirlagun about her lost cub, gave us a mirrored ball to see if we could find her
 * Went to carousel and found sayings on them, painted missing names, got telepathic hints for later:
   * Bavlorna Blightshaw has some items, allergic to running widdershins
-  * Skabitha, lives in a dollhouse, can't remember teh first creature she sees every day
-  * In possession of Endolin Moongrave, who lives in a mountain top theater, told hag has forseen her own death that only happens during an eclipse. (my item)
+  * Skabitha, lives in a dollhouse, can't remember thh first creature she sees every day
+  * In possession of Endolin Moongrave, who lives in a mountain top theater, told hag has forseen her own death that 
+    only happens during an eclipse. (my item)
 * Everyone competed in games of skill 
 * Went to bubble teapot (and got a packet of scatterleaf tea)
 
@@ -78,9 +79,12 @@
 * fae bargain
 * went to downfall past the bullwugs and they suggested we talk to the nobles
 * walked across boulders, one of htem took offense, "Flint", so Martauq sang an apology to him and we crossed
-* Found a building being set o nfire by animated coals, we helped the bullywug noble who was fighting them and he gave us a medal to help with talking to the king
-* Then ran into Clapperclaw, a strange creature with lobster claws and a gourd head, who asked us to help him find his original head which was being held by Bavlorna, he joined us
-* Then talked to the king, told him that we were looking for Bavlorna and could help him he was reading Bavlorna's Big Book of Blood
+* Found a building being set on fire by animated coals, we helped the bullywug noble who was fighting them and he gave 
+  us a medal to help with talking to the king
+* Then ran into Clapperclaw, a strange creature with lobster claws and a gourd head, who asked us to help him find his 
+  original head which was being held by Bavlorna, he joined us
+* Then talked to the king, told him that we were looking for Bavlorna and could help him he was reading 
+  Bavlorna's Big Book of Blood
 * Took us to get attired in courtly garb (swamp stained, etc)
 
 ----
@@ -126,14 +130,17 @@
 
 # 07/09/2022
 
-* moved to the next realm, came upon a cave and a tree with parchment nailed to the tree, parchment was a wanted poster for "sorry wretch" and reward was ten years of your youth
+* moved to the next realm, came upon a cave and a tree with parchment nailed to the tree, parchment was a wanted poster 
+  for "sorry wretch" and reward was ten years of your youth
 * went to the cave, saw man spinning gold while blindfolded, he directed us towards granny nightshade
-* Met a campestri dipping his cap into a pan of boiling butter, waiting for his friend so that he would have dinner together (Carpenter and Walrus?)
+* Met a campestri dipping his cap into a pan of boiling butter, waiting for his friend so that he would have 
+  dinner together (Carpenter and Walrus?)
 * goblin returned, explained that there was a candy merchant in loomlurch
 * acesis made food + water to bargain with goblin to not eat campestri
 * took a long rest by the campfire of the goblin
 * we travelled further, as we got closer to a lake, we found that the path would prevent us from moving closer
-* found another poster: "This rapscallion vexes me. Deliver him to me alive and unharmed, and I’ll curse one creature whom you name.”
+* found another poster: "This rapscallion vexes me. Deliver him to me alive and unharmed, and I’ll curse one creature 
+  whom you name.”
 * Encountered a dryad and animated shrubs
 * they attacked, we fought, talked her into not continuing
 * she thought we were mercenaries from hag for toyshop, or to catch will
@@ -190,14 +197,14 @@
 * Travelled along the river towards the lake
   * Could not stealth past the ward
   * Got down on hands and knees and draped a cloak over my back and put a stick on my forehead to "masquerade" as a unicorn
-* Will's plan is that we distract skabitha
+* Will's plan is that we distract Skabitha
   * Will's group will cause a distraction that will free us to free the kids
   * We return the kids to the unicorn
 * Lit coals, unicorn appeared, crossed lake to talk to her
   * She agreed to guard the kids and help any that were hurt
 * While talking to the unicorn we were attacked by half-orc Zarak
   * Managed to defeat him, he agreed to not attack unicorn anymore as a pact
-  * He told us about his adventuring party, scocerer kelek and warduke etc
+  * He told us about his adventuring party, Sorcerer Kelek and Warduke etc
 * Distracted Skabitha until Will could move into place
   * Told her that Kelek and Zarak were coming to steal power
   * Told them that they had intended to take Zybilna's place
@@ -208,7 +215,8 @@
 # 2022/09/03
 
 * Since there was still a kid left over, we decided to repeat old plan,
-* Sneak into side door, have someone with mage hand open the door, when I see if it's clear I then signal that people can come into the next spot
+* Sneak into side door, have someone with mage hand open the door, when I see if it's clear I then signal that people 
+  can come into the next spot
 * Snuck in succesfully, did a telepathic link to girl, woke her up
 * sleeping dragon in the room
 * Girl askedd about rescuing dwarf in a pit with a grate, unlock the grate and let him out
@@ -272,10 +280,12 @@
 * came upon a small girl flying a kite with a horrible face
   * she cannot stop flying the kite or there is a curse
   * curse comes from the five blue bows on the string
-  * tried to undo the bow, but the kite seems to be blown about by the wind that is somehow connected to the girl's mood, so perhaps we could make it so that the goblin child is less tired
+  * tried to undo the bow, but the kite seems to be blown about by the wind that is somehow connected to the girl's 
+    mood, so perhaps we could make it so that the goblin child is less tired
   * the two shadows that follow us were her parents shadows, they upset her and wind got worse
   * endolyn removed her parents shadows and caused them to have to work for her
-  * we talked to the girl convinced her that we would help, with that the wind died down and we were able to untie the bow from the kite
+  * we talked to the girl convinced her that we would help, with that the wind died down and we were able to untie the 
+    bow from the kite
 * came upon a game board and a dying fire
   * could make one move to win the game
   * made that move
@@ -337,7 +347,7 @@
   * She didn't want to make problems for "Bitter End" which turns out to be Endolin
   * Bitter End's scissors are how to re-attach shadows
   * Upstairs is the prison, to get there need the fool's scepter (Stagefright)
-  * Sharmay is a special guest of Endolin, League of Something (we have met the league of malevolence)
+  * Charmay is a special guest of Endolin, League of Something (we have met the league of malevolence)
   * The darkling elder returns to guide us up to Endolin
   * He took us upstairs where we saw a strange contraption
 * We met with Endolin
@@ -347,18 +357,27 @@
   * Asked if she would restore Hurley's shadow to him as a favor for the play
   * She cut the shadow from Fig to show Acesis
 * Explored the area afterwards, walked around Orrery
-* Found Trinket Bauble and 
+* Found Trinket Bauble and Charm
   * Asked about sovereign glue but they didn't know about it
 * Found a metal contraption on the balcony upstairs
 * Went to the north, found a desk with flying papers and a cage filled with animated folded paper birds
-  * Climbed on desk and the ceiling had boards that when moved showed a bell that said `Toll the bell within this spire / To journey to your heart’s desire. ` 
+  * Climbed on desk and the ceiling had boards that when moved showed a bell that said 
+    `Toll the bell within this spire / To journey to your heart’s desire. ` 
   * Opened one and it said:
-      `My darling Bav,Skab had the horn but either lost it or forgot where she hid it. Her head is so full of cobwebs. Imagine what she’ll be like when she’s senile.Your favorite sister, End`
+      `My darling Bav, Skab had the horn but either lost it or forgot where she hid it. Her head is so full of cobwebs. 
+       Imagine what she’ll be like when she’s senile.Your favorite sister, End`
   * Opened another and it said:
-      `Lord Kelek, I have written a new play titled The Agonies of Alagarthas. It’s a tragic tale inspired by real-life misfortune that I think you might enjoy. You and the other members of the League of Malevolence are invited to Motherhorn to watch a live performance. Your missing colleague, Skylla, has been my guest for some time, but I’m afraid she has worn out her welcome. In exchange for my generosity, I’m hoping you can take her off my hands.Until our next meeting,Endelyn `
+      `Lord Kelek, I have written a new play titled The Agonies of Alagarthas. It’s a tragic tale inspired by real-life 
+       misfortune that I think you might enjoy. You and the other members of the League of Malevolence are invited to 
+       Motherhorn to watch a live performance. Your missing colleague, Skylla, has been my guest for some time, but I’m 
+       afraid she has worn out her welcome. In exchange for my generosity, I’m hoping you can take her off my hands.
+       Until our next meeting, Endelyn `
   * Opened another letter:
-      `Dearest Skab, Mummy’s little warlock spy was happy to betray her companions and reveal that Kelek, Zargash, and the others are conspiring to betray us. But fear not. Their plots will not succeed. Even now, an outside force promises to rid us of the whole stinking lot. What’s important is that the Cauldron remain safe. Let me know how you wish to proceed.Your beloved sister, End `
-  * Charmay is a warlock of baba yaga, the league of malevolence are the other characters mentioned, the 
+      `Dearest Skab, Mummy’s little warlock spy was happy to betray her companions and reveal that Kelek, Zargash, and 
+       the others are conspiring to betray us. But fear not. Their plots will not succeed. Even now, an outside force 
+       promises to rid us of the whole stinking lot. What’s important is that the Cauldron remain safe. Let me know how 
+       you wish to proceed.Your beloved sister, End `
+  * Charmay is a warlock of Baba Yaga, the league of malevolence are the other characters mentioned, the 
   * play is about the elf we met that tried to put out the beacons
 * Moved around the balcony to the remaining door
   * A spectral hand pushed me over the balcony onto the orrery and nearly died
@@ -368,11 +387,51 @@
   * Kizz had a divination spell to find cat `hold breath, in cupboard`
   * We followed the instructions, stealthed inside
   * We grabbed a Lornling, grappled him
-  * Then we captured the cat inside a cupboard that a prismatic pattern incpacitated
+  * Then we captured the cat inside a cupboard that a prismatic pattern incapacitated
 * Went to go get the horn
   * snuck past redcaps to kitchen door
-  * tried to search the kitchen, but cradlefall the dragon woke up
+  * tried to search the kitchen, but Cradlefall the dragon woke up
   * fought the dragon, managed to kill it
 * Went to a room, found an eyeball, a clockwork toad, and a quill that makes its own ink
 
 Called it an evening at that point.
+
+----
+
+# 2022/11/19
+
+* Continued upstairs and found Skabitha's bedroom, with a dollhouse, jar of moths, a cradle
+  * dollhouse is fully enclosed, no open back or anything like that
+  * tried to unlock the attic, but it did not seem to have a lock
+  * front door requires a tiny creature to open
+* room to the north is just a balcony
+* to the south is a room with notes and clockwork birds
+  * searched the writing desk
+  * Opened note: 
+    `Sister, I don’t have Elidon’s horn. If I did, I would use it to free Bloodybeak and send it after the jabberwock 
+     that lairs in the palace and hunts in your forest. No matter what Endelyn says, that burbling beast of a dragon is 
+     a threat to our coven and our three realms. How Zybilna managed to befriend it, I’ll never know! Maybe we should 
+     ask her—ha ha.Much love, Lorna`
+  * Opened another note:
+    `Lovely Skab, The last time I saw the unicorn horn, it was in your possession. Pity you lost it. But fret not! I 
+     have gazed into the Orrery of Tragedies, and it has revealed to me that Elidon’s horn will be found. If worse 
+     comes to worst, recall that Elidon’s mate still dwells in your forest. You could kill Lamorna and take her 
+     horn—assuming, of course, you’re not too busy making toys.Your darling sister, End`
+  * Opened third note:
+    `Dear Sister, There’s no use asking Endelyn if she has the horn. She doesn’t tell us anything! But if we don’t find 
+     it soon, I fear what the jabberwock will do after it gets tired of prowling the forest and turns its fiery gaze 
+     elsewhere. Gods’ bodkins, that thing gives me nightmares! Must I remind you that we need a unicorn’s horn to free 
+     creatures from the cauldron’s time-freezing magic? It’s not enough to know their true names, you know. Of course, 
+     my greater concern is that someone else finds the horn and uses it for exactly that purpose. What do you think 
+     Zybilna will do to us, we treacherous three, if she’s no longer bound by her cauldron’s magic?
+     Your beloved sister, Lorna`
+* Returned to the room with the dollhouse, tied the dollhouse up when we heard sound
+  * Put the dollhouse in a bag, heard screeching, so shook the dollhouse and started to run
+  * Got to the kitchen
+  * Used pixie dust to fly to the south
+  * Found some redcaps in the way, killed them off, flew away
+* On our way out of Thither, we run into the treehouse with the Treant
+  * Run into Elkhorn
+  * He said if we are going to the palace, he'd like to go with us
+  * 
+
