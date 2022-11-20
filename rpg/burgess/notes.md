@@ -416,7 +416,7 @@ Called it an evening at that point.
     `Lovely Skab, The last time I saw the unicorn horn, it was in your possession. Pity you lost it. But fret not! I 
      have gazed into the Orrery of Tragedies, and it has revealed to me that Elidon’s horn will be found. If worse 
      comes to worst, recall that Elidon’s mate still dwells in your forest. You could kill Lamorna and take her 
-     horn—assuming, of course, you’re not too busy making toys.Your darling sister, End`
+     horn—assuming, of course, you’re not too busy making toys. Your darling sister, End`
   * Opened third note:
     `Dear Sister, There’s no use asking Endelyn if she has the horn. She doesn’t tell us anything! But if we don’t find 
      it soon, I fear what the jabberwock will do after it gets tired of prowling the forest and turns its fiery gaze 
@@ -446,5 +446,12 @@ Called it an evening at that point.
 * We decided to free prisoners/slaves and get Amidor to help us
   * We were caught almost immediately by Skylla/Charmay who animated objects to attack us
   * fought her and knocked her unconscious, took her stuff and got some items from the goblins
-  * 
+* We summoned brigganocks/korreds
+  * darklings were kept busy by the invaders
+  * Stagefright was constrained by the ropes from the korreds
+  * he was offered quarter if he gave up the scepter, which he did
+* We ran up to the prison with the scepter, we were able to use it to open the door
+  * We freed Glisten and intend to head back to the entrance to meet back up with the companions
+
+We ended it here.
 
