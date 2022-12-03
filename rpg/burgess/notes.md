@@ -455,3 +455,30 @@ Called it an evening at that point.
 
 We ended it here.
 
+----
+
+# 2022/11/19
+
+* We started with the prison escape
+* Got a book that is _____, Glister suggested kissing the frog, which had it say the name of the book in Elvish
+* We fought Endelyn and managed to kill her without creating an eclipse
+  * She disappeared in a smoke and is probably not killed
+* We reunited with the NPCs, Amidor was willing to take us
+  * We discussed the possibility of going upstairs to the belfry to ring the bell to maybe teleport to palace?
+* We returned inside and saw the ornithopter and talked about riding it back up to the belfry, but only can take 1
+* When we ring hte bell in the belfry flock of giant cranes appeared, one for each of us
+* We ended up in the palace of heart's desire
+* `The lion or the hart must wear the crown but which one should it weigh down?` engraved on the gate
+* inside gate was a pavillion we heard noises from, party
+  * Inside was a talking brown bear, a human carrying a pumpkin, an elf, 
+    a dwarf missing the head, and another human noble. Frozen are a halfling and a female orc.
+    They're all arguing on whether clotted cream should be applied to a scone before or after jam
+* Picked and ate a golden apple, carried one with us, gave me a bonus to wisdom saving throws (?)
+* The water in the fountain didn't move, felt doughy, resumed moving when taken out
+* The rose garden had ettercaps in it that didn't talk attacked familiar and warned us
+  * There was a satyr in the middle with a vine around it with roses
+  * black, blue, green, red, and white
+* Went to the pond, Acesis caught a firefly, touched the water, a humanoid figure made of black fish 
+  * held up a silver crown. picked it up, made of needles
+  * Head a voice in my head: `The beginning of whenever//The end of ever after//The start of an age//The finale of every moment//The first in history`
+    * Answer probably `wrath` but where does it come into play, what does it mean?

@@ -31,4 +31,5 @@ That may change now that he's been introduced to actual adventurers.
   * [Session 08](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2008%202022-11-03%20%5BD&D%5D.pdf): [transcription]
   * [Session 09](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2009%202022-11-10%20%5BD&D%5D.pdf): [transcription]
   * [Session 10](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2010%202022-11-17%20%5BD&D%5D.pdf): [transcription]
+  * [Session 11](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2011%202022-12-01%20%5BD&D%5D.pdf): [transcription]
   
