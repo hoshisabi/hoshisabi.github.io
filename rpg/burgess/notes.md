@@ -446,6 +446,7 @@ Called it an evening at that point.
 * We decided to free prisoners/slaves and get Amidor to help us
   * We were caught almost immediately by Skylla/Charmay who animated objects to attack us
   * fought her and knocked her unconscious, took her stuff and got some items from the goblins
+  * Iggwilv is the adopted daughter of Baba Yaga
 * We summoned brigganocks/korreds
   * darklings were kept busy by the invaders
   * Stagefright was constrained by the ropes from the korreds
@@ -482,3 +483,40 @@ We ended it here.
   * held up a silver crown. picked it up, made of needles
   * Head a voice in my head: `The beginning of whenever//The end of ever after//The start of an age//The finale of every moment//The first in history`
     * Answer probably `wrath` but where does it come into play, what does it mean?
+* Went into the one tower and saw a lion, lion said that his name was Envy
+  * Decided to not give the crown to envy
+* climbed the other wall and went in and found an iron hart named Wrath
+  * put the iron crown on Wrath, the crown turned into golden roses
+* Walked into the door with a hart symbol
+  * stairs going up, towers with lightning
+  * right hand stairs: `white coffer on a black basalt pedestal`
+* Walked to the left side door
+  * Short staircase going up to another tower
+  * inside we saw a enamaled black coffer on a pedstal of living vines
+  * a plum sized jewel that is the crystallized desire for zybilna to know what her enemies are planning
+* Went back to the first coffer opened it and it was a white plum sized gem
+  * Could not tell what the gem was with an insight check
+  * Acesis could tell that it was the desire to show kindness to the destitute
+* Spiral staircase led to a nondescript room that let us look out on the gardens below
+* Other spiral staircase led to a similar room
+* Went to the door to the far left
+  * The doors swing open to reveal a crystal carriage hitched to a pair of glass statues shaped like pegasi. Folded silk butterfly wings are attached to the roof of the carriage
+* Each door has an alabaster pedestal
+  * Carved into the vase is "take one" in common
+  * white roses on the rug, white roses in the vases
+  * Running the length of this oblong room is a rug woven with images of thorny white roses. Each of the doors on the 
+    north and south walls has an alabaster pedestal standing inside the room beside it. Atop each pedestal is an 
+    alabaster vase that holds several long-stemmed white roses. Carved into the vase are the words “Take one” in Common.
+  * Rug attacked as I crossed to get one of the roses from the other side
+* Green coffer, green plum sized crystal on staircase up
+* Strongheart the paladin is floating in midair frozen in time
+* Found a changing room
+* Found a pool
+* Found the ballroom with the Jabberwock, stealtehd in but woke the jabberwock
+  * Distracted it and ran like crazy to distract it while others would be able to try and free things
+  * Got clipped by the jabberwock, nearly died (4hp remaining)
+  * They managed to free Ringlerun, whose cone of cold went off
+  * managed to escape to the pavilion
+  * they freed Mercion
+
+We finished trying to find the true name of Zybilna
