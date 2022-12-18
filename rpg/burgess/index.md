@@ -2,6 +2,7 @@
 ## Campaign: Wild Beyond the Witchlight 
 ### Location: online, pandodnd discord
 ### DM: John Rogers
+### (Finished)
 
 ![](BurgessPortrait.png)
 

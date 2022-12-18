@@ -461,7 +461,8 @@ We ended it here.
 # 2022/11/19
 
 * We started with the prison escape
-* Got a book that is _____, Glister suggested kissing the frog, which had it say the name of the book in Elvish
+* Got a book that is Tales of the Gloaming Court, Glister suggested kissing the frog,  
+  which had it say the name of the book in Elvish
 * We fought Endelyn and managed to kill her without creating an eclipse
   * She disappeared in a smoke and is probably not killed
 * We reunited with the NPCs, Amidor was willing to take us
@@ -500,7 +501,8 @@ We ended it here.
 * Spiral staircase led to a nondescript room that let us look out on the gardens below
 * Other spiral staircase led to a similar room
 * Went to the door to the far left
-  * The doors swing open to reveal a crystal carriage hitched to a pair of glass statues shaped like pegasi. Folded silk butterfly wings are attached to the roof of the carriage
+  * The doors swing open to reveal a crystal carriage hitched to a pair of glass statues shaped like pegasi. Folded silk 
+    butterfly wings are attached to the roof of the carriage
 * Each door has an alabaster pedestal
   * Carved into the vase is "take one" in common
   * white roses on the rug, white roses in the vases
@@ -520,3 +522,43 @@ We ended it here.
   * they freed Mercion
 
 We finished trying to find the true name of Zybilna
+
+----
+
+# 2022/12/17
+
+* Did not have name, so decided to explore further
+  * Looked to see paladin frozen midair, so we explored to see if we can from above to save him
+* Went further to the right, saw a room with a frozen dwarf
+  * After freeing him, he offered Kizz a chance to copy from his spellbook
+* Went further and found a gargantuan bird stuck in a timeloop
+  * Could not free, did not know name, was behind iron bars
+* Went to another room found a malformed giant eating food
+* Went upstairs and Acesis picked up another gem (a red gem that hums faintly)
+  * Rolled insight and did not determine what part of Zybilna it was
+* Went up another staircase, floating 10' above us in that room is a banshee frozen mid-scream
+  * Outside of the room is Strongheart floating in midair
+  * Saw near strongheart, in a room nearby the paladin were two of the hags
+* Room with hatch, found bugbear inside that yelled, went further
+* Room flooded, sailboat floated into view
+* Turned around to go tell Ringlerun about seeing the hags outside of the area where Strongheart is at
+*   (stepped away): While away, found a weapon theoretically
+* Returned when they found a guest room
+* Door asked which was more important, intelligence or wisdom, anthony answered
+* Found room with two animal featured human hybrids who asked if we were important
+  * Acesis gave them a fair amount of information
+  * They did not know what the true name of Tasha was, but were looking for Zybilna and info
+  * Looked in mirror and didn't see it
+  * Chess game at the start of a game
+    * the chess pieces grumble when they get moved
+* final room in the boat region ended in a library with blank books and a quill
+  * acesis write on the title line of a book "Early life of Natasha" and the writing disappeared
+  * Tales of the Gloaming Court worked, could do two copies
+* Returned back to Zybilna and freed her with the name Natasha
+  * She told us that we can create a representation of an eclipse
+* Returned to the room with the heads that made sounds and made it say "baba yaga"
+* Teleported into the room with sisters, fought them endolyn disappeared, skabitha fought
+* Skabitha fled downstairs we saw the league of malevolence
+  * Warduke died, we got his stuff, Kelek disappeared, Skabitha disappeared, killed basilisks
+* Zybilna gave us one wish, Acesis picked resistance to necrotic damage
+* Ended campaign at that point.
