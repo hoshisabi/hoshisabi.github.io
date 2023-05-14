@@ -70,7 +70,7 @@
 
 ----
 
-# 05/21/22
+# 06/04/22
 
 * through combination of stealth, magic facepaint, and pixie dust we snuck into the village of the brigands
 * we were caught after we found our friends, we found the satyr wizard with them
@@ -89,7 +89,7 @@
 
 ----
 
-# 06/04/22
+# 06/18/22
   
 * Went to the pool which had been polluted
   * samuel found a gel cube inside
@@ -458,7 +458,7 @@ We ended it here.
 
 ----
 
-# 2022/11/19
+# 2022/12/03
 
 * We started with the prison escape
 * Got a book that is Tales of the Gloaming Court, Glister suggested kissing the frog,  
