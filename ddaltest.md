@@ -5,11 +5,11 @@ title: Table test
 <table class="sortable">
   {% for row in site.data.adventures %}
     {% if forloop.first %}
-    <tr>
+    <thead><tr>
       {% for pair in row %}
         <th>{{ pair[0] }}</th>
       {% endfor %}
-    </tr>
+    </tr></thead>
     {% endif %}
 
     {% tablerow pair in row %}
