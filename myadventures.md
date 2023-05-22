@@ -60,6 +60,13 @@ So far, all of my published adventures have been for Adventurers League.
   * A Four-Hour Adventure for Tier 2 characters (levels 5-10), optimized for APL 8.
   * A DungeonCraft adventure using the "Goat-Ball!" seed.
 
+## Ad Astra
+
+* [Lone Survivors][SJ-DC-DD-02] **SJ-DC-DD-02**
+  * A Four-Hour Adventure for Tier 1 Characters (levels 5-10), optimized for APL 3.
+  * The Ad Astra Series is a collaboration between experienced authors on the Dungeon Designers Discord, I was part of a larger team for this one.
+  * A horror adventure based on old science fiction horror movies and books, but with a D&D spin.
+
 [DC-POA-PND-Forsk]: https://www.dmsguild.com/product/369460/The-Strange-Case-of-Erland-Forsk-BUNDLE?affiliate_id=171040
 [CCC-UCON-02-01]: https://www.dmsguild.com/product/341178/CCCUCON0201-The-Goat-Mayor?affiliate_id=171040&src=hoshisabi
 [CCC-UCON-03]: https://www.dmsguild.com/product/341504/CCCUCON03-The-Straw-Bears?affiliate_id=171040&src=hoshisabi
@@ -70,3 +77,4 @@ So far, all of my published adventures have been for Adventurers League.
 [DC-POA-PND-3]: https://www.dmsguild.com/product/369336/The-Watcher-in-the-Attic-DCPOAPND3?affiliate_id=171040&src=hoshisabi
 [DC-POA-PND-4]: https://www.dmsguild.com/product/369347/DCPOAPND4-Eateat-Go-Home?affiliate_id=171040&src=hoshisabi
 [DC-POA-PND-5]: https://www.dmsguild.com/product/369349/What-Stalks-the-Night-DCPOAPND5?affiliate_id=171040&src=hoshisabi
+[SJ-DC-DD-02]: https://www.dmsguild.com/product/421749/SJDCDD02-Lone-Survivors?affiliate_id=171040&src=hoshisabi
