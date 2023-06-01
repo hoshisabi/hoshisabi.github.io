@@ -2,7 +2,7 @@
 title: Table test
 ---
 
-<table class="sortable">
+<table class="sortable" id="csv-table">
   {% for row in site.data.adventures %}
     {% if forloop.first %}
     <thead><tr>
