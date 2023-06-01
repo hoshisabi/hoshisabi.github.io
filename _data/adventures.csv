@@ -1,18 +1,18 @@
-CODE,TITLE,RUNTIME,LEVEL,EPIC,G.AD.,EBER,RMH
-CCC-3MAGS-01,Vormestrand's Scroll,7,1-4,,,,
-CCC-AETHER01-01,The Heir of Orcus: Verse I,2-4,1-4,,,,
-CCC-AETHER01-02,The Heir of Orcus: Verse II,4,1-4,,,,
-CCC-ALMOG-01,TALES01-01 What Lies Beneath,4,1-4,,,,
-CCC-ALMOG-03,TALES03-01 - Claws of Fury,4,11-16,,,,
-CCC-AMER-01,Asleep and Awake,4,1-4,,,,
-CCC-AN-01,Secrets of Golden Fire,4,1-4,,,,
-CCC-AN-02,The Wrathful Deity of Khurovogo,2,1-4,,,,
-CCC-AN-03,Winter Wonderland,4,5-10,,,,
-CCC-ANIME-1-1,Legend of the Sword Bandit,2,1-4,,,,
-CCC-ANIME-1-2,"Let's Find the Sword, Go!",2,5-10,,,,
-CCC-ANIME-1-3,"Star Sword, Return",2,5-10,,,,
-CCC-APL-01-01,It's Not Easy Being Gene,4,1-4,,,,
-CCC-BLD 1-0,Bleeding Gate: Supplementals,n/a,n/a,,,,
+CODE,TITLE,RUNTIME,LEVEL,EPIC,G.AD.,EBER,RMH,DMGuild
+CCC-3MAGS-01,Vormestrand's Scroll,7,1-4,,,,,https://www.dmsguild.com/product/260364/CCC3MAGSONE-Vormestrands-Scroll?affiliate_id=171040
+CCC-AETHER01-01,The Heir of Orcus: Verse I,2-4,1-4,,,,,https://www.dmsguild.com/product/258606/CCCAETHER0101-The-Heir-of-Orcus-Verse-I?affiliate_id=171040
+CCC-AETHER01-02,The Heir of Orcus: Verse II,4,1-4,,,,,https://www.dmsguild.com/product/258619/CCCAETHER0102-The-Heir-of-Orcus-Verse-II?affiliate_id=171040
+CCC-ALMOG-01,TALES01-01 What Lies Beneath,4,1-4,,,,,https://www.dmsguild.com/product/257958/CCCALMOG01-TALES0101-What-Lies-Beneath?affiliate_id=171040
+CCC-ALMOG-03,TALES03-01 - Claws of Fury,4,11-16,,,,,https://www.dmsguild.com/product/250115/CCCALMOG03-TALES0301-Claws-of-Fury?affiliate_id=171040
+CCC-AMER-01,Asleep and Awake,4,1-4,,,,,https://www.dmsguild.com/product/247005/CCCAMER01-Asleep-and-Awake?affiliate_id=171040
+CCC-AN-01,Secrets of Golden Fire,4,1-4,,,,,https://www.dmsguild.com/product/263173/CCCAN01-Secrets-of-Golden-Fire?affiliate_id=171040
+CCC-AN-02,The Wrathful Deity of Khurovogo,2,1-4,,,,,https://www.dmsguild.com/product/250006/CCCAN02-The-Wrathful-Deity-of-Khurovogo?affiliate_id=171040
+CCC-AN-03,Winter Wonderland,4,5-10,,,,,https://www.dmsguild.com/product/256915/CCCAN03-Winter-Wonderland?affiliate_id=171040
+CCC-ANIME-1-1,Legend of the Sword Bandit,2,1-4,,,,,https://www.dmsguild.com/product/236786/CCC--Anime--11-Legend-of-the-Sword-Bandit-Surprise?affiliate_id=171040
+CCC-ANIME-1-2,"Let's Find the Sword, Go!",2,5-10,,,,,https://www.dmsguild.com/product/236787/CCC--Anime--12-Lets-Find-the-Sword-GO?affiliate_id=171040
+CCC-ANIME-1-3,"Star Sword, Return",2,5-10,,,,,https://www.dmsguild.com/product/236788/CCC--Anime--13-Star-Sword-Return?affiliate_id=171040
+CCC-APL-01-01,It's Not Easy Being Gene,4,1-4,,,,,https://www.dmsguild.com/product/262265/CCCAPL0101-Its-Not-Easy-Being-Gene?affiliate_id=171040
+CCC-BLD 1-0,Bleeding Gate: Supplementals,n/a,n/a,,,,,
 CCC-BLD-0103,Bleeding Gate: Lineage,2,5-10,,,,
 CCC-BLD-11,Bleeding Gate: Pandemonium,2,1-4,,,,
 CCC-BLD-12,Bleeding Gate: Amalgamation,2,1-4,,,,
@@ -587,20 +587,20 @@ DDIA-MORD,Rrakkma,6-8,pregens (9),,,,
 DDIA-VOLO,In Volo's Wake,1,1-4,,,,
 DDIA-XGE,Underworld Speculation,Various,1-4,,,,
 DDIA06-SUNLESSCITADEL,The Sunless Citadel,Various,1-4,,,,
-RMH-01,The Final Curtain,3,1,,,,TRUE
-RMH-02,Back to the Front,3,3,,,,TRUE
-RMH-03,The Amber Dirge,3,4,,,,TRUE
-RMH-04,The Amber Secret,3,4,,,,TRUE
-RMH-05,Unexpected Hospitality,3,5,,,,TRUE
-RMH-06,Amber Reclamation,3,5,,,,TRUE
-RMH-07,The City Of Dreams,3,6,,,,TRUE
-RMH-08,The Palace Of Bones,3,6,,,,TRUE
-RMH-09,The Deadliest Game,3,6,,,,TRUE
-RMH-10,Scion Of Darkness,3,7,,,,TRUE
-RMH-11,Calling Upon the Dead,3,7,,,,TRUE
-RMH-12,Beneath the New Star,3,7,,,,TRUE
-RMH-EP-01,The Grand Masquerade,4,1,TRUE,,,TRUE
-RMH-EP-02,A Darklord's Denouement,4,8,TRUE,,,TRUE
+RMH-01,The Final Curtain,3,1,,,,
+RMH-02,Back to the Front,3,3,,,,
+RMH-03,The Amber Dirge,3,4,,,,
+RMH-04,The Amber Secret,3,4,,,,
+RMH-05,Unexpected Hospitality,3,5,,,,
+RMH-06,Amber Reclamation,3,5,,,,
+RMH-07,The City Of Dreams,3,6,,,,
+RMH-08,The Palace Of Bones,3,6,,,,
+RMH-09,The Deadliest Game,3,6,,,,
+RMH-10,Scion Of Darkness,3,7,,,,
+RMH-11,Calling Upon the Dead,3,7,,,,
+RMH-12,Beneath the New Star,3,7,,,,
+RMH-EP-01,The Grand Masquerade,4,1,TRUE,,,
+RMH-EP-02,A Darklord's Denouement,4,8,TRUE,,,
 DC-POA-A Dragon Heart,A Dragon Heart,4,,,,,
 DC-POA-AMAK01,My Loneliness is Killing You,4,,,,,
 DC-POA-AOT01-01,Counteroffer,4,,,,,
@@ -978,46 +978,46 @@ WBW-DC-THAL-01,Heartfire Lost,4,,,,,
 WBW-DC-THAL-02,Awakened Song,4,,,,,
 WBW-DC-TIC-01,Mushrooms and Malfunctions: A Journey into the Caverns,4,,,,,
 WBW-DC-TID-01,Witchlight Insecurity,4,,,,,
-WBW-DC-TLRMB-02,The Last Resort,2,,,,,
-WBW-DC-TMP-01,Buck Wild!,2,,,,,
-WBW-DC-TMP-02,Bucking the Trend,2,,,,,
-WBW-DC-TMP-03,The Buck Stops,2,,,,,
-WBW-DC-TREY-01,Mistress Taken!,4,,,,,
-WBW-DC-TRI-01,Strike a Pose,2,,,,,
-WBW-DC-TRI-02,Nothing Ventured,2,,,,,
-WBW-DC-TST-01,Color in Light,2,,,,,
-WBW-DC-UCON-01,The Party that Split,4,,,,,
-WBW-DC-UCON-02,Have You No Heart?,4,,,,,
-WBW-DC-VACONS-01,Welcome to Fablerise,2,,,,,
-WBW-DC-VMT-01,Tale As Old As Time,4,,,,,
-WBW-DC-VMT-02,Court of the Owl King,4,,,,,
-WBW-DC-WRT-00,Writer's Block,2,,,,,
-WBW-DC-ZEP-T1S1,Dragon-bard's Christmas Carol,2,,,,,
-WBW-DC-ZEP-T1S2,The Court of Zep,2,,,,,
-WBW-DC-ZEP-T1S3,Zep Sightseeing,2,,,,,
-WBW-DC-ZEP-T1S4,Mall of Zep,2,,,,,
-WBW-DC-ZEP-T2S1,Peekaboo,2,,,,,
-WBW-DC-ZEP-T2S2,Chimera Concoction,2,,,,,
-WBW-DC-ZEP-T2S3,Up Up and Away,2,,,,,
-WBW-DC-ZEP-T2S4,Hows the Weather Up There,2,,,,,
-WBW-DC-ZEP-T2S5,Off to the Races,2,,,,,
-WBW-DC-ZEP-T2S6,Formations of Fomorian,2,,,,,
-WBW-DC-ZEP-T2S7,Mazes and Magma,2,,,,,
-WBW-DC-ZEP-T2S8,Fate of Zep,2,,,,,
-WBW-DC-ZION-01,Anna's Embrace,4,,,,,
-WBW-DC-ZION-02,Alexander's Hand,4,,,,,
-WBW-DC-ZION-03,Noctis' Sacrifice,4,,,,,
-WBW-DC-ZODIAC-00,Luna Park,2,,,,,
-WBW-DC-ZODIAC-01,The Pied Piper and the Rat King,4,,,,,
-WBW-DC-ZODIAC-02,"Udder Chaos, The Holy Cowspiracy",4,,,,,
-WBW-DC-ZODIAC-03,Revenge of the Rakshasa,4,,,,,
-WBW-DC-ZODIAC-04,The Jade Hare,4,,,,,
-WBW-DC-ZODIAC-05,Fey With The Dragon Tattoo,4,,,,,
-WBW-DC-ZODIAC-06,Nightmare of the Naga,4,,,,,
-WBW-DC-ZODIAC-07,A Fey At The Races,4,,,,,
-WBW-DC-ZODIAC-08,The Golden Goats,4,,,,,
-WBW-DC-ZODIAC-09,Monkey Magic,4,,,,,
-WBW-DC-ZODIAC-10,Fey of a Feather,4,,,,,
-WBW-DC-ZODIAC-11,The Curious Incident of the Blink Dog in the Feywilds,4,,,,,
-WBW-DC-ZODIAC-12,Seven Hamurai,4,,,,,
-WBW-DC-ZODIAC-13,Familiar's Feast,4,,,,,
+WBW-DC-TLRMB-02,The Last Resort,2,,,,,,
+WBW-DC-TMP-01,Buck Wild!,2,,,,,,https://www.dmsguild.com/product/406987/Buck-Wild-WBWDCTMP01?affiliate_id=171040
+WBW-DC-TMP-02,Bucking the Trend,2,,,,,,https://www.dmsguild.com/product/407534/Bucking-the-Trend-WBWDCTMP02?affiliate_id=171040
+WBW-DC-TMP-03,The Buck Stops,2,,,,,,https://www.dmsguild.com/product/408280/The-Buck-Stops-WBWDCTMP03?affiliate_id=171040
+WBW-DC-TREY-01,Mistress Taken!,4,,,,,,https://www.dmsguild.com/product/408565/WBWDCTREY01-Mistress-Taken?affiliate_id=171040
+WBW-DC-TRI-01,Strike a Pose,2,,,,,,https://www.dmsguild.com/product/380172/WBWDCTRI01-Strike-a-Pose?affiliate_id=171040
+WBW-DC-TRI-02,Nothing Ventured,2,,,,,,https://www.dmsguild.com/product/380175/WBWDCTRI02-Nothing-Ventured?affiliate_id=171040
+WBW-DC-TST-01,Color in Light,2,,,,,,https://www.dmsguild.com/product/391503/Color-in-Light-WBWDCTST01?affiliate_id=171040
+WBW-DC-UCON-01,The Party that Split,4,,,,,,https://www.dmsguild.com/product/408590/The-Party-that-Split-WBWDCUCON01?affiliate_id=171040
+WBW-DC-UCON-02,Have You No Heart?,4,,,,,,https://www.dmsguild.com/product/408615/Have-You-No-Heart-WBWDCUCON02?affiliate_id=171040
+WBW-DC-VACONS-01,Welcome to Fablerise,2,,,,,,https://www.dmsguild.com/product/394544/WBWDCVACONS01-Welcome-to-Fablerise?affiliate_id=171040
+WBW-DC-VMT-01,Tale As Old As Time,4,,,,,,https://www.dmsguild.com/product/397352/WBWDCVMT01-Tale-As-Old-As-Time?affiliate_id=171040
+WBW-DC-VMT-02,Court of the Owl King,4,,,,,,https://www.dmsguild.com/product/408560/WBWDCVMT02-Court-of-the-Owl-King?affiliate_id=171040
+WBW-DC-WRT-00,Writer's Block,2,,,,,,https://www.dmsguild.com/product/407835/Writers-Block-WBWDCWRT00?affiliate_id=171040
+WBW-DC-ZEP-T1S1,Dragon-bard's Christmas Carol,2,,,,,,https://www.dmsguild.com/product/381765/WBWDCZEPT1S1-Dragonbards-Christmas-Carol--FANTASY-GROUNDS?affiliate_id=171040
+WBW-DC-ZEP-T1S2,The Court of Zep,2,,,,,,https://www.dmsguild.com/product/408626/WBWDCZEPT1S2-The-Court-of-Zep?affiliate_id=171040
+WBW-DC-ZEP-T1S3,Zep Sightseeing,2,,,,,,https://www.dmsguild.com/product/408629/WBWDCZEPT1S3-Zep-Sightseeing?affiliate_id=171040
+WBW-DC-ZEP-T1S4,Mall of Zep,2,,,,,,https://www.dmsguild.com/product/408637/WBWDCZEPT1S4-Mall-of-Zep?affiliate_id=171040
+WBW-DC-ZEP-T2S1,Peekaboo,2,,,,,,https://www.dmsguild.com/product/400440/WBWDCZEPT2S18-Feylost-in-Zep-Series?affiliate_id=171040
+WBW-DC-ZEP-T2S2,Chimera Concoction,2,,,,,,https://www.dmsguild.com/product/400440/WBWDCZEPT2S18-Feylost-in-Zep-Series?affiliate_id=171040
+WBW-DC-ZEP-T2S3,Up Up and Away,2,,,,,,https://www.dmsguild.com/product/400440/WBWDCZEPT2S18-Feylost-in-Zep-Series?affiliate_id=171040
+WBW-DC-ZEP-T2S4,Hows the Weather Up There,2,,,,,,https://www.dmsguild.com/product/400440/WBWDCZEPT2S18-Feylost-in-Zep-Series?affiliate_id=171040
+WBW-DC-ZEP-T2S5,Off to the Races,2,,,,,,https://www.dmsguild.com/product/400440/WBWDCZEPT2S18-Feylost-in-Zep-Series?affiliate_id=171040
+WBW-DC-ZEP-T2S6,Formations of Fomorian,2,,,,,,https://www.dmsguild.com/product/400440/WBWDCZEPT2S18-Feylost-in-Zep-Series?affiliate_id=171040
+WBW-DC-ZEP-T2S7,Mazes and Magma,2,,,,,,https://www.dmsguild.com/product/400440/WBWDCZEPT2S18-Feylost-in-Zep-Series?affiliate_id=171040
+WBW-DC-ZEP-T2S8,Fate of Zep,2,,,,,,https://www.dmsguild.com/product/400440/WBWDCZEPT2S18-Feylost-in-Zep-Series?affiliate_id=171040
+WBW-DC-ZION-01,Anna's Embrace,4,,,,,,https://www.dmsguild.com/product/408575/Annas-Embrace-WBWDCZION01?affiliate_id=171040
+WBW-DC-ZION-02,Alexander's Hand,4,,,,,,https://www.dmsguild.com/product/408577/Alexanders-Hand-WBWDCZION02?affiliate_id=171040
+WBW-DC-ZION-03,Noctis' Sacrifice,4,,,,,,https://www.dmsguild.com/product/408581/Noctis-Sacrifice-WBWDCZION03?affiliate_id=171040
+WBW-DC-ZODIAC-00,Luna Park,2,,,,,,https://www.dmsguild.com/product/382130/WBWDCZODIAC00-Luna-Park?affiliate_id=171040
+WBW-DC-ZODIAC-01,The Pied Piper and the Rat King,4,,,,,,https://www.dmsguild.com/product/382134/WBWDCZODIAC01-The-Pied-Piper-and-the-Rat-King?affiliate_id=171040
+WBW-DC-ZODIAC-02,"Udder Chaos, The Holy Cowspiracy",4,,,,,,https://www.dmsguild.com/product/382962/WBWDCZODIAC02-Udder-Chaos-The-Holy-Cowspiracy?affiliate_id=171040
+WBW-DC-ZODIAC-03,Revenge of the Rakshasa,4,,,,,,https://www.dmsguild.com/product/385999/WBWDCZODIAC03-Revenge-of-the-Rakshasa?affiliate_id=171040
+WBW-DC-ZODIAC-04,The Jade Hare,4,,,,,,https://www.dmsguild.com/product/390398/WBWDCZODIAC04-The-Jade-Hare?affiliate_id=171040
+WBW-DC-ZODIAC-05,Fey With The Dragon Tattoo,4,,,,,,https://www.dmsguild.com/product/394667/WBWDCZODIAC05-Fey-With-The-Dragon-Tattoo?affiliate_id=171040
+WBW-DC-ZODIAC-06,Nightmare of the Naga,4,,,,,,https://www.dmsguild.com/product/398496/WBWDCZODIAC06-Nightmare-of-the-Naga?affiliate_id=171040
+WBW-DC-ZODIAC-07,A Fey At The Races,4,,,,,,https://www.dmsguild.com/product/401770/WBWDCZODIAC07-A-Fey-At-The-Races?affiliate_id=171040
+WBW-DC-ZODIAC-08,The Golden Goats,4,,,,,,https://www.dmsguild.com/product/403162/WBWDCZODIAC08-The-Golden-Goats?affiliate_id=171040
+WBW-DC-ZODIAC-09,Monkey Magic,4,,,,,,https://www.dmsguild.com/product/405144/WBWDCZODIAC09-Monkey-Magic?affiliate_id=171040
+WBW-DC-ZODIAC-10,Fey of a Feather,4,,,,,,https://www.dmsguild.com/product/407212/WBWDCZODIAC10-Fey-of-a-Feather?affiliate_id=171040
+WBW-DC-ZODIAC-11,The Curious Incident of the Blink Dog in the Feywilds,4,,,,,,https://www.dmsguild.com/product/408430/WBWDCZODIAC11-The-Curious-Incident-of-the-Blink-Dog-in-the-Feywilds?affiliate_id=171040
+WBW-DC-ZODIAC-12,Seven Hamurai,4,,,,,,https://www.dmsguild.com/product/408439/WBWDCZODIAC12-Seven-Hamurai?affiliate_id=171040
+WBW-DC-ZODIAC-13,Familiar's Feast,4,,,,,,https://www.dmsguild.com/product/408563/WBWDCZODIAC13-Familiars-Feast?affiliate_id=171040
