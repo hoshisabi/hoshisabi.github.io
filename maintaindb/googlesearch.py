@@ -4,28 +4,23 @@ import time
 from bs4 import BeautifulSoup
 from urllib.parse import unquote
 
+exclude = "/search?"
+
 def search_dmsguild(keyword):
-    url = f'https://www.google.com/search?q={keyword}%20site:dmsguild.com'
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0;Win64) AppleWebkit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36'
     }
 
-    print(url)
-    return
-
-    time.sleep(2)  # Delay for 2 seconds between requests
-    response = requests.get(url, headers=headers)
+    time.sleep(1)  # Delay for 10 seconds between requests
+    response = requests.get("https://www.google.com/search", params={"q": f'{keyword} site:dmsguild.com'}, headers=headers)
     response.raise_for_status()
 
     soup = BeautifulSoup(response.text, 'html.parser')
     search_results = soup.find_all('a')
     for result in search_results:
         url = result.get('href')
-        if url.startswith('/url?q='):
-            url = url[7:]
-            url = unquote(url.split('&sa=')[0])
-            if 'dmsguild.com' in url:
-                return url
+        if url and 'www.dmsguild.com' in url:
+            return url
     return None
 
 def search_csv(csv_file):

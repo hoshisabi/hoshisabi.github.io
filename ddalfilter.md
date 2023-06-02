@@ -23,6 +23,7 @@ title: Table test
     const filterInput = document.getElementById('filter-input');
     const csvTable = document.getElementById('csv-table');
     const rows = csvTable.getElementsByTagName('tr');
+    const headers = Array.from(csvTable.getElementsByTagName('th'));
 
     filterInput.addEventListener('keyup', function () {
         const filterValue = this.value.toLowerCase();
@@ -34,7 +35,9 @@ title: Table test
 
             for (let j = 0; j < cells.length; j++) {
                 const cell = cells[j];
-                if (cell.innerHTML.toLowerCase().includes(filterValue)) {
+                const header = headers[j].innerText.toLowerCase();
+
+                if (cell.innerText.toLowerCase().includes(filterValue) && header !== 'dmguild') {
                     display = true;
                     break;
                 }
