@@ -12,7 +12,7 @@ CCC-ANIME-1-1,Legend of the Sword Bandit,2,1-4,,,,,https://www.dmsguild.com/prod
 CCC-ANIME-1-2,"Let's Find the Sword, Go!",2,5-10,,,,,https://www.dmsguild.com/product/236787/CCC--Anime--12-Lets-Find-the-Sword-GO?affiliate_id=171040
 CCC-ANIME-1-3,"Star Sword, Return",2,5-10,,,,,https://www.dmsguild.com/product/236788/CCC--Anime--13-Star-Sword-Return?affiliate_id=171040
 CCC-APL-01-01,It's Not Easy Being Gene,4,1-4,,,,,https://www.dmsguild.com/product/262265/CCCAPL0101-Its-Not-Easy-Being-Gene?affiliate_id=171040
-CCC-BLD 1-0,Bleeding Gate: Supplementals,n/a,n/a,,,,,
+CCC-BLD-1-0,Bleeding Gate: Supplementals,n/a,n/a,,,,,
 CCC-BLD-0103,Bleeding Gate: Lineage,2,5-10,,,,
 CCC-BLD-11,Bleeding Gate: Pandemonium,2,1-4,,,,
 CCC-BLD-12,Bleeding Gate: Amalgamation,2,1-4,,,,
@@ -964,21 +964,24 @@ WBW-DC-ROOK-3-3,The Rookery: The Crook in the Rook,4,,,,,
 WBW-DC-SO-01,The Labyrinth of Forgotten Memories,4,,,,,
 WBW-DC-SQT-01,Hollyphant Love Medley,4,,,,,
 WBW-DC-SSM-01,The Grimm Reality,4,,,,,
-WBW-DC-SUNLIT-04,Blank Stare,4,,,,,
-WBW-DC-SUNLIT-05,Travelogue,4,,,,,
-WBW-DC-SUNLIT-06,Township,4,,,,,
-WBW-DC-TAZ01,I Know What Ewe Did Midsummer,4,,,,,
-WBW-DC-TBLCMB-03,The Black Lily Contract,2,,,,,
-WBW-DC-TCW-AVG-1,Missing Yeux,4,,,,,
-WBW-DC-TCW-AVG-2,Unbreak the H'earth,4,,,,,
-WBW-DC-TEN-01,Two to Tengu,4,,,,,
-WBW-DC-TEN-02,Festival of Fyre,4,,,,,
-WBW-DC-TEN-03,The Tale of Korama,4,,,,,
-WBW-DC-THAL-01,Heartfire Lost,4,,,,,
-WBW-DC-THAL-02,Awakened Song,4,,,,,
-WBW-DC-TIC-01,Mushrooms and Malfunctions: A Journey into the Caverns,4,,,,,
-WBW-DC-TID-01,Witchlight Insecurity,4,,,,,
-WBW-DC-TLRMB-02,The Last Resort,2,,,,,,
+WBW-DC-SUNLIT-01,A Thief in the White,4,1-4
+WBW-DC-SUNLIT-02,Dug Too Deep?,4,1-4
+WBW-DC-SUNLIT-03,,
+WBW-DC-SUNLIT-04,Blank Stare,4,,,,,,https://www.dmsguild.com/product/383251/WBWDCSunlit04-to-06-Bundle?affiliate_id=171040
+WBW-DC-SUNLIT-05,Travelogue,4,,,,,,https://www.dmsguild.com/product/383251/WBWDCSunlit04-to-06-Bundle?affiliate_id=171040
+WBW-DC-SUNLIT-06,Township,4,,,,,,https://www.dmsguild.com/product/383251/WBWDCSunlit04-to-06-Bundle?affiliate_id=171040
+WBW-DC-TAZ01,I Know What Ewe Did Midsummer,4,,,,,,https://www.dmsguild.com/product/408253/I-Know-What-Ewe-Did-Midsummer-WBWDCTAZ01?affiliate_id=171040
+WBW-DC-TBLCMB-03,The Black Lily Contract,2,,,,,,https://www.dmsguild.com/product/392906/The-Black-Lily-Contract-WBWDCTBLCMB03?affiliate_id=171040
+WBW-DC-TCW-AVG-1,Missing Yeux,4,,,,,,https://www.dmsguild.com/product/373313/WBWDCTCWAVG1-Missing-Yeux?affiliate_id=171040
+WBW-DC-TCW-AVG-2,Unbreak the H'earth,4,,,,,,https://www.dmsguild.com/product/375057/WBWDCTCWAVG2-Unbreak-the-Hearth?affiliate_id=171040
+WBW-DC-TEN-01,Two to Tengu,4,,,,,,https://www.dmsguild.com/product/392332/WBWDCTEN01-Two-to-Tengu?affiliate_id=171040
+WBW-DC-TEN-02,Festival of Fyre,4,,,,,,https://www.dmsguild.com/product/405901/WBWDCTEN02-Festival-of-Fyre?affiliate_id=171040
+WBW-DC-TEN-03,The Tale of Korama,4,,,,,,https://www.dmsguild.com/product/405903/WBWDCTEN03-The-Tale-of-Korama?affiliate_id=171040
+WBW-DC-THAL-01,Heartfire Lost,4,,,,,,https://www.dmsguild.com/product/385353/WBWDCTHAL01-Heartfire-Lost?affiliate_id=171040
+WBW-DC-THAL-02,Awakened Song,4,,,,,,https://www.dmsguild.com/product/403116/WBWDCTHAL02-Awakened-Song?affiliate_id=171040
+WBW-DC-TIC-01,Mushrooms and Malfunctions: A Journey into the Caverns,4,,,,,,https://www.dmsguild.com/product/379481/WBWDCTIC01-Mushrooms-and-Malfunctions-A-Journey-into-the-Caverns?affiliate_id=171040
+WBW-DC-TID-01,Witchlight Insecurity,4,,,,,,https://www.dmsguild.com/product/390124/WBWDCTID01-Witchlight-Insecurity?affiliate_id=171040
+WBW-DC-TLRMB-02,The Last Resort,2,,,,,,https://www.dmsguild.com/product/382720/The-Last-Resort-WBWDCTLRMB02?affiliate_id=171040
 WBW-DC-TMP-01,Buck Wild!,2,,,,,,https://www.dmsguild.com/product/406987/Buck-Wild-WBWDCTMP01?affiliate_id=171040
 WBW-DC-TMP-02,Bucking the Trend,2,,,,,,https://www.dmsguild.com/product/407534/Bucking-the-Trend-WBWDCTMP02?affiliate_id=171040
 WBW-DC-TMP-03,The Buck Stops,2,,,,,,https://www.dmsguild.com/product/408280/The-Buck-Stops-WBWDCTMP03?affiliate_id=171040
