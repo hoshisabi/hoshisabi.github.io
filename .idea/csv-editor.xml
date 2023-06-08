@@ -38,6 +38,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\_data\updated_adventures.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
