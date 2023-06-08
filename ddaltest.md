@@ -1,5 +1,5 @@
 ---
-title: Table test
+title: AL Adventures
 ---
 
 <table class="sortable">
