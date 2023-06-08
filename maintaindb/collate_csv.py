@@ -17,6 +17,9 @@ def replace_affiliate(s):
     else:
         return f"{s}?affiliate_id=171040"
 
+def make_key(s):
+    return re.sub(r"\W", "", s)
+
 with open(left_file, 'r') as file:
     reader = csv.DictReader(file)
     for row in reader:
@@ -25,13 +28,13 @@ with open(left_file, 'r') as file:
 with open(right_file, 'r') as file:
     reader = csv.DictReader(file)
     for row in reader:
-        new_code = row['Code']
-        if new_code in adventure_details:
-            old_row = adventure_details[new_code]
+        key = make_key(row['Code'])
+        if key in adventure_details:
+            old_row = adventure_details[key]
             if not old_row["URL"]:
                 old_row["URL"] = row["URL"]
         else:
-            old_row = {'Code': new_code, 'Title': row['Title'], 'Levels': row['Levels'], 'URL': row['URL']}
+            old_row = {'Code': row['Code'], 'Title': row['Title'], 'Levels': row['Levels'], 'URL': row['URL']}
         old_row["URL"] = replace_affiliate(old_row["URL"])
         old_row["RelDate"] = row["RelDate"]
         old_row["Seed"] = row["Seed"]
@@ -39,7 +42,7 @@ with open(right_file, 'r') as file:
         old_row["Season"] = row["Season"]
         old_row["Tier"] = row["Tier"]
         old_row["Price"] = row["Price"]
-        adventure_details[new_code] = old_row
+        adventure_details[key] = old_row
 
 with open(updated_file, "w", encoding='UTF8', newline='') as file:
     writer = csv.DictWriter(file, fieldnames=keys)
