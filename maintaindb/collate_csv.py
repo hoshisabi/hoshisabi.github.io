@@ -10,7 +10,7 @@ adventure_details = {}
 
 # affiliate_id=171040
 def replace_affiliate(s):
-    if "http" not in s:
+    if "dmsguild.com" not in s:
         return s
     elif "affiliate_id=" in s:
         return re.sub(r"affiliate_id=\d+", "affiliate_id=171040", s)
