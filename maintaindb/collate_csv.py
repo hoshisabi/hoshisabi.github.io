@@ -10,7 +10,7 @@ adventure_details = {}
 
 # affiliate_id=171040
 def replace_affiliate(s):
-    if "https://www.dmsguild.com" not in s:
+    if "http" not in s:
         return s
     elif "affiliate_id=" in s:
         return re.sub(r"affiliate_id=\d+", "affiliate_id=171040", s)
@@ -30,7 +30,6 @@ with open(right_file, 'r') as file:
             old_row = adventure_details[new_code]
             if not old_row["URL"]:
                 old_row["URL"] = row["URL"]
-            adventure_details[new_code] = old_row
         else:
             old_row = {'Code': new_code, 'Title': row['Title'], 'Levels': row['Levels'], 'URL': row['URL']}
         old_row["URL"] = replace_affiliate(old_row["URL"])
@@ -40,6 +39,7 @@ with open(right_file, 'r') as file:
         old_row["Season"] = row["Season"]
         old_row["Tier"] = row["Tier"]
         old_row["Price"] = row["Price"]
+        adventure_details[new_code] = old_row
 
 with open(updated_file, "w", encoding='UTF8', newline='') as file:
     writer = csv.DictWriter(file, fieldnames=keys)
