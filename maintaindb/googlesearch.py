@@ -27,8 +27,8 @@ def search_csv(csv_file):
     with open(csv_file, 'r') as file:
         reader = csv.DictReader(file)
         for row in reader:
-            keyword = row['CODE']
-            dmsguild_value = row['DMGuild']
+            keyword = row['Code']
+            dmsguild_value = row['URL']
             if dmsguild_value is not None and dmsguild_value.strip() != '':
                 continue  # Skip if DMGuild column is not blank
             result = search_dmsguild(keyword)
@@ -42,4 +42,4 @@ def search_csv(csv_file):
 # Replace 'path/to/your/csv_file.csv' with the actual path to your CSV file
 #search_csv('path/to/your/csv_file.csv')
 
-search_csv('F:\\Users\\decha\\Documents\\Projects\\hoshisabi.github.io\\_data\\adventures.csv')
+search_csv('_data/orig_adventures.csv')
