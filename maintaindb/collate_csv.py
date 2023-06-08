@@ -23,7 +23,7 @@ def make_key(s):
 with open(left_file, 'r') as file:
     reader = csv.DictReader(file)
     for row in reader:
-        adventure_details[row['Code']] = row
+        adventure_details[make_key(row['Code'])] = row
 
 with open(right_file, 'r') as file:
     reader = csv.DictReader(file)
