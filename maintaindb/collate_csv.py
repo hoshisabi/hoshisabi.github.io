@@ -18,7 +18,9 @@ def replace_affiliate(s):
         return f"{s}?affiliate_id=171040"
 
 def make_key(s):
-    return re.sub(r"\W", "", s)
+    s = re.sub(r"(DD(?:AL|EX))0(\d)-", r"\1\2", s)
+    s = re.sub(r"\W", "", s)
+    return s
 
 with open(left_file, 'r') as file:
     reader = csv.DictReader(file)
