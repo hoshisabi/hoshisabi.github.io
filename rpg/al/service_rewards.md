@@ -9,7 +9,7 @@
   - Once belonging to an archfey known as the Night Queen, these obsidian gemstones 
     fit over the eyes, and you perceive others’ faces as sinister countenances. 
   - This item functions as goggles of night (see the Dungeon Master’s Guide).
-- [ ] Mariner’s armor (scale mail) + 250 gp
+- [x] [Mariner’s armor] (scale mail) + 250 gp (Curry)
   - Constructed of flat, smooth, and overlapping river stones, this set of scale mail is 
     surprisingly light and mobile. While wearing the armor, you need half the water 
     normally required to stave off exhaustion. 
@@ -19,10 +19,10 @@
     centaur warriors, the quiver gives you advantage on social interaction checks to 
     improve the attitude of centaurs. 
   - This item functions as a quiver of Ehlonna (see the Dungeon Master’s Guide).
-- [ ] Lathai’s saddle + 10 downtime days
+- [x] Lathai’s saddle + 10 downtime days
   - Constructed by sea elves and made of hardened seaweed and lily pads, this item allows 
     the mount to understand you. 
-  - This item functions as a saddle of the cavalier (see the Dungeon Master’s Guide).
+  - This item functions as a saddle of the cavalier (see the Dungeon Master’s Guide). (Konstantin)
 - [x] Pixie winged boots + 10 downtime days (Burgess)
   - These elegant, supple boots have iridescent, rainbow-colored pixie wings on their sides.
     When in use, the wings flutter and a trail of pixie dust sprinkles from their heels. 
@@ -149,7 +149,7 @@
 - [ ] Common or Uncommon reward + 250 gp
 - [ ] Common or Uncommon reward + 250 gp
 - [ ] Common or Uncommon reward + 250 gp
-- (one repeat of above with leftover hours)
+- [ ] (one repeat of above with leftover hours)
 ### tier 2 (10 hours) (total 60)
 - [ ] Armor of necrotic resistance (studded leather) + 20 downtime days
 - [ ] Dagger of venom + 20 downtime days
@@ -171,7 +171,50 @@
 ### Repeatable (40 hours) (total ?)
 - [ ] +2 weapon (any from an available source as listed in the Player's Guide except firearms) + 50,000 gp 
 
+## 12C October 5, 2023 to January 31, 2024 (total 450 + ?) (>??)
+### tier 1 (5 hours) (total 30)
+- [ ] [Pyrite Pleisosarus] +10 downtime days
+- [ ] [Weapon of warning] (any from an available source as listed in the Player's Guide except firearms) +10 downtime days
+- [ ] [Cap of water breathing] +10 downtime days
+- [ ] Common or Uncommon reward + 250 gp
+- [ ] Common or Uncommon reward + 250 gp
+- [ ] Common or Uncommon reward + 250 gp
+- [ ] (one repeat of above with leftover hours)
+### tier 2 (10 hours) (total 60)
+- [ ] [Dagger of Blindsight] + 20 downtime days
+- [ ] [Staff of the Rooted Hills] 20 downtime days
+- [ ] [Wayfarer's boots] + 20 downtime days
+- [ ] Rare reward + 2500 gp
+- [ ] Rare reward + 2500 gp
+- [ ] Rare reward + 2500 gp
+### tier 3 (20 hours) (total 120)
+- [ ] [Armor of Safeguarding] (heavy) + 30 downtime days
+- [ ] [Manual of Bodily Health] + 30 downtime days
+- [ ] [Ring of Amity] + 30 downtime days
+- [ ] Very Rare reward + 10,000 gp
+- [ ] Very Rare reward + 10,000 gp
+- [ ] Very Rare reward + 10,000 gp
+### tier 4 (80 hours) (total 240)
+- [ ] [Longbow of healing Hearth] + 40 downtime days
+- [ ] [Harp of Gilded Plenty] + 40 downtime days
+- [ ] Legendary reward + 40 downtime days
+### Repeatable (40 hours) (total ?)
+- [ ] +2 weapon (any from an available source as listed in the Player's Guide except firearms) + 50,000 gp
+
+
 [Lightbringer]: https://www.dndbeyond.com/magic-items/12465-lightbringer
 [Kagonesti Forest Shroud]: https://www.dndbeyond.com/magic-items/5912492-kagonesti-forest-shroud
 [Tablet of Reawakening]: https://www.dndbeyond.com/magic-items/6504940-tablet-of-reawakening
 [Red Wizard Blade]: https://www.dndbeyond.com/magic-items/6504939-red-wizard-blade
+[Pyrite Pleisosarus]: https://www.dndbeyond.com/magic-items/7102434-prehistoric-figurine-of-wondrous-power-pyrite
+[Dagger of Blindsight]: https://www.dndbeyond.com/magic-items/336928-dagger-of-blindsight
+[Wayfarer's boots]: https://www.dndbeyond.com/magic-items/7102444-wayfarers-boots
+[Staff of the Rooted Hills]: https://www.dndbeyond.com/magic-items/7102440-staff-of-the-rooted-hills
+[Armor of Safeguarding]: https://www.dndbeyond.com/magic-items/7102410-armor-of-safeguarding
+[Ring of Amity]: https://www.dndbeyond.com/magic-items/7102437-ring-of-amity
+[Longbow of healing Hearth]: https://www.dndbeyond.com/magic-items/7102426-longbow-of-the-healing-hearth
+[Harp of Gilded Plenty]: https://www.dndbeyond.com/magic-items/7102422-harp-of-gilded-plenty
+[Manual of Bodily Health]: https://www.dndbeyond.com/magic-items/4674-manual-of-bodily-health
+[Cap of water breathing]:https://www.dndbeyond.com/magic-items/5345-cap-of-water-breathing
+[Weapon of warning]: https://www.dndbeyond.com/magic-items/5504-weapon-of-warning
+[Mariner’s armor]: https://www.dndbeyond.com/magic-items/5507-mariners-armor
