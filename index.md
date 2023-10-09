@@ -15,8 +15,20 @@ Information about [Basht](rpg/basht.md) from before the first adventure was writ
 
 ## D&D Campaigns I Play In
 
-* Wild Beyond the Witchlight (in person, DM: Kate Hoff): [Rool](rpg/rool/index.md)
-* (finished) Wild Beyond the Witchlight (online, DM: John Rogers): [Burgess](rpg/burgess/index.md)
+* Vecna (in person, DM: Anthony Gow): [Faark](https://www.dndbeyond.com/characters/100329165/V3rxpG)
+* Icewind Dale "Heroes We Need" (in person, DM: Chris Hubbard) [Spare](https://www.dndbeyond.com/characters/100533223/y65RRr)
+* FINISHED: Wild Beyond the Witchlight (online, DM: John Rogers): [Burgess](rpg/burgess/index.md)
+* FINISHED: Wild Beyond the Witchlight (in person, DM: Kate Hoff): [Rool](rpg/rool/index.md)
+
+## Adventurers League at U-Con 2023
+We will be running AL at U-Con this year, again. If you want more detail, please look at the U-Con site https://www.ucon-gaming.org/
+
+The AL events are available [here](https://tabletop.events/conventions/u-con-2023/schedule#?query=U-Con%20Adventurers%20League)
+
+In addition, we will be fundraising for [The Trevor Project](https://give.thetrevorproject.org/team/534949) 
+and [Doctors Without Borders](https://events.doctorswithoutborders.org/index.cfm?fuseaction=donordrive.personalCampaign&participantID=8648).
+
+
 
 ## Ignore this section
 
