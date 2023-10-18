@@ -16,7 +16,7 @@ Information about [Basht](rpg/basht.md) from before the first adventure was writ
 ## D&D Campaigns I Play In
 
 * Vecna (in person, DM: Anthony Gow): [Faark](https://www.dndbeyond.com/characters/100329165/V3rxpG)
-* Icewind Dale "Heroes We Need" (in person, DM: Chris Hubbard) [Spare](https://www.dndbeyond.com/characters/100533223/y65RRr)
+* Icewind Dale "Heroes We Need" (in person, DM: Chris Hubbard) [Spare](rpg/spare/index.md)
 * FINISHED: Wild Beyond the Witchlight (online, DM: John Rogers): [Burgess](rpg/burgess/index.md)
 * FINISHED: Wild Beyond the Witchlight (in person, DM: Kate Hoff): [Rool](rpg/rool/index.md)
 
