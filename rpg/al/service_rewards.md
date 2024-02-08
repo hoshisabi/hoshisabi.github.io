@@ -5,11 +5,11 @@
     shimmering seafoam is weightless when worn. When underwater, you
     always know which direction the surface lies. 
   - This item functions as a cloak of the manta ray (see the Dungeon Master’s Guide).
-- [x] The Night Queen’s eyes (goggles of night) + 250 gp (I:Calloway/L:?)
+- [x] The Night Queen’s eyes (goggles of night) + 250 gp (I:Calloway/L:Sterg)
   - Once belonging to an archfey known as the Night Queen, these obsidian gemstones 
     fit over the eyes, and you perceive others’ faces as sinister countenances. 
   - This item functions as goggles of night (see the Dungeon Master’s Guide).
-- [x] [Mariner’s armor] (scale mail) + 250 gp (I:Curry/L:?)
+- [x] [Mariner’s armor] (scale mail) + 250 gp (I:Curry/L:Sterg)
   - Constructed of flat, smooth, and overlapping river stones, this set of scale mail is 
     surprisingly light and mobile. While wearing the armor, you need half the water 
     normally required to stave off exhaustion. 
@@ -19,7 +19,7 @@
     centaur warriors, the quiver gives you advantage on social interaction checks to 
     improve the attitude of centaurs. 
   - This item functions as a quiver of Ehlonna (see the Dungeon Master’s Guide).
-- [x] Lathai’s saddle + 10 downtime days (I:Konstantin/L:?)
+- [x] Lathai’s saddle + 10 downtime days (I:Konstantin/L:Sterg)
   - Constructed by sea elves and made of hardened seaweed and lily pads, this item allows 
     the mount to understand you. 
   - This item functions as a saddle of the cavalier (see the Dungeon Master’s Guide). 
@@ -195,13 +195,61 @@
 - [ ] Very Rare reward + 10,000 gp (I?/L?)
 - [ ] Very Rare reward + 10,000 gp (I?/L?)
 ### tier 4 (80 hours) (total 240)
-- [ ] [Longbow of healing Hearth] + 40 downtime days (I?/L?)
+- [ ] [Longbow of Healing Hearth] + 40 downtime days (I?/L?)
 - [ ] [Harp of Gilded Plenty] + 40 downtime days (I?/L?)
 - [ ] Legendary reward + 40 downtime days (I?/L?)
 ### Repeatable (40 hours) (total ?)
 - [ ] +2 weapon (any from an available source as listed in the Player's Guide except firearms) + 50,000 gp (I?/L?)
 
 
+## 50th A Feb 7, 2023 to April 30, 2024 (total ???)
+### tier 1 (5 hours) (total 30)
+- [ ] [Wraps of Unarmed Prowess] + 10 downtime days (I?/L?)
+- [ ] [Boots of False Tracks] + 10 downtime days (I?/L?)
+- [ ] [Brooch of Shielding] + 10 downtime days (I?/L?)
+- [ ] Common or Uncommon reward + 250 gp (I?/L?)
+- [ ] Common or Uncommon reward + 250 gp (I?/L?)
+- [ ] Common or Uncommon reward + 250 gp (I?/L?)
+- [ ] (one repeat of above with leftover hours) (I?/L?)
+### tier 2 (10 hours) (total 60)
+- [ ] [Rogue’s Mantle] + 20 downtime days (I?/L?)
+- [ ] [Cloak of the Bat] + 20 downtime days (I?/L?)
+- [ ] [Ring of Feather Falling] + 20 downtime days (I?/L?)
+- [ ] Rare reward + 2500 gp (I?/L?)
+- [ ] Rare reward + 2500 gp (I?/L?)
+- [ ] Rare reward + 2500 gp (I?/L?)
+### tier 3 (20 hours) (total 120)
+- [ ] [Sage's Signet] (Pick one and list it below) + 30 downtime days (I?/L?)
+- [ ] [Baleful Talon] + 30 downtime days (I?/L?)
+- [ ] [Robe of Stars] + 30 downtime days (I?/L?)
+- [ ] Very Rare reward + 10,000 gp (I?/L?)
+- [ ] Very Rare reward + 10,000 gp (I?/L?)
+- [ ] Very Rare reward + 10,000 gp (I?/L?)
+### tier 4 (80 hours) (total 240)
+- [ ] [Euryales Aegis] + 40 downtime days (I?/L?)
+- [ ] [Sword of the Planes] + 40 downtime days (I?/L?)
+- [ ] Legendary reward + 40 downtime days (I?/L?)
+### Repeatable (40 hours) (total ?)
+- [ ] +2 weapon (any from an available source as listed in the Player's Guide except firearms) + 50,000 gp (I?/L?)
+- [ ] 5 rare potions (any from an available source as listed in the Player's Guide except firearms) + 50,000 gp (I?/L?)
+### Gain Rewards as if You Had Been a Player (instead of earning hours, 5 times total)
+- [ ] (write in)
+- [ ] (write in)
+- [ ] (write in)
+- [ ] (write in)
+- [ ] (write in)
+
+[Euryales Aegis]: https://www.dndbeyond.com/magic-items/7526655-euryales-aegis
+[Sword of the Planes]: https://www.dndbeyond.com/magic-items/7526777-sword-of-the-planes
+[Sage's Signet]: https://www.dndbeyond.com/magic-items/7526758-sages-signet
+[Baleful Talon]: https://www.dndbeyond.com/magic-items/7526614-baleful-talon
+[Robe of Stars]: https://www.dndbeyond.com/magic-items/4741-robe-of-stars
+[Ring of Feather Falling]: https://www.dndbeyond.com/magic-items/4721-ring-of-feather-falling
+[Cloak of the Bat]: https://www.dndbeyond.com/magic-items/4608-cloak-of-the-bat
+[Rogue’s Mantle]: https://www.dndbeyond.com/magic-items/7526750-rogues-mantle
+[Brooch of Shielding]: https://www.dndbeyond.com/magic-items/4596-brooch-of-shielding
+[Boots of False Tracks]: https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks
+[Wraps of Unarmed Prowess]: https://www.dndbeyond.com/magic-items/7526798-wraps-of-unarmed-prowess
 [Lightbringer]: https://www.dndbeyond.com/magic-items/12465-lightbringer
 [Kagonesti Forest Shroud]: https://www.dndbeyond.com/magic-items/5912492-kagonesti-forest-shroud
 [Tablet of Reawakening]: https://www.dndbeyond.com/magic-items/6504940-tablet-of-reawakening
