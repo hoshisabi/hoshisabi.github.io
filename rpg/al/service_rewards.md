@@ -1,14 +1,14 @@
 ## 11A November 2, 2021 to January 31, 2022 (total 180) (earned 185)
 ### tier 1 (5 hours) (total 30)
-- [ ] Nereid shawl (cloak of the manta ray) + 10 downtime days (I?/L?)
+- [ ] Nereid shawl + 10 downtime days (I?/L?)
   - The last vestige of a dying nereid, this delicate, white shawl made of
     shimmering seafoam is weightless when worn. When underwater, you
     always know which direction the surface lies. 
-  - This item functions as a cloak of the manta ray (see the Dungeon Master’s Guide).
-- [x] The Night Queen’s eyes (goggles of night) + 250 gp (I:Calloway/L:Sterg)
+  - This item functions as a [cloak of the manta ray] (see the Dungeon Master’s Guide).
+- [x] The Night Queen’s eyes + 250 gp (I:Calloway/L:Sterg)
   - Once belonging to an archfey known as the Night Queen, these obsidian gemstones 
     fit over the eyes, and you perceive others’ faces as sinister countenances. 
-  - This item functions as goggles of night (see the Dungeon Master’s Guide).
+  - This item functions as [goggles of night] (see the Dungeon Master’s Guide).
 - [x] [Mariner’s armor] (scale mail) + 250 gp (I:Curry/L:Sterg)
   - Constructed of flat, smooth, and overlapping river stones, this set of scale mail is 
     surprisingly light and mobile. While wearing the armor, you need half the water 
@@ -18,15 +18,15 @@
   - Crafted from the black, chitinous hide of a giant spider with goldleaf etchings of 
     centaur warriors, the quiver gives you advantage on social interaction checks to 
     improve the attitude of centaurs. 
-  - This item functions as a quiver of Ehlonna (see the Dungeon Master’s Guide).
+  - This item functions as a [quiver of Ehlonna] (see the Dungeon Master’s Guide).
 - [x] Lathai’s saddle + 10 downtime days (I:Konstantin/L:Sterg)
   - Constructed by sea elves and made of hardened seaweed and lily pads, this item allows 
     the mount to understand you. 
-  - This item functions as a saddle of the cavalier (see the Dungeon Master’s Guide). 
+  - This item functions as a [saddle of the cavalier] (see the Dungeon Master’s Guide). 
 - [x] Pixie winged boots + 10 downtime days (I:Burgess/L:?)
   - These elegant, supple boots have iridescent, rainbow-colored pixie wings on their sides.
     When in use, the wings flutter and a trail of pixie dust sprinkles from their heels. 
-  - This item functions as winged boots (see the Dungeon Master’s Guide).
+  - This item functions as [winged boots] (see the Dungeon Master’s Guide).
 ### tier 2 (10 hours) (total 60)
 - [ ] Darkthorn arrows (5) + 2500 gp (I?/L?) (I?/L?)
   - The heads of these five arrows are dark thorns of an unknown Feywild plant. 
@@ -35,11 +35,11 @@
 - [ ] Faerie dragon’s favor + 2500 gp (I?/L?) (I?/L?)
   - This cloak appears as scintillating faerie dragon winds. While wearing this cloak, 
     you understand written and spoken Draconic. 
-  - This item functions as if a mantle of spell resistance (see the Dungeon Master’s Guide).
+  - This item functions as if a [mantle of spell resistance] (see the Dungeon Master’s Guide).
 - [ ] Hag's clawblade + 20 downtime days (I?/L?)
   - This rapier has a malachite blade and bears jagged, claw-like protrusions along its length. 
     Its hilt changes its appearance each dusk, which has no effect on its other properties. 
-  - This item functions as a vicious weapon (rapier) (see the Dungeon Master’s Guide).
+  - This item functions as a [vicious weapon] (rapier) (see the Dungeon Master’s Guide).
 - [ ] Siren’s caress + 20 downtime days (I?/L?)
   - This crystalline wand appears as a spiral-shaped waterspout. When used, a haunting melody
     is heard emanating from the wand. 
@@ -54,7 +54,7 @@
     when a fey creature is within 30 feet of you. 
   - This item functions as if a ring of feather falling (see the Dungeon Master’s Guide).
 ### tier 3 (15 hours) (total 90)
-- [ ] Naerth’s planar compass + 10,000 gp (I?/L?)
+- [x] Naerth’s planar compass + 10,000 gp (I?/L?)
   - A tethered compass made of string, wood shavings, and dried mushrooms with a center of 
     brass, this item spins wildly when within 60 feet of a gate or portal to another plane. 
   - This item functions as an amulet of the planes (see the Dungeon Master’s Guide).
@@ -77,7 +77,7 @@
   - This delicate ring is shaped into a circle of miniature red, blue, white, and purple mushrooms, 
     and glows with its own inner light. Whenever a charge is expended for another property, 
     a swarm of harmless, multicolored dragonflies appear in your space and fly about for 1 minute. 
-  - This item functions as if a ring of shooting stars (see the Dungeon Master’s Guide).
+  - This item functions as if a [ring of shooting stars] (see the Dungeon Master’s Guide).
 - [ ] Harengon’s freedom + 10,000 gp (I?/L?)
   - The hilt of this shortsword is decorated with images of frolicking harengon and the blade is constructed 
     of a shimmering dark purple crystal. When wielded, you gain a +2 bonus to initiative if you’re not incapacitated. 
@@ -124,8 +124,8 @@
 - [ ] Tier 1 adventure reward + 250 gp (I?/L?)
 - (one repeat of above with leftover hours)
 ### tier 2 (10 hours) (total 60)
-- [ ] Armor of radiant resistance (half plate) + 20 downtime days (I?/L?)
-- [ ] Mantle of spell resistance + 20 downtime days (I?/L?)
+- [ ] [Armor of radiant resistance (half plate)](https://www.dndbeyond.com/magic-items/5371-armor-of-resistance) + 20 downtime days (I?/L?)
+- [ ] [Mantle of spell resistance] + 20 downtime days (I?/L?)
 - [ ] Mace of smiting + 20 downtime days (I?/L?)
 - [ ] Tier 2 adventure reward + 2500 gp (I?/L?)
 - [ ] Tier 2 adventure reward + 2500 gp (I?/L?)
@@ -143,7 +143,7 @@
 ## 12B March 1, 2023 to August 31, 2023 (total 450 + ?) (>481)
 24 + 28 + 24 + 20 + 28 + 24
 ### tier 1 (5 hours) (total 30)
-- [ ] Gloves of thievery + 10 downtime days (I?/L?)
+- [ ] [Gloves of thievery](https://www.dndbeyond.com/magic-items/5352-gloves-of-thievery) + 10 downtime days (I?/L?)
 - [x] [Lightbringer] + 10 downtime days (IL:Lieven Fireforge)
 - [ ] Spellwrought tattoo (2nd level) + 10 downtime days (I?/L?)
 - [ ] Common or Uncommon reward + 250 gp (I?/L?)
@@ -151,8 +151,8 @@
 - [ ] Common or Uncommon reward + 250 gp (I?/L?)
 - [ ] (one repeat of above with leftover hours) (I?/L?)
 ### tier 2 (10 hours) (total 60)
-- [ ] Armor of necrotic resistance (studded leather) + 20 downtime days (I?/L?)
-- [ ] Dagger of venom + 20 downtime days (I?/L?)
+- [ ] [Armor of necrotic resistance (studded leather)](https://www.dndbeyond.com/magic-items/5371-armor-of-resistance) + 20 downtime days (I?/L?)
+- [ ] [Dagger of venom](https://www.dndbeyond.com/magic-items/4613-dagger-of-venom) + 20 downtime days (I?/L?)
 - [ ] [Kagonesti Forest Shroud] + 20 downtime days (I?/L?)
 - [ ] Rare reward + 2500 gp (I?/L?)
 - [ ] Rare reward + 2500 gp (I?/L?)
@@ -171,10 +171,10 @@
 ### Repeatable (40 hours) (total ?)
 - [ ] +2 weapon (any from an available source as listed in the Player's Guide except firearms) + 50,000 gp  (I?/L?)
 
-## 12C October 5, 2023 to January 31, 2024 (total 450 + ?) (>??)
+## 12C October 5, 2023 to January 31, 2024 (total 450 + ?) (108h normal, 90h stream approx, 432h prep: 640h approx)
 ### tier 1 (5 hours) (total 30)
 - [ ] [Pyrite Pleisosarus] +10 downtime days (I?/L?)
-- [ ] [Weapon of warning] (any from an available source as listed in the Player's Guide except firearms) +10 downtime days (I?/L?)
+- [ ] [Weapon of Warning] (any from an available source as listed in the Player's Guide except firearms) +10 downtime days (I?/L?)
 - [ ] [Cap of water breathing] +10 downtime days (I?/L?)
 - [ ] Common or Uncommon reward + 250 gp (I?/L?)
 - [ ] Common or Uncommon reward + 250 gp (I?/L?)
@@ -212,7 +212,7 @@
 - [ ] Common or Uncommon reward + 250 gp (I?/L?)
 - [ ] (one repeat of above with leftover hours) (I?/L?)
 ### tier 2 (10 hours) (total 60)
-- [ ] [Rogue’s Mantle] + 20 downtime days (I?/L?)
+- [x] [Rogue’s Mantle] + 20 downtime days (I?/L?) (Moth, both)
 - [ ] [Cloak of the Bat] + 20 downtime days (I?/L?)
 - [ ] [Ring of Feather Falling] + 20 downtime days (I?/L?)
 - [ ] Rare reward + 2500 gp (I?/L?)
@@ -239,6 +239,57 @@
 - [ ] (write in)
 - [ ] (write in)
 
+## 50th Anniversary, version 1.2 Feb 7, 2023 to April 30, 2024 (total ???)
+### tier 1 (5 hours) (total 30)
+- [ ] [Boomerang Shield] + 10 downtime days (I?/L?)
+- [ ] [Wand of Scowls] + 10 downtime days (I?/L?)
+- [ ] [Armor of Fungal Spores] + 10 downtime days (I?/L?)
+- [ ] Common or Uncommon reward + 250 gp (I?/L?)
+- [ ] Common or Uncommon reward + 250 gp (I?/L?)
+- [ ] Common or Uncommon reward + 250 gp (I?/L?)
+- [ ] (one repeat of above with leftover hours) (I?/L?)
+### tier 2 (10 hours) (total 60)
+- [ ] [Giant Slayer] + 20 downtime days (I?/L?)
+- [ ] [Boots of Levitation] + 20 downtime days (I?/L?)
+- [ ] [Spider Staff] + 20 downtime days (I?/L?)
+- [ ] Rare reward + 2500 gp (I?/L?)
+- [ ] Rare reward + 2500 gp (I?/L?)
+- [ ] Rare reward + 2500 gp (I?/L?)
+### tier 3 (20 hours) (total 120)
+- [ ] [Ring of Shooting Star] + 30 downtime days (I?/L?)
+- [ ] [Scimitar of Speed] + 30 downtime days (I?/L?)
+- [ ] [Manual of Gainful Exercise] + 30 downtime days (I?/L?)
+- [ ] Very Rare reward + 10,000 gp (I?/L?)
+- [ ] Very Rare reward + 10,000 gp (I?/L?)
+- [ ] Very Rare reward + 10,000 gp (I?/L?)
+### tier 4 (40 hours) (total 120)
+- [ ] [Cloak of Invisibility] + 40 downtime days (I?/L?)
+- [ ] [Ring of Spell Turning] + 40 downtime days (I?/L?)
+- [ ] Legendary reward + 40 downtime days (I?/L?)
+### Repeatable (40 hours) (total ?)
+- [ ] +2 weapon (any from an available source as listed in the Player's Guide except firearms) + 50,000 gp (I?/L?)
+- [ ] +1 armor (any from an available source as listed in the Player's Guide except firearms) + 50,000 gp (I?/L?)
+- [ ] 5 rare potions (any from an available source as listed in the Player's Guide except firearms) + 50,000 gp (I?/L?)
+### Gain Rewards as if You Had Been a Player (instead of earning hours, 5 times total)
+- [ ] (write in)
+- [ ] (write in)
+- [ ] (write in)
+- [ ] (write in)
+- [ ] (write in)
+
+[Ring of Spell Turning]: https://www.dndbeyond.com/magic-items/4731-ring-of-spell-turning
+[Cloak of Invisibility]: https://www.dndbeyond.com/magic-items/5347-cloak-of-invisibility
+[Manual of Gainful Exercise]: https://www.dndbeyond.com/magic-items/4675-manual-of-gainful-exercise
+[Scimitar of Speed]: https://www.dndbeyond.com/magic-items/4752-scimitar-of-speed
+[Ring of Shooting Star]: https://www.dndbeyond.com/magic-items/4729-ring-of-shooting-stars 
+[Spider Staff]: https://www.dndbeyond.com/magic-items/7247088-spider-staff
+[Boots of Levitation]: https://www.dndbeyond.com/magic-items/4588-boots-of-levitation
+[Giant Slayer]: https://www.dndbeyond.com/magic-items/5388-giant-slayer
+[Armor of Fungal Spores]: https://www.dndbeyond.com/magic-items/7526586-armor-of-fungal-spores
+[Wand of Scowls]: https://www.dndbeyond.com/magic-items/27148-wand-of-scowls
+[Boomerang Shield]: https://www.dndbeyond.com/magic-items/7526627-boomerang-shield
+[Quiver of Ehlonna]: (https://www.dndbeyond.com/magic-items/5367-quiver-of-ehlonna)
+[Mantle of Spell Resistance]: https://www.dndbeyond.com/magic-items/4673-mantle-of-spell-resistance
 [Euryales Aegis]: https://www.dndbeyond.com/magic-items/7526655-euryales-aegis
 [Sword of the Planes]: https://www.dndbeyond.com/magic-items/7526777-sword-of-the-planes
 [Sage's Signet]: https://www.dndbeyond.com/magic-items/7526758-sages-signet
@@ -264,5 +315,7 @@
 [Harp of Gilded Plenty]: https://www.dndbeyond.com/magic-items/7102422-harp-of-gilded-plenty
 [Manual of Bodily Health]: https://www.dndbeyond.com/magic-items/4674-manual-of-bodily-health
 [Cap of water breathing]:https://www.dndbeyond.com/magic-items/5345-cap-of-water-breathing
-[Weapon of warning]: https://www.dndbeyond.com/magic-items/5504-weapon-of-warning
+[Weapon of Warning]: https://www.dndbeyond.com/magic-items/5504-weapon-of-warning
 [Mariner’s armor]: https://www.dndbeyond.com/magic-items/5507-mariners-armor
+[ring of shooting stars]: https://www.dndbeyond.com/magic-items/4729-ring-of-shooting-stars
+[cloak of the manta ray]: https://www.dndbeyond.com/magic-items/4609-cloak-of-the-manta-ray
