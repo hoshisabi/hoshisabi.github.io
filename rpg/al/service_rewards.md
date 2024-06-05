@@ -43,31 +43,31 @@
 - [ ] Siren’s caress + 20 downtime days (I?/L?)
   - This crystalline wand appears as a spiral-shaped waterspout. When used, a haunting melody
     is heard emanating from the wand. 
-  - This item functions as a wand of paralysis (see the Dungeon Master’s Guide).
+  - This item functions as a [wand of paralysis] (see the Dungeon Master’s Guide).
 - [x] The Blink Dog’s Guide to Transversing the Feywild + 2500 gp (I:Grep/L:?)
   - This small, yellow book is inscribed in silver with the title in Sylvan. When used,
     you briefly flicker and the howl of dogs can be heard in the distance. 
-  - This item functions as an atlas of endless horizons (see Tasha’s Cauldron of Everything).
+  - This item functions as an [atlas of endless horizons] (see Tasha’s Cauldron of Everything).
 - [ ] Sprite’s rescue + 20 downtime days (I?/L?)
   - A beautiful ring made of gilded sprite wings. When activated, translucent
     sprite wings sprout from your back. The ring faintly glows emerald green
     when a fey creature is within 30 feet of you. 
-  - This item functions as if a ring of feather falling (see the Dungeon Master’s Guide).
+  - This item functions as if a [ring of feather falling] (see the Dungeon Master’s Guide).
 ### tier 3 (15 hours) (total 90)
 - [x] Naerth’s planar compass + 10,000 gp (I?/L?)
   - A tethered compass made of string, wood shavings, and dried mushrooms with a center of 
     brass, this item spins wildly when within 60 feet of a gate or portal to another plane. 
-  - This item functions as an amulet of the planes (see the Dungeon Master’s Guide).
+  - This item functions as an [amulet of the planes] (see the Dungeon Master’s Guide).
 - [ ] Daphnaie armor (hide) + 30 downtime days (I?/L?)
   - This armor is made of pliant material from worn, laurel tree bark with stylized carvings of
     dancing dryads burnt into it. Small bits of green moss accentuate the wood, allowing the 
     wearer to gain advantage on Dexterity (Stealth) checks when in a forest. 
-  - This item functions as +3 armor (hide) (see the Dungeon Master’s Guide).
+  - This item functions as [+3 armor] (hide) (see the Dungeon Master’s Guide).
 - [ ] Grig fiddle + 30 downtime days (I?/L?)
   - This two-inch fiddle is constructed of gilded wood, with strings made of silver
     unicorn hair. When held, the fiddle resizes appropriately for its wielder, though it
     shrinks back down to its original size when not in use. 
-  - This item functions as a instrument of the bards (anstruth harp) (see the Dungeon Master’s Guide).
+  - This item functions as a [instrument of the bards (anstruth harp)] (see the Dungeon Master’s Guide).
 - [ ] Wildmane’s shoes + 30 downtime days (I?/L?)
   - Though cloven in appearance, these horseshoes fit the hooves of a horse or similar creature and are 
     constructed of a hardened reed as strong as iron. The creature wearing them leaves a trail of small
@@ -81,16 +81,16 @@
 - [ ] Harengon’s freedom + 10,000 gp (I?/L?)
   - The hilt of this shortsword is decorated with images of frolicking harengon and the blade is constructed 
     of a shimmering dark purple crystal. When wielded, you gain a +2 bonus to initiative if you’re not incapacitated. 
-  - This item functions as a +3 weapon (shortsword) (see the Dungeon Master’s Guide).
+  - This item functions as a [+3 weapon] (shortsword) (see the Dungeon Master’s Guide).
 
 ## 11B March 1, 2022 through August 31, 2022 (total 210) (earned >400)
 ### tier 1 (5 hours) (total 30)
-- [ ] Bag of tricks (tan) + 10 downtime days (I?/L?)
+- [ ] [Bag of tricks (tan)] + 10 downtime days (I?/L?)
+- [ ] [Periapt of health] + 10 downtime days  (I?/L?)
+- [x] [Emerald pen] + 10 downtime days (I:Dral/L:?)
 - [ ] Tier 1 adventure reward + 250 gp  (I?/L?)
 - [ ] Tier 1 adventure reward + 250 gp  (I?/L?)
 - [ ] Tier 1 adventure reward + 250 gp  (I?/L?)
-- [ ] Periapt of health + 10 downtime days  (I?/L?)
-- [x] Emerald pen + 10 downtime days (I:Dral/L:?)
 ### tier 2 (10 hours) (total 60)
 - [ ] Dragon slayer + 20 downtime days  (I?/L?)
   - From this list: Greatsword, Longsword, Rapier, Scimitar, Shortsword
@@ -233,11 +233,11 @@
 - [ ] +2 weapon (any from an available source as listed in the Player's Guide except firearms) + 50,000 gp (I?/L?)
 - [ ] 5 rare potions (any from an available source as listed in the Player's Guide except firearms) + 50,000 gp (I?/L?)
 ### Gain Rewards as if You Had Been a Player (instead of earning hours, 5 times total)
-- [ ] (write in)
-- [ ] (write in)
-- [ ] (write in)
-- [ ] (write in)
-- [ ] (write in)
+- [ ] (write in): CCC-JGD-01 Left Black and Blue: A Red War Story (Rewards: 6250gp each, stone plate +2, level if you want it, 10 downtime) -4hr
+- [ ] (write in): FR-DC-QLA-01 Mel's Pit -4hr (Reward: 5 hours streaming, level if you want it, 10 downtime, 3333.33gp, and the above magic items. DRAGON SOUL WING (CARPET OF FLYING 4FT. X 6FT.), CHEST OF PRESERVING, POTION OF GASEOUS FORM (CONSUMABLE), CHIME OF OPENING (CONSUMABLE), POTION OF SUPERIOR HEALING (CONSUMABLE)) -8hr
+- [ ] (write in): SJ-DC-DD-05 (Rewards: 1533.33gp each, 10 downtime, level if you want it, 3 hours streaming, Cloak of many fashions ,+2 Rhythm-Maker’s drum, Bottled breath, Spellwrought tattoo of enhance ability, Spell scroll of tiny servant) -4hr
+- [ ] (write in): SJ-DC-BST-03 Taken (Reward: 833gp, 10 downtime, 2 hours streaming, wand of fireballs, smokepowder) -4hr
+- [ ] (write in): WBW-DC-JSH-CEL1 Better with Friends (Rewards: 1000gp each, 10 downtime, level if you want it, 2 hours streaming, and above items (HORN OF ALL-HELLO-ING (SILVER HORN OF VALHALLA), POTION OF ADVANTAGE, SPELLWROUGHT TATTOO (BEACON OF HOPE), PRE-ADDRESSED INVITATION CARD (Spell Scroll of Summon Fey), CHARM OF VITALITY))
 
 ## 50th Anniversary, version 1.2 Feb 7, 2023 to April 30, 2024 (total ???)
 ### tier 1 (5 hours) (total 30)
@@ -319,3 +319,12 @@
 [Mariner’s armor]: https://www.dndbeyond.com/magic-items/5507-mariners-armor
 [ring of shooting stars]: https://www.dndbeyond.com/magic-items/4729-ring-of-shooting-stars
 [cloak of the manta ray]: https://www.dndbeyond.com/magic-items/4609-cloak-of-the-manta-ray
+[atlas of endless horizons]: https://www.dndbeyond.com/magic-items/2400706-atlas-of-endless-horizons
+[wand of paralysis]: https://www.dndbeyond.com/magic-items/4795-wand-of-paralysis
+[amulet of the planes]: https://www.dndbeyond.com/magic-items/4570-amulet-of-the-planes
+[+3 armor]: https://www.dndbeyond.com/magic-items/5379-armor-3
+[instrument of the bards (anstruth harp)]: https://www.dndbeyond.com/magic-items/5433-anstruth-harp
+[+3 weapon]: https://www.dndbeyond.com/magic-items/5404-weapon-3
+[Bag of tricks (tan)]: https://www.dndbeyond.com/magic-items/2965342-tan-bag-of-tricks
+[Periapt of health]: https://www.dndbeyond.com/magic-items/4692-periapt-of-health
+[Emerald pen]: https://www.dndbeyond.com/magic-items/4047218-emerald-pen
