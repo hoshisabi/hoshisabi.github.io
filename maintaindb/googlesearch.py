@@ -42,4 +42,4 @@ def search_csv(csv_file):
 # Replace 'path/to/your/csv_file.csv' with the actual path to your CSV file
 #search_csv('path/to/your/csv_file.csv')
 
-search_csv('_data/orig_adventures.csv')
+search_csv('data/orig_adventures.csv')

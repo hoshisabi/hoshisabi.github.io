@@ -1,9 +1,9 @@
 import csv
 import re
 
-left_file = "_data/orig_adventures.csv"
-right_file = "_data/DDALDM.csv"
-updated_file = "_data/adventures.csv"
+left_file = "data/orig_adventures.csv"
+right_file = "data/DDALDM.csv"
+updated_file = "data/adventures.csv"
 keys = ["Code", "Title", "Levels", "Runtime", "RelDate", "Season", "Authors", "Tier", "Price", "Seed", "G.Ad.","Eber","RMH", "Epic", "URL"]
 
 adventure_details = {}
