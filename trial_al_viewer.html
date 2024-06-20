@@ -35,7 +35,7 @@
     <button id="apply-filters">Apply Filters</button>
 </div>
 
-<button hx-get="_data/adventures.csv" hx-trigger="click" hx-target="#content" hx-ext="csv">Load Data</button>
+<button hx-get="data/adventures.csv" hx-trigger="click" hx-target="#content" hx-ext="csv">Load Data</button>
 
 <div id="content">
     <!-- The CSV data will be displayed here -->
@@ -55,7 +55,7 @@
     });
 
     document.getElementById('apply-filters').addEventListener('click', function() {
-        fetch('_data/adventures.csv')
+        fetch('data/adventures.csv')
             .then(response => response.text())
             .then(csv => {
                 Papa.parse(csv, {
