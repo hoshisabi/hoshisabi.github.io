@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CSV Data Viewer with Filters and Pagination</title>
+    <title>CSV Data Viewer with Filters</title>
     <script src="https://unpkg.com/htmx.org@1.6.1"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
     <style>
@@ -21,88 +21,63 @@
         th {
             background-color: #f2f2f2;
         }
-        .pagination {
-            margin-top: 10px;
-            text-align: center;
-        }
-        .pagination button {
-            margin: 0 5px;
-            cursor: pointer;
-            padding: 5px 10px;
-        }
     </style>
 </head>
 <body>
 
-<h1>CSV Data Viewer with Filters and Pagination</h1>
+<h1>CSV Data Viewer with Filters</h1>
 
 <div>
     <label for="runtime-filter">Runtime (hours):</label>
     <input type="number" id="runtime-filter" name="runtime-filter">
     <label for="tier-filter">Tier:</label>
     <input type="number" id="tier-filter" name="tier-filter">
-    <label for="campaign-filter">Campaign:</label>
-    <input type="text" id="campaign-filter" name="campaign-filter">
     <button id="apply-filters">Apply Filters</button>
 </div>
 
-<button hx-get="adventures.csv" hx-trigger="click" hx-target="#content" hx-ext="csv">Load Data</button>
+<button hx-get="data/adventures.csv" hx-trigger="click" hx-target="#content" hx-ext="csv">Load Data</button>
 
 <div id="content">
     <!-- The CSV data will be displayed here -->
 </div>
 
-<div class="pagination" id="pagination">
-    <!-- Pagination buttons will be inserted here -->
-</div>
-
 <script>
-    let currentPage = 1;
-    const rowsPerPage = 50;
-    let filteredData = [];
-
     document.addEventListener('htmx:afterSwap', function(event) {
         if (event.detail.target.id === 'content') {
             Papa.parse(event.detail.xhr.responseText, {
                 header: true,
                 dynamicTyping: true,
                 complete: function(results) {
-                    filteredData = results.data;
-                    applyFiltersAndPagination();
+                    displayTable(results.data);
                 }
             });
         }
     });
 
     document.getElementById('apply-filters').addEventListener('click', function() {
-        applyFiltersAndPagination();
+        fetch('data/adventures.csv')
+            .then(response => response.text())
+            .then(csv => {
+                Papa.parse(csv, {
+                    header: true,
+                    dynamicTyping: true,
+                    complete: function(results) {
+                        const runtimeFilter = document.getElementById('runtime-filter').value;
+                        const tierFilter = document.getElementById('tier-filter').value;
+                        const filteredData = results.data.filter(item => {
+                            return (runtimeFilter === '' || item.Runtime == runtimeFilter) &&
+                                (tierFilter === '' || item.Tier == tierFilter);
+                        });
+                        displayTable(filteredData);
+                    }
+                });
+            });
     });
 
-    function applyFiltersAndPagination() {
-        const runtimeFilter = document.getElementById('runtime-filter').value;
-        const tierFilter = document.getElementById('tier-filter').value;
-        const campaignFilter = document.getElementById('campaign-filter').value.toLowerCase().trim();
-
-        filteredData = filterData(runtimeFilter, tierFilter, campaignFilter);
-        renderTableAndPagination();
-    }
-
-    function filterData(runtimeFilter, tierFilter, campaignFilter) {
-        return filteredData.filter(item => {
-            return (runtimeFilter === '' || item.Runtime == runtimeFilter) &&
-                (tierFilter === '' || item.Tier == tierFilter) &&
-                (campaignFilter === '' || item.Season.toLowerCase().includes(campaignFilter));
-        });
-    }
-
-    function renderTableAndPagination() {
-        const startIndex = (currentPage - 1) * rowsPerPage;
-        const endIndex = startIndex + rowsPerPage;
-        const paginatedData = filteredData.slice(startIndex, endIndex);
-
+    function displayTable(data) {
         let table = '<table>';
         table += '<tr><th>Campaign</th><th>Code</th><th>Title</th><th>Hours</th><th>Tiers</th><th>URL</th></tr>';
-        paginatedData.forEach(item => {
+        data.forEach(item => {
             table += `<tr>
                     <td>${item.Season}</td>
                     <td>${item.Code}</td>
@@ -114,34 +89,7 @@
         });
         table += '</table>';
         document.getElementById('content').innerHTML = table;
-
-        renderPagination();
     }
-
-    function renderPagination() {
-        const totalPages = Math.ceil(filteredData.length / rowsPerPage);
-        let paginationButtons = '';
-        for (let i = 1; i <= totalPages; i++) {
-            paginationButtons += `<button hx-get="adventures.csv?_page=${i}" hx-trigger="click" hx-target="#content" hx-ext="csv">${i}</button>`;
-        }
-        document.getElementById('pagination').innerHTML = paginationButtons;
-    }
-
-    // Load first 50 rows by default
-    document.addEventListener('DOMContentLoaded', function() {
-        fetch(`adventures.csv?_page=1`)
-            .then(response => response.text())
-            .then(csv => {
-                Papa.parse(csv, {
-                    header: true,
-                    dynamicTyping: true,
-                    complete: function(results) {
-                        filteredData = results.data;
-                        renderTableAndPagination();
-                    }
-                });
-            });
-    });
 </script>
 
 </body>
