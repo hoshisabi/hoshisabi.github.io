@@ -46,7 +46,7 @@
     <button id="apply-filters">Apply Filters</button>
 </div>
 
-<button hx-get="adventures.csv" hx-trigger="click" hx-target="#content" hx-ext="csv">Load Data</button>
+<button hx-get="data/adventures.csv" hx-trigger="click" hx-target="#content" hx-ext="csv">Load Data</button>
 
 <div id="content">
     <!-- The CSV data will be displayed here -->
@@ -122,14 +122,14 @@
         const totalPages = Math.ceil(filteredData.length / rowsPerPage);
         let paginationButtons = '';
         for (let i = 1; i <= totalPages; i++) {
-            paginationButtons += `<button hx-get="adventures.csv?_page=${i}" hx-trigger="click" hx-target="#content" hx-ext="csv">${i}</button>`;
+            paginationButtons += `<button hx-get="data/adventures.csv?_page=${i}" hx-trigger="click" hx-target="#content" hx-ext="csv">${i}</button>`;
         }
         document.getElementById('pagination').innerHTML = paginationButtons;
     }
 
     // Load first 50 rows by default
     document.addEventListener('DOMContentLoaded', function() {
-        fetch(`adventures.csv?_page=1`)
+        fetch(`data/adventures.csv?_page=1`)
             .then(response => response.text())
             .then(csv => {
                 Papa.parse(csv, {
