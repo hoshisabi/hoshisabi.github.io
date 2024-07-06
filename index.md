@@ -11,7 +11,11 @@ if you're coming here you managed to find one of the rare finished tasks.
 
 ## RPG Information that I don't want to lose
 
-Information about [Basht](rpg/basht.md) from before the first adventure was written.
+* Information about [Basht](rpg/basht.md) from before the first adventure was written.
+* [Adventurers League Documents](https://www.dndbeyond.com/posts/1676-what-is-adventurers-league)
+
+## D&D Campaign I Run
+* [Phandelver](rpg/phandelver.md)
 
 ## D&D Campaigns I Play In
 
@@ -32,8 +36,8 @@ and [Doctors Without Borders](https://events.doctorswithoutborders.org/index.cfm
 
 ## Ignore this section
 
-[AL List](trial_al_viewer.html)
-[Test](mermaid.md)
+* [AL List](trial_al_viewer.html)
+* [Test](mermaid.md)
 * Information about the past [U-Con](ucon.md)?
 
 [DDAL Test](ddaltest.md)
