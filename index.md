@@ -36,8 +36,7 @@ and [Doctors Without Borders](https://events.doctorswithoutborders.org/index.cfm
 
 ## Ignore this section
 
-* [AL List](trial_al_viewer.html)
-* [Test](mermaid.md)
+* [DDAL Test](https://hoshisabi.com/al_adventure_catalog/)
 * Information about the past [U-Con](ucon.md)?
 
-[DDAL Test](ddaltest.md)
+
