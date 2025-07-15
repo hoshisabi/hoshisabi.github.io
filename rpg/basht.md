@@ -3,11 +3,10 @@
 
 Names of humans are Frankish, some examples are:
 
-[http://www.infernaldreams.com/names/Europe/Medieval/Franks.htm](http://www.infernaldreams.com/names/Europe/Medieval/Franks.htm)
-[https://www.fantasynamegenerators.com/frankish-names.php]
-[https://www.behindthename.com/names/origin/frankish]
-[https://www.s-gabriel.org/names/wil/neuillay.html]
-[https://legitimatebabynames.com/category/frankish-names/]
+* (https://www.fantasynamegenerators.com/frankish-names.php)
+* (https://www.behindthename.com/names/origin/frankish)
+* (https://www.s-gabriel.org/names/wil/neuillay.html)
+* (https://legitimatebabynames.com/category/frankish-names/)
 
 ### Facts about Village: (Name: Basht)
 
