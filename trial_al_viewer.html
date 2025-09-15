@@ -32,6 +32,8 @@
     <input type="number" id="runtime-filter" name="runtime-filter">
     <label for="tier-filter">Tier:</label>
     <input type="number" id="tier-filter" name="tier-filter">
+    <label for="campaign-filter">Campaign:</label>
+    <input type="text" id="campaign-filter" name="campaign-filter">
     <button id="apply-filters">Apply Filters</button>
 </div>
 
@@ -42,6 +44,23 @@
 </div>
 
 <script>
+    function calculateCampaign(season) {
+        season = season.toUpperCase();
+        campaign = " (" + season + ")";
+
+        if (season.includes("EB") || season.includes("ELW")) {
+            return "Eberron" + campaign;
+        } else if (season.includes("RL")) {
+            return "Ravenloft"+ campaign;
+        } else if (season.includes("CR")) {
+            return "Critical Role"+ campaign;
+        } else if (season.includes("DL")) {
+            return "Dragonlance"+ campaign;
+        } else {
+            return "Forgotten Realms"+ campaign;
+        }
+    }
+
     document.addEventListener('htmx:afterSwap', function(event) {
         if (event.detail.target.id === 'content') {
             Papa.parse(event.detail.xhr.responseText, {
@@ -64,9 +83,11 @@
                     complete: function(results) {
                         const runtimeFilter = document.getElementById('runtime-filter').value;
                         const tierFilter = document.getElementById('tier-filter').value;
+                        const campaignFilter = document.getElementById('campaign-filter').value;
                         const filteredData = results.data.filter(item => {
                             return (runtimeFilter === '' || item.Runtime == runtimeFilter) &&
-                                (tierFilter === '' || item.Tier == tierFilter);
+                                (tierFilter === '' || item.Tier == tierFilter) &&
+                                (campaignFilter === '' || calculateCampaign(item.Season) == campaignFilter || calculateCampaign(item.Season) == calculateCampaign(campaignFilter) );
                         });
                         displayTable(filteredData);
                     }
@@ -76,9 +97,11 @@
 
     function displayTable(data) {
         let table = '<table>';
-        table += '<tr><th>Campaign</th><th>Code</th><th>Title</th><th>Hours</th><th>Tiers</th><th>URL</th></tr>';
+        table += '<tr><th>Campaign</th><th>Season</th><th>Code</th><th>Title</th><th>Hours</th><th>Tiers</th><th>URL</th></tr>';
         data.forEach(item => {
+            campaign = calculateCampaign(`${item.Season}`);
             table += `<tr>
+                    <td>${campaign}</td>
                     <td>${item.Season}</td>
                     <td>${item.Code}</td>
                     <td>${item.Title}</td>
