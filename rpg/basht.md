@@ -3,12 +3,12 @@
 
 Names of humans are Frankish, some examples are:
 
-[http://www.infernaldreams.com/names/Europe/Medieval/Franks.htm](http://www.infernaldreams.com/names/Europe/Medieval/Franks.htm)
-
+* (https://www.fantasynamegenerators.com/frankish-names.php)
+* (https://www.behindthename.com/names/origin/frankish)
+* (https://www.s-gabriel.org/names/wil/neuillay.html)
+* (https://legitimatebabynames.com/category/frankish-names/)
 
 ### Facts about Village: (Name: Basht)
-
-
 
 * Near Eastern tip of Dragonspine Mountains
     * Village has a small limestone quarry at the base of the mountain (limestone is sedimentary, and commonly found in ancient runoff zones)
