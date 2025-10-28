@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    background-color: #f4f4f4;
+}
+
+#game-container {
+    display: grid;
+    grid-template-areas:
+        ". top ."
+        "left grid right"
+        ". bottom .";
+    grid-template-columns: 100px 200px 100px;
+    grid-template-rows: 50px 200px 50px;
+    gap: 10px;
+}
+
+#pipe-grid {
+    grid-area: grid;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    border: 3px solid #ccc;
+}
+
+.pipe {
+    width: 100px;
+    height: 100px;
+    transition: transform 0.2s ease-out; /* Smooth rotation */
+}
+
+/* Button Positioning */
+.control-button {
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.top { grid-area: top; }
+.bottom { grid-area: bottom; }
+.left { grid-area: left; }
+.right { grid-area: right; }
+
+/* CSS Rotation Classes (0-3 for 0, 90, 180, 270 degrees) */
+.rotate-0 { transform: rotate(0deg); }
+.rotate-1 { transform: rotate(90deg); }
+.rotate-2 { transform: rotate(180deg); }
+.rotate-3 { transform: rotate(270deg); }
+
+#message {
+    margin-top: 20px;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #333;
+}
+
+.win-message {
+    color: green;
+}

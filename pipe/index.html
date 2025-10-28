@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pipe Rotation Puzzle</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Pipe Rotation Puzzle</h1>
+
+    <div id="game-container">
+        <button class="control-button top" onclick="topRotate()">TOP</button>
+
+        <button class="control-button left" onclick="leftRotate()">LEFT</button>
+        
+        <div id="pipe-grid">
+            <img id="pipe-0" src="pipeGrey_04.png" class="pipe">
+            <img id="pipe-1" src="pipeGrey_04.png" class="pipe">
+            <img id="pipe-2" src="pipeGrey_02.png" class="pipe">
+            <img id="pipe-3" src="pipeGrey_02.png" class="pipe">
+        </div>
+
+        <button class="control-button right" onclick="rightRotate()">RIGHT</button>
+        
+        <button class="control-button bottom" onclick="bottomRotate()">BOTTOM</button>
+    </div>
+
+    <p id="message"></p>
+    <button id="reset-button" onclick="resetGame()" style="display:none;">Reset Puzzle</button>
+
+    <script src="script.js"></script>
+</body>
+</html>
