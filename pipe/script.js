@@ -1,10 +1,11 @@
-// The current state of the 4 pipes (0=TL, 1=TR, 2=BL, 3=BR)
-// Index represents the rotation angle (0=0deg, 1=90deg, 2=180deg, 3=270deg)
-// 0:UR, 1:DR, 2:DL, 3:UL
-// Initial State (UL, UL, DR, DR) -> (3, 3, 1, 1)
-const SCRAMBLED_STATE = [3, 3, 1, 1];
+// --- New Scramble and Goal Definitions ---
 
-// Goal State (DR, DL, UR, UL) -> (1, 2, 0, 3)
+// New Scrambled State (UL, UR, DR, UR) -> [3, 0, 1, 0]
+// Requires at least 3 moves to solve.
+const SCRAMBLED_STATE = [3, 0, 1, 0]; 
+
+// New Goal State (The 'Circle' / 'C' shape) -> [1, 2, 0, 3]
+// TL(DR), TR(DL), BL(UR), BR(UL)
 const GOAL_STATE = [1, 2, 0, 3]; 
 
 let pipes = [...SCRAMBLED_STATE];
@@ -25,18 +26,30 @@ function rotatePipe(pipeIndex) {
 }
 
 function updateDisplay() {
+    let solved = checkWin(); // Check the win status once
+
     for (let i = 0; i < 4; i++) {
         const rotationClass = `rotate-${pipes[i]}`;
-        // Clear previous rotation classes
-        pipeElements[i].className = 'pipe ' + rotationClass;
+        // Base class is always 'pipe'
+        let classList = ['pipe', rotationClass];
+        
+        // Add the 'solved' class if the puzzle is complete
+        if (solved) {
+            classList.push('solved');
+        }
+        
+        // Apply all classes
+        pipeElements[i].className = classList.join(' ');
     }
     
-    if (checkWin()) {
-        messageEl.textContent = "SOLVED! Great job in 3 moves!";
+    if (solved) {
+        // Display WIN message
+        messageEl.textContent = "SOLVED! The circle is complete!";
         messageEl.classList.add('win-message');
         resetButton.style.display = 'block';
     } else {
-        messageEl.textContent = "Find the 3-move solution!";
+        // Display regular message
+        messageEl.textContent = "Find the solution!";
         messageEl.classList.remove('win-message');
         resetButton.style.display = 'none';
     }
