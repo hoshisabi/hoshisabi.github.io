@@ -23,8 +23,9 @@ body {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, 1fr);
-    /* Keep the main border here */
+    /* Grid Border: Default color, with transition */
     border: 3px solid #ccc;
+    transition: border-color 0.5s ease-in-out;
 }
 
 .pipe {
@@ -32,7 +33,7 @@ body {
     height: 100px;
     /* Apply border and shadow transitions to the pipe itself */
     transition: transform 0.2s ease-out, box-shadow 0.3s ease-in-out, border 0.3s ease-in-out;
-    /* Ensure a default border so the solved border change is visible */
+    /* Ensure a default transparent border so the solved border change is visible */
     border: 1px solid transparent; 
 }
 
@@ -64,11 +65,15 @@ body {
     color: green;
 }
 
-/* New CSS class for the solved state visual effect */
+/* 🏆 SOLVED STATE STYLES 🏆 */
+
+/* 1. Pipe Glow (Per-Pipe) */
 .pipe.solved {
-    /* Stronger, outer glow for better visibility */
-    box-shadow: 0 0 10px 4px rgba(76, 175, 80, 0.8), inset 0 0 5px 1px rgba(76, 175, 80, 0.5);
+    box-shadow: 0 0 15px 5px rgba(76, 175, 80, 1.0); /* Very strong green glow */
     border: 1px solid #4CAF50; 
 }
 
-/* REMOVE the duplicate/incomplete #pipe-grid rule at the end. */
+/* 2. Grid Border Change (The Unambiguous Indicator) */
+#pipe-grid.solved-border {
+    border-color: #4CAF50;
+}

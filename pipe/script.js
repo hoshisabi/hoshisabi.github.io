@@ -11,6 +11,7 @@ const GOAL_STATE = [1, 2, 0, 3];
 let pipes = [...SCRAMBLED_STATE];
 const messageEl = document.getElementById('message');
 const resetButton = document.getElementById('reset-button');
+const pipeGridEl = document.getElementById('pipe-grid'); // New element reference
 const pipeElements = [
     document.getElementById('pipe-0'),
     document.getElementById('pipe-1'),
@@ -28,26 +29,29 @@ function rotatePipe(pipeIndex) {
 function updateDisplay() {
     let solved = checkWin(); // Check the win status once
 
+    // Apply rotation and solved class to individual pipes
     for (let i = 0; i < 4; i++) {
         const rotationClass = `rotate-${pipes[i]}`;
-        // Base class is always 'pipe'
         let classList = ['pipe', rotationClass];
         
-        // Add the 'solved' class if the puzzle is complete
         if (solved) {
             classList.push('solved');
         }
         
-        // Apply all classes
         pipeElements[i].className = classList.join(' ');
     }
     
+    // Apply solved border to the main grid container
     if (solved) {
+        pipeGridEl.classList.add('solved-border');
+        
         // Display WIN message
         messageEl.textContent = "SOLVED! The circle is complete!";
         messageEl.classList.add('win-message');
         resetButton.style.display = 'block';
     } else {
+        pipeGridEl.classList.remove('solved-border');
+        
         // Display regular message
         messageEl.textContent = "Find the solution!";
         messageEl.classList.remove('win-message');
