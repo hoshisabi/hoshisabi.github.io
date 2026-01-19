@@ -13,9 +13,10 @@ if you're coming here you managed to find one of the rare finished tasks.
 
 * Information about [Basht](rpg/basht.md) from before the first adventure was written.
 * [Adventurers League Documents](https://www.dndbeyond.com/posts/1676-what-is-adventurers-league)
+  * [Unofficial, but complete alternate location](https://www.adventurersleague.info/).
 
 ## D&D Campaign I Run
-* [Phandelver](rpg/phandelver.md)
+* FINISHED: [Phandelver](rpg/phandelver.md)
 
 ## D&D Campaigns I Play In
 
