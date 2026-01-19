@@ -8,6 +8,7 @@ if you're coming here you managed to find one of the rare finished tasks.
 * Are you interested in [My Adventures](myadventures.md)?
 * Are you interested in joining a session of the games I run at [Pando DND](http://pandodnd.com)?
 * Looking to contact me on [Twitter](https://twitter.com/hoshisabi)?
+* Looking for an index of Adventurers League adventures? [Here](https://hoshisabi.com/al_adventure_catalog/)
 
 ## RPG Information that I don't want to lose
 
