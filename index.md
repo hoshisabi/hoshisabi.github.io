@@ -26,14 +26,13 @@ if you're coming here you managed to find one of the rare finished tasks.
 * FINISHED: Wild Beyond the Witchlight (online, DM: John Rogers): [Burgess](rpg/burgess/index.md)
 * FINISHED: Wild Beyond the Witchlight (in person, DM: Kate Hoff): [Rool](rpg/rool/index.md)
 
-## Adventurers League at U-Con 2025
-We will be running AL at U-Con this year, again. If you want more detail, 
-please look at the U-Con site https://www.ucon-gaming.org/
+## Adventurers League at U-Con
+We ran Adventurers League at U-Con, and plan to run it again next year. 
+For more information about U-Con:  https://www.ucon-gaming.org/
 
-The AL events are available [here](https://tabletop.events/conventions/u-con-2025/schedule#?query=U-Con%20Adventurers%20League)
+The AL events were available [here](https://tabletop.events/conventions/u-con-2025/schedule#?query=U-Con%20Adventurers%20League)
 
-In addition, we will be fundraising for [The Trevor Project](https://give.thetrevorproject.org/team/534949) 
-and [Doctors Without Borders](https://events.doctorswithoutborders.org/index.cfm?fuseaction=donordrive.personalCampaign&participantID=8648).
+In addition, we fundraised for [Doctors Without Borders](https://events.doctorswithoutborders.org/index.cfm?fuseaction=donordrive.personalCampaign&participantID=8648).
 
 
 
