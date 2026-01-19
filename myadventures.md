@@ -24,6 +24,11 @@ So far, all of my published adventures have been for Adventurers League.
   * Have You No Heart? is a standalone adventure set in the peculiar village of Basht.
   * Can be played as a series of The Peculiar Village of Basht
   * Olivia Alfera calls the party back to Basht to help Robin Goodman reunite a girl with her father.
+* [Welcome to Basht][FR-DC-UCON25] **FR-DC-UCON25**
+  * Bundle of three adventures, a prequel series to introduce players to Basht
+  * Can be played as a "Learn to Play" series.
+  * Written by multiple authors, but my contribution was:
+    * Burl Trouble **FR-DC-UCON25-01**: A one-hour adventure for levels 1-2, optimized for level 1. 
 
 ## The Strange Case of Erland Forsk
 
@@ -59,22 +64,38 @@ So far, all of my published adventures have been for Adventurers League.
 * [Someone Dropped the Goat-Ball][DC-POA-PND-1] **DC-POA-PND-1**
   * A Four-Hour Adventure for Tier 2 characters (levels 5-10), optimized for APL 8.
   * A DungeonCraft adventure using the "Goat-Ball!" seed.
+  * The captain seemed desperate and you were the only ones willing to help him solve his issue. Should be simple, deliver a crate. Not like you’d expect a monster at the end of this little adventure.
+* [Someone Dropped the Goat-Ball][DC-POA-PND-1] **DC-POA-PND-1**
 
+## Book Club
+* [The Monster at the End of this Adventure][SJ-DC-PND-1] **SJ-DC-PND-1**
+  * A Two-Hour Adventure for Tier 1 characters, Optimized for APL 3.
+  * A DungeonCraft adventure using the "Saint Argol’s Fire" seed.
+* [The Very Hungry Monster][SJ-DC-PND-2] **SJ-DC-PND-2**
+  * A Two-Hour Adventure for Tier 1 characters, Optimized for APL 3.
+  * A DungeonCraft adventure using the "Headed My Way?" seed.
+* [The Little Monster][SJ-DC-PND-3] **SJ-DC-PND-3**
+  * A Two-Hour Adventure for Tier 1 characters, Optimized for APL 3.
+  * A DungeonCraft adventure using the "Unexpected Passenger" seed.
+  
 ## Ad Astra
-
 * [Lone Survivors][SJ-DC-DD-02] **SJ-DC-DD-02**
   * A Four-Hour Adventure for Tier 1 Characters (levels 5-10), optimized for APL 3.
   * The Ad Astra Series is a collaboration between experienced authors on the Dungeon Designers Discord, I was part of a larger team for this one.
   * A horror adventure based on old science fiction horror movies and books, but with a D&D spin.
 
-[DC-POA-PND-Forsk]: https://www.dmsguild.com/product/369460/The-Strange-Case-of-Erland-Forsk-BUNDLE?affiliate_id=171040
-[CCC-UCON-02-01]: https://www.dmsguild.com/product/341178/CCCUCON0201-The-Goat-Mayor?affiliate_id=171040&src=hoshisabi
-[CCC-UCON-03]: https://www.dmsguild.com/product/341504/CCCUCON03-The-Straw-Bears?affiliate_id=171040&src=hoshisabi
-[WBW-DC-UCON-1]: https://www.dmsguild.com/product/408590/The-Party-that-Split-WBWDCUCON01?affiliate_id=171040&src=hoshisabi
-[WBW-DC-UCON-2]: https://www.dmsguild.com/product/408615/Have-You-No-Heart-WBWDCUCON02?affiliate_id=171040&src=hoshisabi
-[DC-POA-PND-1]: https://www.dmsguild.com/product/354319/Someone-Dropped-the-GoatBall-DCPOAPND1?affiliate_id=171040&src=hoshisabi
-[DC-POA-PND-2]: https://www.dmsguild.com/product/369329/What-Skitters-Beneath-DCPOAPND2?affiliate_id=171040&src=hoshisabi
-[DC-POA-PND-3]: https://www.dmsguild.com/product/369336/The-Watcher-in-the-Attic-DCPOAPND3?affiliate_id=171040&src=hoshisabi
-[DC-POA-PND-4]: https://www.dmsguild.com/product/369347/DCPOAPND4-Eateat-Go-Home?affiliate_id=171040&src=hoshisabi
-[DC-POA-PND-5]: https://www.dmsguild.com/product/369349/What-Stalks-the-Night-DCPOAPND5?affiliate_id=171040&src=hoshisabi
-[SJ-DC-DD-02]: https://www.dmsguild.com/product/421749/SJDCDD02-Lone-Survivors?affiliate_id=171040&src=hoshisabi
+[DC-POA-PND-Forsk]: https://www.dmsguild.com/product/369460?affiliate_id=171040&src=hoshisabi
+[CCC-UCON-02-01]: https://www.dmsguild.com/product/341178?affiliate_id=171040&src=hoshisabi
+[CCC-UCON-03]: https://www.dmsguild.com/product/341504?affiliate_id=171040&src=hoshisabi
+[WBW-DC-UCON-1]: https://www.dmsguild.com/product/408590?affiliate_id=171040&src=hoshisabi
+[WBW-DC-UCON-2]: https://www.dmsguild.com/product/408615?affiliate_id=171040&src=hoshisabi
+[DC-POA-PND-1]: https://www.dmsguild.com/product/354319?affiliate_id=171040&src=hoshisabi
+[DC-POA-PND-2]: https://www.dmsguild.com/product/369329?affiliate_id=171040&src=hoshisabi
+[DC-POA-PND-3]: https://www.dmsguild.com/product/369336?affiliate_id=171040&src=hoshisabi
+[DC-POA-PND-4]: https://www.dmsguild.com/product/369347?affiliate_id=171040&src=hoshisabi
+[DC-POA-PND-5]: https://www.dmsguild.com/product/369349?affiliate_id=171040&src=hoshisabi
+[SJ-DC-DD-02]: https://www.dmsguild.com/product/421749?affiliate_id=171040&src=hoshisabi
+[FR-DC-UCON25]: https://www.dmsguild.com/product/545950?affiliate_id=171040&src=hoshisabi
+[SJ-DC-PND-1]: https://www.dmsguild.com/product/465639?affiliate_id=171040&src=hoshisabi
+[SJ-DC-PND-2]: https://www.dmsguild.com/product/465703?affiliate_id=171040&src=hoshisabi
+[SJ-DC-PND-3]: https://www.dmsguild.com/product/465705?affiliate_id=171040&src=hoshisabi
