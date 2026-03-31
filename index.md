@@ -21,7 +21,7 @@ if you're coming here you managed to find one of the rare finished tasks.
 
 ## D&D Campaigns I Play In
 
-* RETIRED: Icewind Dale "Heroes We Need" (in person, DM: Chris Hubbard) [Spare](rpg/spare/index.md)
+* RETIRED: Icewind Dale "Heroes We Need" (in person, DM: Chris Hubbard) [Spare](rpg/spare/spare.md)
 * FINISHED: Vecna (in person, DM: Anthony Gow): [Faark](https://www.dndbeyond.com/characters/100329165/V3rxpG)
 * FINISHED: Wild Beyond the Witchlight (online, DM: John Rogers): [Burgess](rpg/burgess/index.md)
 * FINISHED: Wild Beyond the Witchlight (in person, DM: Kate Hoff): [Rool](rpg/rool/index.md)
@@ -33,12 +33,3 @@ For more information about U-Con:  https://www.ucon-gaming.org/
 The AL events were available [here](https://tabletop.events/conventions/u-con-2025/schedule#?query=U-Con%20Adventurers%20League)
 
 In addition, we fundraised for [Doctors Without Borders](https://events.doctorswithoutborders.org/index.cfm?fuseaction=donordrive.personalCampaign&participantID=8648).
-
-
-
-## Ignore this section
-
-* [DDAL Test](https://hoshisabi.com/al_adventure_catalog/)
-* Information about the past [U-Con](ucon.md)?
-
-
