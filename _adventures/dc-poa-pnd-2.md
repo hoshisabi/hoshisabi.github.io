@@ -9,5 +9,6 @@ apl: 3
 runtime: "2 hours"
 dungeoncraft_seed: "Burrowing Borrowers"
 link: "https://www.dmsguild.com/product/369329?affiliate_id=171040&src=hoshisabi"
+image: https://d1vzi28wh99zvq.cloudfront.net/images/8957/369329.webp
 ---
 A standalone adventure set in Easthaven in the Ten Towns region. Strange things have been happening near the Wet Trout Tavern by the docks — mysterious lights, missing items, missing people, and now the bartender swears he saw a ghost. Can you help get to the bottom of this?
