@@ -1,0 +1,20 @@
+# LEARNING NOTE: _data files
+# ────────────────────────────
+# Files in _data/ are loaded automatically by Jekyll and available
+# as site.data.series (filename without extension).
+# YAML lists like this one are accessed as arrays in Liquid.
+
+- id: ucon
+  title: "U-Con Adventures (The Peculiar Village of Basht)"
+
+- id: erland_forsk
+  title: "The Strange Case of Erland Forsk"
+
+- id: standalone
+  title: "Not Part of a Series"
+
+- id: book_club
+  title: "Book Club"
+
+- id: ad_astra
+  title: "Ad Astra"

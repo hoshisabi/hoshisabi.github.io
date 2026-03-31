@@ -1,0 +1,200 @@
+/* ─── Variables ──────────────────────────────────────────────────────────── */
+:root {
+  --bg:           #1b1f2e;
+  --bg-raised:    #242840;
+  --bg-card:      #1e2235;
+  --border:       #2e3456;
+  --text:         #dde0ec;
+  --text-muted:   #8b91b0;
+  --link:         #7fa6e8;
+  --link-hover:   #aac4f5;
+  --accent:       #5b7fd4;
+  --code-bg:      #141728;
+  --radius:       6px;
+  --max-width:    860px;
+  --font:         system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-mono:    "Cascadia Code", "Fira Code", Consolas, monospace;
+}
+
+/* ─── Reset ──────────────────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font);
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+/* ─── Layout ─────────────────────────────────────────────────────────────── */
+.container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+/* ─── Header / Nav ───────────────────────────────────────────────────────── */
+.site-header {
+  background: var(--bg-raised);
+  border-bottom: 1px solid var(--border);
+  padding: 0.85rem 0;
+}
+
+.site-header .container {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.site-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--text);
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.site-title:hover { color: var(--link-hover); }
+
+.site-nav {
+  display: flex;
+  gap: 1.25rem;
+  flex-wrap: wrap;
+}
+
+.site-nav a {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-size: 0.9rem;
+  transition: color 0.15s;
+}
+
+.site-nav a:hover { color: var(--link-hover); }
+
+/* ─── Main content ───────────────────────────────────────────────────────── */
+.page-content {
+  padding-top: 2.5rem;
+  padding-bottom: 4rem;
+}
+
+/* ─── Typography ─────────────────────────────────────────────────────────── */
+h1, h2, h3, h4 {
+  color: var(--text);
+  line-height: 1.25;
+  margin: 1.75rem 0 0.6rem;
+}
+
+h1 { font-size: 2rem; margin-top: 0; }
+h2 { font-size: 1.4rem; border-bottom: 1px solid var(--border); padding-bottom: 0.3rem; }
+h3 { font-size: 1.15rem; }
+
+p { margin: 0.75rem 0; }
+
+a { color: var(--link); }
+a:hover { color: var(--link-hover); }
+
+ul, ol {
+  padding-left: 1.5rem;
+  margin: 0.5rem 0;
+}
+
+li { margin: 0.3rem 0; }
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: var(--radius);
+}
+
+code {
+  font-family: var(--font-mono);
+  font-size: 0.875em;
+  background: var(--code-bg);
+  padding: 0.15em 0.4em;
+  border-radius: 3px;
+}
+
+pre {
+  background: var(--code-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1rem 1.25rem;
+  overflow-x: auto;
+}
+
+pre code { background: none; padding: 0; }
+
+blockquote {
+  border-left: 3px solid var(--accent);
+  margin: 1rem 0;
+  padding: 0.25rem 1rem;
+  color: var(--text-muted);
+}
+
+hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 2rem 0;
+}
+
+/* ─── Adventure cards (used in myadventures.md) ──────────────────────────── */
+.adventure-series {
+  margin-bottom: 3rem;
+}
+
+.adventure-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.1rem 1.25rem;
+  margin-bottom: 1rem;
+}
+
+.adventure-card h3 {
+  margin: 0 0 0.25rem;
+  font-size: 1.05rem;
+}
+
+.adventure-card h3 a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+.adventure-card h3 a:hover { color: var(--link-hover); text-decoration: underline; }
+
+.adventure-code {
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  margin-bottom: 0.5rem;
+}
+
+.adventure-meta {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  margin-top: 0.6rem;
+}
+
+.adventure-meta span + span::before {
+  content: " · ";
+}
+
+.adventure-card p {
+  font-size: 0.92rem;
+  margin: 0.4rem 0 0;
+  color: #bcc3dc;
+}
+
+/* ─── Footer ─────────────────────────────────────────────────────────────── */
+.site-footer {
+  background: var(--bg-raised);
+  border-top: 1px solid var(--border);
+  padding: 1.25rem 0;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.site-footer a { color: var(--text-muted); }
+.site-footer a:hover { color: var(--link-hover); }
