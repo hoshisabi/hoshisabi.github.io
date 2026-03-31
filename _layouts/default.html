@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <!--
+        <!--
     LEARNING NOTE: Liquid filters
     ─────────────────────────────
     {{ page.title }}  → the "title:" value from a page's front matter
@@ -12,67 +12,72 @@
     site.title        → the "title:" value from _config.yml
     &mdash;           → an em dash — rendered by the browser
   -->
-  <title>{{ page.title | default: site.title }} &mdash; {{ site.title }}</title>
+        <title>
+            {{ page.title | default: site.title }} &mdash; {{ site.title }}
+        </title>
 
-  <!--
+        <!--
     LEARNING NOTE: relative_url
     ────────────────────────────
     relative_url prepends site.baseurl so links work whether the site
     lives at "/" or in a subdirectory like "/blog/".
     For GitHub Pages at a root domain this is a no-op, but it's good practice.
   -->
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+        <link
+            rel="stylesheet"
+            href="{{ '/assets/css/style.css' | relative_url }}"
+        />
 
-  <!--
+        <!--
     LEARNING NOTE: if / endif
     ──────────────────────────
     Liquid control tags let you conditionally include markup.
     page.mermaid is a custom boolean we set in front matter on pages
     that contain Mermaid diagrams.
   -->
-  {% if page.mermaid %}
-    {% include mermaid.html %}
-  {% endif %}
-</head>
+        {% if page.mermaid %} {% include mermaid.html %} {% endif %}
+    </head>
 
-<body>
-
-  <!--
+    <body>
+        <!--
     LEARNING NOTE: includes
     ────────────────────────
-    {% include file.html %} inserts the contents of _includes/file.html
+    {-%- include file.html -%-}   (without dashes) inserts the contents of _includes/file.html
     right here. Good for nav, footers, or anything reused across pages.
   -->
-  <header class="site-header">
-    <div class="container">
-      <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-      <nav class="site-nav">
-        <a href="{{ '/' | relative_url }}">Home</a>
-        <a href="{{ '/myadventures' | relative_url }}">Adventures</a>
-        <a href="{{ '/ucon' | relative_url }}">U-Con</a>
-      </nav>
-    </div>
-  </header>
+        <header class="site-header">
+            <div class="container">
+                <a class="site-title" href="{{ '/' | relative_url }}"
+                    >{{ site.title }}</a
+                >
+                <nav class="site-nav">
+                    <a href="{{ '/' | relative_url }}">Home</a>
+                    <a href="{{ '/myadventures' | relative_url }}"
+                        >Adventures</a
+                    >
+                    <a href="{{ '/ucon' | relative_url }}">U-Con</a>
+                </nav>
+            </div>
+        </header>
 
-  <main class="container page-content">
-    <!--
+        <main class="container page-content">
+            <!--
       LEARNING NOTE: content
       ───────────────────────
       {{ content }} is where Jekyll injects the rendered output of the
       current page. For a .md file that means your Markdown has already
       been converted to HTML before it arrives here.
     -->
-    {{ content }}
-  </main>
+            {{ content }}
+        </main>
 
-  <footer class="site-footer">
-    <div class="container">
-      <p>
-        Daniel E. Chapman II &mdash;
-        <a href="https://twitter.com/hoshisabi">@hoshisabi</a>
-      </p>
-    </div>
-  </footer>
-
-</body>
+        <footer class="site-footer">
+            <div class="container">
+                <p>
+                    Daniel E. Chapman II &mdash;
+                    <a href="https://twitter.com/hoshisabi">@hoshisabi</a>
+                </p>
+            </div>
+        </footer>
+    </body>
 </html>
