@@ -1,5 +1,23 @@
-theme: jekyll-theme-slate
 title: Hoshisabi's Projects
 description: Various projects being worked on by Daniel E. Chapman II
 
+# LEARNING NOTE: collections
+# ────────────────────────────
+# A collection is a group of related documents that aren't blog posts.
+# Jekyll makes them available as site.adventures (or whatever you name them).
+# output: false means Jekyll won't create individual HTML pages per adventure —
+# we'll loop through them ourselves in myadventures.md.
+collections:
+  adventures:
+    output: false
 
+# LEARNING NOTE: defaults
+# ────────────────────────
+# Instead of adding "layout: default" to every page's front matter,
+# you can declare it once here. This applies the default layout to all
+# pages and collection documents unless they override it.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
