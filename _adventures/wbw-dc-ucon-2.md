@@ -8,5 +8,6 @@ levels: "5–10"
 apl: 8
 runtime: "4 hours"
 link: "https://www.dmsguild.com/product/408615?affiliate_id=171040&src=hoshisabi"
+image: https://d1vzi28wh99zvq.cloudfront.net/images/8957/408615.webp
 ---
 A standalone adventure set in the peculiar village of Basht. Olivia Alfera calls the party back to Basht to help Robin Goodman reunite a girl with her father.

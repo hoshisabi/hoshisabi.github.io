@@ -8,5 +8,6 @@ levels: "1–4"
 apl: 3
 runtime: "2–4 hours"
 link: "https://www.dmsguild.com/product/341504?affiliate_id=171040&src=hoshisabi"
+image: https://d1vzi28wh99zvq.cloudfront.net/images/8957/341504.webp
 ---
 A standalone adventure set in the peculiar village of Basht. You return for one of their unusual festivals: the procession of the Straw Bears. While there, you meet some old friends and are asked to escort the brave villagers into the woods to continue the party into the night. It should be perfectly safe, shouldn't it?

@@ -8,5 +8,6 @@ levels: "5–10"
 apl: 3
 runtime: "4 hours"
 link: "https://www.dmsguild.com/product/421749?affiliate_id=171040&src=hoshisabi"
+image: https://d1vzi28wh99zvq.cloudfront.net/images/8957/421749.webp
 ---
 A horror adventure inspired by old science fiction films and novels — but with a D&D spin. Part of the Ad Astra series, a collaboration between experienced authors on the Dungeon Designers Discord.
