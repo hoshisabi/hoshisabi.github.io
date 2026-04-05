@@ -152,6 +152,30 @@ hr {
   margin-bottom: 1rem;
 }
 
+.adventure-card-inner {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.adventure-card-image {
+  flex-shrink: 0;
+  width: 110px;
+}
+
+.adventure-card-image img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+}
+
+.adventure-card-body {
+  flex: 1;
+  min-width: 0;
+}
+
 .adventure-card h3 {
   margin: 0 0 0.25rem;
   font-size: 1.05rem;

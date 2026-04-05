@@ -28,17 +28,26 @@ All of my published adventures are for D&D Adventurers League, available on the 
 {% assign series_adventures = site.adventures | where: "series", series.id | sort: "order" %}
 {% for adventure in series_adventures %}
 <div class="adventure-card">
-  <h3><a href="{{ adventure.link }}">{{ adventure.title }}</a></h3>
-  <div class="adventure-code">{{ adventure.code }}</div>
-  {{ adventure.content }}
-  {% unless adventure.bundle %}
-  <div class="adventure-meta">
-    <span>Tier {{ adventure.tier }}</span>
-    <span>Levels {{ adventure.levels }}, APL {{ adventure.apl }}</span>
-    <span>{{ adventure.runtime }}</span>
-    {% if adventure.dungeoncraft_seed %}<span>DungeonCraft: {{ adventure.dungeoncraft_seed }}</span>{% endif %}
+  <div class="adventure-card-inner">
+    {% if adventure.image %}
+    <a href="{{ adventure.link }}" class="adventure-card-image">
+      <img src="{{ adventure.image }}" alt="{{ adventure.title }} cover" loading="lazy">
+    </a>
+    {% endif %}
+    <div class="adventure-card-body">
+      <h3><a href="{{ adventure.link }}">{{ adventure.title }}</a></h3>
+      <div class="adventure-code">{{ adventure.code }}</div>
+      {{ adventure.content }}
+      {% unless adventure.bundle %}
+      <div class="adventure-meta">
+        <span>Tier {{ adventure.tier }}</span>
+        <span>Levels {{ adventure.levels }}, APL {{ adventure.apl }}</span>
+        <span>{{ adventure.runtime }}</span>
+        {% if adventure.dungeoncraft_seed %}<span>DungeonCraft: {{ adventure.dungeoncraft_seed }}</span>{% endif %}
+      </div>
+      {% endunless %}
+    </div>
   </div>
-  {% endunless %}
 </div>
 {% endfor %}
 
