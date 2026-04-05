@@ -7,9 +7,9 @@
   <!--
     LEARNING NOTE: Liquid output tags  {{ }}
     ─────────────────────────────────────────
-    Liquid runs BEFORE the browser sees any HTML — even before <!-- comments -->.
+    Liquid runs BEFORE the browser sees any HTML — even before HTML comments.
     That means you can't just write {% raw %}{{ page.title }}{% endraw %} in a comment to illustrate it;
-    Liquid would evaluate it immediately. Use {% raw %}{% raw %}...{% endraw %}{% endraw %} to show code literally.
+    Liquid would evaluate it immediately. Use raw/endraw tags to show code literally.
 
     {% raw %}{{ page.title }}{% endraw %}   → the "title:" value from a page's front matter
     {% raw %}{{ site.title }}{% endraw %}   → the "title:" value from _config.yml
@@ -28,7 +28,7 @@
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
   <!--
-    LEARNING NOTE: if/endif tags  {% %}
+    LEARNING NOTE: if/endif tags
     ─────────────────────────────────────
     {% raw %}{% if condition %}...{% endif %}{% endraw %} lets you conditionally include markup.
     page.mermaid is a custom boolean we set in front matter on any page
@@ -61,9 +61,9 @@
 
   <main class="container page-content">
     <!--
-      LEARNING NOTE: {{ content }}
+      LEARNING NOTE: the content variable
       ──────────────────────────────
-      This is the one magic variable that only works inside a layout file.
+      {% raw %}{{ content }}{% endraw %} is the one magic variable that only works inside a layout file.
       Jekyll takes the current page (already converted from Markdown to HTML),
       and injects it here. Every page gets the same header/footer; only the
       content in the middle changes.
