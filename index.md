@@ -16,11 +16,12 @@ if you're coming here you managed to find one of the rare finished tasks.
 * [Adventurers League Documents](https://www.dndbeyond.com/posts/1676-what-is-adventurers-league)
   * [Unofficial, but complete alternate location](https://www.adventurersleague.info/).
 
-## D&D Campaign I Run
+## D&D Campaigns I Run
+* ACTIVE: [Icewind Dale](rpg/icewind-dale/public/) (in person, Pandemonium Games)
 * FINISHED: [Phandelver](rpg/phandelver.md)
 
 ## D&D Campaigns I Play In
-
+* ACTIVE: Legends of Greyhawk — Temple of Elemental Evil (online, DM: Bryan) — playing Oskar
 * RETIRED: Icewind Dale "Heroes We Need" (in person, DM: Chris Hubbard) [Spare](rpg/spare/spare.md)
 * FINISHED: Vecna (in person, DM: Anthony Gow): [Faark](https://www.dndbeyond.com/characters/100329165/V3rxpG)
 * FINISHED: Wild Beyond the Witchlight (online, DM: John Rogers): [Burgess](rpg/burgess/index.md)
