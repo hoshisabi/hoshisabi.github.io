@@ -16,7 +16,7 @@ title: Roaring River
 
 ## Description
 
-A Tabaxi with spotted fur, a climbing speed equal to walking, and Darkvision. Speaks Common, Dwarvish, Sylvan, and Thieves' Cant — an unusual language spread that hints at a varied history. Background as a Mulhorandi Tomb Raider suggests experience with traps, ancient places, and things best left undisturbed. Currently transitioning from Swashbuckler Rogue into Monk — the character is finding a more deliberate, disciplined approach as the campaign progresses. Carries 1,000 ball bearings, which have not yet been deployed but will eventually matter at exactly the wrong moment.
+A male Tabaxi with spotted fur, a climbing speed equal to walking, and Darkvision. Speaks Common, Dwarvish, Sylvan, and Thieves' Cant — an unusual language spread that hints at a varied history. Background as a Mulhorandi Tomb Raider suggests experience with traps, ancient places, and things best left undisturbed. Currently transitioning from Swashbuckler Rogue into Monk — the character is finding a more deliberate, disciplined approach as the campaign progresses. Carries 1,000 ball bearings, which have not yet been deployed but will eventually matter at exactly the wrong moment.
 
 ## Personality
 

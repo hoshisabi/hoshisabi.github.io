@@ -9,7 +9,7 @@
 
 ## Description
 
-A Tabaxi with a climbing speed equal to walking (30 ft.), Darkvision 60 ft., and Cat's Claws for unarmed strikes. Speaks Common, Dwarvish, Sylvan, and Thieves' Cant — an unusual language spread that hints at a varied history. Background as a Mulhorandi Tomb Raider suggests experience with traps, ancient places, and things best left undisturbed.
+A male Tabaxi with a climbing speed equal to walking (30 ft.), Darkvision 60 ft., and Cat's Claws for unarmed strikes. Speaks Common, Dwarvish, Sylvan, and Thieves' Cant — an unusual language spread that hints at a varied history. Background as a Mulhorandi Tomb Raider suggests experience with traps, ancient places, and things best left undisturbed.
 
 ## Combat
 
