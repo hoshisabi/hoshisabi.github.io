@@ -224,6 +224,53 @@ hr {
   color: #bcc3dc;
 }
 
+/* ─── NPC pages ──────────────────────────────────────────────────────────── */
+.npc-portrait {
+  float: left;
+  width: 200px;
+  margin: 0 1.5rem 1rem 0;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+
+.npc-meta {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.15rem 0.75rem;
+  margin: 0 0 1rem;
+  align-items: baseline;
+}
+
+.npc-meta dt {
+  font-weight: 600;
+  color: var(--text-muted);
+  font-size: 0.875rem;
+  white-space: nowrap;
+}
+
+.npc-meta dt::after { content: ':'; }
+
+.npc-meta dd {
+  margin: 0;
+  font-size: 0.875rem;
+}
+
+.npc::after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+@media (max-width: 480px) {
+  .npc-portrait {
+    float: none;
+    display: block;
+    width: 100%;
+    max-width: 260px;
+    margin: 0 auto 1.25rem;
+  }
+}
+
 /* ─── Footer ─────────────────────────────────────────────────────────────── */
 .site-footer {
   background: var(--bg-raised);
