@@ -3,6 +3,7 @@ layout: npc
 title: Creepy
 role: Goblin expert (sidekick)
 status: Missing — presumed dead, Session 2
+image: /rpg/icewind-dale/public/npcs/images/creepy.png
 ---
 
 One of the party's sidekicks from the start of the campaign. He never remembered his own name. The party called him Creepy.
