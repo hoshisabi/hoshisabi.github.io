@@ -308,9 +308,12 @@ hr {
   border: 1px solid var(--border);
 }
 
-.npc-card img.npc-placeholder {
+.npc-no-image {
+  width: 80px;
+  height: 80px;
+  border-radius: var(--radius);
+  border: 1px dashed var(--border);
   background: var(--bg-raised);
-  opacity: 0.3;
 }
 
 .npc-card span {
