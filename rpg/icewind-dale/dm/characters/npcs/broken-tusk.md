@@ -12,7 +12,7 @@ Her sister married a Reghedsman who came to live with the tribe; the sister died
 
 ## Known History
 
-Has led the Coldpeak through the current crisis. The tribe has known about the Netherese chamber for generations and has always avoided it. Frostclaw's recent behavior has changed that calculation.
+Has led the Coldpeak through the current crisis. The tribe has known about the Netherese chamber for generations and has always avoided it. Rimetalon's recent behavior has changed that calculation.
 
 ## Session Notes
 
