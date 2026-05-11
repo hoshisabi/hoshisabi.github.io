@@ -12,7 +12,7 @@ Warrior. See [pasha.md](pasha.md). Josh's suggestion. Currently active.
 **Status:** MISSING — presumed dead (Session 2)
 **Player attribution:** Eric's suggestion
 
-A goblin expert sidekick. Had a name — Eric knew it, the DM never did. The party called him Creepy. Made it through the underground lake, the piercers, and the gazer negotiation. Was present when the party inserted the Ioun stones into the Netherese door — at which point his name appeared in blood on the door. His name. The one no one else knew. He ran. He made it outside. Frostclaw was waiting. Body not recovered.
+A goblin expert sidekick. Had a name — Eric knew it, the DM never did. The party called him Creepy. Made it through the underground lake, the piercers, and the gazer negotiation. Was present when the party inserted the Ioun stones into the Netherese door — at which point his name appeared in blood on the door. His name. The one no one else knew. He ran. He made it outside. Rimetalon was waiting. Body not recovered.
 
 **This is load-bearing.** The Netherese city didn't find him by chance. He was marked. Eric built a backstory the DM doesn't know — that backstory is the thread. Talk to Eric privately: *what is Creepy's name, and what is the worst thing in his past he has tried to forget?*
 
@@ -21,10 +21,10 @@ Whether the door predicted his death or caused it or simply knew is unresolved. 
 ## Dan the Bugbear
 
 **Type:** Bugbear sidekick
-**Status:** DEAD — killed by Frostclaw
+**Status:** DEAD — killed by Rimetalon
 **Player attribution:** Henry's suggestion
 
-Present during Session 1: the caravan attack, the elemental owl fight, and the night in the warm cave. Killed by Frostclaw — the party didn't have a name for it yet — the same Owlbear that arranged the gnome expert's remains.
+Present during Session 1: the caravan attack, the elemental owl fight, and the night in the warm cave. Killed by Rimetalon — the party didn't have a name for it yet — the same Owlbear that arranged the gnome expert's remains.
 
 ## The Nameless Spellcaster
 

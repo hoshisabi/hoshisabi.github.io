@@ -13,6 +13,6 @@ His name appeared in blood on the door.
 
 He knew it. No one else did — the DM included. The name was his, had always been his, and something in that chamber knew it without being told.
 
-He ran. He made it outside. Frostclaw was waiting. His body was not recovered.
+He ran. He made it outside. Rimetalon was waiting. His body was not recovered.
 
 Whether the door showed who was about to die, or caused it, or simply knew — the party has not discussed this openly. This is not the last time his name will matter.

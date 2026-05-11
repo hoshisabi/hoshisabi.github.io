@@ -21,7 +21,7 @@ Fully committed to the bit at all times. Sells snake oil to anything that will h
 
 - **Session 1:** Stabilized River using the Healer feat ("I'm a licensed chiropractor"); sold Berg a vial of red snake oil as a "speed potion"
 - **Session 2:** Successfully conned three gazers into trading Ioun stones for snake oil with a promise the stones would reappear in two days; used Misty Step + Refreshing Step repeatedly to stay mobile; the two-day deadline has since passed
-- **Session 3:** Negotiated the Dragonlord's Dagger trade with the mud spring guardian; extracted the sending stone; pocketed a bone necklace from Kugen's yurt while Kaarsk wasn't watching
+- **Session 3:** Negotiated the Dragonlord's Dagger trade with the mud spring guardian; extracted the sending stone; pocketed a bone necklace from Durok's yurt while Kaarsk wasn't watching
 
 ## Relationships
 
