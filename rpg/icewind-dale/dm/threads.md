@@ -31,6 +31,11 @@
 - [ACTIVE] **Kaarsk's Resentment**: Kaarsk is not wrong that times are hard and the hunting grounds are shrinking. He is wrong about what it means. His contempt for Savin and the peace with the Reghedsmen is a pressure point that will find a moment to matter.
 - [ACTIVE] **Savin's Scar**: Scar on his right hand. He deflects questions about it quickly. May or may not connect to the right-hand motif in the ruins. Worth having an answer ready.
 
+## The Bigger Picture
+
+- [BACKGROUND] **Auril's Curse**: The endless winter is not natural. Auril the Frostmaiden has plunged Icewind Dale into a winter that does not end. Durok knows this. His spring is his answer to it — a proof that geomancy can carve out space where Auril's cold has no authority. He wants to scale it. The Netherese staff is how he thought he could. The party does not yet know the winter is a curse or that someone has been actively trying to fight it.
+- [BACKGROUND] **The Irony of Durok's Bargain**: Netherese geomancy probably *could* counter Auril's influence at scale. Durok isn't wrong. The city extracting that knowledge from him, piece by piece, is the tragedy — he's right about the destination and catastrophically wrong about the road.
+
 ## Open / Background
 
 - [OPEN] **The Unnatural Blizzard**: Elemental manifestations (owls, razor snow, yellow eyes) suggest something is driving the weather. Source connected to the Netherese activity? Durok? Rimetalon? Unclear.
