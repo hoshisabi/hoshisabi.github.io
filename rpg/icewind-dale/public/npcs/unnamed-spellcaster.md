@@ -3,6 +3,7 @@ layout: npc
 title: The Nameless Spellcaster
 role: Gnome spellcaster (sidekick)
 status: "—"
+image: /rpg/icewind-dale/public/npcs/images/unnamed-spellcaster.png
 ---
 
 There was a gnome. A spellcaster. He was there for Session 1 and most of Session 2 — that much is certain. He had a Potion of Comprehension in his pack.

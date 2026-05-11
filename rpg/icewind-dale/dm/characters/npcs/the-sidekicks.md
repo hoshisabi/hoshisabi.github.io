@@ -24,6 +24,8 @@ Whether the door predicted his death or caused it or simply knew is unresolved. 
 **Status:** DEAD — killed by Rimetalon
 **Player attribution:** Henry's suggestion
 
+"Dan" is a shorthand — his real name started with Dan but was something more. He was a circus performer. Get Henry to fill in the full name and backstory before he becomes relevant in the story.
+
 Present during Session 1: the caravan attack, the elemental owl fight, and the night in the warm cave. Killed by Rimetalon — the party didn't have a name for it yet — the same Owlbear that arranged the gnome expert's remains.
 
 ## The Nameless Spellcaster
