@@ -3,6 +3,7 @@ layout: npc
 title: Rimetalon
 role: Owlbear
 status: Active — at large
+image: /rpg/icewind-dale/public/npcs/images/rimetalon.png
 ---
 
 Immense. Fourteen feet of white-feathered owlbear with a blue glow that has no natural explanation. She moves through blizzards without difficulty and has been a presence in this part of the Dale long enough that the Coldpeak treat her as a regional fact rather than a random encounter.
