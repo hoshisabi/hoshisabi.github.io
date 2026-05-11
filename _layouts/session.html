@@ -4,4 +4,10 @@ layout: default
 
 {% include campaign-nav.html %}
 
+{% if page.image %}
+<img src="{{ page.image }}" alt="{{ page.title }}" class="session-illustration">
+{% endif %}
+
 {{ content }}
+
+{% if page.image %}{% include portrait-lightbox.html %}{% endif %}
