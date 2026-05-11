@@ -27,9 +27,15 @@ The blizzard outside the camp reads: *Soon.*
 ## Player Characters
 
 {% assign characters = site.pages | where_exp: "p", "p.path contains 'icewind-dale/public/characters'" | sort: "title" %}
+<div class="npc-grid">
 {% for char in characters %}
-- [{{ char.title }}]({{ char.url }})
+<a href="{{ char.url }}" class="npc-card">
+  {% if char.image %}<img src="{{ char.image }}" alt="{{ char.title }}">{% else %}<div class="npc-no-image"></div>{% endif %}
+  <span>{{ char.title }}</span>
+  {% if char.player %}<span class="card-player">{{ char.player }}</span>{% endif %}
+</a>
 {% endfor %}
+</div>
 
 ## Notable NPCs
 
