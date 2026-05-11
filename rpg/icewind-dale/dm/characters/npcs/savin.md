@@ -13,7 +13,7 @@ Kaarsk has never hidden his contempt for Savin — he represents everything Kaar
 
 ## Known History
 
-Found Pasha wandering in the blizzard after she separated from the party and brought her to the tribe. Was astounded the party encountered Frostclaw and survived — vouched for them to Broken Tusk on that basis.
+Found Pasha wandering in the blizzard after she separated from the party and brought her to the tribe. Was astounded the party encountered Rimetalon and survived — vouched for them to Broken Tusk on that basis.
 
 ## Relationships
 
