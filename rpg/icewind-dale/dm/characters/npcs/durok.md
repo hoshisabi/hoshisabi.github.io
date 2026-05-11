@@ -11,6 +11,18 @@ Durok's gift was always pointed downward. An orc healer who read the land the wa
 
 He spent years sensing something beneath the mountain. When the rockslide revealed the Netherese ruins, he didn't stumble on them. He finally arrived somewhere he'd been approaching for a long time.
 
+## Motivation — Auril's Curse
+
+Durok is not a villain. He is a healer who watched Auril's winter kill his people in slow increments — livestock lost, hunters gone, children cold — and decided that someone had to do something about it.
+
+His spring is the proof of concept. He made a warm place in the middle of an eternal winter through geomancy alone. Green things grow there. The water runs. He did it. But it cost him everything he had, and it's one cave. Icewind Dale is not one cave.
+
+He knew he wasn't strong enough to scale it. He knew the Netherese geomancers had mastered what he was only beginning to understand — had bent the land itself, had made floating cities, had done impossible things with stone and heat and the deep forces he could barely sense. If he could learn their methods, he could push Auril's curse back. Not just from one spring. From the Dale.
+
+When the staff started whispering, it must have felt like an answer to a question he'd been asking his whole life.
+
+**He is right that it could work.** Netherese geomancy could theoretically counter Auril's influence at scale. The tragedy is not that his goal is wrong — it's that the price the city is extracting for that knowledge is himself.
+
 ## The Corruption Arc
 
 The staff he found didn't teach him Netherese magic. It translated what he already did into a language the dead city understood. The city recognized the shape of him — someone who goes deep, who listens to buried things — and began filling that shape differently.
