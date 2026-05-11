@@ -1,6 +1,7 @@
 ---
 layout: location
 title: The Netherese Ruins
+image: /rpg/icewind-dale/public/locations/images/netherese-ruins.png
 ---
 
 A complex of worked stone buried beneath the mountains near the Coldpeak territory. The tribe has known about it for generations and avoided it. The Owlbear has been circling it.
