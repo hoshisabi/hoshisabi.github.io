@@ -6,7 +6,7 @@
 
 ## Description
 
-A Goliath hunter from the Thunlakalaga tribe. Has a scar on his right hand that he deflects questions about.
+A Goliath hunter from the Thunlakalaga tribe (they/them). Has a scar on their right hand that they deflect questions about.
 
 ## Known History
 
