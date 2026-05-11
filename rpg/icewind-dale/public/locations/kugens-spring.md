@@ -3,8 +3,6 @@ layout: location
 title: Kugen's Sacred Spring
 ---
 
-# Kugen's Sacred Spring
-
 A shaman's sanctuary buried in the mountain — accessible through a tunnel sealed by runestone magic, warm and verdant in defiance of the Arctic cold outside. A stream of spring water bubbles from a crack in the rock, hissing as it descends toward lava below. An altar of living wood holds a leather-bound journal. A modest yurt covered in animal hides stands nearby.
 
 This is — or was — the sacred sanctuary of Kugen Feraltongue, the Coldpeak's missing shaman. When the party arrived, a small muddy creature had declared itself Guardian and set up a trading post. The Guardian had also stolen Kugen's runestones.
