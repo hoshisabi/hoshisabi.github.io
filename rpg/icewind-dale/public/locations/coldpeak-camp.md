@@ -1,6 +1,7 @@
 ---
 layout: location
 title: Coldpeak Camp
+image: /rpg/icewind-dale/public/locations/images/coldpeak-camp.png
 ---
 
 The home of the Coldpeak, an orc tribe currently under siege from Rimetalon and whatever is driving her. The party arrived here at the end of Session 2, vouched for by Savin and Pasha, and has been guests since.
