@@ -9,16 +9,14 @@ title: Icewind Dale Campaign
 
 ## Sessions
 
-{% for session in site.pages %}
-{% if session.path contains 'icewind-dale/public/sessions' %}
+{% assign sessions = site.pages | where_exp: "p", "p.path contains 'icewind-dale/public/sessions'" | sort: "title" %}
+{% for session in sessions %}
 - [{{ session.title }}]({{ session.url }})
-{% endif %}
 {% endfor %}
 
 ## Characters
 
-{% for char in site.pages %}
-{% if char.path contains 'icewind-dale/public/characters' %}
+{% assign characters = site.pages | where_exp: "p", "p.path contains 'icewind-dale/public/characters'" | sort: "title" %}
+{% for char in characters %}
 - [{{ char.title }}]({{ char.url }})
-{% endif %}
 {% endfor %}
