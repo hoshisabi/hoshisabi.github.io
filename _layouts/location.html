@@ -2,17 +2,16 @@
 layout: default
 ---
 
-<article class="npc">
+<article class="location">
   <h1>{{ page.title }}</h1>
 
   {% if page.image %}
   <img src="{{ page.image }}" alt="{{ page.title }}" class="portrait">
   {% endif %}
 
-  {% if page.role or page.race or page.status %}
-  <dl class="npc-meta">
-    {% if page.role %}<dt>Role</dt><dd>{{ page.role }}</dd>{% endif %}
-    {% if page.race %}<dt>Race</dt><dd>{{ page.race }}</dd>{% endif %}
+  {% if page.status or page.region %}
+  <dl class="location-meta">
+    {% if page.region %}<dt>Region</dt><dd>{{ page.region }}</dd>{% endif %}
     {% if page.status %}<dt>Status</dt><dd>{{ page.status }}</dd>{% endif %}
   </dl>
   {% endif %}
