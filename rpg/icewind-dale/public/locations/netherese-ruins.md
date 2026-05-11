@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: location
 title: The Netherese Ruins
 ---
 
