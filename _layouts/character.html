@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<article class="pc">
+  <h1>{{ page.title }}</h1>
+
+  {% if page.image %}
+  <img src="{{ page.image }}" alt="{{ page.title }}" class="portrait">
+  {% endif %}
+
+  {% if page.player or page.race or page.class or page.background %}
+  <dl class="pc-meta">
+    {% if page.player %}<dt>Player</dt><dd>{{ page.player }}</dd>{% endif %}
+    {% if page.race %}<dt>Race</dt><dd>{{ page.race }}</dd>{% endif %}
+    {% if page.class %}<dt>Class</dt><dd>{{ page.class }}</dd>{% endif %}
+    {% if page.background %}<dt>Background</dt><dd>{{ page.background }}</dd>{% endif %}
+    {% if page.dnd_beyond %}<dt>D&D Beyond</dt><dd><a href="{{ page.dnd_beyond }}">Character Sheet</a></dd>{% endif %}
+  </dl>
+  {% endif %}
+
+  {{ content }}
+</article>
+
+{% include portrait-lightbox.html %}
