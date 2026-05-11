@@ -52,6 +52,11 @@ The blizzard outside the camp reads: *Soon.*
 ## Locations
 
 {% assign locations = site.pages | where_exp: "p", "p.path contains 'icewind-dale/public/locations'" | sort: "title" %}
+<div class="npc-grid">
 {% for loc in locations %}
-- [{{ loc.title }}]({{ loc.url }})
+<a href="{{ loc.url }}" class="npc-card">
+  {% if loc.image %}<img src="{{ loc.image }}" alt="{{ loc.title }}">{% else %}<div class="npc-no-image"></div>{% endif %}
+  <span>{{ loc.title }}</span>
+</a>
 {% endfor %}
+</div>
