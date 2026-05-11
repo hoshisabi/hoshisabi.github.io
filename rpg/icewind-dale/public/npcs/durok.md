@@ -4,6 +4,7 @@ title: Durok Deepseeker
 role: Shaman, Coldpeak tribe
 race: Orc
 status: Missing
+image: /rpg/icewind-dale/public/npcs/images/durok.png
 ---
 
 The Coldpeak's shaman. A healer and reader of the land who spent years listening to what the mountain had to say and acting on what he heard.
