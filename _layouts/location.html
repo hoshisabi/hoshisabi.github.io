@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<article class="location">
+  <h1>{{ page.title }}</h1>
+
+  {% if page.image %}
+  <img src="{{ page.image }}" alt="{{ page.title }}" class="portrait">
+  {% endif %}
+
+  {% if page.status or page.region %}
+  <dl class="location-meta">
+    {% if page.region %}<dt>Region</dt><dd>{{ page.region }}</dd>{% endif %}
+    {% if page.status %}<dt>Status</dt><dd>{{ page.status }}</dd>{% endif %}
+  </dl>
+  {% endif %}
+
+  {{ content }}
+</article>
+
+{% include portrait-lightbox.html %}

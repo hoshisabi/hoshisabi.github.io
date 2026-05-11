@@ -224,16 +224,27 @@ hr {
   color: #bcc3dc;
 }
 
-/* ─── NPC pages ──────────────────────────────────────────────────────────── */
-.npc-portrait {
+/* ─── NPC / PC / Location pages ──────────────────────────────────────────── */
+.portrait {
   float: left;
   width: 200px;
   margin: 0 1.5rem 1rem 0;
   border: 1px solid var(--border);
   border-radius: var(--radius);
+  cursor: zoom-in;
 }
 
-.npc-meta {
+.npc::after,
+.pc::after,
+.location::after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+.npc-meta,
+.pc-meta,
+.location-meta {
   display: grid;
   grid-template-columns: auto 1fr;
   gap: 0.15rem 0.75rem;
@@ -241,28 +252,75 @@ hr {
   align-items: baseline;
 }
 
-.npc-meta dt {
+.npc-meta dt,
+.pc-meta dt,
+.location-meta dt {
   font-weight: 600;
   color: var(--text-muted);
   font-size: 0.875rem;
   white-space: nowrap;
 }
 
-.npc-meta dt::after { content: ':'; }
+.npc-meta dt::after,
+.pc-meta dt::after,
+.location-meta dt::after { content: ':'; }
 
-.npc-meta dd {
+.npc-meta dd,
+.pc-meta dd,
+.location-meta dd {
   margin: 0;
   font-size: 0.875rem;
 }
 
-.npc::after {
-  content: '';
-  display: block;
-  clear: both;
+/* ─── NPC thumbnail grid (index page) ────────────────────────────────────── */
+.npc-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 2rem;
+}
+
+.npc-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  text-decoration: none;
+  color: var(--text);
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 0.75rem 0.5rem;
+  transition: border-color 0.15s, background 0.15s;
+}
+
+.npc-card:hover {
+  border-color: var(--accent);
+  background: var(--bg-raised);
+  color: var(--link-hover);
+}
+
+.npc-card img {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+}
+
+.npc-card img.npc-placeholder {
+  background: var(--bg-raised);
+  opacity: 0.3;
+}
+
+.npc-card span {
+  font-size: 0.82rem;
+  text-align: center;
+  line-height: 1.3;
 }
 
 @media (max-width: 480px) {
-  .npc-portrait {
+  .portrait {
     float: none;
     display: block;
     width: 100%;

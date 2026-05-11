@@ -1,17 +1,13 @@
 ---
-layout: default
+layout: character
 title: Doctor Medicine
+player: Henry
+race: Human
+class: Warlock 4 (Archfey Patron)
+background: Charlatan
+dnd_beyond: https://www.dndbeyond.com/characters/164677217
+image: /rpg/icewind-dale/public/characters/images/dr-medicine.png
 ---
-
-# Doctor Medicine
-
-**Player:** Henry
-**Race:** Human
-**Class:** Warlock 4 (Archfey Patron)
-**Background:** Charlatan
-**D&D Beyond:** [Character Sheet](https://www.dndbeyond.com/characters/164677217)
-
-![Doctor Medicine](/rpg/icewind-dale/public/characters/images/dr-medicine.png)
 
 ## Description
 
@@ -25,7 +21,7 @@ Fully committed to the bit at all times. Sells snake oil to anything that will h
 
 - **Session 1:** Stabilized River using the Healer feat ("I'm a licensed chiropractor"); sold Berg a vial of red snake oil as a "speed potion"
 - **Session 2:** Successfully conned three gazers into trading Ioun stones for snake oil with a promise the stones would reappear in two days; used Misty Step + Refreshing Step repeatedly to stay mobile; the two-day deadline has since passed
-- **Session 3:** Negotiated the Dragonlord's Dagger trade with the mud spring guardian; extracted the sending stone; pocketed a bone necklace from Kugen's yurt while Kaskur wasn't watching
+- **Session 3:** Negotiated the Dragonlord's Dagger trade with the mud spring guardian; extracted the sending stone; pocketed a bone necklace from Kugen's yurt while Kaarsk wasn't watching
 
 ## Relationships
 

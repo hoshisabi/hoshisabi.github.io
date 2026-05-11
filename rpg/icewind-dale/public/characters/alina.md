@@ -1,17 +1,13 @@
 ---
-layout: default
+layout: character
 title: Alina Shandorath
+player: Dominic
+race: Tiefling (Chthonic Legacy)
+class: Wizard 4 (Evoker)
+background: Guide
+dnd_beyond: https://www.dndbeyond.com/characters/164743608
+image: /rpg/icewind-dale/public/characters/images/alina.png
 ---
-
-# Alina Shandorath
-
-**Player:** Dominic
-**Race:** Tiefling (Chthonic Legacy)
-**Class:** Wizard 4 (Evoker)
-**Background:** Guide
-**D&D Beyond:** [Character Sheet](https://www.dndbeyond.com/characters/164743608)
-
-![Alina Shandorath](/rpg/icewind-dale/public/characters/images/alina.png)
 
 ## Description
 

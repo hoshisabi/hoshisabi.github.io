@@ -1,18 +1,13 @@
 ---
-layout: default
+layout: character
 title: Roaring River
+player: Eric
+race: Tabaxi
+class: Rogue 3 / Monk (Swashbuckler into Monk multiclass)
+background: Mulhorandi Tomb Raider
+dnd_beyond: https://www.dndbeyond.com/characters/164761052
+image: /rpg/icewind-dale/public/characters/images/river.png
 ---
-
-# Roaring River
-
-**Player:** Eric
-**Race:** Tabaxi
-**Class:** Rogue 3 / Monk (Swashbuckler into Monk multiclass)
-**Background:** Mulhorandi Tomb Raider
-**Alignment:** Lawful Neutral
-**D&D Beyond:** [Character Sheet](https://www.dndbeyond.com/characters/164761052)
-
-![Roaring River](/rpg/icewind-dale/public/characters/images/river.png)
 
 ## Description
 
