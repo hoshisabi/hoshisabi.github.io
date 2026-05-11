@@ -37,7 +37,7 @@ The blizzard outside the camp reads: *Soon.*
 <div class="npc-grid">
 {% for npc in npcs %}
 <a href="{{ npc.url }}" class="npc-card">
-  {% if npc.image %}<img src="{{ npc.image }}" alt="{{ npc.title }}">{% else %}<img class="npc-placeholder" src="" alt="">{% endif %}
+  {% if npc.image %}<img src="{{ npc.image }}" alt="{{ npc.title }}">{% else %}<div class="npc-no-image"></div>{% endif %}
   <span>{{ npc.title }}</span>
 </a>
 {% endfor %}
