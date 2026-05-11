@@ -50,7 +50,10 @@
   -->
   <header class="site-header">
     <div class="container">
-      <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <a class="site-title" href="{{ '/' | relative_url }}">
+        <img class="header-avatar" src="{{ '/media/oldpicture.jpg' | relative_url }}" alt="Dan Chapman">
+        {{ site.title }}
+      </a>
       <nav class="site-nav">
         <a href="{{ '/' | relative_url }}">Home</a>
         <a href="{{ '/myadventures' | relative_url }}">Adventures</a>
