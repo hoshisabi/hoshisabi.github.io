@@ -21,7 +21,7 @@ The blizzard outside the camp reads: *Soon.*
 
 {% assign sessions = site.pages | where_exp: "p", "p.path contains 'icewind-dale/public/sessions'" | sort: "title" %}
 {% for session in sessions %}
-- [{{ session.title }}]({{ session.url }})
+- [{{ session.title }} — {{ session.session_title }}]({{ session.url }}): {{ session.description }}
 {% endfor %}
 
 ## Player Characters

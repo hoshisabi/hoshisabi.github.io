@@ -1,7 +1,7 @@
 # Pasha
 
 **Role:** Warrior sidekick / guide
-**Status:** MISSING (separated from party in blizzard, Session 1)
+**Status:** Active — returned Session 2
 
 ## Description
 
@@ -18,3 +18,4 @@ Led the party into the blizzard to track the creature. The party lost sight of h
 ## Session Notes
 
 - Session 1: Separated in blizzard while hunting the creature. Status unknown.
+- Session 2: Emerged alive from the wilderness, accompanied by Sook. Found outside the Netherese ruins after the party fought the Owlbear. Had spent the intervening time surviving in the wild before finding Savin and making her way toward the Coldpeak camp. Has dealt with orc tribes before — not this one specifically — and helped guide the party through some of the tribe's customs. Has said nothing about what happened while she was missing.

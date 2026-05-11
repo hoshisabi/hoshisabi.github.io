@@ -11,7 +11,7 @@ title: Alina Shandorath
 **Background:** Guide
 **D&D Beyond:** [Character Sheet](https://www.dndbeyond.com/characters/164743608)
 
-![Alina Shandorath](/rpg/icewind-dale/wiki/characters/pcs/images/alina.png)
+![Alina Shandorath](/rpg/icewind-dale/public/characters/images/alina.png)
 
 ## Description
 
