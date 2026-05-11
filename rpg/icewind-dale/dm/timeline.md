@@ -15,8 +15,8 @@
 - [Session 2026-05-02] Dr. Medicine conned three gazers into trading the Ioun stones for snake oil; promised stones would reappear in 2 days
 - [Session 2026-05-02] Creepy's name appeared in blood on the Netherese door; he fled outside and was snatched by the Owlbear (body not recovered; presumed dead)
 - [Session 2026-05-02] Party crossed bone bridge over pit of crawling severed right hands; fled to Chamber of the Slumbering Crystal
-- [Session 2026-05-02] Nameless goblin spellcaster killed by falling ice when Owlbear crashed through ceiling
+- [Session 2026-05-02] Nameless gnome spellcaster killed by falling ice when Owlbear crashed through ceiling
 - [Session 2026-05-02] Party fought the Owlbear; Berg drank Potion of Growth and drove her off with 16 piercing damage
 - [Session 2026-05-02] Found frozen archaeologists and Goggles of Night in collapsed tunnel
-- [Session 2026-05-02] Emerged to find Pasha alive; she had found Sook (Thunlakalaga hunter)
-- [Session 2026-05-02] Escorted to Thunlakalaga camp; Old Goat (chieftain) wants to meet the party
+- [Session 2026-05-02] Emerged to find Pasha alive; she had found Savin (Coldpeak hunter)
+- [Session 2026-05-02] Escorted to Coldpeak camp; Broken Tusk (chieftain) wants to meet the party

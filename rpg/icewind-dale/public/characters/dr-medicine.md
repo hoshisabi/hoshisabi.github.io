@@ -11,7 +11,7 @@ title: Doctor Medicine
 **Background:** Charlatan
 **D&D Beyond:** [Character Sheet](https://www.dndbeyond.com/characters/164677217)
 
-![Doctor Medicine](/rpg/icewind-dale/wiki/characters/pcs/images/dr-medicine.png)
+![Doctor Medicine](/rpg/icewind-dale/public/characters/images/dr-medicine.png)
 
 ## Description
 
