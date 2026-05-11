@@ -3,8 +3,6 @@ layout: location
 title: The Netherese Ruins
 ---
 
-# The Netherese Ruins
-
 A complex of worked stone buried beneath the mountains near the Coldpeak territory. The tribe has known about it for generations and avoided it. The Owlbear has been circling it.
 
 The natural cave the party sheltered in after Session 1 opened into the ruins through a narrow tunnel — the cave wasn't a cave at all, but an antechamber. Inside: a grand 30-foot worked-stone chamber with carvings of floating Netherese cities, ancient gods, and scenes of magical experimentation. An ice-covered marble door sealed the inner sanctum, inscribed with what appeared to be Draconic script but was actually Netherese — the language of Congenio Ioun, creator of the Ioun stones, whose schools encoded knowledge as logic puzzles.
