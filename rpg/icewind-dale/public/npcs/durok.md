@@ -6,12 +6,12 @@ race: Orc
 status: Missing
 ---
 
-The Coldpeak's shaman. A healer and reader of the land — someone the tribe trusted to interpret what the mountain was saying and act on it. He spent years sensing something buried beneath the rock before the rockslide finally showed him what it was.
+The Coldpeak's shaman. A healer and reader of the land who spent years listening to what the mountain had to say and acting on what he heard.
 
-His spring is warm in a place where nothing should be warm. His journal is in the yurt. His runestones are dark.
+His spring is the thing to understand. In the middle of a winter that has not ended in years, he made a warm place. Green things grow there. The water runs. He did that. Not through prayer or luck — through understanding the land at a depth that most people never reach, and refusing to accept that Auril's cold was the final word on the matter.
 
-He has been gone long enough for something else to move into his sanctuary and declare itself the Guardian. The tribe knows he is missing. They have stopped saying they expect him back.
+He wanted to do it again. Bigger. He wanted to push back against the curse across the whole of Icewind Dale, or enough of it to matter. He knew he wasn't strong enough — the spring was everything he had. But he could feel there was a way. He'd been sensing something in the mountain for years before the rockslide showed him the door.
 
-What the journal describes is a man following something he could already hear — a staff that translated his gift into a language older than the Coldpeak, older than the Dale. He named Rimetalon. He shared power with Chanon and the wolves. He wrote that the standing stones he set were failing, that the voices were getting closer, and that a lesson needed to be taught.
+His journal describes a man who thought he'd found the answer. A staff that knew things about the land that he'd spent his whole life trying to learn. Netherese geomancers who had mastered exactly what he was attempting — who had bent the earth itself to their will. If only he could learn what they knew.
 
-The last entry ends mid-thought.
+His runestones are dark. His last entry ends mid-thought. His spring is still warm.
