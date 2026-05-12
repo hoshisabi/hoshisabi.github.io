@@ -58,3 +58,5 @@ That may change now that he's been introduced to actual adventurers.
   * [Session 35 2023-07-27](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2035%202023-07-27%20%5BD&D%5D.pdf): [transcription]
   * [Session 36 2023-08-03](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2036%202023-08-03%20%5BD&D%5D.pdf): [transcription]
   * [Session 37 2023-08-10](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2037%202023-08-10%20%5BD&D%5D.pdf): [transcription]
+  * [Session 38 2023-08-14](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2038%202023-08-14%20%5BD&D%5D%20p1.jpg): [transcription]
+  * [Session 39 2023-08-17](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2039%202023-08-17%20%5BD&D%5D%20p1.jpg): [transcription]
