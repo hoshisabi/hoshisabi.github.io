@@ -1,4 +1,5 @@
 ---
+campaign_name: Icewind Dale
 layout: npc
 title: Broken Tusk
 role: Chieftain, Coldpeak tribe

@@ -1,4 +1,5 @@
 ---
+campaign_name: Icewind Dale
 layout: character
 title: Berg Wurdnowwah
 player: Josh

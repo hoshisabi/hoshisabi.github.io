@@ -1,4 +1,5 @@
 ---
+campaign_name: Icewind Dale
 layout: npc
 title: Creepy
 role: Goblin expert (sidekick)
