@@ -6,6 +6,10 @@ race: Fairy (Brownie)
 class: Druid (Circle of the Shepherd)
 dnd_beyond: https://ddb.ac/characters/73151462/6veXru
 hide_breadcrumb: true
+campaign: Wild Beyond the Witchlight
+dm: Kate Hoff
+location: in-person
+status: Finished
 ---
 
 ## Campaign: Wild Beyond the Witchlight

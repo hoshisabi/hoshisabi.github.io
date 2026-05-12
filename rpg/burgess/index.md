@@ -6,6 +6,10 @@ image: BurgessPortrait.png
 race: Changeling (formerly Variant Human)
 class: Rogue 10 (Soulknife)
 dnd_beyond: https://ddb.ac/characters/70700295/cYe5ce
+campaign: Wild Beyond the Witchlight
+dm: John Rogers
+location: online, pandodnd discord
+status: Finished
 ---
 
 ## Campaign: Wild Beyond the Witchlight

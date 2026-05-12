@@ -6,9 +6,12 @@ race: Human (Custom Lineage — Shadovar)
 class: Wizard 4 (Order of Scribes)
 dnd_beyond: https://www.dndbeyond.com/characters/100533223/YOBfDI
 hide_breadcrumb: true
----
+campaign: Icewind Dale — Rime of the Frost Maiden (Heros That We Need)
+dm: Chris Hubbard
+location: in-person
+status: Retired---
 
-## Campaign: Icewind Dale — Rime of the Frost Maiden (Hero's That We Need)
+## Campaign: Icewind Dale — Rime of the Frost Maiden (Heros That We Need)
 ### DM: Chris Hubbard — in-person
 
 Spare appears human, but is a Shadovar — a variant lineage that masks a stranger truth.
