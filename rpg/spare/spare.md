@@ -1,9 +1,15 @@
-# Spare
-## Campaign: Icewind Dale: Rime of the Frost Maiden (Hero's That We Need)
-### Location: in-person
-### DM: Chris Hubbard
+---
+layout: character
+title: Spare
+image: SparePortrait.png
+race: Human (Custom Lineage — Shadovar)
+class: Wizard 4 (Order of Scribes)
+dnd_beyond: https://www.dndbeyond.com/characters/100533223/YOBfDI
+hide_breadcrumb: true
+---
 
-![](Spare Portrait.png)
+## Campaign: Icewind Dale — Rime of the Frost Maiden (Hero's That We Need)
+### DM: Chris Hubbard — in-person
 
 Spare appears human, but is a Shadovar — a variant lineage that masks a stranger truth.
 
@@ -39,6 +45,19 @@ with Father Lake left him with nothing left to give. He returned to Velene, refu
 continue the work that had been asked of him, and was killed for it.
 
 *The story continued without him.*
+
+**Class:** Wizard 4, Order of Scribes — INT 18, spell DC 14, +7 spell attack. The Wizardly
+Quill and Awakened Spellbook suit a scholar who literally woke up mid-thought. Arcane Recovery.
+
+**Feat:** Shadow Touched — Invisibility and Silent Image at will. Fitting for a Shadovar.
+
+**Notable equipment:**
+- *Wand of the War Mage, +1* (attuned)
+- Spellbook
+- Cold weather clothing (provided by the fishermen who found him)
+
+**Languages:** Abyssal, Common, Draconic, Infernal — a Netherese researcher's working vocabulary.
+**Alignment:** Lawful Neutral — the scholar's habits outlasted the scholar.
 
 * [Character Sheet](https://www.dndbeyond.com/characters/100533223/YOBfDI)
 * Session notes:
