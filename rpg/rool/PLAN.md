@@ -58,6 +58,8 @@ before starting a session — paste the raw OCR alongside the PDF read for best 
 | 35 | 2023-07-27 | ✓ (copied from Drive) | todo |
 | 36 | 2023-08-03 | ✓ (copied from Drive) | todo |
 | 37 | 2023-08-10 | ✓ (copied from Drive) | todo |
+| 38 | 2023-08-14 | ✓ (JPG, 2pp, copied from FridayGame) | todo |
+| 39 | 2023-08-17 | ✓ (JPG, 2pp, copied from FridayGame) | todo — possibly the campaign finale; verify |
 
 Session numbers 30–37 are estimated sequentially. Verify against memory if any sessions
 between May 18 and the end were unrecorded.
@@ -74,3 +76,11 @@ between May 18 and the end were unrecorded.
 - Kate (DM: Kate Hoff) added DMs Guild content and original story — names won't always
   match the published module. Use context + player memory to resolve.
 - Rocketbook has likely been erased — the PDFs in this repo are the canonical source.
+- **Don't trust filenames for dates or session numbers** — read the page content to
+  determine what session it actually is. Session numbers in filenames are best guesses.
+- **Source file cleanup**: once a transcription is confident and reviewed, delete both
+  the source file from Google Drive (`H:\My Drive\D&D Notes\`) and the PDF/JPG from the
+  repo. The transcription markdown is the permanent record.
+- **Format preference**: JPGs are ~40% smaller and read identically. Existing PDFs aren't
+  worth converting (small total size, all destined for deletion anyway). Prefer JPG for any
+  future scans added to the repo.
