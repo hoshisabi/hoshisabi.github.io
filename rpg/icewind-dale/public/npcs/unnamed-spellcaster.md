@@ -1,4 +1,5 @@
 ---
+campaign_name: Icewind Dale
 layout: npc
 title: The Nameless Spellcaster
 role: Gnome spellcaster (sidekick)
