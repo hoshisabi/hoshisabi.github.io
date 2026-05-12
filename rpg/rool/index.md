@@ -50,4 +50,11 @@ That may change now that he's been introduced to actual adventurers.
   * [Session 27 2023-05-04](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2027%202023-05-04%20%5BD&D%5D.pdf): [transcription]
   * [Session 28 2023-05-11](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2028%202023-05-11%20%5BD&D%5D.pdf): [transcription]
   * [Session 29 2023-05-18](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2029%202023-05-18%20%5BD&D%5D.pdf): [transcription]
-  
+  * [Session 30 2023-05-25](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2030%202023-05-25%20%5BD&D%5D.pdf): [transcription]
+  * [Session 31 2023-06-08](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2031%202023-06-08%20%5BD&D%5D.pdf): [transcription]
+  * [Session 32 2023-06-15](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2032%202023-06-15%20%5BD&D%5D.pdf): [transcription]
+  * [Session 33 2023-06-30](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2033%202023-06-30%20%5BD&D%5D.pdf): [transcription]
+  * [Session 34 2023-07-13](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2034%202023-07-13%20%5BD&D%5D.pdf): [transcription]
+  * [Session 35 2023-07-27](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2035%202023-07-27%20%5BD&D%5D.pdf): [transcription]
+  * [Session 36 2023-08-03](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2036%202023-08-03%20%5BD&D%5D.pdf): [transcription]
+  * [Session 37 2023-08-10](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2037%202023-08-10%20%5BD&D%5D.pdf): [transcription]
