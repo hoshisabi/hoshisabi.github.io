@@ -37,17 +37,17 @@ to the fiction, only the stat block.)*
 
 ## Session Notes
 
-* [Session 01 — 2022-04-23](_posts/2022-04-23.md): Witchlight Carnival
-* [Session 02 — 2022-05-07](_posts/2022-05-07.md): The Mime, the Kenku, and Mr. Witch
-* [Session 03 — 2022-05-21](_posts/2022-05-21.md): Sir Talavar and Jingle Jangle
-* [Session 04 — 2022-06-04](_posts/2022-06-04.md): Downfall and the Bullywug Court
-* [Session 05 — 2022-06-18](_posts/2022-06-18.md): Bavlorna's Cottage
-* [Session 06 — 2022-07-09](_posts/2022-07-09.md): Thither and Loomlurch
-* [Session 07 — 2022-08-20](_posts/2022-08-20.md): The Children of Thither
-* [Session 08 — 2022-09-03](_posts/2022-09-03.md): Escaping Loomlurch
-* [Session 09 — 2022-10-01](_posts/2022-10-01.md): Yon — Amidor, Gleam, and the Elf Prince
-* [Session 10 — 2022-10-22](_posts/2022-10-22.md): The Brigganocks and Molliver
-* [Session 11 — 2022-11-05](_posts/2022-11-05.md): Motherhorn — Backstage
-* [Session 12 — 2022-11-19](_posts/2022-11-19.md): The Dollhouse Heist
-* [Session 13 — 2022-12-03](_posts/2022-12-03.md): Endelyn Defeated — Palace of Heart's Desire
-* [Session 14 — 2022-12-17](_posts/2022-12-17.md): Freeing Zybilna — Campaign Finale
+* [Session 01 — 2022-04-23](sessions/2022-04-23): Witchlight Carnival
+* [Session 02 — 2022-05-07](sessions/2022-05-07): The Mime, the Kenku, and Mr. Witch
+* [Session 03 — 2022-05-21](sessions/2022-05-21): Sir Talavar and Jingle Jangle
+* [Session 04 — 2022-06-04](sessions/2022-06-04): Downfall and the Bullywug Court
+* [Session 05 — 2022-06-18](sessions/2022-06-18): Bavlorna's Cottage
+* [Session 06 — 2022-07-09](sessions/2022-07-09): Thither and Loomlurch
+* [Session 07 — 2022-08-20](sessions/2022-08-20): The Children of Thither
+* [Session 08 — 2022-09-03](sessions/2022-09-03): Escaping Loomlurch
+* [Session 09 — 2022-10-01](sessions/2022-10-01): Yon — Amidor, Gleam, and the Elf Prince
+* [Session 10 — 2022-10-22](sessions/2022-10-22): The Brigganocks and Molliver
+* [Session 11 — 2022-11-05](sessions/2022-11-05): Motherhorn — Backstage
+* [Session 12 — 2022-11-19](sessions/2022-11-19): The Dollhouse Heist
+* [Session 13 — 2022-12-03](sessions/2022-12-03): Endelyn Defeated — Palace of Heart's Desire
+* [Session 14 — 2022-12-17](sessions/2022-12-17): Freeing Zybilna — Campaign Finale
