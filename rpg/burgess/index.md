@@ -1,6 +1,7 @@
 ---
 layout: character
 title: Burgess
+hide_breadcrumb: true
 image: BurgessPortrait.png
 race: Changeling (formerly Variant Human)
 class: Rogue 10 (Soulknife)

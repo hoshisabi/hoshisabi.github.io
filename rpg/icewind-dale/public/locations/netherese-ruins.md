@@ -1,4 +1,5 @@
 ---
+campaign_url: /rpg/icewind-dale/public/
 campaign_name: Icewind Dale
 layout: location
 title: The Netherese Ruins
