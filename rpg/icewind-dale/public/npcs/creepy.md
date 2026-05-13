@@ -1,4 +1,6 @@
 ---
+campaign_url: /rpg/icewind-dale/public/
+campaign_name: Icewind Dale
 layout: npc
 title: Creepy
 role: Goblin expert (sidekick)

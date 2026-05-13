@@ -1,6 +1,11 @@
 ---
+campaign_url: /rpg/icewind-dale/public/
+campaign_name: Icewind Dale
 layout: default
 title: Icewind Dale Campaign
+dm: Daniel E. Chapman II
+location: in-person
+status: Active
 ---
 
 # Icewind Dale
