@@ -1,4 +1,6 @@
 ---
+campaign_url: /rpg/icewind-dale/public/
+campaign_name: Icewind Dale
 layout: location
 title: Durok's Sacred Spring
 image: /rpg/icewind-dale/public/locations/images/duroks-spring.png

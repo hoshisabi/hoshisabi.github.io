@@ -1,4 +1,6 @@
 ---
+campaign_url: /rpg/icewind-dale/public/
+campaign_name: Icewind Dale
 layout: location
 title: Coldpeak Camp
 image: /rpg/icewind-dale/public/locations/images/coldpeak-camp.png

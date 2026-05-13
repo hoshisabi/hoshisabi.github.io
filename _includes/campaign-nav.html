@@ -1,3 +1,23 @@
+{% assign parts = page.url | split: '/' %}
+
+{% if page.campaign_url %}
+  {% assign campaign_url = page.campaign_url %}
+{% elsif parts[1] == 'rpg' and parts[2] %}
+  {% assign campaign_url = '/rpg/' | append: parts[2] | append: '/' %}
+{% else %}
+  {% assign campaign_url = '/rpg/' %}
+{% endif %}
+
+{% if page.campaign_name %}
+  {% assign campaign_name = page.campaign_name %}
+{% elsif parts[1] == 'rpg' and parts[2] %}
+  {% assign campaign_name = parts[2] | replace: '-', ' ' | capitalize %}
+{% else %}
+  {% assign campaign_name = 'Campaigns' %}
+{% endif %}
+
+{% unless page.hide_breadcrumb %}
 <nav class="campaign-breadcrumb">
-  <a href="{{ '/rpg/icewind-dale/public/' | relative_url }}">← Icewind Dale</a>
+  <a href="{{ campaign_url | relative_url }}">← {{ campaign_name }}</a>
 </nav>
+{% endunless %}

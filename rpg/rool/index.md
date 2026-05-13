@@ -1,24 +1,45 @@
-# Rool
+---
+layout: character
+title: Rool
+image: RoolPortrait.png
+race: Fairy (Brownie)
+class: Druid (Circle of the Shepherd)
+dnd_beyond: https://ddb.ac/characters/73151462/6veXru
+hide_breadcrumb: true
+campaign: Wild Beyond the Witchlight
+dm: Kate Hoff
+location: in-person
+status: Finished
+---
+
 ## Campaign: Wild Beyond the Witchlight
-### Location: in-person
-### DM: Kate Hoff
+### DM: Kate Hoff — in-person — (Finished)
 
-![](RoolPortrait.png)
+Rool is a Fairy druid loosely based on the brownies from the movie *Willow* — Small, fey, and
+more capable than he looks. He speaks Sylvan, keeps a pumpkin-shaped cauldron of bog oak, and
+carries a hand puppet that can cast Detect Magic. His flask of glow worms changes colour to match
+his mood, which he finds inconvenient.
 
-This is all placeholder information until I have time to type more.
+He rescued a lost infant child once, alongside another member of his faerie group. Everyone called
+him a hero. He felt nothing. He's been looking for the thing that will actually feel like something
+ever since, which is how he ended up in the Witchlight Carnival.
 
-Rool is loosely based on the brownies from the movie Willow.
+**Class:** Druid 11, Circle of the Shepherd — WIS 20, summoner and spirit caller. Spell DC 18,
++10 to spell attacks. Spirit Totem (Bear/Hawk/Unicorn), Mighty Summoner, Guardian Spirit.
+Wild Shape up to CR 1.
 
-Rool has gone on an adventure before, he rescued a lost infant child along with another member of his
-group of faeries. Despite the fact that others thought of him as a hero, he felt no sense of accomplishment
-from that task. He's now looking for bigger things to do, so that he can prove himself to be worth the 
-praise that he received from his group.
+**Notable equipment:**
+- *Moon Sickle, +1* (attuned)
+- *Rool's Mantle of the Forest Guardian* — homebrew cloak, +3 AC
+- Flask of glow worms (mood-reactive)
+- Pumpkin-shaped cauldron of bog oak
+- Hand puppet (Detect Magic)
+- Rock that floats in the air, small enough to hide in a fist
+- Collection of baby teeth
+- Pixie dust
 
-But so far, nothing he's tried has given him that.
+**Alignment:** Chaotic Neutral — **Languages:** Common, Druidic, Halfling, Sylvan
 
-That may change now that he's been introduced to actual adventurers.
-
-* [Character Sheet](https://ddb.ac/characters/73151462/6veXru)
 * Session notes
   * [Session 00 2022-08-25](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2000%202022-08-25%20%5BD&D%5D.pdf): [transcription]
   * [Session 01 2022-09-01](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2001%202022-09-01%20%5BD&D%5D.pdf): [transcription]
@@ -50,4 +71,13 @@ That may change now that he's been introduced to actual adventurers.
   * [Session 27 2023-05-04](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2027%202023-05-04%20%5BD&D%5D.pdf): [transcription]
   * [Session 28 2023-05-11](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2028%202023-05-11%20%5BD&D%5D.pdf): [transcription]
   * [Session 29 2023-05-18](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2029%202023-05-18%20%5BD&D%5D.pdf): [transcription]
-  
+  * [Session 30 2023-05-25](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2030%202023-05-25%20%5BD&D%5D.pdf): [transcription]
+  * [Session 31 2023-06-08](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2031%202023-06-08%20%5BD&D%5D.pdf): [transcription]
+  * [Session 32 2023-06-15](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2032%202023-06-15%20%5BD&D%5D.pdf): [transcription]
+  * [Session 33 2023-06-30](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2033%202023-06-30%20%5BD&D%5D.pdf): [transcription]
+  * [Session 34 2023-07-13](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2034%202023-07-13%20%5BD&D%5D.pdf): [transcription]
+  * [Session 35 2023-07-27](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2035%202023-07-27%20%5BD&D%5D.pdf): [transcription]
+  * [Session 36 2023-08-03](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2036%202023-08-03%20%5BD&D%5D.pdf): [transcription]
+  * [Session 37 2023-08-10](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2037%202023-08-10%20%5BD&D%5D.pdf): [transcription]
+  * [Session 38 2023-08-14](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2038%202023-08-14%20%5BD&D%5D%20p1.jpg): [transcription]
+  * [Session 39 2023-08-17](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2039%202023-08-17%20%5BD&D%5D%20p1.jpg): [transcription]
