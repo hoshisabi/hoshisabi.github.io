@@ -1,6 +1,6 @@
 ---
-campaign_url: /rpg/pandemonium/public/
-campaign_name: Pandemonium Pub Crawl
+campaign_url: /rpg/pandodnd/public/
+campaign_name: PandoDnD Pub Crawl
 layout: default
 title: Pandemonium Pub Crawl
 dm: Daniel E. Chapman II
