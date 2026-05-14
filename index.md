@@ -16,7 +16,7 @@ if you're coming here you managed to find one of the rare finished tasks.
 
 ## D&D Campaigns I Run
 * ACTIVE: [Icewind Dale](rpg/icewind-dale/public/) (in person, Pandemonium Games)
-* ACTIVE: [Pandemonium Pub Crawl](rpg/pandemonium/public/) (online, Discord — AL DungeonCraft drop-in)
+* ACTIVE: [PandoDnD Pub Crawl](rpg/pandodnd/public/) (online, Discord — AL DungeonCraft drop-in)
 * FINISHED: [Phandelver](rpg/phandelver.md)
 
 ## D&D Campaigns I Play In

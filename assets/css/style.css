@@ -338,6 +338,18 @@ hr {
   margin-bottom: 1.5rem;
 }
 
+/* ─── Achievement badges ──────────────────────────────────────────────────── */
+.achievement-badge {
+  float: left;
+  clear: left;
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  margin: 0.25rem 1rem 1rem 0;
+}
+
 /* ─── Campaign breadcrumb nav ─────────────────────────────────────────────── */
 .campaign-breadcrumb {
   margin-bottom: 1.5rem;
