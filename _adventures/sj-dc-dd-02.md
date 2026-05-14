@@ -2,6 +2,7 @@
 title: "Lone Survivors"
 code: "SJ-DC-DD-02"
 series: ad_astra
+coauthors: "Bryan Mets, Lex Winter"
 order: 1
 tier: 1
 levels: "5–10"
