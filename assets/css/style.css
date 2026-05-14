@@ -226,9 +226,9 @@ hr {
 
 /* ─── NPC / PC / Location pages ──────────────────────────────────────────── */
 .portrait {
-  float: left;
+  float: right;
   width: 200px;
-  margin: 0 1.5rem 1rem 0;
+  margin: 0 0 1rem 1.5rem;
   border: 1px solid var(--border);
   border-radius: var(--radius);
   cursor: zoom-in;
@@ -339,15 +339,24 @@ hr {
 }
 
 /* ─── Achievement badges ──────────────────────────────────────────────────── */
+.achievement {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 1.25rem;
+}
+
 .achievement-badge {
-  float: left;
-  clear: left;
+  flex-shrink: 0;
   width: 72px;
   height: 72px;
   object-fit: cover;
   border-radius: var(--radius);
   border: 1px solid var(--border);
-  margin: 0.25rem 1rem 1rem 0;
+}
+
+.achievement p {
+  margin: 0;
 }
 
 /* ─── Campaign breadcrumb nav ─────────────────────────────────────────────── */

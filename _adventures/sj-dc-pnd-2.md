@@ -11,4 +11,4 @@ dungeoncraft_seed: "Headed My Way?"
 link: "https://www.dmsguild.com/product/465703?affiliate_id=171040&src=hoshisabi"
 image: https://d1vzi28wh99zvq.cloudfront.net/images/8957/465703.webp
 ---
-Something vast and hungry is moving through the Astral Sea. What starts as a routine voyage quickly becomes a scramble for survival.
+The pay was good, almost too good, for such a simple mission: transport a simple crate for a trio of plasmoid passengers. What is inside that crate, and why is everyone so very hungry?
