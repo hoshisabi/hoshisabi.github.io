@@ -40,6 +40,7 @@ All of my published adventures are for D&D Adventurers League, available on the 
       {{ adventure.content }}
       {% unless adventure.bundle %}
       <div class="adventure-meta">
+        {% if adventure.coauthors %}<span>Co-authors: {{ adventure.coauthors }}</span>{% endif %}   
         <span>Tier {{ adventure.tier }}</span>
         <span>Levels {{ adventure.levels }}, APL {{ adventure.apl }}</span>
         <span>{{ adventure.runtime }}</span>
