@@ -22,7 +22,7 @@ Adventures are drawn from the DC (DungeonCraft) catalog.
 
 ## Sessions
 
-{% assign sessions = site.pages | where_exp: "p", "p.path contains 'pandemonium/public/sessions'" | sort: "title" %}
+{% assign sessions = site.pages | where_exp: "p", "p.path contains 'pandodnd/public/sessions'" | sort: "title" %}
 {% for session in sessions %}
 - [{{ session.title }} — {{ session.session_title }}]({{ session.url }}): {{ session.description }}
 {% endfor %}
