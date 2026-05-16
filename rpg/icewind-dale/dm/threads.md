@@ -2,7 +2,21 @@
 
 ## Resolved
 
-- [RESOLVED 2026-05-02] **Pasha Missing**: Found alive by Savin; escorted party to Coldpeak camp.
+- [RESOLVED 2026-05-01] **Pasha Missing**: Found alive by Savin; escorted party to Coldpeak camp.
+- [RESOLVED 2026-05-15] **The Gazer Debt**: The stones returned. Clod served as the comic callback. The gazers exist in the cavern — not a thread.
+- [RESOLVED 2026-05-15] **Pasha**: Departed for Elk tribe the morning after the Standing Stones expedition. She will not be here for a while — the tribe moves with the herds and she was already overdue. She is not gone forever, but she is gone for now.
+
+## The Mountain
+
+The mountain is not the city. The Netherese tore the top off of it to build Irethaal. When the city UnBecame, the mountain was restored. It prefers this. It has been waiting for centuries for someone to help keep it this way.
+
+It does not speak in words. It speaks in images — showing, not saying. When it showed Clod images of hands being gathered through the cracks in the stone, it was showing him the threat: the Netherese reconstituting themselves, hand by hand. Clod read "offered hands" because he thinks like a merchant. He was being shown a warning. He declined and left, and the mountain accepted the transfer of the guardian role back to Dr. Medicine without complaint. It is patient. It has been patient for centuries.
+
+It is not hostile. It is the closest thing to an ally the party has. The Coldpeak's fear and avoidance have served it well — avoidance means no one is trying to return the city. But Durok is. The mountain has been watching Durok the entire time. **It knows where Durok is.** The path to finding Durok runs through learning to receive the mountain's images.
+
+- [ACTIVE] **Dr. Medicine, Designated Guardian**: Dr. Medicine said "guardian of a whole mountain" as a joke, gave Clod the dagger, and the mountain heard the shape of an oath. It sensed his willingness to bargain. It accepted. It will wait as long as it takes — if not him, the next one, and the next one after that. He could switch patrons entirely and the mountain would accept that bargain too. It is not possessive. It needs the right person in the role, not a specific person. Dr. Medicine is currently the right person.
+
+- [ACTIVE] **Clod**: Mud mephit merchant. Fulfilled his guardian commission, returned the dagger, re-designated Dr. Medicine. He told the party he would receive Dr. Medicine if called upon. He is a contact, not a threat. He can be found.
 
 ## The Owlbear
 
@@ -14,22 +28,32 @@
 
 ## The Netherese City
 
-- [ACTIVE] **The City That Never Was**: A Netherese city that attempted to shift itself out of reality to survive the fall of Netheril. The ritual required seven mages to give their right hands. Instead of surviving, they erased themselves — but imperfectly. They left seams: the ruins, the crystals, the staff, the Chamber. The city is trying to remember itself. Every mind that receives the staff's signal is a thread pulling it back into existence.
-- [ACTIVE] **The Seven Crystals**: Each crystal is a seal. As each one opens, a piece of the environment is retroactively replaced by the city — not just appearing, but always having been there. The nameless gnome spellcaster was the first replacement (Session 2, Crystal 1). The party doesn't know this yet. Six seals remain.
-- [ACTIVE] **The Right-Hand Motif**: Every Netherese mage in the chamber frescoes was missing their right hand. The pit held exclusively right hands. The initiation fresco showed an apprentice cutting off her own. The seven mages gave their hands as the price of the ritual. The hands are still in the pit. The mages are not entirely gone.
+- [ACTIVE] **The City That Never Was**: A Netherese city that attempted to shift itself out of reality to survive the fall of Netheril. The ritual required five mages to give their right hands. Instead of surviving, they erased themselves — but imperfectly. They left seams: the ruins, the crystals, the staff, the Chamber. The city is trying to remember itself. Every mind that receives the staff's signal is a thread pulling it back into existence. **The party now knows the Netherese phrase for it: "the city that never was."** The actual name slips away each time Alina tries to read it directly. The mountain's name is Arveth. The city's name is Irethaal.
+- [ACTIVE] **The Five Crystals**: Each crystal anchors concentration on a sustained spell of enormous power — this is what Alina read from the academy entrance in Session 4. Breaking all five ends the concentration. What happens when the concentration breaks is unknown to the party. **What the DM knows:** each crystal that opens retroactively replaces a piece of the environment — not appearing, but always having been there. The nameless gnome spellcaster was the first replacement (Session 2, Crystal 1). Four seals remain. The party knows the crystals matter; they do not know the cost of breaking them.
+- [ACTIVE] **The Right-Hand Motif**: Every Netherese mage in the chamber frescoes was missing their right hand. The pit held exclusively right hands. The initiation fresco showed an apprentice cutting off her own. The five mages gave their hands as the price of the ritual. The hands are still in the pit. The mages are not entirely gone.
 - [ACTIVE] **The Chamber of the Slumbering Crystal**: Not fully explored. Pictograms of a staff. A collapsed roof (Rimetalon's entry point). Whatever was sealed there remains. The first crystal may have cracked when the door opened.
 
 ## The Players' Threads
 
 - [ACTIVE] **Creepy's Fate**: Creepy's name appeared in blood on the Netherese door before he was taken by Rimetalon. His body was not recovered. The door knew his name — a name even the DM didn't know, only the player. He was marked. This is not resolved. Talk to Eric.
 - [ACTIVE] **The Nameless Gnome**: The party's gnome spellcaster did not die. He was replaced — the first crystal opening traded one slot in reality. He is elsewhere now, in a city that was never supposed to exist. The party's memory of him is already fading. Let it happen slowly. Don't explain it.
-- [ACTIVE] **The Gazer Debt**: Dr. Medicine promised the three gazers the four Ioun stones would "magically reappear in the cavern in two days." The deadline has passed. The gazers will remember.
 
 ## The Coldpeak
 
 - [ACTIVE] **Rimetalon at the Camp**: Two orc guards found dead after Session 3, bodies arranged around a rune of goat entrails. A single bloody white feather at the center. The rune read: *Soon.* Rimetalon is communicating. What she is saying is for the players to decide.
 - [ACTIVE] **Kaarsk's Resentment**: Kaarsk is not wrong that times are hard and the hunting grounds are shrinking. He is wrong about what it means. His contempt for Savin and the peace with the Reghedsmen is a pressure point that will find a moment to matter.
-- [ACTIVE] **Savin's Scar**: Scar on his right hand. He deflects questions about it quickly. May or may not connect to the right-hand motif in the ruins. Worth having an answer ready.
+- [ACTIVE] **Savin's Scar**: Berg rolled Medicine in Session 4 and got a close look. Someone tried to remove Savin's right hand at the wrist when he was very young — didn't fully succeed, and the wound healed over years. He doesn't know when it happened or who did it. Nobody said anything about the pit of right hands. They're heading toward those ruins.
+
+## Party Connections
+
+The tribe needs to become people the party would grieve. Build it slowly: they exist, then they have a personality, then they have a name, then they remember yours. Tarsk is the model.
+
+The anchor relationships — stable, intentional, lean into these:
+
+- **Dr. Medicine ↔ The Mountain**: Patron relationship in progress. The mountain sensed his willingness to bargain and accepted the oath. It speaks in images and is waiting for him to come ask it something. He may switch patrons entirely; it will accept that too.
+- **Alina ↔ Broken Tusk**: Lore keeper to chieftain. Both read situations, keep counsel, know more than they say. Alina is the investigator and translator; Broken Tusk is sixty years of watching the same mountain threaten her people. They will consult each other.
+- **Berg ↔ Kaarsk**: Already there. Warrior to warrior. Berg is earning standing with the tribe; Kaarsk is the door that opens it.
+- **River ↔ Savin**: Outsider inside his own group, to outsider far from home. Let Eric set the pace — lean toward this if he doesn't give strong direction of his own. The right-hand thread (Savin's scar / Creepy's fate) is the natural first real moment between them.
 
 ## The Bigger Picture
 
@@ -41,4 +65,6 @@
 - [OPEN] **The Unnatural Blizzard**: Elemental manifestations (owls, razor snow, yellow eyes) suggest something is driving the weather. Source connected to the Netherese activity? Durok? Rimetalon? Unclear.
 - [OPEN] **The Frozen Archaeologists**: Found in the collapsed tunnel. Who sent them, what they were looking for, what killed them. One survivor reportedly at the Coldpeak camp recovering (per Session 2 DM notes). She has been asking about a staff.
 - [OPEN] **Jordan's Letter**: A care package from a mother to an adventurer named Jordan, found in caravan wreckage. Jordan was already dead. The platinum sapphire ring may or may not be related. Low priority but the party noticed.
+- [OPEN] **The Talking Doll**: Common magic item earned in Session 4, to be introduced in Session 5. Netherese mage figure — no right hand. Six phrases, all in Netherese. Designed for children in a mage academy nursery creche; it is propaganda, not damaged. Alina can now ritual-cast Comprehend Languages and translate it. The doll normalizes right-hand sacrifice as a rite of passage.
+- [OPEN] **The Wand of Magic Missiles**: Recovered from the Remorhaz's stomach in Session 4. Survived the heat because it was magical. Needs a Netherese-themed special property or quirk (2024 DMG minor properties/quirks table). Assign before Session 5.
 - [OPEN] **Chanon**: The speaking wolf who led the pack in Session 3. Wore a bone necklace with her name on it — Durok named her, as he named Rimetalon. Dead now. What does that mean for Durok's connection to his animals?
