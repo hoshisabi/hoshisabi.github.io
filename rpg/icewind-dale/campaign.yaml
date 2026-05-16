@@ -2,4 +2,5 @@ slug: icewind-dale
 name: Icewind Dale
 dm: Dan
 type: campaign
+image_prompt_prefix: "1930s pulp adventure paperback illustration style, bold linework, limited color palette of deep blues and slate grays with stark white snow, flat simplified background, dramatic lighting, arctic Icewind Dale setting with snow and ice always present, absolutely no text, no letters, no words, no labels anywhere in the image, bold simple shapes"
 # Player/character details live in dm/characters/pcs/
