@@ -6,6 +6,7 @@ title: Creepy
 role: Goblin expert (sidekick)
 status: Missing — presumed dead, Session 2
 image: /rpg/icewind-dale/public/npcs/images/creepy.png
+image_prompt: "Bold comic book illustration style, high contrast strong linework, limited cool color palette of blues and grays with white snow, dramatic lighting, arctic Icewind Dale setting with snow falling, no text — small hunched goblin in rough fur-hide clothing crouching in open snow, wide pale unsettling eyes, clutching a knife, expression of unease and confusion, flat arctic tundra behind him"
 ---
 
 One of the party's sidekicks from the start of the campaign. He never remembered his own name. The party called him Creepy.

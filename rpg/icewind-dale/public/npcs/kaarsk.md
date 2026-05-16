@@ -7,6 +7,7 @@ role: Lead hunter, Coldpeak tribe
 race: Orc
 status: Active
 image: /rpg/icewind-dale/public/npcs/images/kaarsk.png
+image_prompt: "Bold comic book illustration style, high contrast strong linework, limited color palette of blue-grays and slate with white snow, dramatic lighting, arctic Icewind Dale setting with snow falling, no text — large imposing orc hunter with prominent tusks and heavy build, arms crossed, wearing fur and leather hunting armor, stern unyielding expression, snowy mountain peaks looming behind him"
 ---
 
 The Coldpeak's lead hunter. Carries a massive longbow across his chest with hatchets and a knife for close work. Skeptical of outsiders and does not hide it. When Broken Tusk suggested bringing the party along to find the missing hunters, Kaarsk agreed — barely — and immediately made clear the terms: *don't slow us down*.
