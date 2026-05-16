@@ -7,7 +7,7 @@ role: Perimeter guard, Coldpeak tribe
 race: Orc
 status: Active
 image: /rpg/icewind-dale/public/npcs/images/tarsk.png
-image_prompt: "Bold comic book illustration style, high contrast strong linework, limited cool color palette of blues and grays with white snow, dramatic lighting, arctic Icewind Dale setting with snow falling, no text — an older orc guard, lean and weathered rather than imposing, standing at a camp perimeter at dawn with arms folded across his chest, bow slung across his back, expression unreadable but with something quietly amused in the eyes, heavy fur-lined armor worn smooth with years of use, flat tundra stretching behind him"
+image_prompt: "Bold comic book illustration style, high contrast strong linework, limited cool color palette of blues and grays with white snow, dramatic lighting, arctic Icewind Dale setting with snow falling, no text — an older orc guard, lean and weathered rather than imposing, standing at a camp perimeter at dawn with arms folded across his chest, expression unreadable but with something quietly amused in the eyes, heavy fur-lined armor worn smooth with years of use, flat tundra stretching behind him"
 ---
 
 Twenty years on perimeter watch. Has seen most things, has a category for everything else.
