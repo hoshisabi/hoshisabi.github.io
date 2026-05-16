@@ -4,7 +4,7 @@ campaign_name: Icewind Dale
 layout: location
 title: That Mountain Over There
 image: /rpg/icewind-dale/public/locations/images/the-mountain.png
-image_prompt: "Bold comic book illustration style, high contrast strong linework, limited cool color palette of blues and grays with white snow, dramatic lighting, arctic Icewind Dale setting with snow falling, no text — a massive dark mountain looming in the background, partially obscured by blowing snow and low cloud, standing stones visible at its base, no figures nearby, the foreground empty as if the viewer stopped walking before getting too close"
+image_prompt: "Bold comic book illustration style, high contrast strong linework, limited cool color palette of blues and grays with white snow, dramatic lighting, arctic Icewind Dale setting with snow falling, no text — a massive dark mountain looming in the background, partially obscured by blowing snow and low cloud, no figures nearby, the foreground empty as if the viewer stopped walking before getting too close"
 ---
 
 The Coldpeak tribe has no name for it. Broken Tusk explained why: *"You name a thing, and it knows you said its name."* Tribe members refer to it by direction — east of the spring, beyond the stones. They prefer not to think about it at all.
