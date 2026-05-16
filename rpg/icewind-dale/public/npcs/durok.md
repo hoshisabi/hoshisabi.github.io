@@ -7,6 +7,7 @@ role: Shaman, Coldpeak tribe
 race: Orc
 status: Missing
 image: /rpg/icewind-dale/public/npcs/images/durok.png
+image_prompt: "Bold comic book illustration style, high contrast strong linework, limited color palette of dark blue-grays with glowing orange rune accents, dramatic lighting, arctic Icewind Dale setting with snow, no text — large powerful orc shaman, body covered in glowing carved runes, crouching over a crack in frozen rock where fire and heat seep up through ice, snow surrounding him, intense expression, the sense of someone changed by proximity to old power"
 ---
 
 The Coldpeak's shaman. A healer and reader of the land who spent years listening to what the mountain had to say and acting on what he heard.

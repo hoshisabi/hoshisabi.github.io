@@ -1,22 +1,45 @@
 # Timeline
 
-- [Session 2026-04-25] Caravan destroyed by avalanche/wolf attack; party survived along with sidekicks and guide Pasha
-- [Session 2026-04-25] Party scavenged wreckage; found Jordan's letter, hat/mittens, cookies; opened lockbox (rainbow coin stain, Potion of Growth)
-- [Session 2026-04-25] Navigated quicksnow field with Pasha's guidance
-- [Session 2026-04-25] Razor snow encounter; party sprinted to cover, took minor damage
-- [Session 2026-04-25] Elemental owls (4) attacked; River went down, Dr. Medicine stabilized her; gnome expert sidekick killed during fight
-- [Session 2026-04-25] Found frozen caravan member with Potion of Healing and platinum sapphire ring
-- [Session 2026-04-25] Located warm cave with underground stream; took long rest
-- [Session 2026-04-25] During rest, the gnome expert was killed by unknown creature — remains arranged in geometric pattern
-- [Session 2026-04-25] Pasha warned the creature has their scent; party voted to hunt it
-- [Session 2026-04-25] Party followed Pasha into blizzard, became separated; returned to cave to find Pasha gone
-- [Session 2026-05-02] Party explored deeper cave; found Netherese worked-stone chamber with Ioun stone puzzle door
-- [Session 2026-05-02] Solved logic puzzle using journal; retrieved four Ioun stones (piercers, then gazers encountered)
-- [Session 2026-05-02] Dr. Medicine conned three gazers into trading the Ioun stones for snake oil; promised stones would reappear in 2 days
-- [Session 2026-05-02] Creepy's name appeared in blood on the Netherese door; he fled outside and was snatched by the Owlbear (body not recovered; presumed dead)
-- [Session 2026-05-02] Party crossed bone bridge over pit of crawling severed right hands; fled to Chamber of the Slumbering Crystal
-- [Session 2026-05-02] Nameless gnome spellcaster killed by falling ice when Owlbear crashed through ceiling
-- [Session 2026-05-02] Party fought the Owlbear; Berg drank Potion of Growth and drove her off with 16 piercing damage
-- [Session 2026-05-02] Found frozen archaeologists and Goggles of Night in collapsed tunnel
-- [Session 2026-05-02] Emerged to find Pasha alive; she had found Savin (Coldpeak hunter)
-- [Session 2026-05-02] Escorted to Coldpeak camp; Broken Tusk (chieftain) wants to meet the party
+- [Session 2026-04-24] Caravan destroyed by avalanche/wolf attack; party survived along with sidekicks and guide Pasha
+- [Session 2026-04-24] Party scavenged wreckage; found Jordan's letter, hat/mittens, cookies; opened lockbox (rainbow coin stain, Potion of Growth)
+- [Session 2026-04-24] Navigated quicksnow field with Pasha's guidance
+- [Session 2026-04-24] Razor snow encounter; party sprinted to cover, took minor damage
+- [Session 2026-04-24] Elemental owls (4) attacked; River went down, Dr. Medicine stabilized her; gnome expert sidekick killed during fight
+- [Session 2026-04-24] Found frozen caravan member with Potion of Healing and platinum sapphire ring
+- [Session 2026-04-24] Located warm cave with underground stream; took long rest
+- [Session 2026-04-24] During rest, the gnome expert was killed by unknown creature — remains arranged in geometric pattern
+- [Session 2026-04-24] Pasha warned the creature has their scent; party voted to hunt it
+- [Session 2026-04-24] Party followed Pasha into blizzard, became separated; returned to cave to find Pasha gone
+- [Session 2026-05-01] Party explored deeper cave; found Netherese worked-stone chamber with Ioun stone puzzle door
+- [Session 2026-05-01] Solved logic puzzle using journal; retrieved four Ioun stones (piercers, then gazers encountered)
+- [Session 2026-05-01] Dr. Medicine conned three gazers into trading the Ioun stones for snake oil; promised stones would reappear in 2 days
+- [Session 2026-05-01] Creepy's name appeared in blood on the Netherese door; he fled outside and was snatched by the Owlbear (body not recovered; presumed dead)
+- [Session 2026-05-01] Party crossed bone bridge over pit of crawling severed right hands; fled to Chamber of the Slumbering Crystal
+- [Session 2026-05-01] Nameless gnome spellcaster killed by falling ice when Owlbear crashed through ceiling
+- [Session 2026-05-01] Party fought the Owlbear; Berg drank Potion of Growth and drove her off with 16 piercing damage
+- [Session 2026-05-01] Found frozen archaeologists and Goggles of Night in collapsed tunnel
+- [Session 2026-05-01] Emerged to find Pasha alive; she had found Savin (Coldpeak hunter)
+- [Session 2026-05-01] Escorted to Coldpeak camp; Broken Tusk (chieftain) wants to meet the party
+
+- [Session 2026-05-08] Party integrated into Coldpeak camp; observed Kaarsk's skepticism and Savin's outsider status
+- [Session 2026-05-08] Mangled ram found at camp edge — Rimetalon's message; two hunters reported missing
+- [Session 2026-05-08] Expedition with Kaarsk to find missing hunters; Alina fell through ice crossing, Dr. Medicine pulled her out; one hunter sent home with escort
+- [Session 2026-05-08] Ice Mephit and Ice Toad ambush at campsite; party defeated them; found unusual markings on the toad's hide
+- [Session 2026-05-08] Reached Durok's sacred spring — Clod encountered; Dr. Medicine traded snake oil for a truth-stone, gained access to Durok's yurt
+- [Session 2026-05-08] Read Durok's journal: staff whispering, Sending Stones keeping voices at bay then failing, "guardian stole my runestone — must teach a lesson"
+- [Session 2026-05-08] Wolf pack ambush on return; pack mother (named Chanon by Durok) killed; bone necklace with "Chanon" recovered by River
+- [Session 2026-05-08] Returned to Coldpeak; drums and celebration — then two guards (Vroth and Orrak) found dead at camp entrance; bodies arranged around rune of goat entrails; single bloody white feather; rune read: *Soon*
+
+- [Session 2026-05-15] Morning: Kaarsk found Berg at the spears for Vroth and Orrak; asked what Berg found in the mountain; established Berg as someone worth consulting
+- [Session 2026-05-15] Clod arrived at camp perimeter as "visiting dignitary"; returned the Dragonlord's Dagger to Dr. Medicine; reported mountain was pleased, offered hands through stone cracks, Clod declined; formally re-designated Dr. Medicine as guardian
+- [Session 2026-05-15] Broken Tusk: the mountain doesn't appear on maps, shouldn't be there; tribe cannot protect anyone who goes close; hunters who break the rule come back wrong or don't come back
+- [Session 2026-05-15] Party visited Durok's spring — empty; journal still there; read entries aloud
+- [Session 2026-05-15] Party visited Netherese ruins entrance; Alina used Potion of Comprehension; identified as geomancer academy; city name slips away on reading; crystals are concentration anchors for a sustained spell at five locations
+- [Session 2026-05-15] Berg examined Savin's right hand scar (Medicine check); someone attempted to sever it at the wrist when Savin was very young; wound healed over; nobody mentioned the pit of right hands
+- [Session 2026-05-15] Broken Tusk saw Durok's journal; Alina gave minimal information; Broken Tusk shared: Durok had spoken to her of Standing Stones to the east
+- [Session 2026-05-15] Prep day: Berg worked blacksmith forge (received 2 bear traps); Dr. Medicine helped with medicinal brewing (crafted healing potion); Alina added Comprehend Languages to spellbook
+- [Session 2026-05-15] Standing Stones expedition with Savin and Pasha; stones are dark rock with silverish metal flecks that hold cold like iron
+- [Session 2026-05-15] Remorhaz erupted from ground during research; party killed it; Berg's charge delivered killing blow
+- [Session 2026-05-15] Wand of Magic Missiles recovered from Remorhaz stomach (survived heat because magical)
+- [Session 2026-05-15] Research result after full interrupted night: one Netherese phrase retained — "the city that never was"
+- [Session 2026-05-15] Pasha departed for Elk tribe the following morning
