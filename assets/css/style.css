@@ -359,6 +359,27 @@ hr {
   margin: 0;
 }
 
+/* ─── Session player highlights (portrait left, prose right — achievement-style flex) ─ */
+.highlight {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-bottom: 1.25rem;
+}
+
+.highlight-portrait {
+  flex-shrink: 0;
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+}
+
+.highlight p {
+  margin: 0;
+}
+
 /* ─── Campaign breadcrumb nav ─────────────────────────────────────────────── */
 .campaign-breadcrumb {
   margin-bottom: 1.5rem;
