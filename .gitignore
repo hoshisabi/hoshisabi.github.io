@@ -8,3 +8,6 @@ _site/
 .bundle/
 .jekyll-cache/
 /rpg/icewind-dale/push-to-drive.ps1
+node_modules/
+package.json
+package-lock.json
