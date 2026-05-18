@@ -13,8 +13,12 @@ linked from `index.md`. The campaign has a clear ending. Get it documented befor
 5. Update the `[transcription]` link in `index.md`
 6. Commit
 
-**Tip:** Export Rocketbook transcriptions from Google Docs in bulk (File → Download → Plain text)
-before starting a session — paste the raw OCR alongside the PDF read for best results.
+**Tip:** All PDFs have an embedded text layer (Rocketbook's OCR baked in) — confirmed across
+all 29 sessions. No gdoc export needed. Claude can extract and reconcile automatically:
+```
+pdftotext "session_notes/Wild Beyond the Witchlight Session 31 2023-06-08 [D&D].pdf" -
+```
+The gdoc transcription files in Google Drive are fully redundant and can be ignored.
 
 ## Session Inventory
 
