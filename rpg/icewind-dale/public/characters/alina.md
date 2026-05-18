@@ -3,6 +3,8 @@ campaign_url: /rpg/icewind-dale/public/
 campaign_name: Icewind Dale
 layout: character
 title: Alina Shandorath
+also_known_as:
+  - Alina
 player: Dominic
 race: Tiefling (Chthonic Legacy)
 class: Wizard 4 (Evoker)

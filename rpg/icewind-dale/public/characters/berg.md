@@ -3,6 +3,8 @@ campaign_url: /rpg/icewind-dale/public/
 campaign_name: Icewind Dale
 layout: character
 title: Berg Wurdnowwah
+also_known_as:
+  - Berg
 player: Josh
 race: Orc
 class: Fighter 4 (Battle Master)

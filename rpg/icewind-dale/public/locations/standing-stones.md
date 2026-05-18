@@ -3,6 +3,8 @@ campaign_url: /rpg/icewind-dale/public/
 campaign_name: Icewind Dale
 layout: location
 title: The Standing Stones
+also_known_as:
+  - Standing Stones
 image: /rpg/icewind-dale/public/locations/images/standing-stones.png
 image_prompt: "Bold comic book illustration style, high contrast strong linework, limited cool color palette of blues and grays with white snow, dramatic lighting, arctic Icewind Dale setting with snow falling, no text — a ring of tall dark standing stones in open tundra at night, each stone flecked with faint silver that glows in the moonlight, a small camp fire between them, snow drifting across the flat ground, sense of cold ancient weight to the stones"
 ---
