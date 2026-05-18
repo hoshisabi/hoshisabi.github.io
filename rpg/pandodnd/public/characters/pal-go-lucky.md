@@ -1,0 +1,22 @@
+---
+campaign_url: /rpg/pandodnd/public/
+campaign_name: PandoDnD Pub Crawl
+layout: character
+title: Pal Go Lucky
+player: Don
+race: Hill Dwarf
+class: Hill Dwarf Paladin 6 (Oath of the Ancients)
+alignment: Lawful Good
+dnd_beyond: https://www.dndbeyond.com/characters/141093656
+image: https://www.dndbeyond.com/avatars/43940/832/638607458605123169.jpeg
+---
+
+## Appearances
+
+- **2026-05-13** — [Session 1 (May 13, 2026)](../sessions/2026-05-13) (*Unremembered Things*)
+
+_Note: drop-in roster; this page grows when the character appears in recaps._
+
+## From D&D Beyond export
+
+Snapshot from a Foundry VTT export (not guaranteed current on DDB): abilities **STR** 21 **DEX** 8 **CON** 16 **INT** 8 **WIS** 8 **CHA** 16 — **HP** 76 / 76. *(STR reflects items such as a belt of giant strength on the import.)* Oath: **Oath of the Ancients**.
