@@ -3,6 +3,8 @@ campaign_url: /rpg/icewind-dale/public/
 campaign_name: Icewind Dale
 layout: character
 title: Roaring River
+also_known_as:
+  - River
 player: Eric
 race: Tabaxi
 class: Rogue 3 / Monk (Swashbuckler into Monk multiclass)

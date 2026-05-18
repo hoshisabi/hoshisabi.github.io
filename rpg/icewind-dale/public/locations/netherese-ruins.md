@@ -3,6 +3,9 @@ campaign_url: /rpg/icewind-dale/public/
 campaign_name: Icewind Dale
 layout: location
 title: The Netherese Ruins
+also_known_as:
+  - Netherese Ruins
+  - Netherese ruins
 image: /rpg/icewind-dale/public/locations/images/netherese-ruins.png
 ---
 

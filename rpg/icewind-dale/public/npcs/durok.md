@@ -3,6 +3,8 @@ campaign_url: /rpg/icewind-dale/public/
 campaign_name: Icewind Dale
 layout: npc
 title: Durok Deepseeker
+also_known_as:
+  - Durok
 role: Shaman, Coldpeak tribe
 race: Orc
 status: Missing
