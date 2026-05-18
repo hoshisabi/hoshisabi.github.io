@@ -16,7 +16,7 @@ status: Active
 
 A rotating cast of adventurers wanders the planes, stumbling into trouble one pub at a time. Each session is a self-contained adventure — drop in, play a Tier 2 character, and find out what Pandemonium, Sigil, and the rest of the multiverse have in store. Memory loss, ancient conspiracies, and extremely questionable tavern choices are recurring themes.
 
-Adventures are drawn from the DC (DungeonCraft) catalog.
+Adventures are drawn from the DC (DungeonCraft) catalog unless otherwise noted.
 
 ---
 
@@ -26,3 +26,18 @@ Adventures are drawn from the DC (DungeonCraft) catalog.
 {% for session in sessions %}
 - [{{ session.title }} — {{ session.session_title }}]({{ session.url }}): {{ session.description }}
 {% endfor %}
+
+## Characters we've catalogued
+
+Party composition changes weekly; pages here capture **appearances observed** during published sessions—not a canonical roster.
+
+{% assign appearances = site.pages | where_exp: "p", "p.path contains 'pandodnd/public/characters'" | sort: "title" %}
+<div class="npc-grid">
+{% for char in appearances %}
+<a href="{{ char.url }}" class="npc-card">
+  {% if char.image %}<img src="{{ char.image }}" alt="{{ char.title }}">{% else %}<div class="npc-no-image"></div>{% endif %}
+  <span>{{ char.title }}</span>
+  {% if char.player %}<span class="card-player">{{ char.player }}</span>{% endif %}
+</a>
+{% endfor %}
+</div>
