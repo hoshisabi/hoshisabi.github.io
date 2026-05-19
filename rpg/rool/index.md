@@ -73,11 +73,11 @@ Wild Shape up to CR 1.
   * [Session 29 2023-05-18](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2029%202023-05-18%20%5BD&D%5D.pdf): [transcription](session_notes/session_29_2023-05-18.md)
   * [Session 30 2023-05-25](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2030%202023-05-25%20%5BD&D%5D.pdf): [transcription](session_notes/session_30_2023-05-25.md)
   * [Session 31 2023-06-08](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2031%202023-06-08%20%5BD&D%5D.pdf): [transcription](session_notes/session_31_2023-06-08.md)
-  * [Session 32 2023-06-15](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2032%202023-06-15%20%5BD&D%5D.pdf): [transcription]
+  * [Session 32 2023-06-15](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2032%202023-06-15%20%5BD&D%5D.pdf): [transcription](session_notes/session_32_2023-06-15.md)
   * [Session 33 2023-06-30](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2033%202023-06-30%20%5BD&D%5D.pdf): [transcription](session_notes/session_33_2023-06-30.md)
   * [Session 34 2023-07-13](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2034%202023-07-13%20%5BD&D%5D.pdf): [transcription](session_notes/session_34_2023-07-13.md)
-  * [Session 35 2023-07-27](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2035%202023-07-27%20%5BD&D%5D.pdf): [transcription]
-  * [Session 36 2023-08-03](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2036%202023-08-03%20%5BD&D%5D.pdf): [transcription]
-  * [Session 37 2023-08-10](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2037%202023-08-10%20%5BD&D%5D.pdf): [transcription]
+  * [Session 35 2023-07-27](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2035%202023-07-27%20%5BD&D%5D.pdf): [transcription](session_notes/session_35_2023-07-27.md)
+  * [Session 36 2023-08-03](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2036%202023-08-03%20%5BD&D%5D.pdf): [transcription](session_notes/session_36_2023-08-03.md)
+  * [Session 37 2023-08-10](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2037%202023-08-10%20%5BD&D%5D.pdf): [transcription](session_notes/session_37_2023-08-10.md)
   * Session 38 2023-08-14: [scan](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2038%202023-08-14%20%5BD&D%5D%20p1.jpg) | [transcription](session_notes/session_38_2023-08-14.md)
   * Session 39 2023-08-17: [scan](session_notes/Wild%20Beyond%20the%20Witchlight%20Session%2039%202023-08-17%20%5BD&D%5D%20p1.jpg) | [transcription](session_notes/session_39_2023-08-17.md)
