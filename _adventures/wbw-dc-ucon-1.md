@@ -1,7 +1,7 @@
 ---
 title: "The Party that Split"
 code: "WBW-DC-UCON-1"
-series: ucon
+series: basht
 order: 3
 tier: 1
 levels: "1–4"

@@ -1,7 +1,7 @@
 ---
 title: "Straw Bears"
 code: "CCC-UCON-03"
-series: ucon
+series: basht
 order: 2
 tier: 1
 levels: "1–4"

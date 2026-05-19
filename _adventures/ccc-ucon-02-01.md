@@ -1,7 +1,7 @@
 ---
 title: "Goat Mayor"
 code: "CCC-UCON-02-01"
-series: ucon
+series: basht
 order: 1
 tier: 1
 levels: "1–4"

@@ -2,7 +2,7 @@
 title: "Welcome to Basht"
 code: "FR-DC-UCON25"
 coauthors: "Bryan Mets, John Rogers"
-series: ucon
+series: basht
 order: 5
 tier: 1
 levels: "1–2"

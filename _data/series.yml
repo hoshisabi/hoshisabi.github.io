@@ -4,8 +4,8 @@
 # as site.data.series (filename without extension).
 # YAML lists like this one are accessed as arrays in Liquid.
 
-- id: ucon
-  title: "U-Con Adventures (The Peculiar Village of Basht)"
+- id: basht
+  title: "The Peculiar Village of Basht (U-Con Adventures)"
 
 - id: erland_forsk
   title: "The Strange Case of Erland Forsk"
