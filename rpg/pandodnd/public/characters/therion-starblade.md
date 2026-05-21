@@ -8,7 +8,7 @@ race: Wood Elf
 class: Wood Elf Eldritch Knight Fighter 6
 alignment: Neutral Good
 dnd_beyond: https://www.dndbeyond.com/characters/162592792
-image: https://www.dndbeyond.com/avatars/43940/813/638607458268123998.jpeg
+image: https://www.dndbeyond.com/avatars/56594/335/1581111423-162592792.jpeg
 ---
 
 ## Appearances

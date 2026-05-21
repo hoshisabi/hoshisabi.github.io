@@ -8,7 +8,7 @@ race: Halfling
 class: Halfling Arcane Trickster Rogue 8
 alignment: True Neutral
 dnd_beyond: https://www.dndbeyond.com/characters/146856726
-image: https://www.dndbeyond.com/avatars/43940/853/638607459373183811.jpeg
+image: https://www.dndbeyond.com/avatars/49385/141/1581111423-146856726.jpeg
 ---
 
 ## Appearances
