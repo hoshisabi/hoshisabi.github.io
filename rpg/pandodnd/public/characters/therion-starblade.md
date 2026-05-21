@@ -14,7 +14,7 @@ image: https://www.dndbeyond.com/avatars/43940/813/638607458268123998.jpeg
 ## Appearances
 
 - **2026-05-13** — [Session 1 (May 13, 2026)](../sessions/2026-05-13) (*Unremembered Things*)
-- **2026-05-20** — [Session 2 (May 20, 2026)](../sessions/2026-05-20) (*No Explosions Tonight*)
+- **2026-05-20** — [Session 2 (May 20, 2026)](../sessions/2026-05-20) (*Professor Bartlesby's Inventorium*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
 
