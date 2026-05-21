@@ -5,7 +5,7 @@ layout: character
 title: Therion Starblade
 player: Mark
 race: Wood Elf
-class: Wood Elf Eldritch Knight Fighter 5
+class: Wood Elf Eldritch Knight Fighter 6
 alignment: Neutral Good
 dnd_beyond: https://www.dndbeyond.com/characters/162592792
 image: https://www.dndbeyond.com/avatars/43940/813/638607458268123998.jpeg
@@ -14,6 +14,7 @@ image: https://www.dndbeyond.com/avatars/43940/813/638607458268123998.jpeg
 ## Appearances
 
 - **2026-05-13** — [Session 1 (May 13, 2026)](../sessions/2026-05-13) (*Unremembered Things*)
+- **2026-05-20** — [Session 2 (May 20, 2026)](../sessions/2026-05-20) (*No Explosions Tonight*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
 
