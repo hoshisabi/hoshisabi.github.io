@@ -8,7 +8,7 @@ race: Human
 class: Human Twilight Cleric 10
 alignment: True Neutral
 dnd_beyond: https://www.dndbeyond.com/characters/157952824
-image: https://www.dndbeyond.com/avatars/43940/780/638607457552642121.jpeg
+image: https://www.dndbeyond.com/avatars/55744/147/1581111423-157952824.jpeg
 ---
 
 ## Appearances
