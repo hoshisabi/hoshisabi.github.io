@@ -7,9 +7,7 @@ layout: default
 <article class="npc">
   <h1>{{ page.title }}</h1>
 
-  {% if page.image %}
-  <img src="{{ page.image }}" alt="{{ page.title }}" class="portrait">
-  {% endif %}
+  {% include entity-portrait.html %}
 
   {% if page.role or page.race or page.status %}
   <dl class="npc-meta">
