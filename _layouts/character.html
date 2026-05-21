@@ -7,9 +7,7 @@ layout: default
 <article class="pc">
   <h1>{{ page.title }}</h1>
 
-  {% if page.image %}
-  <img src="{{ page.image }}" alt="{{ page.title }}" class="portrait">
-  {% endif %}
+  {% include entity-portrait.html %}
 
   {% if page.player or page.race or page.class or page.background %}
   <dl class="pc-meta">

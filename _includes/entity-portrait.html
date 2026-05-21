@@ -1,0 +1,14 @@
+{% comment %}
+  Portrait for character, NPC, and location pages.
+  Falls back to campaign generic portrait when page.image is unset.
+{% endcomment %}
+{% if page.image %}
+  {% assign portrait_src = page.image %}
+{% elsif page.default_portrait %}
+  {% assign portrait_src = page.default_portrait %}
+{% elsif page.campaign_url %}
+  {% assign portrait_src = page.campaign_url | append: 'images/default-portrait.png' %}
+{% else %}
+  {% assign portrait_src = '/rpg/_shared/images/default-portrait.png' %}
+{% endif %}
+<img src="{{ portrait_src }}" alt="{{ page.title }}" class="portrait">
