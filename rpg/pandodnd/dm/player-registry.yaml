@@ -8,6 +8,7 @@
   slug: markd
 - discord_aliases:
   - Ken B. (Kenistopheles)
+  - Ken B. (Neko)
   display_name: Ken B
   slug: kenb
 - discord_aliases:
@@ -26,3 +27,19 @@
   - XZ
   display_name: XZ
   slug: xz
+- discord_aliases:
+  - TreyM
+  display_name: TreyM
+  slug: treym
+- discord_aliases:
+  - MarkD
+  display_name: MarkD
+  slug: markd
+- discord_aliases:
+  - OnlyPetrichor
+  display_name: OnlyPetrichor
+  slug: onlypetrichor
+- discord_aliases:
+  - Alice | Bob
+  display_name: Alice
+  slug: alice
