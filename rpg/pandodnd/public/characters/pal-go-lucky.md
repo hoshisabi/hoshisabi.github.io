@@ -8,7 +8,7 @@ race: Hill Dwarf
 class: Hill Dwarf Paladin 6 (Oath of the Ancients)
 alignment: Lawful Good
 dnd_beyond: https://www.dndbeyond.com/characters/141093656
-image: https://www.dndbeyond.com/avatars/43940/832/638607458605123169.jpeg
+image: https://www.dndbeyond.com/avatars/51204/450/1581111423-141093656.jpeg
 ---
 
 ## Appearances
