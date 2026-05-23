@@ -20,7 +20,7 @@ Below the threshold, the cold stops.
 
 The Empire called it the Shaping House. The families who sent their children here probably called it the crèche.
 
-Noble children of Irenthal — second and third born, those with magical potential but not destined for positions of power — were sent here young, before they were old enough to study magic. Old enough to be shaped. The Shaping House was where the Empire's expectations were built into them before they had the vocabulary to question those expectations. The propaganda doll spoke to them in the voice of a patient adult: *you are a citizen of Irenthal, your right hand is a gift you give so others may be safe.* By the time they were old enough for the academy, the choice had already been made for them.
+Noble cadets of Irenthal — the spares, those with magical potential but not the ones their families were betting on — were sent here young, before they were old enough to study magic. Old enough to be shaped. The Shaping House was where the Empire's expectations were built into them before they had the vocabulary to question those expectations. The propaganda doll spoke to them in the voice of a patient adult: *you are a citizen of Irenthal, your right hand is a gift you give so others may be safe.* By the time they were old enough for the academy, the choice had already been made for them.
 
 The caretaker, Igenio, tended the children. Whether he believed in what the House was doing, the record doesn't say.
 
