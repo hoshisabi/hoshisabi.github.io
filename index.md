@@ -21,9 +21,6 @@ layout: default
       <a href="http://pandodnd.com" class="btn-pill secondary" target="_blank" rel="noopener noreferrer">
         <span>🎲 Pando DND games</span>
       </a>
-      <a href="https://twitter.com/hoshisabi" class="btn-pill secondary" target="_blank" rel="noopener noreferrer">
-        <span>🐦 Contact me</span>
-      </a>
     </div>
   </div>
 </div>
@@ -71,7 +68,7 @@ layout: default
   </div>
 
   <!-- Phandelver Campaign -->
-  <div class="campaign-portal-card">
+  <div class="campaign-portal-card campaign-wide">
     <div>
       <div class="campaign-portal-card-header">
         <h3 class="campaign-portal-card-title">
