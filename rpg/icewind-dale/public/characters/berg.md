@@ -31,3 +31,7 @@ Efficient. Does what needs doing without announcing it. When Berg speaks Orcish 
 
 - **Party:** Alina Shandorath, Dr. Medicine, Roaring River
 - **Kaarsk:** Developing mutual respect — the only outsider Kaarsk treats as a potential equal
+
+## Appearances
+
+- **2026-05-22** — [Session 5 (May 22, 2026)](../sessions/2026-05-22) (*Don't Forget Your Mother*)
