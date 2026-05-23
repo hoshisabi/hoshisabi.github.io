@@ -17,6 +17,8 @@ Alina spent a full night studying the runes — interrupted partway through when
 
 *The city that never was.*
 
-That is as close as the inscription would let her get to a name. The actual name slips away each time she tries to hold it directly.
+That is as close as the inscription would let her get to a name. The actual name slips away each time she tries to hold it directly — though the [**Shaping House**](shaping-house)'s propaganda doll named it aloud in Session 5: *Irenthal.*
 
 The stones need at least one more visit.
+
+The [**Shaping House**](shaping-house) is visible from the research camp — a crèche where Irenthal sent its noble dedicants before the academy, its top floors sheared off by the same force that took the city.
