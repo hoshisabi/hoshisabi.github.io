@@ -7,6 +7,7 @@ tier: 1
 levels: "1–4"
 apl: 3
 runtime: "4 hours"
+dungeoncraft_seed: "Seed used: Party Time!"
 link: "https://www.dmsguild.com/product/408590?affiliate_id=171040&src=hoshisabi"
 image: https://d1vzi28wh99zvq.cloudfront.net/images/8957/408590.webp
 ---
