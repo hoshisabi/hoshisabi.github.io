@@ -2,12 +2,30 @@ slug: log
 name: Legends of Greyhawk
 dm: Bryan
 type: campaign
+image_prompt_base: "dungeons and dragons, heroic fantasy, dramatic lighting, absolutely no text, no letters, no words, no labels anywhere in the image"
 players:
   - player: Brian
-    character: Kaelisa
+    character: Citl-Itzam
+    race: Aasimar
+    class: Druid
+    subclass: Circle of the Stars
+    background: Farmer
+    ddb_id: 166054368
   - player: Dan
     character: Oskar
+    race: Human
+    class: Fighter
+    background: Acolyte
+    ddb_id: 165429907
   - player: Trey
     character: Cinder
+    race: Human
+    class: Paladin
+    background: Wayfarer
+    ddb_id: 165434792
   - player: Ken
     character: Araken
+    race: Human
+    class: Ranger
+    background: Guide
+    ddb_id: 165283913
