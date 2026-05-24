@@ -1,0 +1,36 @@
+# Campaigns featured on the landing page.
+running:
+  - title: Icewind Dale
+    sub: AL · 5e · in person at Pandemonium Games
+    desc: >-
+      A cold, brutal struggle in the freezing north. Adventurers League
+      Dungeoncraft, ongoing.
+    status: active
+    sessions: 5
+    started: Apr 2026
+    href: /rpg/icewind-dale/public/
+
+  - title: PandoDnD Pub Crawl
+    sub: AL · DungeonCraft · online (Discord)
+    desc: >-
+      Planescape season. A rotating cast of adventurers wanders the planes,
+      stumbling into trouble one questionable pub at a time.
+    status: active
+    sessions: 18
+    started: "2024"
+    href: /rpg/pandodnd/public/
+
+  - title: Lost Mine of Phandelver
+    sub: Classic 5e · in person
+    desc: >-
+      The party restores the Wave Echo Cave and establishes themselves as
+      heroes in Phandalin.
+    status: finished
+    sessions: 12
+    started: "2023"
+    href: /rpg/phandelver
+
+# Stats displayed in the telemetry strip on the landing page.
+stats:
+  active_campaigns: 2
+  sessions_logged: 60
