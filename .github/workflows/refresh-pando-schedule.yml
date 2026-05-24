@@ -1,0 +1,47 @@
+name: Refresh PandoDnD schedule
+
+# Pulls the Warhorn atom feed for PandoDnD and writes it to
+# _data/pando_schedule.yml so the landing page renders the live
+# upcoming sessions at build time — no client-side fetch needed.
+#
+# Runs:
+#   - every day at 06:00 UTC (cron)
+#   - on every push to main (so manual edits still pick up the latest)
+#   - manually via the "Run workflow" button in the Actions tab
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  push:
+    branches: [ main ]
+    paths-ignore:
+      - "_data/pando_schedule.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh schedule
+        run: python scripts/refresh_pando.py
+
+      - name: Commit if changed
+        run: |
+          if [[ -n "$(git status --porcelain _data/pando_schedule.yml)" ]]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add _data/pando_schedule.yml
+            git commit -m "chore: refresh PandoDnD schedule from Warhorn"
+            git push
+          else
+            echo "No changes to schedule."
+          fi

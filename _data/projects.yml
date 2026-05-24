@@ -1,0 +1,29 @@
+# Code projects featured on the landing page.
+# Edit freely — the home page renders this in order.
+- name: Scrollcase
+  repo: hoshisabi/scrollcase
+  href: https://github.com/hoshisabi/scrollcase
+  lang: Python
+  status: in progress
+  desc: >-
+    A tabletop campaign portal generator. Sessions, characters, NPCs,
+    locations — all crosslinked.
+
+- name: AL Adventure Catalog
+  repo: hoshisabi/al_adventure_catalog
+  href: https://github.com/hoshisabi/al_adventure_catalog
+  lang: Python
+  status: live
+  desc: >-
+    A searchable index of every Adventurers League adventure,
+    by code, tier, season, and tag. Lives at
+    hoshisabi.com/al_adventure_catalog/.
+
+- name: ALLog Download
+  repo: hoshisabi/allog_download
+  href: https://github.com/hoshisabi/allog_download
+  lang: Python
+  status: live
+  desc: >-
+    A small utility for pulling Adventurers League logs into a
+    working local copy. Quiet but handy.
