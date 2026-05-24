@@ -109,6 +109,10 @@ body.home .container {
   padding: 0 2rem;
 }
 
+.container.wide {
+  max-width: var(--max-width-lp);
+}
+
 .page-content {
   padding-top: 2.5rem;
   padding-bottom: 4rem;
@@ -423,45 +427,318 @@ body.home h2 { border-bottom: none; padding-bottom: 0; }
   border: 1px solid rgba(185, 161, 255, 0.3);
 }
 
-/* Adventure cards (myadventures.md) */
-.adventure-series { margin-bottom: 3rem; }
+/* ─── Adventure list (myadventures.md) ────────────────────
+   Series sections styled like landing-page sections, card
+   grid with poster-style covers, tier pills, seed callout. */
+
+.adventures-intro {
+  font-size: 1.02rem;
+  color: var(--text-dim);
+  max-width: 60ch;
+  margin: 0 0 3rem;
+}
+
+.adventure-series {
+  margin-bottom: 4.5rem;
+  scroll-margin-top: 2rem;
+}
+.adventure-series:last-of-type { margin-bottom: 2rem; }
+
+.adventure-series .series-head {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: end;
+  gap: 1.5rem;
+  margin-bottom: 1.75rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--border);
+}
+.adventure-series .series-num {
+  font-family: var(--font-mono);
+  font-size: 0.66rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin-bottom: 0.45rem;
+}
+.adventure-series h2 {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: 1.9rem;
+  letter-spacing: -0.025em;
+  margin: 0;
+  border-bottom: none;
+  padding-bottom: 0;
+  color: var(--text);
+  line-height: 1.15;
+}
+.adventure-series h2 em {
+  font-style: italic;
+  color: var(--accent);
+  font-weight: 300;
+}
+.adventure-series .series-count {
+  font-family: var(--font-mono);
+  font-size: 0.66rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  white-space: nowrap;
+}
+
+.adventure-series .series-desc {
+  font-size: 0.95rem;
+  line-height: 1.65;
+  color: var(--text-dim);
+  max-width: 62ch;
+  margin: -0.5rem 0 1.75rem;
+}
+.adventure-series .series-desc em {
+  font-style: italic;
+  color: var(--text);
+}
+
+.adventure-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+
 .adventure-card {
-  background: var(--bg-card);
+  position: relative;
+  background: linear-gradient(180deg, rgba(255,255,255,0.04), rgba(255,255,255,0.01));
   border: 1px solid var(--border);
-  border-radius: var(--radius);
-  padding: 1.1rem 1.25rem;
-  margin-bottom: 1rem;
-  transition: border-color 0.15s, background 0.15s;
+  border-radius: 14px;
+  overflow: hidden;
+  transition: transform 0.2s, border-color 0.2s;
+  margin: 0;
 }
-.adventure-card:hover { border-color: var(--border-hi); background: var(--bg-card-hi); }
-.adventure-card-inner { display: flex; gap: 1rem; align-items: flex-start; }
-.adventure-card-image { flex-shrink: 0; width: 110px; }
+.adventure-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--border-hi);
+}
+.adventure-card-inner {
+  display: grid;
+  grid-template-columns: 140px 1fr;
+  align-items: stretch;
+  min-height: 100%;
+  text-decoration: none;
+  color: var(--text);
+}
+.adventure-card-inner:hover { color: var(--text); }
+
+.adventure-card-image {
+  position: relative;
+  width: 140px;
+  background: linear-gradient(180deg, rgba(255,255,255,0.025), rgba(255,255,255,0.005));
+  overflow: hidden;
+  border-right: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.adventure-card-image::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(90deg, transparent 70%, rgba(14, 18, 38, 0.30) 100%);
+  pointer-events: none;
+}
 .adventure-card-image img {
-  width: 100%; max-width: 110px; height: auto;
+  width: 100%;
+  height: auto;
+  max-height: 100%;
   display: block;
-  border-radius: var(--radius);
-  border: 1px solid var(--border);
+  object-fit: contain;
+  transition: transform 0.5s ease;
 }
-.adventure-card-body { flex: 1; min-width: 0; }
-.adventure-card h3 { margin: 0 0 0.25rem; font-size: 1.05rem; }
-.adventure-card h3 a { color: var(--link); text-decoration: none; }
-.adventure-card h3 a:hover { color: var(--link-hover); text-decoration: underline; }
+.adventure-card:hover .adventure-card-image img {
+  transform: scale(1.04);
+}
+
+.adventure-card-body {
+  padding: 1.15rem 1.25rem 1.1rem;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
 .adventure-code {
   font-family: var(--font-mono);
-  font-size: 0.8rem;
-  color: var(--text-muted);
-  margin-bottom: 0.5rem;
+  font-size: 0.64rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin: 0;
 }
-.adventure-meta {
-  font-size: 0.82rem;
-  color: var(--text-muted);
-  margin-top: 0.6rem;
+.adventure-card h3 {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 1.2rem;
+  line-height: 1.2;
+  letter-spacing: -0.015em;
+  margin: 0;
+  border-bottom: none;
+  padding-bottom: 0;
+  color: var(--text);
 }
-.adventure-meta span + span::before { content: " · "; }
-.adventure-card p {
-  font-size: 0.92rem;
-  margin: 0.4rem 0 0;
+.adventure-card:hover h3 { color: var(--accent); }
+.adventure-coauthors {
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin: -0.15rem 0 0;
+}
+.adventure-coauthors strong {
   color: var(--text-dim);
+  font-weight: 500;
+}
+.adventure-card p {
+  font-size: 0.875rem;
+  line-height: 1.55;
+  margin: 0.15rem 0 0;
+  color: var(--text-dim);
+}
+.adventure-seed {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  margin-top: 0.2rem;
+  padding: 0.5rem 0.65rem;
+  border-left: 2px solid var(--accent-2);
+  background: rgba(109, 212, 255, 0.05);
+  border-radius: 0 6px 6px 0;
+  line-height: 1.4;
+}
+.adventure-seed .seed-lbl {
+  font-family: var(--font-mono);
+  font-size: 0.58rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--accent-2);
+  flex-shrink: 0;
+}
+.adventure-seed .seed-val {
+  font-size: 0.82rem;
+  color: var(--text);
+  font-style: italic;
+}
+
+.adventure-meta {
+  margin-top: auto;
+  padding-top: 0.9rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+.adventure-meta .meta-pill {
+  font-family: var(--font-mono);
+  font-size: 0.6rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  padding: 0.28rem 0.55rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: rgba(255,255,255,0.02);
+  color: var(--text-dim);
+  white-space: nowrap;
+  line-height: 1;
+}
+.adventure-meta .meta-pill.tier-1 {
+  background: rgba(94, 234, 212, 0.10);
+  color: var(--success);
+  border-color: rgba(94, 234, 212, 0.30);
+}
+.adventure-meta .meta-pill.tier-2 {
+  background: rgba(185, 161, 255, 0.10);
+  color: var(--accent);
+  border-color: rgba(185, 161, 255, 0.32);
+}
+.adventure-meta .meta-pill.tier-3 {
+  background: rgba(245, 158, 11, 0.10);
+  color: var(--warning);
+  border-color: rgba(245, 158, 11, 0.32);
+}
+.adventure-meta .meta-pill.tier-4 {
+  background: rgba(244, 63, 94, 0.10);
+  color: var(--danger);
+  border-color: rgba(244, 63, 94, 0.32);
+}
+
+/* External-link arrow (revealed on hover) */
+.adventure-card .ext-arr {
+  position: absolute;
+  top: 10px; right: 10px;
+  width: 26px; height: 26px;
+  display: inline-flex; align-items: center; justify-content: center;
+  border-radius: 50%;
+  background: rgba(10, 12, 26, 0.75);
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+  opacity: 0;
+  transition: opacity 0.2s, color 0.2s, transform 0.2s, border-color 0.2s;
+  z-index: 2;
+  pointer-events: none;
+  backdrop-filter: blur(4px);
+}
+.adventure-card:hover .ext-arr {
+  opacity: 1;
+  color: var(--accent);
+  border-color: rgba(185, 161, 255, 0.35);
+}
+
+/* Bundle variant — collector card, spans width, quieter */
+.adventure-card.is-bundle {
+  grid-column: 1 / -1;
+  background: repeating-linear-gradient(
+    135deg,
+    rgba(109, 212, 255, 0.025),
+    rgba(109, 212, 255, 0.025) 8px,
+    transparent 8px,
+    transparent 16px
+  ), linear-gradient(180deg, rgba(255,255,255,0.025), rgba(255,255,255,0.005));
+  border-color: rgba(109, 212, 255, 0.20);
+}
+.adventure-card.is-bundle .adventure-card-inner {
+  grid-template-columns: 90px 1fr auto;
+  align-items: center;
+}
+.adventure-card.is-bundle .adventure-card-image {
+  width: 90px;
+  border-right: 1px solid var(--border);
+}
+.adventure-card.is-bundle .adventure-card-body {
+  padding: 0.9rem 1.25rem;
+  gap: 0.3rem;
+  flex-direction: column;
+}
+.adventure-card.is-bundle h3 { font-size: 1.05rem; }
+.adventure-card.is-bundle .adventure-code { color: var(--accent-2); }
+.adventure-card.is-bundle p { font-size: 0.82rem; }
+.adventure-card.is-bundle .adventure-meta { display: none; }
+.adventure-card.is-bundle .bundle-flag {
+  align-self: stretch;
+  display: flex; align-items: center;
+  padding: 0 1.25rem 0 0.5rem;
+  font-family: var(--font-mono);
+  font-size: 0.6rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--accent-2);
+  white-space: nowrap;
+}
+
+@media (max-width: 720px) {
+  .adventure-grid { grid-template-columns: 1fr; }
+  .adventure-series .series-head { grid-template-columns: 1fr; align-items: start; gap: 0.4rem; }
+  .adventure-series h2 { font-size: 1.55rem; }
+  .adventure-card-inner { grid-template-columns: 110px 1fr; }
+  .adventure-card-image { width: 110px; }
+  .adventure-card.is-bundle .adventure-card-inner { grid-template-columns: 70px 1fr; }
+  .adventure-card.is-bundle .adventure-card-image { width: 70px; }
+  .adventure-card.is-bundle .bundle-flag { display: none; }
 }
 
 /* NPC / PC / Location pages */

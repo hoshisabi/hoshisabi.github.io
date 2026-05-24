@@ -2,19 +2,53 @@
 # ────────────────────────────
 # Files in _data/ are loaded automatically by Jekyll and available
 # as site.data.series (filename without extension).
-# YAML lists like this one are accessed as arrays in Liquid.
+#
+# Each series may include:
+#   id           — used by adventures to attach themselves (required)
+#   title        — display title (required)
+#   tagline      — short mono-eyebrow line (optional, ~3–6 words)
+#   description  — one paragraph shown under the heading (optional)
+#
+# Empty series are filtered out of myadventures.md so adding a new
+# series here with no adventures yet is fine.
 
 - id: basht
-  title: "The Peculiar Village of Basht (U-Con Adventures)"
+  title: "The Peculiar Village of Basht"
+  tagline: "U-Con Charity Adventures · 5e"
+  description: >
+    A loose, growing collection of one-shots set in a strange little village
+    where the mayor is a goat and the festivals are stranger still. Written
+    for U-Con's Adventurers League track and meant to be playable as standalone
+    sittings or as a building friendship with the town across conventions.
 
 - id: erland_forsk
   title: "The Strange Case of Erland Forsk"
+  tagline: "Icewind Dale · Connected Mysteries"
+  description: >
+    Four tier-by-tier mysteries unfolding in Easthaven during the events of
+    *Rime of the Frostmaiden*. Each adventure stands on its own, but together
+    they trace a single thread back to the Forsk estate — and whatever has
+    taken up residence in the attic. Best run in order; the bundle collects
+    all four at a discount.
 
 - id: standalone
   title: "Not Part of a Series"
+  description: >
+    One-off adventures that didn't end up needing siblings. Self-contained,
+    drop-in evenings of play.
 
 - id: book_club
   title: "Book Club"
+  tagline: "Spelljammer · Captain's Errand"
+  description: >
+    A short Spelljammer arc that started as "deliver a crate" and got
+    progressively more honest about what the crate was. Three adventures,
+    three escalating monsters, one increasingly uncomfortable captain.
 
 - id: ad_astra
   title: "Ad Astra"
+  tagline: "Dungeon Designers · Sci-Fi Horror"
+  description: >
+    A collaborative series from the Dungeon Designers Discord — old
+    science-fiction films and novels translated into D&D, with all the
+    quiet dread of an empty ship and a flickering light.
