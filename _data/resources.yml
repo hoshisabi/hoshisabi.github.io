@@ -1,0 +1,19 @@
+# Bookmarks for the reference shelf on the landing page.
+- title: Basht Archives
+  href: /rpg/basht
+  desc: >-
+    Information and history about Basht from before the very first
+    adventure was written.
+
+- title: What is Adventurers League?
+  href: https://www.dndbeyond.com/posts/1676-what-is-adventurers-league
+  external: true
+  desc: >-
+    Official introductory documentation and guidelines from D&D Beyond.
+
+- title: Adventurers League Info
+  href: https://www.adventurersleague.info/
+  external: true
+  desc: >-
+    An unofficial but comprehensive alternate source of AL documentation
+    and rulings.
