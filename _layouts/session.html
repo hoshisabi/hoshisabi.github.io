@@ -10,7 +10,7 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 {% if page.adventure or page.session_title %}
-<p class="session-subtitle"><em>{% if page.adventure %}{{ page.adventure }} — {% endif %}{{ page.session_title }}</em></p>
+<p class="session-subtitle"><em>{% if page.adventure %}{{ page.adventure }}, or {% endif %}{{ page.session_title }}</em></p>
 {% endif %}
 
 {{ content }}
