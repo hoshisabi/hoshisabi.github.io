@@ -1,56 +1,86 @@
 ---
 title: My Adventures
+layout: default
+wide: true
 ---
 
-All of my published adventures are for D&D Adventurers League, available on the DMs Guild.
+<p class="adventures-intro">
+  All of my published adventures are written for D&amp;D Adventurers League and available on the DMs Guild. Most run in two to four hours, ship with their own DungeonCraft seed, and are designed to drop straight into your home table.
+</p>
 
-<!--
+{%- comment -%}
   LEARNING NOTE: loops and filters
   ──────────────────────────────────
   site.data.series   → the array from _data/series.yml
   site.adventures    → all documents in _adventures/
 
-  The pattern here is:
-    1. Loop through the series list (so we control display order)
-    2. For each series, filter the collection to matching adventures
-    3. Sort those adventures by their "order" front-matter field
-    4. Loop through and render each one
+  Outer loop walks series in declared order; inner loop renders
+  adventures filtered to that series and sorted by `order`.
+  We skip empty series so the count stays meaningful.
+{%- endcomment -%}
 
-  "where" and "sort" are Liquid array filters.
-  "assign" creates a local variable.
--->
+{%- assign visible_series = "" | split: "" -%}
+{%- for s in site.data.series -%}
+  {%- assign matches = site.adventures | where: "series", s.id -%}
+  {%- if matches.size > 0 -%}
+    {%- assign visible_series = visible_series | push: s -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign series_total = visible_series.size -%}
 
-{% for series in site.data.series %}
-<div class="adventure-series">
-
-## {{ series.title }}
-
+{% for series in visible_series %}
+{% assign series_idx = forloop.index %}
 {% assign series_adventures = site.adventures | where: "series", series.id | sort: "order" %}
-{% for adventure in series_adventures %}
-<div class="adventure-card">
-  <div class="adventure-card-inner">
-    {% if adventure.image %}
-    <a href="{{ adventure.link }}" class="adventure-card-image">
-      <img src="{{ adventure.image }}" alt="{{ adventure.title }} cover" loading="lazy">
-    </a>
-    {% endif %}
-    <div class="adventure-card-body">
-      <h3><a href="{{ adventure.link }}">{{ adventure.title }}</a></h3>
-      <div class="adventure-code">{{ adventure.code }}</div>
-      {{ adventure.content }}
-      {% unless adventure.bundle %}
-      <div class="adventure-meta">
-        {% if adventure.coauthors %}<span>Co-authors: {{ adventure.coauthors }}</span>{% endif %}   
-        <span>Tier {{ adventure.tier }}</span>
-        <span>Levels {{ adventure.levels }}, APL {{ adventure.apl }}</span>
-        <span>{{ adventure.runtime }}</span>
-        {% if adventure.dungeoncraft_seed %}<span>DungeonCraft: {{ adventure.dungeoncraft_seed }}</span>{% endif %}
-      </div>
-      {% endunless %}
+<section class="adventure-series" id="series-{{ series.id }}">
+  <div class="series-head">
+    <div>
+      <div class="series-num">★ Series {{ series_idx | prepend: "0" | slice: -2, 2 }} / {{ series_total | prepend: "0" | slice: -2, 2 }}{% if series.tagline %} · {{ series.tagline }}{% endif %}</div>
+      <h2>{{ series.title }}</h2>
     </div>
+    <div class="series-count">{{ series_adventures.size }} adventure{% if series_adventures.size != 1 %}s{% endif %}</div>
   </div>
-</div>
-{% endfor %}
-
-</div>
+  {% if series.description %}
+  <p class="series-desc">{{ series.description | strip_newlines }}</p>
+  {% endif %}
+  <div class="adventure-grid">
+    {% for adventure in series_adventures %}
+    <article class="adventure-card{% if adventure.bundle %} is-bundle{% endif %}">
+      <a class="adventure-card-inner" href="{{ adventure.link }}" target="_blank" rel="noopener">
+        {% if adventure.image %}
+        <div class="adventure-card-image">
+          <img src="{{ adventure.image }}" alt="{{ adventure.title }} cover" loading="lazy">
+        </div>
+        {% endif %}
+        <div class="adventure-card-body">
+          <div class="adventure-code">{{ adventure.code }}</div>
+          <h3>{{ adventure.title }}</h3>
+          {% if adventure.coauthors %}
+          <div class="adventure-coauthors">With <strong>{{ adventure.coauthors }}</strong></div>
+          {% endif %}
+          {{ adventure.content }}
+          {% if adventure.dungeoncraft_seed %}
+          <div class="adventure-seed">
+            <span class="seed-lbl">★ Seed</span>
+            <span class="seed-val">{{ adventure.dungeoncraft_seed }}</span>
+          </div>
+          {% endif %}
+          {% unless adventure.bundle %}
+          <div class="adventure-meta">
+            <span class="meta-pill tier-{{ adventure.tier }}">Tier {{ adventure.tier }}</span>
+            <span class="meta-pill">Lvl {{ adventure.levels }} · APL {{ adventure.apl }}</span>
+            <span class="meta-pill">{{ adventure.runtime }}</span>
+          </div>
+          {% endunless %}
+        </div>
+        {% if adventure.bundle %}
+        <div class="bundle-flag">★ Bundle</div>
+        {% endif %}
+        <span class="ext-arr" aria-hidden="true">
+          <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 17l10-10"/><polyline points="8 7 17 7 17 16"/></svg>
+        </span>
+      </a>
+    </article>
+    {% endfor %}
+  </div>
+</section>
 {% endfor %}
