@@ -1,10 +1,15 @@
 #!/usr/bin/env pwsh
-# Pull the latest public site changes and DM notes from their respective repos.
+# Pull the latest changes from both the public site and the private DM notes repo.
 
-$root = Split-Path $PSScriptRoot
+$site = Split-Path $PSScriptRoot
+$dm   = Join-Path (Split-Path $site) "hoshisabi-dm"
 
-Push-Location $root
+Push-Location $site
 git pull
-git submodule update --remote rpg/icewind-dale/dm
-Write-Host "[done] site and dm notes up to date" -ForegroundColor Green
+Write-Host "[site] up to date" -ForegroundColor Green
+Pop-Location
+
+Push-Location $dm
+git pull
+Write-Host "[dm] up to date" -ForegroundColor Green
 Pop-Location
