@@ -8,12 +8,13 @@ race: Human
 class: Human Twilight Cleric 10
 alignment: True Neutral
 dnd_beyond: https://www.dndbeyond.com/characters/157952824
-image: https://www.dndbeyond.com/avatars/55744/147/1581111423-157952824.jpeg
+image: /rpg/pandodnd/public/images/portraits/pierce.jpeg
 ---
 
 ## Appearances
 
 - **2026-05-13** — [Session 1 (May 13, 2026)](../sessions/2026-05-13) (*Unremembered Things*)
+- **2026-05-27** — [Session 3 (May 27, 2026)](../sessions/2026-05-27) (*Reign of Frogs*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
 

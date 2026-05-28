@@ -8,12 +8,13 @@ race: Halfling
 class: Halfling Arcane Trickster Rogue 8
 alignment: True Neutral
 dnd_beyond: https://www.dndbeyond.com/characters/146856726
-image: https://www.dndbeyond.com/avatars/49385/141/1581111423-146856726.jpeg
+image: /rpg/pandodnd/public/images/portraits/sparrow.jpeg
 ---
 
 ## Appearances
 
 - **2026-05-13** — [Session 1 (May 13, 2026)](../sessions/2026-05-13) (*Unremembered Things*)
+- **2026-05-27** — [Session 3 (May 27, 2026)](../sessions/2026-05-27) (*Reign of Frogs*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
 
