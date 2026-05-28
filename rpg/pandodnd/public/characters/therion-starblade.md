@@ -8,13 +8,14 @@ race: Wood Elf
 class: Wood Elf Eldritch Knight Fighter 6
 alignment: Neutral Good
 dnd_beyond: https://www.dndbeyond.com/characters/162592792
-image: https://www.dndbeyond.com/avatars/56594/335/1581111423-162592792.jpeg
+image: /rpg/pandodnd/public/images/portraits/therion-starblade.jpeg
 ---
 
 ## Appearances
 
 - **2026-05-13** — [Session 1 (May 13, 2026)](../sessions/2026-05-13) (*Unremembered Things*)
 - **2026-05-20** — [Session 2 (May 20, 2026)](../sessions/2026-05-20) (*Professor Bartlesby's Inventorium*)
+- **2026-05-27** — [Session 3 (May 27, 2026)](../sessions/2026-05-27) (*Reign of Frogs*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
 

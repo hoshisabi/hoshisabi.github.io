@@ -8,12 +8,13 @@ race: Hill Dwarf
 class: Hill Dwarf Paladin 6 (Oath of the Ancients)
 alignment: Lawful Good
 dnd_beyond: https://www.dndbeyond.com/characters/141093656
-image: https://www.dndbeyond.com/avatars/51204/450/1581111423-141093656.jpeg
+image: /rpg/pandodnd/public/images/portraits/pal-go-lucky.jpeg
 ---
 
 ## Appearances
 
 - **2026-05-13** — [Session 1 (May 13, 2026)](../sessions/2026-05-13) (*Unremembered Things*)
+- **2026-05-27** — [Session 3 (May 27, 2026)](../sessions/2026-05-27) (*Reign of Frogs*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
 
