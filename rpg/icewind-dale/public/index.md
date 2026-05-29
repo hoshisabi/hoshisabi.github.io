@@ -65,3 +65,15 @@ The blizzard outside the camp reads: *Soon.*
 </a>
 {% endfor %}
 </div>
+
+## Items of Note
+
+{% assign items = site.pages | where_exp: "p", "p.path contains 'icewind-dale/public/items'" | sort: "title" %}
+<div class="npc-grid">
+{% for item in items %}
+<a href="{{ item.url }}" class="npc-card">
+  {% if item.image %}<img src="{{ item.image }}" alt="{{ item.title }}">{% else %}<div class="npc-no-image"></div>{% endif %}
+  <span>{{ item.title }}</span>
+</a>
+{% endfor %}
+</div>
