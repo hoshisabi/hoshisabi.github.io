@@ -4,7 +4,7 @@ campaign_name: Icewind Dale
 layout: location
 title: The Propaganda Doll
 image: /rpg/icewind-dale/public/items/images/the-doll.png
-image_prompt: "Bold comic book illustration style, high contrast strong linework, limited color palette of pale grays and cold blues, dramatic lighting, no text — a small Netherese mage figurine doll, aged and worn, robed, its right arm ends at the wrist with nothing below it, the face serene and slightly unsettling in the way of old toys, resting on a stone surface, soft glow from an unseen light source"
+image_prompt: "[treasure] Bold comic book illustration style, high contrast strong linework, limited color palette of pale grays and cold blues, dramatic lighting, no text — a small Netherese mage figurine doll, aged and worn, robed, its right arm ends at the wrist with nothing below it, the face serene and slightly unsettling in the way of old toys, resting on a stone surface, soft glow from an unseen light source"
 ---
 
 Found in the [**Shaping House**](../locations/shaping-house), the children's house where young Netherese cadets were prepared before they were old enough to attend the academy. The doll was a teaching tool — or something the Empire would have called a teaching tool.
