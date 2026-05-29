@@ -7,6 +7,9 @@ description: Various projects being worked on by Daniel E. Chapman II
 # Jekyll makes them available as site.adventures (or whatever you name them).
 # output: false means Jekyll won't create individual HTML pages per adventure —
 # we'll loop through them ourselves in myadventures.md.
+exclude:
+  - CLAUDE.md
+
 collections:
   adventures:
     output: false
