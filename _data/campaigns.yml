@@ -6,7 +6,7 @@ running:
       A cold, brutal struggle in the freezing north. Adventurers League
       Dungeoncraft, ongoing.
     status: active
-    sessions: 5
+    sessions: 6
     started: Apr 2026
     href: /rpg/icewind-dale/public/
 
@@ -33,4 +33,4 @@ running:
 # Stats displayed in the telemetry strip on the landing page.
 stats:
   active_campaigns: 2
-  sessions_logged: 60
+  sessions_logged: 61
