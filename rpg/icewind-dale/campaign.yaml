@@ -7,5 +7,5 @@ image_prompt_tags:
   default: exterior
   exterior: "stark white snow, arctic Icewind Dale setting with snow and ice always present"
   interior: "interior stone chamber, muted blues and grays with amber warmth, no snow"
-  treasure: "close-up magical object on dark stone, rich detail and texture"
+  treasure: "close-up magical object on dark stone,paperback illustration style, bold linework, limited color palette"
 # Player/character details live in dm/characters/pcs/
