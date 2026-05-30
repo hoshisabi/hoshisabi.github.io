@@ -1,13 +1,11 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
 campaign: Icewind Dale
-session_label: Session 5
-date: May 22, 2026
-title: Don't Forget Your Mother
-adventure_code: FR-DC-PND-AO-5
-href: /rpg/icewind-dale/public/sessions/2026-05-22
+session_label: Session 6
+date: May 30, 2026
+title: The Woe She Promised
+adventure_code: FR-DC-PND-AO-06
+href: /rpg/icewind-dale/public/sessions/2026-05-30
 excerpt: >-
-  A propaganda doll that speaks soothingly, as if for a child, finally names
-  the city the party couldn't hold in memory. The crèche it leads them to is
-  still being swept — and two ghost sentinels are waiting at camp when they
-  return.
+  The Augury scroll said woe. The Elk Tribe arrived at sundown, Kaarsk stepped
+  outside to breathe, and Pasha came through the air.

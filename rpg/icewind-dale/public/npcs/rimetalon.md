@@ -4,7 +4,7 @@ campaign_name: Icewind Dale
 layout: npc
 title: Rimetalon
 role: Owlbear
-status: Active — at large
+status: Dead — killed Session 6
 image: /rpg/icewind-dale/public/npcs/images/rimetalon.png
 image_prompt: "Bold comic book illustration style, high contrast strong linework, limited color palette of stark white and icy blue with deep shadow, dramatic lighting, arctic Icewind Dale setting with blizzard snow, no text — immense white-feathered owlbear crouched low and predatory, glowing blue eyes with no natural explanation, massive talons pressing into the snow, jagged ice shards rising around her, fourteen feet of barely contained intent, blizzard swirling behind her"
 ---
@@ -17,4 +17,4 @@ She has killed. She killed Dan the Bugbear in Session 1 and arranged his remains
 
 She fled the fight with the party rather than pressing her advantage. She sealed the tunnel behind her.
 
-The party has encountered her three times. She has not yet done what she is capable of doing to them.
+She delivered on *soon* in Session 6. She appeared in an unnatural blizzard during the diplomatic feast between the Coldpeak and Elk tribes, killed [**Pasha**](pasha) and threw her body into the camp as a message, summoned elemental flurries that attacked both camps, and drove the Raghedsmen out. She was fought to bloodied, fled, was chased down, and killed — [**River**](../characters/river) landed a natural 20 critical hit with Ragnhild's shortbow, given to avenge Pasha. 27 damage. The storm dissipated when she fell.
