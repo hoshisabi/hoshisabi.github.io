@@ -66,18 +66,20 @@ home: true
   {%- endif -%}
 </section>
 
+{%- assign sorted_running = site.data.campaigns.running | sort: "last_updated" | reverse -%}
 <section class="lp-sec">
   <div class="sec-head">
     <div>
       <div class="sec-num">★ Section 01</div>
       <h2>Campaigns I <em>run</em></h2>
     </div>
-    <span class="sec-aside">DM</span>
+    <a class="sec-aside sec-aside-link" href="{{ '/mycampaigns' | relative_url }}">
+      View all {% include icons.html name="arrow" %}
+    </a>
   </div>
   <div class="star-grid">
-    {%- for c in site.data.campaigns.running -%}
-    {%- assign wide = "" -%}
-    <a class="star-card is-{{ c.status }}{{ wide }}" href="{{ c.href | relative_url }}">
+    {%- for c in sorted_running limit: 3 -%}
+    <a class="star-card is-{{ c.status }}" href="{{ c.href | relative_url }}">
       <div class="star-head">
         <div>
           <div class="star-title">{{ c.title }}</div>
@@ -96,16 +98,19 @@ home: true
   </div>
 </section>
 
+{%- assign sorted_playing = site.data.campaigns.playing | sort: "last_updated" | reverse -%}
 <section class="lp-sec">
   <div class="sec-head">
     <div>
       <div class="sec-num">★ Section 02</div>
       <h2>Characters I <em>play</em></h2>
     </div>
-    <span class="sec-aside">Player</span>
+    <a class="sec-aside sec-aside-link" href="{{ '/mycharacters' | relative_url }}">
+      View all {% include icons.html name="arrow" %}
+    </a>
   </div>
   <div class="star-grid">
-    {%- for c in site.data.campaigns.playing -%}
+    {%- for c in sorted_playing limit: 3 -%}
     <a class="star-card is-{{ c.status }}" href="{{ c.href | relative_url }}">
       <div class="star-head">
         <div>
