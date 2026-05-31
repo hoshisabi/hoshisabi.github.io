@@ -281,7 +281,11 @@ body.home .container {
   font-size: 0.65rem;
   text-transform: uppercase;
   letter-spacing: 0.18em;
-  color: var(--accent);
+  color: var(--accent) !important;
+}
+.nav-dropdown .dropdown-section-title:hover {
+  background: transparent !important;
+  text-decoration: underline;
 }
 
 /* Footer */
