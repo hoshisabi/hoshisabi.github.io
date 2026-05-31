@@ -100,6 +100,35 @@ home: true
   <div class="sec-head">
     <div>
       <div class="sec-num">★ Section 02</div>
+      <h2>Characters I <em>play</em></h2>
+    </div>
+    <span class="sec-aside">Player</span>
+  </div>
+  <div class="star-grid">
+    {%- for c in site.data.campaigns.playing -%}
+    <a class="star-card is-{{ c.status }}" href="{{ c.href | relative_url }}">
+      <div class="star-head">
+        <div>
+          <div class="star-title">{{ c.title }}</div>
+          <div class="star-sub">{{ c.sub }}</div>
+        </div>
+        <span class="star-pill {{ c.status }}">{{ c.status | capitalize }}</span>
+      </div>
+      <div class="star-desc">{{ c.desc }}</div>
+      <div class="star-foot">
+        <span>{{ c.campaign }}</span>
+        <span class="dim">·</span>
+        <span>DM: {{ c.dm }}</span>
+      </div>
+    </a>
+    {%- endfor -%}
+  </div>
+</section>
+
+<section class="lp-sec">
+  <div class="sec-head">
+    <div>
+      <div class="sec-num">★ Section 03</div>
       <h2>Latest <em>session</em></h2>
     </div>
     <span class="sec-aside">Updated {{ session.date }}</span>
@@ -116,7 +145,7 @@ home: true
 <section class="lp-sec">
   <div class="sec-head">
     <div>
-      <div class="sec-num">★ Section 03</div>
+      <div class="sec-num">★ Section 04</div>
       <h2>Coming up <em>at PandoDnD</em></h2>
     </div>
     <span class="sec-aside">
@@ -148,7 +177,7 @@ home: true
 <section class="lp-sec">
   <div class="sec-head">
     <div>
-      <div class="sec-num">★ Section 04</div>
+      <div class="sec-num">★ Section 05</div>
       <h2>Code I'm <em>tinkering with</em></h2>
     </div>
     <a class="sec-aside sec-aside-link" href="https://github.com/hoshisabi">
@@ -181,7 +210,7 @@ home: true
 <section class="lp-sec">
   <div class="sec-head">
     <div>
-      <div class="sec-num">★ Section 05</div>
+      <div class="sec-num">★ Section 06</div>
       <h2>U-Con <em>Adventurers League</em></h2>
     </div>
     <span class="sec-aside">Returning November 2026</span>
@@ -207,7 +236,7 @@ home: true
 <section class="lp-sec">
   <div class="sec-head">
     <div>
-      <div class="sec-num">★ Section 06</div>
+      <div class="sec-num">★ Section 07</div>
       <h2>Reference <em>shelf</em></h2>
     </div>
     <span class="sec-aside">Curated</span>
