@@ -1,11 +1,11 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: Icewind Dale
-session_label: Session 6
+campaign: Legends of Greyhawk
+session_label: May 30, 2026
 date: May 30, 2026
-title: The Woe She Promised
-adventure_code: FR-DC-PND-AO-06
-href: /rpg/icewind-dale/public/sessions/2026-05-30
+title: Havoc and the High Seas
+adventure_code: Havoc and the High Seas
+href: /rpg/log/public/sessions/2026-05-30
 excerpt: >-
-  The Augury scroll said woe. The Elk Tribe arrived at sundown, Kaarsk stepped
-  outside to breathe, and Pasha came through the air.
+  An orca in the breeding ground, a stinger gone missing, a cabinet that
+  fights back. The Tallyho made it through the Laughing Skull Atoll. Barely.
