@@ -8,5 +8,5 @@ race: Human
 class: Paladin 2
 background: Wayfarer
 dnd_beyond: https://www.dndbeyond.com/characters/165434792
-image: /rpg/log/public/characters/images/cinder.jpeg
+image: /rpg/log/public/characters/images/cinder.webp
 ---
