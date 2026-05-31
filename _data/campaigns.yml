@@ -30,6 +30,47 @@ running:
     started: "2023"
     href: /rpg/phandelver
 
+playing:
+  - title: Spare
+    sub: Human (Shadovar) · Wizard 4 (Order of Scribes)
+    desc: A partial clone of a Netherese student, left in stasis for millennia. Woke up a slave, not knowing what he was.
+    campaign: Icewind Dale — Rime of the Frost Maiden
+    dm: Chris Hubbard
+    status: retired
+    href: /rpg/spare/spare
+
+  - title: Burgess
+    sub: Changeling · Rogue 10 (Soulknife)
+    desc: Lost his smile as a child somewhere in the Feywild. Spent years getting it back, came home something different.
+    campaign: Wild Beyond the Witchlight
+    dm: John Rogers
+    status: finished
+    href: /rpg/burgess/
+
+  - title: Rool
+    sub: Fairy (Brownie) · Druid 11 (Circle of the Shepherd)
+    desc: A Fairy druid looking for the thing that will actually feel like something, which is how he ended up at the Witchlight Carnival.
+    campaign: Wild Beyond the Witchlight
+    dm: Kate Hoff
+    status: finished
+    href: /rpg/rool/
+
+  - title: Oskar
+    sub: Human · Fighter 2
+    desc: A drop-in character for Legends of Greyhawk. Human acolyte, still finding his feet.
+    campaign: Legends of Greyhawk
+    dm: drop-in
+    status: active
+    href: /rpg/log/public/characters/oskar
+
+  - title: Logos
+    sub: Elf · Wizard 2
+    desc: A drop-in character for Legends of Greyhawk. Elven acolyte with a knack for the arcane.
+    campaign: Legends of Greyhawk
+    dm: drop-in
+    status: active
+    href: /rpg/log/public/characters/logos
+
 # Stats displayed in the telemetry strip on the landing page.
 stats:
   active_campaigns: 2
