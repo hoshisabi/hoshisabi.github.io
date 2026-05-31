@@ -4,6 +4,8 @@ layout: default
 wide: true
 ---
 
+<nav class="campaign-breadcrumb"><a href="{{ '/' | relative_url }}">← Home</a></nav>
+
 {%- assign sorted = site.data.campaigns.playing | sort: "last_updated" | reverse -%}
 <section class="lp-sec">
   <div class="sec-head">
