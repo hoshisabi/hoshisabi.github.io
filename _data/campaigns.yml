@@ -8,6 +8,7 @@ running:
     status: active
     sessions: 6
     started: Apr 2026
+    last_updated: "2026-05-30"
     href: /rpg/icewind-dale/public/
 
   - title: PandoDnD Pub Crawl
@@ -18,6 +19,7 @@ running:
     status: active
     sessions: 18
     started: "2024"
+    last_updated: "2026-05-27"
     href: /rpg/pandodnd/public/
 
   - title: Lost Mine of Phandelver
@@ -28,6 +30,7 @@ running:
     status: finished
     sessions: 12
     started: "2023"
+    last_updated: "2026-04-17"
     href: /rpg/phandelver
 
 playing:
@@ -37,6 +40,7 @@ playing:
     campaign: Icewind Dale — Rime of the Frost Maiden
     dm: Chris Hubbard
     status: retired
+    last_updated: "2024-01-11"
     href: /rpg/spare/spare
 
   - title: Burgess
@@ -45,6 +49,7 @@ playing:
     campaign: Wild Beyond the Witchlight
     dm: John Rogers
     status: finished
+    last_updated: "2022-12-17"
     href: /rpg/burgess/
 
   - title: Rool
@@ -53,6 +58,7 @@ playing:
     campaign: Wild Beyond the Witchlight
     dm: Kate Hoff
     status: finished
+    last_updated: "2023-08-17"
     href: /rpg/rool/
 
   - title: Oskar
@@ -61,6 +67,7 @@ playing:
     campaign: Legends of Greyhawk
     dm: drop-in
     status: active
+    last_updated: "2026-05-30"
     href: /rpg/log/public/characters/oskar
 
   - title: Logos
@@ -69,6 +76,7 @@ playing:
     campaign: Legends of Greyhawk
     dm: drop-in
     status: active
+    last_updated: "2026-05-30"
     href: /rpg/log/public/characters/logos
 
 # Stats displayed in the telemetry strip on the landing page.
