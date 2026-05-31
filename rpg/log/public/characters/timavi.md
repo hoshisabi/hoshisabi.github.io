@@ -7,7 +7,7 @@ player: Bonnie
 race: Dhampir
 class: Rogue 1 / Warlock 1
 dnd_beyond: https://www.dndbeyond.com/characters/166359518
-image: /rpg/log/public/characters/images/timavi.png
+image: /rpg/log/public/characters/images/timavi.webp
 ---
 
 ## Appearances
