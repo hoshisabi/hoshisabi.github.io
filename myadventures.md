@@ -65,10 +65,13 @@ wide: true
           </div>
           {% endif %}
           {% unless adventure.bundle %}
+          {%- if adventure.runtime == "2 hours" -%}{%- assign runtime_class = "hours-2" -%}
+          {%- elsif adventure.runtime == "4 hours" -%}{%- assign runtime_class = "hours-4" -%}
+          {%- else -%}{%- assign runtime_class = "" -%}{%- endif -%}
           <div class="adventure-meta">
             <span class="meta-pill tier-{{ adventure.tier }}">Tier {{ adventure.tier }}</span>
             <span class="meta-pill">Lvl {{ adventure.levels }} · APL {{ adventure.apl }}</span>
-            <span class="meta-pill">{{ adventure.runtime }}</span>
+            <span class="meta-pill {{ runtime_class }}">{{ adventure.runtime }}</span>
           </div>
           {% endunless %}
         </div>

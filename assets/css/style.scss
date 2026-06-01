@@ -283,6 +283,9 @@ body.home .container {
   letter-spacing: 0.18em;
   color: var(--accent) !important;
 }
+.nav-dropdown .dropdown-menu a.dropdown-section-title {
+  color: var(--accent) !important;
+}
 .nav-dropdown .dropdown-section-title:hover {
   background: transparent !important;
   text-decoration: underline;
@@ -669,6 +672,16 @@ body.home h2 { border-bottom: none; padding-bottom: 0; }
   background: rgba(244, 63, 94, 0.10);
   color: var(--danger);
   border-color: rgba(244, 63, 94, 0.32);
+}
+.adventure-meta .meta-pill.hours-2 {
+  background: rgba(94, 234, 212, 0.10);
+  color: var(--success);
+  border-color: rgba(94, 234, 212, 0.30);
+}
+.adventure-meta .meta-pill.hours-4 {
+  background: rgba(185, 161, 255, 0.10);
+  color: var(--accent);
+  border-color: rgba(185, 161, 255, 0.32);
 }
 
 /* External-link arrow (revealed on hover) */
