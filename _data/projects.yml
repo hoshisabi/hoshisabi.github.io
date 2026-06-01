@@ -7,7 +7,10 @@
   status: in progress
   desc: >-
     A tabletop campaign portal generator. Sessions, characters, NPCs,
-    locations — all crosslinked.
+    locations — all crosslinked. Uses several AI tools to be able to do
+    a summary of the session, generate DM advice, make achievements, and
+    generate artwork for memorable moments. You can see an example of
+    it over at https://hoshisabi.com/rpg/icewind-dale/public/
 
 - name: AL Adventure Catalog
   repo: hoshisabi/al_adventure_catalog
@@ -17,13 +20,28 @@
   desc: >-
     A searchable index of every Adventurers League adventure,
     by code, tier, season, and tag. Lives at
-    hoshisabi.com/al_adventure_catalog/.
+    https://hoshisabi.com/al_adventure_catalog/.
 
-- name: ALLog Download
+- name: AL Log Download
   repo: hoshisabi/allog_download
   href: https://github.com/hoshisabi/allog_download
   lang: Python
   status: live
   desc: >-
-    A small utility for pulling Adventurers League logs into a
-    working local copy. Quiet but handy.
+    A small utility to pull data from https://www.adventurersleaguelog.com/
+    into a local copy. When their site went down for a short time, a number
+    of us panicked about the loss of data that we didn't save. It attempts
+    to be as good a citizen as possible by pulling from their APIs with plenty
+    of throttling. The site is still up, but you never know. Over time we will
+    work on having this convert the resulting files into several formats.
+
+- name: Coding Challenges
+  repo: hoshisabi/coding-challenges
+  href: https://github.com/hoshisabi/coding-challenges
+  lang: C#, Python, Java
+  status: live
+  desc: >-
+    A number of small programs to solve puzzles and challenges
+    and to experiment with a number of different concepts, such as
+    constraint based programming and dynamic programming. Also an
+    excuse for me to try out new languages or frameworks.
