@@ -11,7 +11,7 @@ home: true
   <div class="hero-eyebrow">Dan Chapman · @hoshisabi</div>
   <h1 class="hero-title">hoshi<strong>sabi</strong></h1>
   <p class="hero-tag">
-    An experienced DM with <em>two active campaigns</em> and weekly session logs — plus a small set of code projects and the occasional note. A working space for things I'm bothering to finish.
+    An experienced DM with <em>two active campaigns</em> and weekly session logs — plus a small set of code and the occasional note. A working space for things I'm bothering to finish.
   </p>
   <div class="hero-ctas">
     <a class="lp-btn primary" href="{{ '/myadventures' | relative_url }}">
