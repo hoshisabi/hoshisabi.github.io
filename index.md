@@ -6,6 +6,30 @@ home: true
 
 {%- assign next = site.data.pando_schedule.entries | first -%}
 {%- assign session = site.data.recent_session -%}
+{%- assign _wd = site.time | date: "%-j" | plus: 0 -%}
+{%- assign _wi = _wd | modulo: 7 -%}
+{%- if _wi == 0 -%}
+  {%- assign _wlbl = "Splines reticulated" -%}
+  {%- assign _wnum = _wd | times: 137 | modulo: 9000 | plus: 1000 -%}
+{%- elsif _wi == 1 -%}
+  {%- assign _wlbl = "Cursed dice rolled" -%}
+  {%- assign _wnum = _wd | times: 23 | modulo: 900 | plus: 100 -%}
+{%- elsif _wi == 2 -%}
+  {%- assign _wlbl = "Flumphs that can dance on a pin" -%}
+  {%- assign _wnum = _wd | times: 7 | modulo: 9 | plus: 1 -%}
+{%- elsif _wi == 3 -%}
+  {%- assign _wlbl = "Number P4ND0 is thinking of" -%}
+  {%- assign _wnum = _wd | times: 59 | modulo: 98 | plus: 1 -%}
+{%- elsif _wi == 4 -%}
+  {%- assign _wlbl = "Whatever you do — don't pick" -%}
+  {%- assign _wnum = _wd | times: 11 | modulo: 19 | plus: 1 -%}
+{%- elsif _wi == 5 -%}
+  {%- assign _wlbl = "Plot hooks the party ignored" -%}
+  {%- assign _wnum = _wd | times: 13 | modulo: 16 | plus: 7 -%}
+{%- else -%}
+  {%- assign _wlbl = "Times the DM smiled without explaining" -%}
+  {%- assign _wnum = _wd | times: 17 | modulo: 11 | plus: 3 -%}
+{%- endif -%}
 
 <section class="lp-hero">
   <div class="hero-eyebrow">Dan Chapman · @hoshisabi</div>
@@ -14,8 +38,8 @@ home: true
     An experienced DM with <em>two active campaigns</em> and weekly session logs — plus a small set of code and the occasional note. A working space for things I'm bothering to finish.
   </p>
   <div class="hero-ctas">
-    <a class="lp-btn primary" href="{{ '/myadventures' | relative_url }}">
-      Explore adventures {% include icons.html name="arrow" %}
+    <a class="lp-btn ghost" href="{{ '/myadventures' | relative_url }}">
+      My Adventures {% include icons.html name="arrow" %}
     </a>
     <a class="lp-btn ghost" href="{{ '/rpg/pandodnd/public/' | relative_url }}">
       PandoDnD schedule
@@ -37,8 +61,16 @@ home: true
       <div class="tel-lbl">Sessions logged</div>
     </div>
     <div class="tel-stat">
+      <div class="tel-num">{{ site.adventures.size }}</div>
+      <div class="tel-lbl">Adventures written</div>
+    </div>
+    <div class="tel-stat">
       <div class="tel-num">∞</div>
       <div class="tel-lbl">Unfinished tasks</div>
+    </div>
+    <div class="tel-stat">
+      <div class="tel-num">{{ _wnum }}</div>
+      <div class="tel-lbl">{{ _wlbl }}</div>
     </div>
   </div>
   <div class="tel-divider"></div>
