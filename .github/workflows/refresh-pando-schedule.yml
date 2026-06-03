@@ -27,12 +27,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - uses: astral-sh/setup-uv@v5
         with:
           python-version: "3.12"
 
       - name: Refresh schedule
-        run: python scripts/refresh_pando.py
+        run: uv run python scripts/refresh_pando.py
 
       - name: Commit if changed
         run: |
