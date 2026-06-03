@@ -1,6 +1,5 @@
 #!/usr/bin/env pwsh
 # Commit and push public site changes.
-# Run dm-push.ps1 first if you also have DM notes to save.
 
 param([string]$Message)
 
