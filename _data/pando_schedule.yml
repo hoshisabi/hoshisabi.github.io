@@ -3,30 +3,30 @@
 # Do not edit by hand — your changes will be overwritten on the next refresh.
 
 source: https://warhorn.net/events/pandodnd/schedule/Ya7RynA9U_XsaE_Ve6Ht.atom
-generated_at: 2026-06-02T10:22:44+00:00
-
+generated_at: '2026-06-03T04:44:28+00:00'
 entries:
-  - code: "PS-DC-PUB-05"
-    title: "Rock Bottom"
-    date: "2026-06-03T19:00:00-04:00"
-    tier: "Tier 2 · APL 8 · 2 hours"
-    summary: "PS-DC-PUB-05 Rock Bottom Wed 6/3 7-9pm at Online (details in event)"
-    link: "https://warhorn.net/events/pandodnd/schedule/sessions/d958ea92-092f-4847-8267-8eb59ad47749"
-  - code: "PS-DC-PUB-10"
-    title: "Absent without Leave"
-    date: "2026-06-10T19:00:00-04:00"
-    tier: "Tier 2 · APL 8 · 2 hours"
-    summary: "PS-DC-PUB-10 Absent without Leave Wed 6/10 7-9pm at Online (details in event)"
-    link: "https://warhorn.net/events/pandodnd/schedule/sessions/7581ea8a-12fe-46d2-8898-41e2f88c6995"
-  - code: "PS-DC-PUB-08"
-    title: "Unremembered Things"
-    date: "2026-06-17T19:00:00-04:00"
-    tier: "Tier 2 · APL 8 · 2 hours"
-    summary: "PS-DC-PUB-08 Unremembered Things Wed 6/17 7-9pm at Online (details in event)"
-    link: "https://warhorn.net/events/pandodnd/schedule/sessions/c69c5134-3014-461d-a596-e17ca84ff7c4"
-  - code: "PS-DC-PUB-11"
-    title: "Fallen for You"
-    date: "2026-06-24T19:00:00-04:00"
-    tier: "Tier 2 · APL 8 · 2 hours"
-    summary: "PS-DC-PUB-11 Fallen for You Wed 6/24 7-9pm at Online (details in event)"
-    link: "https://warhorn.net/events/pandodnd/schedule/sessions/24179359-9849-499c-b1a9-056f1413b1cb"
+- code: PS-DC-PUB-05
+  title: Rock Bottom
+  date: '2026-06-03T19:00:00-04:00'
+  tier: Tier 2 · APL 8 · 2 hours
+  summary: PS-DC-PUB-05 Rock Bottom Wed 6/3 7-9pm at Online (details in event)
+  link: https://warhorn.net/events/pandodnd/schedule/sessions/d958ea92-092f-4847-8267-8eb59ad47749
+- code: PS-DC-PUB-10
+  title: Absent without Leave
+  date: '2026-06-10T19:00:00-04:00'
+  tier: Tier 2 · APL 8 · 2 hours
+  summary: PS-DC-PUB-10 Absent without Leave Wed 6/10 7-9pm at Online (details in
+    event)
+  link: https://warhorn.net/events/pandodnd/schedule/sessions/7581ea8a-12fe-46d2-8898-41e2f88c6995
+- code: PS-DC-PUB-08
+  title: Unremembered Things
+  date: '2026-06-17T19:00:00-04:00'
+  tier: Tier 2 · APL 8 · 2 hours
+  summary: PS-DC-PUB-08 Unremembered Things Wed 6/17 7-9pm at Online (details in event)
+  link: https://warhorn.net/events/pandodnd/schedule/sessions/c69c5134-3014-461d-a596-e17ca84ff7c4
+- code: PS-DC-PUB-11
+  title: Fallen for You
+  date: '2026-06-24T19:00:00-04:00'
+  tier: Tier 2 · APL 8 · 2 hours
+  summary: PS-DC-PUB-11 Fallen for You Wed 6/24 7-9pm at Online (details in event)
+  link: https://warhorn.net/events/pandodnd/schedule/sessions/24179359-9849-499c-b1a9-056f1413b1cb
