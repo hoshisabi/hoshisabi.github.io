@@ -6,16 +6,11 @@ name: Refresh PandoDnD schedule
 #
 # Runs:
 #   - every day at 06:00 UTC (cron)
-#   - on every push to main (so manual edits still pick up the latest)
 #   - manually via the "Run workflow" button in the Actions tab
 
 on:
   schedule:
     - cron: "0 6 * * *"
-  push:
-    branches: [ main ]
-    paths-ignore:
-      - "_data/pando_schedule.yml"
   workflow_dispatch:
 
 permissions:
