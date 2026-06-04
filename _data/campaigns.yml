@@ -41,8 +41,9 @@ playing:
     sub: Human (Shadovar) · Wizard 4 (Order of Scribes)
     desc: A partial clone of a Netherese student, left in stasis for millennia. Woke up a slave, not knowing what he was.
     campaign: Icewind Dale — Rime of the Frost Maiden
-    dm: Chris Hubbard
     organized_play: homebrew
+    portrait: /rpg/spare/SparePortrait.png
+    dm: Chris Hubbard
     status: retired
     last_updated: "2024-01-11"
     href: /rpg/spare/spare
@@ -89,6 +90,7 @@ playing:
     desc: A Fairy druid looking for the thing that will actually feel like something, which is how he ended up at the Witchlight Carnival.
     campaign: Wild Beyond the Witchlight
     organized_play: homebrew
+    portrait: /rpg/rool/RoolPortrait.png
     dm: Kate Hoff
     status: finished
     last_updated: "2023-08-17"
@@ -100,6 +102,7 @@ playing:
     campaign: Legends of Greyhawk
     organized_play: legends of greyhawk
     log_sheet: https://www.greyhawklogsheet.com/share/90bc3ccb-f875-4f08-bb91-c45fa10fb17c?character=Oskar
+    portrait: https://hoshisabi.com/rpg/log/public/characters/images/oskar.webp
     dm: drop-in
     status: active
     last_updated: "2026-05-30"
@@ -142,6 +145,7 @@ playing:
     campaign: Legends of Greyhawk
     organized_play: legends of greyhawk
     log_sheet: https://www.greyhawklogsheet.com/share/90bc3ccb-f875-4f08-bb91-c45fa10fb17c?character=Logos
+    portrait: https://www.dndbeyond.com/avatars/55166/28/1581111423-162145916.jpeg
     dm: drop-in
     status: active
     last_updated: "2026-05-30"
