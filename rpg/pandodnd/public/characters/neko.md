@@ -5,6 +5,7 @@ layout: character
 title: Neko
 player: Ken
 class: Gith Fey Wanderer Ranger 5 / Monk 1
+dnd_beyond: https://www.dndbeyond.com/characters/113570473
 image: https://assets.forge-vtt.com/63fd7e78b7a1ec2221d1c6dc/ddb-images/characters/113570473-neko.jpeg
 ---
 
