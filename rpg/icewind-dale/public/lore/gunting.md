@@ -4,6 +4,8 @@ campaign_name: Icewind Dale
 layout: lore
 title: Gunting
 category: Coldpeak tradition
+image: /rpg/icewind-dale/public/lore/images/gunting.png
+image_prompt: "Bold comic book illustration style, high contrast strong linework, limited color palette of blue-grays and slate with warm firelight, dramatic lighting, arctic Icewind Dale camp setting, no text — young orc child crouching behind a barrel with a gap-toothed grin, holding a clay pot trailing visible fumes, an unsuspecting adult figure visible in the background near a cookfire, snow and camp buildings around them"
 ---
 
 Gunting is the Coldpeak tradition of deploying something elaborate and usually terrible-smelling at someone who takes themselves too seriously. The tradition holds that seriousness, left unchecked, becomes brittleness, and brittleness gets people killed in the cold. A gunt is not mockery. You only gunt someone you care about enough to want them a little less rigid.
