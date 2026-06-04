@@ -54,10 +54,10 @@ playing:
 
   - title: Scribinator-3000
     sub: autognome wizard (Order of the Scribes) 15
-    desc: Former scribe for Candlekeep become Spelljammer, was sent on an erand which he has yet to finish
+    desc: Former scribe for Candlekeep became Spelljammer, was sent on an errand which he has yet to finish
     campaign: Bestspace
     status: active
-    last_updated: 2024-09-28
+    last_updated: "2024-09-28"
 
   - title: Burgess
     sub: Changeling · Rogue 10 (Soulknife)
@@ -85,6 +85,29 @@ playing:
     status: active
     last_updated: "2026-05-30"
     href: /rpg/log/public/characters/oskar
+
+  - title: Faark
+    sub: Goblin (Batiri) Ranger 10
+    desc: >-
+      A "retired" goblin hunter, much older than the rest of his tribe at a ripe age of 9, has decided to adventure
+      since he already lived a nice, long life. Enjoying the ability to share his carving skills by making masks for
+      his fellow adventurers.
+    dm: Kate Hoff
+    status: active
+    last_updated: "2020-03-05"
+    campaign: "Waterdeep: Dungeon of the Mad Mage"
+
+  - title: Cadwell
+    sub: Half-elf Warlock 14 (Great Old Ones)
+    desc: >-
+      Young noble of Waterdeep, born of his father's indiscretions. His father's wife was the one with the money and
+      status, so she never approved of his birth. They provided him with the necessities to not be a pauper, but never
+      fully accepted him. So he set out to prove his worth to his family, and in the process, became awarded high honors
+      from the Blackstaff and Waterdeep.
+    dm: Kate Hoff
+    status: active
+    last_updated: "2025-12-20"
+    campaign: "Waterdeep: Dragon Heist"
 
   - title: Logos
     sub: Elf · Wizard 2
