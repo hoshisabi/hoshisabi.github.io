@@ -9,7 +9,8 @@ hide_breadcrumb: true
 campaign: Icewind Dale — Rime of the Frost Maiden (Heros That We Need)
 dm: Chris Hubbard
 location: in-person
-status: Retired---
+status: Retired
+---
 
 ## Campaign: Icewind Dale — Rime of the Frost Maiden (Heros That We Need)
 ### DM: Chris Hubbard — in-person
