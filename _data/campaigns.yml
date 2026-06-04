@@ -17,9 +17,9 @@ running:
       Planescape season. A rotating cast of adventurers wanders the planes,
       stumbling into trouble one questionable pub at a time.
     status: active
-    sessions: 18
+    sessions: 19
     started: "2024"
-    last_updated: "2026-05-27"
+    last_updated: "2026-06-03"
     href: /rpg/pandodnd/public/
 
   - title: Lost Mine of Phandelver
@@ -82,4 +82,4 @@ playing:
 # Stats displayed in the telemetry strip on the landing page.
 stats:
   active_campaigns: 2
-  sessions_logged: 61
+  sessions_logged: 62

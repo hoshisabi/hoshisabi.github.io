@@ -1,11 +1,13 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: Legends of Greyhawk
-session_label: May 30, 2026
-date: May 30, 2026
-title: Havoc and the High Seas
-adventure_code: Havoc and the High Seas
-href: /rpg/log/public/sessions/2026-05-30
+campaign: PandoDnD Pub Crawl
+session_label: Session 4
+date: June 3, 2026
+title: Rock Bottom
+adventure_code: PS-DC-PUB-05
+href: /rpg/pandodnd/public/sessions/2026-06-03
 excerpt: >-
-  An orca in the breeding ground, a stinger gone missing, a cabinet that
-  fights back. The Tallyho made it through the Laughing Skull Atoll. Barely.
+  A halfling captain sits at the end of his own footprints in the gray wastes
+  of Hades, waiting for someone who hasn't given up yet. Getting the pub crawl
+  back on the river means three days of survival, one grounded riverboat, and
+  a bartending shift serving the Blood War.
