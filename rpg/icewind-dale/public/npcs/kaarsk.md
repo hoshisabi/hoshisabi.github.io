@@ -5,7 +5,7 @@ layout: npc
 title: Kaarsk
 role: Lead hunter, Coldpeak tribe
 race: Orc
-status: Active
+status: Injured
 image: /rpg/icewind-dale/public/npcs/images/kaarsk.png
 image_prompt: "Bold comic book illustration style, high contrast strong linework, limited color palette of blue-grays and slate with white snow, dramatic lighting, arctic Icewind Dale setting with snow falling, no text — large imposing orc hunter with prominent tusks and heavy build, arms crossed, wearing fur and leather hunting armor, stern unyielding expression, snowy mountain peaks looming behind him"
 ---
@@ -17,3 +17,5 @@ He moved at a pace that required an Athletics check just to keep up. When a hunt
 Berg speaking Orcish on the first day made an impression — not as a diplomatic gesture, but as a statement of what Berg is. Kaarsk has been quietly revising his read of the party ever since, though he hasn't said so.
 
 Resents the Reghedsmen who wander close to Coldpeak territory, taking game the tribe can't spare. Resents the peace Broken Tusk has made with them more. Savin is a daily reminder of both.
+
+When Rimetalon attacked the camp in Session 6, Kaarsk held the line against the elemental spirits while the party went after the beast. He fought through it. He looked at Berg, pointed past himself, and said *"I've got these. GO."* He is injured. He has not stopped moving.
