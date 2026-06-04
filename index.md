@@ -41,11 +41,14 @@ home: true
     <a class="lp-btn ghost" href="{{ '/myadventures' | relative_url }}">
       My Adventures {% include icons.html name="arrow" %}
     </a>
-    <a class="lp-btn ghost" href="{{ '/rpg/pandodnd/public/' | relative_url }}">
+    <a class="lp-btn ghost" href="https://warhorn.net/events/pandodnd/schedule" target="_blank" rel="noopener">
       PandoDnD schedule
     </a>
     <a class="lp-btn ghost" href="https://hoshisabi.com/al_adventure_catalog/" target="_blank" rel="noopener">
       AL Adventure Catalog
+    </a>
+    <a class="lp-btn ghost" href="https://github.com/hoshisabi" target="_blank" rel="noopener">
+      My Tinkering
     </a>
   </div>
 </section>

@@ -2,11 +2,12 @@
 campaign_url: /rpg/pandodnd/public/
 campaign_name: PandoDnD Pub Crawl
 layout: character
-title: Matrim
+title: Mattrum
 player: Trey
 race: Human
 class: Human Spellfire Sorcerer 5 / Archfey Warlock 5
 alignment: Chaotic Good
+dnd_beyond: https://www.dndbeyond.com/characters/145340705
 image: /rpg/pandodnd/public/images/portraits/matrim.jpeg
 ---
 
@@ -14,7 +15,7 @@ image: /rpg/pandodnd/public/images/portraits/matrim.jpeg
 
 - **2026-05-27** — [Session 3 (May 27, 2026)](../sessions/2026-05-27) (*Reign of Frogs*)
 
-_Note: drop-in roster; this page grows when the character appears in recaps. The Foundry actor is named "Mattrum"; the recap and in-session name is **Matrim**._
+_Note: drop-in roster; this page grows when the character appears in recaps._
 
 ## From D&D Beyond export
 

@@ -5,6 +5,7 @@ layout: character
 title: Zac Valor
 player: Mark
 class: Drow Eldritch Knight 10
+dnd_beyond: https://www.dndbeyond.com/characters/163359336
 image: https://www.dndbeyond.com/avatars/56077/225/1581111423-163359336.jpeg
 ---
 

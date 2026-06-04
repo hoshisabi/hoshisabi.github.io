@@ -5,6 +5,7 @@ layout: character
 title: Perri
 player: Trey
 class: Paladin 10
+dnd_beyond: https://www.dndbeyond.com/characters/154737127
 image: https://assets.forge-vtt.com/6431a4dc85edf54f2365ce35/ddb-images/characters/154737127-perri.jpeg
 ---
 
