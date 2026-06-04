@@ -49,6 +49,10 @@ playing:
       Not really named "Bob" nor does he think he is a warlock. Convinced he is a druid because he can speak to animals
       and wildshape, and goes by Bob because it's been a long time since he used his actual name.
     campaign: "Phandelver and Below: The Shattered Obelisk"
+    organized_play: adventurers league
+    log_sheet: https://www.adventurersleaguelog.com/users/647/characters/139772
+    dnd_beyond: https://www.dndbeyond.com/characters/134833728
+    portrait: https://www.dndbeyond.com/avatars/44939/226/1581111423-134574040.jpeg
     status: active
     last_updated: "2025-08-23"
 
@@ -81,6 +85,8 @@ playing:
     sub: Human · Fighter 2
     desc: A drop-in character for Legends of Greyhawk. Human acolyte, still finding his feet.
     campaign: Legends of Greyhawk
+    organized_play: legends of greyhawk
+    log_sheet: https://www.greyhawklogsheet.com/share/90bc3ccb-f875-4f08-bb91-c45fa10fb17c?character=Oskar
     dm: drop-in
     status: active
     last_updated: "2026-05-30"
@@ -113,6 +119,8 @@ playing:
     sub: Elf · Wizard 2
     desc: A drop-in character for Legends of Greyhawk. Elven acolyte with a knack for the arcane.
     campaign: Legends of Greyhawk
+    organized_play: legends of greyhawk
+    log_sheet: https://www.greyhawklogsheet.com/share/90bc3ccb-f875-4f08-bb91-c45fa10fb17c?character=Logos
     dm: drop-in
     status: active
     last_updated: "2026-05-30"
