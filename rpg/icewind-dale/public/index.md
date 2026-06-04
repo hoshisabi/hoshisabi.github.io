@@ -77,3 +77,16 @@ The blizzard outside the camp reads: *Soon.*
 </a>
 {% endfor %}
 </div>
+
+## Lore
+
+{% assign lore = site.pages | where_exp: "p", "p.path contains 'icewind-dale/public/lore'" | sort: "title" %}
+<div class="npc-grid">
+{% for entry in lore %}
+<a href="{{ entry.url }}" class="npc-card">
+  {% if entry.image %}<img src="{{ entry.image }}" alt="{{ entry.title }}">{% else %}<div class="npc-no-image"></div>{% endif %}
+  <span>{{ entry.title }}</span>
+  {% if entry.category %}<span class="card-player">{{ entry.category }}</span>{% endif %}
+</a>
+{% endfor %}
+</div>
