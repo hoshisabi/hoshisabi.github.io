@@ -7,7 +7,7 @@ role: Hunter, Coldpeak tribe
 race: Half-orc
 status: Active ally
 image: /rpg/icewind-dale/public/npcs/images/savin.png
-image_prompt: "Bold comic book illustration style, high contrast strong linework, limited cool color palette of blues and grays with white snow, dramatic lighting, arctic Icewind Dale setting with snow falling, no text — young half-orc hunter with mottled blue-gray skin and pointed ears, wearing minimal fur-collared armor with tattooed arms visible, standing in open tundra, expression watchful and uncertain, flat arctic plains stretching behind him"
+image_prompt: "Bold comic book illustration style, high contrast strong linework, limited cool color palette of blues and grays with white snow, dramatic lighting, arctic Icewind Dale setting with snow falling, no text — young half-orc hunter with mottled blue-gray skin and pointed ears, wearing minimal fur-collared armor, unhealed scar on right hand"
 ---
 
 A young hunter from the Coldpeak tribe. Half-orc — his father was Elk tribe, one of the Reghedsmen, who came to live with the Coldpeak and married Broken Tusk's sister. His mother died shortly after he was born. His father is also gone. He has grown up between two peoples who each have claim to him and neither has known what to do with that. Has a scar on his right hand that he deflects questions about.
