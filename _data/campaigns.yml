@@ -22,7 +22,7 @@ running:
     last_updated: "2026-06-03"
     href: /rpg/pandodnd/public/
 
-  - title: Lost Mine of Phandelver
+  - title: "Phandelver and Below: The Shattered Obelisk"
     sub: Classic 5e · in person
     desc: >-
       The party restores the Wave Echo Cave and establishes themselves as
@@ -42,6 +42,22 @@ playing:
     status: retired
     last_updated: "2024-01-11"
     href: /rpg/spare/spare
+
+  - title: Bob
+    sub: warlock
+    desc: >-
+      Not really named "Bob" nor does he think he is a warlock. Convinced he is a druid because he can speak to animals
+      and wildshape, and goes by Bob because it's been a long time since he used his actual name.
+    campaign: "Phandelver and Below: The Shattered Obelisk"
+    status: active
+    last_updated: "2025-08-23"
+
+  - title: Scribinator-3000
+    sub: autognome wizard (Order of the Scribes) 15
+    desc: Former scribe for Candlekeep become Spelljammer, was sent on an erand which he has yet to finish
+    campaign: Bestspace
+    status: active
+    last_updated: 2024-09-28
 
   - title: Burgess
     sub: Changeling · Rogue 10 (Soulknife)
