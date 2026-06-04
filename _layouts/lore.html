@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+{% include campaign-nav.html %}
+
+<article class="location">
+  <h1>{{ page.title }}</h1>
+
+  {% include entity-portrait.html %}
+
+  {% if page.category %}
+  <dl class="location-meta">
+    <dt>Category</dt><dd>{{ page.category }}</dd>
+  </dl>
+  {% endif %}
+
+  {{ content }}
+</article>
+
+{% include portrait-lightbox.html %}

@@ -6,7 +6,7 @@ title: Dak
 role: Young hunter in training, Coldpeak tribe
 race: Orc
 status: Active
-image: /rpg/icewind-dale/public/images/default-portrait.png
+image: /rpg/icewind-dale/public/npcs/images/dak.png
 image_prompt: "Bold comic book illustration style, high contrast strong linework, limited color palette of blue-grays and slate with white snow, dramatic lighting, arctic Icewind Dale setting with snow falling, no text — young orc teenager with an oversized shortbow slung across his back and a gap-toothed grin, wearing patched fur hunting leathers slightly too large for him, expression bright and scheming, crouching at the edge of a snow-covered pine forest like he is about to do something inadvisable"
 ---
 

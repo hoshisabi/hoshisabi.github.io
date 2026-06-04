@@ -4,6 +4,8 @@ campaign_name: Icewind Dale
 layout: lore
 title: Halvesh
 category: Coldpeak tradition
+image: /rpg/icewind-dale/public/lore/images/halvesh.png
+image_prompt: "Bold comic book illustration style, high contrast strong linework, limited color palette of deep blues and cold whites, dramatic lighting, arctic Icewind Dale night setting, no text — two translucent ghostly orc warrior figures standing at a snow-covered camp entrance, still holding their weapons, faintly glowing blue-white, a single living orc watching from a distance in shadow, stars visible overhead"
 ---
 
 When a Coldpeak hunter is killed without warning — ambushed, taken from behind, denied the chance to face what ends them — their spirit does not know to stop. It continues its last task: standing watch, running the trapline, holding the perimeter. The spirit is not lost. It is unfinished.
