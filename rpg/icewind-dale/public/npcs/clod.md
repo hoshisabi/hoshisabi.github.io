@@ -17,5 +17,3 @@ Dr. Medicine evaluated him back, and offered a dagger and a title: guardian of a
 He returned several weeks later — drier than a mud creature should be comfortable being, which says something about the distance traveled. He had fulfilled his contract. The mountain had been pleased with him, and had offered gifts: hands, through the cracks in the stones. Many hands. All the same kind. Clod had no use for hands. He told the mountain no. The mountain kept offering. He left.
 
 He returned the dagger to Dr. Medicine with the finality of a transaction properly closed: the dagger was the guardian's dagger, Clod had been the guardian, Clod was done, and so Dr. Medicine — who had set the terms — was now guardian of the mountain. Clod wished him luck with the hands. The Coldpeak tribe prepared a small dinner for the visiting dignitary. The diplomacy went smoothly. He departed back into the tundra.
-
-*"Not dangerous. Interested. That is worse."*
