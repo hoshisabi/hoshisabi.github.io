@@ -174,7 +174,7 @@ home: true
       <div class="star-foot">
         <span>{{ c.campaign }}</span>
         {%- if c.dm -%}<span class="dim">·</span><span>DM: {{ c.dm }}</span>{%- endif -%}
-        {%- if c.organized_play -%}<span class="dim">·</span><span>{{ c.organized_play | capitalize }}</span>{%- endif -%}
+        {%- if c.organized_play -%}<span class="dim">·</span><span>{{ c.organized_play }}</span>{%- endif -%}
       </div>
     {%- if c.href or c.dnd_beyond -%}
     </a>
