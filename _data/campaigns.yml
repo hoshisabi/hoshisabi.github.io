@@ -6,6 +6,7 @@ running:
       A cold, brutal struggle in the freezing north. Adventurers League
       Dungeoncraft, ongoing.
     status: active
+    organized_play: adventurers league
     sessions: 6
     started: Apr 2026
     last_updated: "2026-05-30"
@@ -17,6 +18,7 @@ running:
       Planescape season. A rotating cast of adventurers wanders the planes,
       stumbling into trouble one questionable pub at a time.
     status: active
+    organized_play: adventurers league
     sessions: 19
     started: "2024"
     last_updated: "2026-06-03"
@@ -30,6 +32,7 @@ running:
     status: finished
     sessions: 12
     started: "2023"
+    organized_play: adventurers league
     last_updated: "2026-04-17"
     href: /rpg/phandelver
 
@@ -39,6 +42,7 @@ playing:
     desc: A partial clone of a Netherese student, left in stasis for millennia. Woke up a slave, not knowing what he was.
     campaign: Icewind Dale — Rime of the Frost Maiden
     dm: Chris Hubbard
+    organized_play: homebrew
     status: retired
     last_updated: "2024-01-11"
     href: /rpg/spare/spare
@@ -59,6 +63,10 @@ playing:
   - title: Scribinator-3000
     sub: autognome wizard (Order of the Scribes) 15
     desc: Former scribe for Candlekeep became Spelljammer, was sent on an errand which he has yet to finish
+    organized_play: adventurers league
+    log_sheet: https://www.adventurersleaguelog.com/users/647/characters/102609
+    dnd_beyond: https://www.dndbeyond.com/characters/92173292/Ra8b02
+    portrait: https://www.dndbeyond.com/avatars/31641/791/1581111423-92173292.jpeg
     campaign: Bestspace
     status: active
     last_updated: "2024-09-28"
@@ -67,6 +75,10 @@ playing:
     sub: Changeling · Rogue 10 (Soulknife)
     desc: Lost his smile as a child somewhere in the Feywild. Spent years getting it back, came home something different.
     campaign: Wild Beyond the Witchlight
+    organized_play: adventurers league
+    log_sheet: https://www.adventurersleaguelog.com/users/647/characters/90751
+    dnd_beyond: https://www.dndbeyond.com/characters/70700295
+    portrait: https://www.dndbeyond.com/avatars/24673/754/1581111423-70700295.jpeg
     dm: John Rogers
     status: finished
     last_updated: "2022-12-17"
@@ -76,6 +88,7 @@ playing:
     sub: Fairy (Brownie) · Druid 11 (Circle of the Shepherd)
     desc: A Fairy druid looking for the thing that will actually feel like something, which is how he ended up at the Witchlight Carnival.
     campaign: Wild Beyond the Witchlight
+    organized_play: homebrew
     dm: Kate Hoff
     status: finished
     last_updated: "2023-08-17"
@@ -98,10 +111,14 @@ playing:
       A "retired" goblin hunter, much older than the rest of his tribe at a ripe age of 9, has decided to adventure
       since he already lived a nice, long life. Enjoying the ability to share his carving skills by making masks for
       his fellow adventurers.
+    campaign: "Waterdeep: Dungeon of the Mad Mage"
+    organized_play: adventurers league
+    log_sheet: https://www.adventurersleaguelog.com/users/647/characters/34467
+    dnd_beyond: https://www.dndbeyond.com/characters/9049036
+    portrait: https://www.dndbeyond.com/avatars/11585/471/1581111423-9049036.jpeg
     dm: Kate Hoff
     status: active
     last_updated: "2020-03-05"
-    campaign: "Waterdeep: Dungeon of the Mad Mage"
 
   - title: Cadwell
     sub: Half-elf Warlock 14 (Great Old Ones)
@@ -112,6 +129,10 @@ playing:
       from the Blackstaff and Waterdeep.
     dm: Kate Hoff
     status: active
+    organized_play: adventurers league
+    log_sheet: https://www.adventurersleaguelog.com/users/647/characters/36612
+    dnd_beyond: https://www.dndbeyond.com/characters/9641230
+    portrait: https://www.dndbeyond.com/avatars/36321/6/1581111423-9641230.jpeg
     last_updated: "2025-12-20"
     campaign: "Waterdeep: Dragon Heist"
 
