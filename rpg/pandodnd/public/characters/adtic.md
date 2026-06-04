@@ -5,6 +5,7 @@ layout: character
 title: Adtic
 player: Ttrpger
 class: Dhampir Circle of Spores Druid 8
+image: https://www.dndbeyond.com/avatars/56464/300/1581111423-165170061.jpeg
 ---
 
 ## Appearances
