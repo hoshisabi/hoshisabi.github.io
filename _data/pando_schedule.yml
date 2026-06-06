@@ -3,7 +3,7 @@
 # Do not edit by hand — your changes will be overwritten on the next refresh.
 
 source: https://warhorn.net/events/pandodnd/schedule/Ya7RynA9U_XsaE_Ve6Ht.atom
-generated_at: '2026-06-04T03:23:55+00:00'
+generated_at: '2026-06-05T09:48:49+00:00'
 entries:
 - code: PS-DC-PUB-10
   title: Absent without Leave
@@ -24,3 +24,28 @@ entries:
   tier: Tier 2 · APL 8 · 2 hours
   summary: PS-DC-PUB-11 Fallen for You Wed 6/24 7-9pm at Online (details in event)
   link: https://warhorn.net/events/pandodnd/schedule/sessions/24179359-9849-499c-b1a9-056f1413b1cb
+- code: PS-DC-PUB-09
+  title: Reign of Frogs
+  date: '2026-07-01T19:00:00-04:00'
+  tier: Tier 2 · APL 8 · 2 hours
+  summary: PS-DC-PUB-09 Reign of Frogs Wed 7/1 7-9pm at Online (details in event)
+  link: https://warhorn.net/events/pandodnd/schedule/sessions/868fd689-6101-4ad3-9194-2f3741fb38c4
+- code: PS-DC-PUB-12
+  title: The Endless Revel
+  date: '2026-07-08T19:00:00-04:00'
+  tier: Tier 2 · APL 8 · 2 hours
+  summary: PS-DC-PUB-12 The Endless Revel Wed 7/8 7-9pm at Online (details in event)
+  link: https://warhorn.net/events/pandodnd/schedule/sessions/14c8f0b7-d2f2-4ee3-ac38-7db7ce99d400
+- code: PS-DC-PUB-01
+  title: Automatic Updates
+  date: '2026-07-15T19:00:00-04:00'
+  tier: Tier 2 · APL 8 · 2 hours
+  summary: PS-DC-PUB-01 Automatic Updates Wed 7/15 7-9pm at Online (details in event)
+  link: https://warhorn.net/events/pandodnd/schedule/sessions/79abc57f-5fcd-4c72-af22-80e81b42ab51
+- code: PS-DC-PUB-13
+  title: Escape from Paradise
+  date: '2026-07-22T19:00:00-04:00'
+  tier: Tier 2 · APL 8 · 2 hours
+  summary: PS-DC-PUB-13 Escape from Paradise Wed 7/22 7-9pm at Online (details in
+    event)
+  link: https://warhorn.net/events/pandodnd/schedule/sessions/1fc09db0-3789-41d7-a99f-a01a17be0a5c
