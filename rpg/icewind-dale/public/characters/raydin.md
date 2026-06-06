@@ -7,6 +7,12 @@ player: Nadir
 class: Aasimar Sorcerer 3 (Clockwork Soul) / Warlock 2 (Hexblade)
 dnd_beyond: https://www.dndbeyond.com/characters/166648821
 image: /rpg/icewind-dale/public/characters/images/raydin.png
+image_prompt: >-
+  portrait of a young man with warm olive Mediterranean complexion, curly dark hair, strong brows,
+  warm amber eyes, wearing a heavy dark coat with large fur collar and fur-trimmed cuffs, dark gloves,
+  one hand fanning five glowing amber-edged playing cards, other hand revealing a single ornate glowing
+  card, knowing and confident smile, celestial four-pointed star motif, starry arctic night sky background,
+  warm amber accent highlight
 ---
 
 ## Description

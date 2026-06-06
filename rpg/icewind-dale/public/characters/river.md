@@ -11,6 +11,11 @@ class: Rogue 3 / Monk (Swashbuckler into Monk multiclass)
 background: Mulhorandi Tomb Raider
 dnd_beyond: https://www.dndbeyond.com/characters/164761052
 image: /rpg/icewind-dale/public/characters/images/river.png
+image_prompt: >-
+  portrait of an athletic feline humanoid man with snow leopard spotted fur, white and dark gray
+  markings, alert amber eyes, lean muscular build, wearing practical dark leather traveling clothes
+  and a wrapped scarf, short blades at his belt, quiet and competent expression suggesting someone
+  accustomed to moving unseen through dangerous places, warm amber accent highlight
 ---
 
 ## Description
