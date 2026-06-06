@@ -2,6 +2,7 @@ slug: icewind-dale
 name: Icewind Dale
 dm: Dan
 type: campaign
+adventure_code_prefix: "FR-DC-PND-AO-"
 image_prompt_base: "1930s pulp adventure paperback illustration style, bold linework, limited color palette of deep blues and slate grays, flat simplified background, dramatic lighting, absolutely no text, no letters, no words, no labels anywhere in the image, bold simple shapes"
 image_prompt_tags:
   default: exterior

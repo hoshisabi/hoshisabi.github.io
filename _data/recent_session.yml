@@ -1,13 +1,12 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: PandoDnD Pub Crawl
-session_label: Session 4
-date: June 3, 2026
-title: Rock Bottom
-adventure_code: PS-DC-PUB-05
-href: /rpg/pandodnd/public/sessions/2026-06-03
+campaign: Icewind Dale
+session_label: Session 7
+date: June 6, 2026
+title: Dead Run
+adventure_code: FR-DC-PND-AO-07
+href: /rpg/icewind-dale/public/sessions/2026-06-06
 excerpt: >-
-  A halfling captain sits at the end of his own footprints in the gray wastes
-  of Hades, waiting for someone who hasn't given up yet. Getting the pub crawl
-  back on the river means three days of survival, one grounded riverboat, and
-  a bartending shift serving the Blood War.
+  The camp is still counting its losses. Kaarsk is injured and furious about
+  it. A boy named Dak has decided now is the moment for his first hunt, and a
+  stranger with a deck of cards has nowhere else to go.
