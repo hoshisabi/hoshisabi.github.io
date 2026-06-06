@@ -26,18 +26,16 @@ Spotted Tabaxi, Mulhorandi Tomb Raider by background — comfortable with traps,
 
 Lawful Neutral and quietly competent. Willing to skin a wolf to earn a nod from a skeptical orc hunter. Has seen a glowing white wolf in the distance that nobody else could spot — not the first time River has noticed something others missed.
 
-## Session Notes
-
-- **Session 1:** Went down to the first giant owl crit; stabilized by Dr. Medicine
-- **Session 2:** Took heavy piercer damage; used Cunning Action disengage effectively; helped deceive the gazers with "priceless baubles" from the Ice Toad
-- **Session 3:** Spotted the mysterious blue-glowing white wolf following the party; helped skin the wolves after the fight; earned Kaarsk's nod
-
 ## Relationships
 
 - **Party:** Alina Shandorath, Dr. Medicine, Berg Wurdnowwah
 
 ## Appearances
 
-- **2026-05-22** — [Session 5 (May 22, 2026)](../sessions/2026-05-22) (*Don't Forget Your Mother*)
-- **2026-05-30** — [Session 6 (May 30, 2026)](../sessions/2026-05-30) (*The Woe She Promised*)
-- **2026-06-06** — [Session 7 (June 6, 2026)](../sessions/2026-06-06) (*Dead Run*)
+- **2026-04-24** — [Session 1 (April 24, 2026)](../sessions/2026-04-24) (*It Has Your Scent*) — went down to the first giant owl crit in round one; stabilized by Dr. Medicine; back up and fighting before the end
+- **2026-05-01** — [Session 2 (May 1, 2026)](../sessions/2026-05-01) (*The Name on the Door*) — crossed the underground lake right behind Berg; took heavy piercer damage; turned the slick terrain into a springboard
+- **2026-05-08** — [Session 3 (May 8, 2026)](../sessions/2026-05-08) (*Soon*) — polished worthless junk into heirlooms for the spring guardian trade; sneak attack found the gap in the wolf fight; helped skin the wolves; earned Kaarsk's nod; spotted the blue-glowing white wolf following the party
+- **2026-05-15** — [Session 4 (May 15, 2026)](../sessions/2026-05-15) (*Discovering What Never Was*) — picked up exhaustion on the walk to the ruins (Cold Snap); sneak attack for 14 into the Remorhaz when it came up through the ground
+- **2026-05-22** — [Session 5 (May 22, 2026)](../sessions/2026-05-22) (*Don't Forget Your Mother*) — jumped off the landing and grabbed a mephit out of the air, taking falling damage alongside it; entered the ghost fight at 5 HP and kept swinging until it was done
+- **2026-05-30** — [Session 6 (May 30, 2026)](../sessions/2026-05-30) (*The Woe She Promised*) — caught Dak's gunt attempt on 22 Perception and repaid him in hide scrapings; told Kaarsk to get up or stop complaining; took Ragnhild's shortbow; killed Rimetalon with a natural 20 for 27 damage
+- **2026-06-06** — [Session 7 (June 6, 2026)](../sessions/2026-06-06) (*Dead Run*) — delivered the words that kept Kaarsk in camp without a fight; said yes to Dak; natural 20 to open the hunt, natural 20 again to save Dak from the elk; invented "dead run" on the spot and made it land

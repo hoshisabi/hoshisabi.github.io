@@ -26,18 +26,16 @@ Tiefling wizard with purple-tinged skin, small curved horns, and a cartographer'
 
 Quick with dry humor and comfortable with risk — "that's a risk I'm willing to take" is a recurring phrase. Jumped straight into an underground lake when the party needed someone to cross it. Doesn't overthink entry points.
 
-## Session Notes
-
-- **Session 1:** Navigated the party through razor snow and quicksnow; took exhaustion from the frozen night
-- **Session 2:** Waded through an underground lake without hesitation; took piercer damage; used Healing Word to pull Dr. Medicine back at a critical moment; carries Potion of Growth acquired from the caravan lockbox
-- **Session 3:** Went down to the Owlbear's ice breath; revived by healing potion; hit the speaking wolf pack leader with Fire Bolt
-
 ## Relationships
 
 - **Party:** Dr. Medicine, Roaring River, Berg Wurdnowwah
 
 ## Appearances
 
-- **2026-05-22** — [Session 5 (May 22, 2026)](../sessions/2026-05-22) (*Don't Forget Your Mother*)
-- **2026-05-30** — [Session 6 (May 30, 2026)](../sessions/2026-05-30) (*The Woe She Promised*)
-- **2026-06-06** — [Session 7 (June 6, 2026)](../sessions/2026-06-06) (*Dead Run*)
+- **2026-04-24** — [Session 1 (April 24, 2026)](../sessions/2026-04-24) (*It Has Your Scent*) — touched the stained lockbox coins (Rainbow Tax); kept arrows flying and Healing Word for Dr. Medicine through the owl fight; took exhaustion from the frozen night
+- **2026-05-01** — [Session 2 (May 1, 2026)](../sessions/2026-05-01) (*The Name on the Door*) — natural 20 stealth to get into position before Dr. Medicine pitched the beholders; took piercer damage crossing the ceiling chamber
+- **2026-05-08** — [Session 3 (May 8, 2026)](../sessions/2026-05-08) (*Soon*) — fell through frozen river ice; fought her way out after one round; wolf's cone of ice dropped her; revived; threw a second-level spell into the pack leader
+- **2026-05-15** — [Session 4 (May 15, 2026)](../sessions/2026-05-15) (*Discovering What Never Was*) — used Potion of Comprehension on the Netherese door; identified the geomancer academy; Remorhaz interrupted the research; 20 lightning damage; retained "the city that never was"
+- **2026-05-22** — [Session 5 (May 22, 2026)](../sessions/2026-05-22) (*Don't Forget Your Mother*) — translated the propaganda doll (revealed Irenthal, "sacrifice for the empire"); natural 20 Fire Bolt on a fire-vulnerable mephit; sustained Witch Bolt through the ghost fight and landed the Fire Bolt that finished it
+- **2026-05-30** — [Session 6 (May 30, 2026)](../sessions/2026-05-30) (*The Woe She Promised*) — History 18 on the Raghedsmen; received the Augury scroll; Augury said woe (correctly); opened the Rimetalon chase with second-level Witch Bolt for 27 lightning; killed the last air flurry with exactly 1 damage
+- **2026-06-06** — [Session 7 (June 6, 2026)](../sessions/2026-06-06) (*Dead Run*) — applied poultice to Kaarsk's wounds; contributed to the group insight check that framed his staying at camp; Magic Missiles at second level in the hunt
