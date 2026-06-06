@@ -15,13 +15,14 @@ image_prompt: >-
   warm amber accent highlight
 ---
 
+
 ## Description
 
-Aasimar sorcerer with a Hexblade warlock pact layered on top — the celestial heritage shows as a faint halo and something luminous behind the eyes. Clockwork Soul subclass means his magic is tuned to cosmic order: suppressing chaos, smoothing outcomes, imposing pattern on a disordered world. The Hexblade pact manifests as a deck of playing cards charged with eldritch energy. Dark swept-back hair, rectangular glasses, a long coat over a waistcoat with a pocket watch. Someone who takes time seriously.
+Raydin is an Aasimar clockwork sorcerer with a casual Hexblade warlock pact — the celestial heritage shows as a faint halo and something luminous behind the eyes. His celestial power manifests through his Clockwork Soul, tuning his magic to the cosmic order: he draws cards from his deck and the universe politely corrects itself into whatever result is most interesting. Seeing his potential, a powerful entity offered him a vague Hexblade pact out of curiosity. Fate already decided the hand; Raydin is just the dealer.
 
 ## Personality
 
-The playing cards and the Clockwork Soul sit in deliberate tension — he manages probability for a living and chooses to do it with a gambler's prop. Roguish and charming in a way that suggests he already knows how this hand ends.
+Raydin is a naturally gifted, easygoing spellcaster who approaches life with curiosity, confidence, and the belief that most problems will work themselves out. He treats reality-bending magic like an entertaining game of possibilities, facing danger with a grin, a clever remark, and a willingness to see what happens next.
 
 ## Appearances
 
