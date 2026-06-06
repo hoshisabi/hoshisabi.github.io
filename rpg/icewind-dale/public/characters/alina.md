@@ -15,7 +15,7 @@ image: /rpg/icewind-dale/public/characters/images/alina.png
 
 ## Description
 
-Tiefling wizard with purple-tinged skin, small curved horns, and a cartographer's eye for the world. Speaks Common, Draconic, and Goblin. Carries three costumes, a flute, and a bullseye lantern — someone who moves through the world in many shapes and prefers to see clearly in the dark. Her Chthonic Legacy grants resistance to Necrotic damage and access to Thaumaturgy; she also draws on Druid magic through her Magic Initiate feat, keeping Guidance, Healing Word, and Spare the Dying in her back pocket.
+Tiefling wizard with purple-tinged skin, small curved horns, and a cartographer's eye for the world. Speaks Common, Draconic, and Goblin. Carries three costumes, a flute, and a bullseye lantern — someone who moves through the world in many shapes and prefers to see clearly in the dark. Her Chthonic Legacy brings Necrotic resistance and Thaumaturgy. She's also dipped into Druid magic — enough to stabilize an ally or light a path in the dark when direct evocation isn't the answer.
 
 ## Personality
 
