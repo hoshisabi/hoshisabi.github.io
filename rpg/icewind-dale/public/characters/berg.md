@@ -11,6 +11,11 @@ class: Fighter 4 (Battle Master)
 background: Soldier
 dnd_beyond: https://www.dndbeyond.com/characters/164719669
 image: /rpg/icewind-dale/public/characters/images/berg.png
+image_prompt: >-
+  portrait of a large powerfully built orc man in heavy chainmail armor with pauldrons,
+  gray-green skin, strong jaw with short tusks, calm and calculating expression suggesting
+  quiet strategic intelligence, holding a single chess piece between two fingers and studying
+  it thoughtfully, full figure standing, broad shoulders filling the frame, warm amber accent highlight
 ---
 
 ## Description
