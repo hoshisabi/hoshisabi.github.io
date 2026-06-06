@@ -15,7 +15,7 @@ image: /rpg/icewind-dale/public/characters/images/berg.png
 
 ## Description
 
-Orc fighter with AC 22, 40 HP, and Darkvision 180 feet. Speaks Common, Orcish, and Giant. Proficient with smith's tools and dragonchess. Battle Master subclass means his fighting style is fundamentally about enabling the people around him — Distracting Strike gives allies advantage, Bait and Switch repositions allies out of danger, Rally gives them temporary HP. He also has Interception, which lets him use his reaction to reduce damage dealt to a nearby ally. The orc in the armor who plays dragonchess is not the character most people expect.
+Orc fighter, heavily armored and hard to move past. Speaks Common, Orcish, and Giant; proficient with smith's tools and dragonchess. His entire fighting style is built around the people beside him — Distracting Strike opens enemies up for allies, Bait and Switch pulls someone out of harm's way, Rally puts HP back in the fight, and Interception lets him eat a hit meant for someone else. He has a dragonchess set in his kit and knows how to use it.
 
 ## Personality
 
