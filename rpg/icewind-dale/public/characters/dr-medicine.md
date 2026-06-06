@@ -11,6 +11,12 @@ class: Warlock 4 (Archfey Patron)
 background: Charlatan
 dnd_beyond: https://www.dndbeyond.com/characters/164677217
 image: /rpg/icewind-dale/public/characters/images/dr-medicine.png
+image_prompt: >-
+  portrait of a tall lean human man in a long dark frock coat, top hat, and bow tie,
+  one hand raised holding a small glass vial of glowing amber liquid up to the light,
+  other hand tucked in coat pocket, wide confident showman's smile that suggests he has
+  already sold you something, faint eldritch shimmer hinting at hidden power beneath the patter,
+  warm amber accent highlight
 ---
 
 ## Description

@@ -11,6 +11,11 @@ class: Wizard 4 (Evoker)
 background: Guide
 dnd_beyond: https://www.dndbeyond.com/characters/164743608
 image: /rpg/icewind-dale/public/characters/images/alina.png
+image_prompt: >-
+  portrait of a young tiefling woman with light purple-tinged skin, small curved deep blue horns,
+  brown hair in a bob cut, striking violet eyes, pointy ears, wearing a dark blue long coat over
+  a deep magenta blouse, leather crossbody satchel, one hand raised holding a crackling glowing
+  orb of eldritch energy, alert and confident expression with dry humor, warm amber accent highlight
 ---
 
 ## Description
