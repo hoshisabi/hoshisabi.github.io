@@ -26,12 +26,6 @@ Orc fighter, heavily armored and hard to move past. Speaks Common, Orcish, and G
 
 Efficient. Does what needs doing without announcing it. When Berg speaks Orcish to a skeptical orc warrior, it's not a performance — it's the shortest path to the outcome. Accepted a vial of red snake oil as a "speed potion" from Dr. Medicine and has not yet asked any follow-up questions.
 
-## Session Notes
-
-- **Session 1:** Used Adrenaline Rush to sprint through razor snow; Interception reaction protected allies repeatedly; used Relentless Endurance (Orc trait) to survive a killing blow
-- **Session 2:** Distracting Strike gave River advantage on the Ice Toad; Bait and Switch repositioned Alina out of piercer reach; drank the Potion of Growth in the Owlbear fight and Action Surged for 16 piercing damage — enough to drive her off
-- **Session 3:** Spoke Orcish to Kaarsk; pulled the party through the Athletics check to keep pace; Action Surged on the wolf pack leader for the killing blow; Kaarsk has been quietly revising his assessment
-
 ## Relationships
 
 - **Party:** Alina Shandorath, Dr. Medicine, Roaring River
@@ -39,6 +33,10 @@ Efficient. Does what needs doing without announcing it. When Berg speaks Orcish 
 
 ## Appearances
 
-- **2026-05-22** — [Session 5 (May 22, 2026)](../sessions/2026-05-22) (*Don't Forget Your Mother*)
-- **2026-05-30** — [Session 6 (May 30, 2026)](../sessions/2026-05-30) (*The Woe She Promised*)
-- **2026-06-06** — [Session 7 (June 6, 2026)](../sessions/2026-06-06) (*Dead Run*)
+- **2026-04-24** — [Session 1 (April 24, 2026)](../sessions/2026-04-24) (*It Has Your Scent*) — closed the wolf ambush; Adrenaline Rush through razor snow; Interception stepped between the owls and Dr. Medicine at 1 HP; Relentless Endurance survived a killing blow
+- **2026-05-01** — [Session 2 (May 1, 2026)](../sessions/2026-05-01) (*The Name on the Door*) — crossed the underground lake first; drank the Potion of Growth and Action Surged for 16 piercing — enough to drive Rimetalon off through the wall
+- **2026-05-08** — [Session 3 (May 8, 2026)](../sessions/2026-05-08) (*Soon*) — fell through the frozen river, two rounds under; swallowed by the Ice Toad and kept swinging; spoke Orcish to Kaarsk; drove a pike through the wolf pack leader for the killing blow
+- **2026-05-15** — [Session 4 (May 15, 2026)](../sessions/2026-05-15) (*Discovering What Never Was*) — worked the blacksmith forge; Medicine check identified the old cut on Savin's wrist; took 13 fire from the Remorhaz heat aura, used Second Wind, charged back for 26 on the killing blow
+- **2026-05-22** — [Session 5 (May 22, 2026)](../sessions/2026-05-22) (*Don't Forget Your Mother*) — Action Surged a javelin through the last aerial mephit; Protection from Good and Evil kept him immune to frightened while the ghost scared the rest; Bait and Switch repositioned Alina out of the ghost's reach
+- **2026-05-30** — [Session 6 (May 30, 2026)](../sessions/2026-05-30) (*The Woe She Promised*) — spotted the systematic trap raiding with Kaarsk; stood between Pasha and Rimetalon; absorbed most of her damage (65 HP across the fight, Bait and Switch, two Second Winds, Adrenaline Rush); Distracting Strike set up River's killing shot
+- **2026-06-06** — [Session 7 (June 6, 2026)](../sessions/2026-06-06) (*Dead Run*) — part of the group insight check (16) that found the framing to keep Kaarsk in camp; Adrenaline Rushed into the hunt; used Distracting Strike to give Dak advantage instead of taking the shot himself
