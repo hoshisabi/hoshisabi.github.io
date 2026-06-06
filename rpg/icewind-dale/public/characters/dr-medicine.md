@@ -35,3 +35,4 @@ Fully committed to the bit at all times. Sells snake oil to anything that will h
 
 - **2026-05-22** — [Session 5 (May 22, 2026)](../sessions/2026-05-22) (*Don't Forget Your Mother*)
 - **2026-05-30** — [Session 6 (May 30, 2026)](../sessions/2026-05-30) (*The Woe She Promised*)
+- **2026-06-06** — [Session 7 (June 6, 2026)](../sessions/2026-06-06) (*Dead Run*)
