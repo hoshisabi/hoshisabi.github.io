@@ -27,18 +27,16 @@ A human warlock whose Archfey patron contacts him through letters that appear in
 
 Fully committed to the bit at all times. Sells snake oil to anything that will hold still long enough. Has conned baby beholders, a muddy spring guardian, and at least one orc fighter (the "speed potion" incident remains technically unresolved). The charlatan persona and the warlock powers are deployed with equal confidence, and it is not always clear which one is doing more work. The Archfey patron's notes apparently tell him where to be, which he finds both useful and annoying.
 
-## Session Notes
-
-- **Session 1:** Stabilized River using the Healer feat ("I'm a licensed chiropractor"); sold Berg a vial of red snake oil as a "speed potion"
-- **Session 2:** Successfully conned three gazers into trading Ioun stones for snake oil with a promise the stones would reappear in two days; used Misty Step + Refreshing Step repeatedly to stay mobile; the two-day deadline has since passed
-- **Session 3:** Negotiated the Dragonlord's Dagger trade with the mud spring guardian; extracted the sending stone; pocketed a bone necklace from Durok's yurt while Kaarsk wasn't watching
-
 ## Relationships
 
 - **Party:** Alina Shandorath, Roaring River, Berg Wurdnowwah
 
 ## Appearances
 
-- **2026-05-22** — [Session 5 (May 22, 2026)](../sessions/2026-05-22) (*Don't Forget Your Mother*)
-- **2026-05-30** — [Session 6 (May 30, 2026)](../sessions/2026-05-30) (*The Woe She Promised*)
-- **2026-06-06** — [Session 7 (June 6, 2026)](../sessions/2026-06-06) (*Dead Run*)
+- **2026-04-24** — [Session 1 (April 24, 2026)](../sessions/2026-04-24) (*It Has Your Scent*) — stabilized River with the Healer feat ("I'm a licensed chiropractor"); sold Berg a vial of red snake oil as a "speed potion"
+- **2026-05-01** — [Session 2 (May 1, 2026)](../sessions/2026-05-01) (*The Name on the Door*) — conned three baby beholders into trading four Ioun stones for snake oil on a solemn two-day guarantee; the deadline has since passed
+- **2026-05-08** — [Session 3 (May 8, 2026)](../sessions/2026-05-08) (*Soon*) — already moving when the frozen river took Alina and Berg; traded a regular dagger (rebranded as the Dragonlord's Dagger) for the spring guardian's sending stone; pocketed the bone necklace from Durok's yurt while Kaarsk wasn't watching
+- **2026-05-15** — [Session 4 (May 15, 2026)](../sessions/2026-05-15) (*Discovering What Never Was*) — received Clod's diplomatic visit; formally recognized as guardian of That Mountain Over There; Witch Bolt upcast for 16 lightning on the Remorhaz; Refreshing Step kept Berg's HP supplied
+- **2026-05-22** — [Session 5 (May 22, 2026)](../sessions/2026-05-22) (*Don't Forget Your Mother*) — found the faceless propaganda doll in the debris field; cast Protection from Good and Evil on Berg before the ghost appeared; the nursery broom started following him specifically
+- **2026-05-30** — [Session 6 (May 30, 2026)](../sessions/2026-05-30) (*The Woe She Promised*) — natural 20 Con save on Dak's soured goat milk (Prestidigitation to strawberry); ran the Link mechanic to phase in and out of the Ethereal while keeping Berg's temp HP supplied; Eldritch Blast killed a flurry; Witch Bolt in the chase
+- **2026-06-06** — [Session 7 (June 6, 2026)](../sessions/2026-06-06) (*Dead Run*) — handed Dak "beaver repellent" before the hunt (returning the gunt); Misty Stepped to a cliff, rolled 23 on Performance, and brought both tribes' hunting parties together around one herd; said "give it to Dak" at exactly the right moment
