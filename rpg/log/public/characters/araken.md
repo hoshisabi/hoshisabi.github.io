@@ -10,3 +10,10 @@ background: Guide
 dnd_beyond: https://www.dndbeyond.com/characters/165283913
 image: /rpg/log/public/characters/images/araken.webp
 ---
+
+## Appearances
+
+- **2026-05-09** — [A Village Called Hommlet (May 9, 2026)](../sessions/2026-05-09) (*A Village Called Hommlet*)
+- **2026-05-23** — [Session 1 (May 23, 2026)](../sessions/2026-05-23) (*Concussive Charisma*)
+
+_Note: drop-in roster; this page grows when the character appears in recaps._
