@@ -1,12 +1,13 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: Icewind Dale
-session_label: Session 7
+campaign: Legends of Greyhawk
+session_label: Session 4
 date: June 6, 2026
-title: Dead Run
-adventure_code: FR-DC-PND-AO-07
-href: /rpg/icewind-dale/public/sessions/2026-06-06
+title: Lareth the Beautiful
+adventure_code: Ruins of the Moathouse
+href: /rpg/log/public/sessions/2026-06-06
 excerpt: >-
-  The camp is still counting its losses. Kaarsk is injured and furious about
-  it. A boy named Dak has decided now is the moment for his first hunt, and a
-  stranger with a deck of cards has nowhere else to go.
+  A mud-covered elf rises from the bog with a bow drawn. An ogre snores
+  through an empty keg. Lareth the Beautiful holds a pearl over an
+  unfinished summoning circle. The person you trusted at your back had
+  already chosen a side.
