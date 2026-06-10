@@ -20,7 +20,7 @@
   desc: >-
     A searchable index of every Adventurers League adventure,
     by code, tier, season, and tag. Lives at
-    https://hoshisabi.com/al_adventure_catalog/.
+    https://aladventurecatalog.com/.
 
 - name: AL Log Download
   repo: hoshisabi/allog_download
