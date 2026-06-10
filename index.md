@@ -44,7 +44,7 @@ home: true
     <a class="lp-btn ghost" href="https://warhorn.net/events/pandodnd/schedule" target="_blank" rel="noopener">
       PandoDnD schedule
     </a>
-    <a class="lp-btn ghost" href="https://hoshisabi.com/al_adventure_catalog/" target="_blank" rel="noopener">
+    <a class="lp-btn ghost" href="https://aladventurecatalog.com/" target="_blank" rel="noopener">
       AL Adventure Catalog
     </a>
     <a class="lp-btn ghost" href="https://github.com/hoshisabi" target="_blank" rel="noopener">
