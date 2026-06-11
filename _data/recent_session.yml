@@ -1,13 +1,13 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: Legends of Greyhawk
-session_label: Session 4
-date: June 6, 2026
-title: Lareth the Beautiful
-adventure_code: Ruins of the Moathouse
-href: /rpg/log/public/sessions/2026-06-06
+campaign: PandoDnD Pub Crawl
+session_label: Session 5
+date: June 10, 2026
+title: Absent without Leave
+adventure_code: PS-DC-PUB-10
+href: /rpg/pandodnd/public/sessions/2026-06-10
 excerpt: >-
-  A mud-covered elf rises from the bog with a bow drawn. An ogre snores
-  through an empty keg. Lareth the Beautiful holds a pearl over an
-  unfinished summoning circle. The person you trusted at your back had
-  already chosen a side.
+  You signed up for drinks and a tour of someone else's eternal war.
+  Instead: a smuggling run across a battlefield cube with twenty doomed
+  souls, a portal that won't take the dead home, and a last stand in a
+  cave — held just long enough for the cavalry to arrive on wings.
