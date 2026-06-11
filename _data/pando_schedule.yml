@@ -3,15 +3,8 @@
 # Do not edit by hand — your changes will be overwritten on the next refresh.
 
 source: https://warhorn.net/events/pandodnd/schedule/Ya7RynA9U_XsaE_Ve6Ht.atom
-generated_at: '2026-06-10T09:58:38+00:00'
+generated_at: '2026-06-11T10:22:48+00:00'
 entries:
-- code: PS-DC-PUB-10
-  title: Absent without Leave
-  date: '2026-06-10T19:00:00-04:00'
-  tier: Tier 2 · APL 8 · 2 hours
-  summary: PS-DC-PUB-10 Absent without Leave Wed 6/10 7-9pm at Online (details in
-    event)
-  link: https://warhorn.net/events/pandodnd/schedule/sessions/7581ea8a-12fe-46d2-8898-41e2f88c6995
 - code: PS-DC-PUB-08
   title: Unremembered Things
   date: '2026-06-17T19:00:00-04:00'
@@ -49,3 +42,22 @@ entries:
   summary: PS-DC-PUB-13 Escape from Paradise Wed 7/22 7-9pm at Online (details in
     event)
   link: https://warhorn.net/events/pandodnd/schedule/sessions/1fc09db0-3789-41d7-a99f-a01a17be0a5c
+- code: PS-DC-PUB-14
+  title: Beneath the Prison Tree
+  date: '2026-08-05T19:00:00-04:00'
+  tier: Tier 2 · APL 8 · 2 hours
+  summary: PS-DC-PUB-14 Beneath the Prison Tree Wed 8/5 7-9pm at Online (details in
+    event)
+  link: https://warhorn.net/events/pandodnd/schedule/sessions/dcd63758-257b-4425-af99-488943f1396d
+- code: PS-DC-PUB-15
+  title: Spider Hunt
+  date: '2026-08-19T19:00:00-04:00'
+  tier: Tier 2 · APL 8 · 2 hours
+  summary: PS-DC-PUB-15 Spider Hunt Wed 8/19 7-9pm at Online (details in event)
+  link: https://warhorn.net/events/pandodnd/schedule/sessions/93c9017b-e7f0-44b1-956a-6eb53b3dce4e
+- code: PS-DC-PUB-16
+  title: Juxtaposition
+  date: '2026-08-26T19:00:00-04:00'
+  tier: Tier 2 · APL 8 · 2 hours
+  summary: PS-DC-PUB-16 Juxtaposition Wed 8/26 7-9pm at Online (details in event)
+  link: https://warhorn.net/events/pandodnd/schedule/sessions/e1e143b1-6752-4508-9237-9442b3be4359
