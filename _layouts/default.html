@@ -6,6 +6,21 @@
 
   <title>{{ page.title | default: site.title }} &mdash; {{ site.title }}</title>
 
+  {%- comment -%}
+    Theme: "light" (parchment, default) or "dark" (starry night sky).
+    Set on <html> before the stylesheet loads to avoid a flash of the
+    wrong theme. Stored choice wins; otherwise follow the OS setting.
+  {%- endcomment -%}
+  <script>
+    (function () {
+      var theme = localStorage.getItem("theme");
+      if (theme !== "light" && theme !== "dark") {
+        theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+      }
+      document.documentElement.setAttribute("data-theme", theme);
+    })();
+  </script>
+
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -24,6 +39,7 @@
         <img class="header-avatar" src="{{ '/media/oldpicture.jpg' | relative_url }}" alt="Dan Chapman">
         <span class="site-title-name">hoshisabi</span>
       </a>
+      <div class="header-right">
       <nav class="site-nav">
         <a href="{{ '/' | relative_url }}">Home</a>
 
@@ -74,6 +90,16 @@
           {% include icons.html name="github" size=16 %}
         </a>
       </nav>
+      <button class="theme-toggle" type="button" aria-label="Switch theme">
+        <svg class="icon-moon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+        </svg>
+        <svg class="icon-sun" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <circle cx="12" cy="12" r="4"/>
+          <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/>
+        </svg>
+      </button>
+      </div>
     </div>
   </header>
 
@@ -109,6 +135,14 @@
       </div>
     </div>
   </footer>
+
+  <script>
+    document.querySelector(".theme-toggle").addEventListener("click", function () {
+      var next = document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark";
+      document.documentElement.setAttribute("data-theme", next);
+      localStorage.setItem("theme", next);
+    });
+  </script>
 
 </body>
 </html>
