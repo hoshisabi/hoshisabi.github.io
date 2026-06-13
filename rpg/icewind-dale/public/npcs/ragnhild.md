@@ -3,6 +3,8 @@ campaign_url: /rpg/icewind-dale/public/
 campaign_name: Icewind Dale
 layout: npc
 title: Ragnhild
+also_known_as:
+  - Ragni
 role: Leader, Elk tribe (Reghedsmen)
 race: Human (Reghedsmen)
 status: Active — arrived Session 6 with the Elk tribe's return

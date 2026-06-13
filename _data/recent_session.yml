@@ -1,13 +1,12 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: PandoDnD Pub Crawl
-session_label: Session 5
-date: June 10, 2026
-title: Absent without Leave
-adventure_code: PS-DC-PUB-10
-href: /rpg/pandodnd/public/sessions/2026-06-10
+campaign: Icewind Dale
+session_label: Session 8
+date: June 12, 2026
+title: "I'm Not Supposed to Be Here"
+adventure_code: FR-DC-PND-AO-08
+href: /rpg/icewind-dale/public/sessions/2026-06-12
 excerpt: >-
-  You signed up for drinks and a tour of someone else's eternal war.
-  Instead: a smuggling run across a battlefield cube with twenty doomed
-  souls, a portal that won't take the dead home, and a last stand in a
-  cave — held just long enough for the cavalry to arrive on wings.
+  A memory-bone, a borrowed name, and a voice that didn't belong in the dark —
+  Coldpeak tends its wounds while something older stirs at the edge of the
+  firelight, asking why it isn't dead yet.
