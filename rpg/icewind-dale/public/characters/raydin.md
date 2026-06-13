@@ -27,5 +27,6 @@ Raydin is a naturally gifted, easygoing spellcaster who approaches life with cur
 ## Appearances
 
 - **2026-06-06** — [Session 7 (June 6, 2026)](../sessions/2026-06-06) (*Dead Run*)
+- **2026-06-12** — [Session 8 (June 12, 2026)](../sessions/2026-06-12) (*I'm Not Supposed to Be Here*) — Ulfe sought him out to settle an old card-game debt in exchange for help with Bjarne; cast Shield (AC 22) and Minor Illusion to conjure the Allip's family back into being, easing its babble for a moment; closed the fight with a single Hypnotic Pattern that caught Ulfe, Klaud, and Snurre at once
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
