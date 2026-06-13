@@ -9,9 +9,10 @@ layout: default
 
   {% include entity-portrait.html %}
 
-  {% if page.category %}
+  {% if page.category or page.also_known_as %}
   <dl class="location-meta">
-    <dt>Category</dt><dd>{{ page.category }}</dd>
+    {% if page.category %}<dt>Category</dt><dd>{{ page.category }}</dd>{% endif %}
+    {% if page.also_known_as %}<dt>Orcish</dt><dd>{{ page.also_known_as | join: ", " }}</dd>{% endif %}
   </dl>
   {% endif %}
 
