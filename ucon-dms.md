@@ -16,7 +16,7 @@ Ann Arbor Marriott Ypsilanti Hotel at Eagle Crest
 
 This year we're running both **Adventurers League** and **Legends of Greyhawk** organized play at U-Con. We have room for both tracks and we'd love to have you at the table — whether you're a returning DM or someone who's never run for us before.
 
-If you're interested in volunteering, please fill out the form below. It's not a firm commitment: right now I'm in gauge-of-interest mode, and everything is still flexible.
+If you're interested in volunteering, please fill out the form below. It's not a firm commitment — right now I'm in gauge-of-interest mode, and everything is still flexible.
 
 <div style="text-align: center; margin: 2rem 0;">
   <a class="lp-btn ghost" href="https://forms.gle/9TKfozyVMj97rdyX9" target="_blank" rel="noopener">
@@ -34,6 +34,18 @@ If you're interested in volunteering, please fill out the form below. It's not a
 - **Epic** (multi-table event) typically runs Saturday evening
 - **Charity rerolls** benefiting Doctors Without Borders
 - **Badge incentives** for volunteering — details to be confirmed, but historically 2 slots earns a discount and 4 slots earns a free weekend badge
+
+---
+
+## Running Your Own Adventure
+
+If you have an Adventurers League DungeonCraft or other AL-legal adventure you'd like to run, we'd love to feature it! Mention it on the form or [reach out directly](mailto:chapmand@gmail.com) if you'd like to talk through what's possible.
+
+---
+
+## Health & Safety
+
+U-Con's official health and safety policies are at [ucon-gaming.org/policies](https://www.ucon-gaming.org/policies/). We ask everyone to prioritize their health and the health of those around them. If you're feeling unwell, please stay home. No table is worth getting people sick, and we'd much rather sort out coverage than have anyone push through it.
 
 ---
 
