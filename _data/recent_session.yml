@@ -1,12 +1,11 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: Icewind Dale
-session_label: Session 8
-date: June 12, 2026
-title: "I'm Not Supposed to Be Here"
-adventure_code: FR-DC-PND-AO-08
-href: /rpg/icewind-dale/public/sessions/2026-06-12
+campaign: PandoDnD Pub Crawl
+session_label: Session 6
+date: June 17, 2026
+title: Unremembered Things
+adventure_code: PS-DC-PUB-08
+href: /rpg/pandodnd/public/sessions/2026-06-17
 excerpt: >-
-  A memory-bone, a borrowed name, and a voice that didn't belong in the dark —
-  Coldpeak tends its wounds while something older stirs at the edge of the
-  firelight, asking why it isn't dead yet.
+  You woke in a wrecked tavern surrounded by bodies you apparently made.
+  Someone in Pandemonium is selling bottled amnesia — and you already drank it.
