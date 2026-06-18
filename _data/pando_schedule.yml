@@ -3,7 +3,7 @@
 # Do not edit by hand — your changes will be overwritten on the next refresh.
 
 source: https://warhorn.net/events/pandodnd/schedule/Ya7RynA9U_XsaE_Ve6Ht.atom
-generated_at: '2026-06-13T08:57:26+00:00'
+generated_at: '2026-06-17T10:54:29+00:00'
 entries:
 - code: PS-DC-PUB-08
   title: Unremembered Things
@@ -49,6 +49,13 @@ entries:
   summary: PS-DC-PUB-14 Beneath the Prison Tree Wed 8/5 7-9pm at Online (details in
     event)
   link: https://warhorn.net/events/pandodnd/schedule/sessions/dcd63758-257b-4425-af99-488943f1396d
+- code: PS-DC-PUB-10
+  title: Absent without Leave
+  date: '2026-08-12T19:00:00-04:00'
+  tier: Tier 2 · APL 8 · 2 hours
+  summary: PS-DC-PUB-10 Absent without Leave Wed 8/12 7-9pm at Online (details in
+    event)
+  link: https://warhorn.net/events/pandodnd/schedule/sessions/081a454b-f6f2-40a7-8467-1635888c56ac
 - code: PS-DC-PUB-15
   title: Spider Hunt
   date: '2026-08-19T19:00:00-04:00'
