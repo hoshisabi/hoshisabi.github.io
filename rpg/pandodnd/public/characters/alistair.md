@@ -12,6 +12,7 @@ image: https://assets.forge-vtt.com/5e8b516891f93735fd1249d1/ddb-images/characte
 ## Appearances
 
 - **2026-05-20** — [Session 2 (May 20, 2026)](../sessions/2026-05-20) (*Professor Bartlesby's Inventorium*)
+- **2026-06-17** — [Session 6 (June 17, 2026)](../sessions/2026-06-17) (*Unremembered Things*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
 
