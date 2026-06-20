@@ -1,11 +1,13 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: PandoDnD Pub Crawl
-session_label: Session 6
-date: June 17, 2026
-title: Unremembered Things
-adventure_code: PS-DC-PUB-08
-href: /rpg/pandodnd/public/sessions/2026-06-17
+campaign: Icewind Dale
+session_label: Session 9
+date: June 20, 2026
+title: It Is Not Too Late to Come Home
+adventure_code: FR-DC-PND-AO-09
+href: /rpg/icewind-dale/public/sessions/2026-06-20
 excerpt: >-
-  You woke in a wrecked tavern surrounded by bodies you apparently made.
-  Someone in Pandemonium is selling bottled amnesia — and you already drank it.
+  Goatball on flat-topped boulders, a tribe leader's quiet question about
+  peace, and then three Reghedsmen running out of the dark with frost on
+  their skin and Netherese on their tongues — repeating something that
+  wasn't meant for anyone.
