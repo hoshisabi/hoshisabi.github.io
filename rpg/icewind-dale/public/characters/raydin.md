@@ -28,5 +28,6 @@ Raydin is a naturally gifted, easygoing spellcaster who approaches life with cur
 
 - **2026-06-06** — [Session 7 (June 6, 2026)](../sessions/2026-06-06) (*Dead Run*)
 - **2026-06-12** — [Session 8 (June 12, 2026)](../sessions/2026-06-12) (*I'm Not Supposed to Be Here*) — Ulfe sought him out to settle an old card-game debt in exchange for help with Bjarne; cast Shield (AC 22) and Minor Illusion to conjure the Allip's family back into being, easing its babble for a moment; closed the fight with a single Hypnotic Pattern that caught Ulfe, Klaud, and Snurre at once
+- **2026-06-20** — [Session 9 (June 20, 2026)](../sessions/2026-06-20) (*It Is Not Too Late to Come Home*) — activated Bladesinger and drove the goatball strategy (hold the ball, let River tackle); got knocked off the platform in round two but fed the ball back to River for the winning throw in the decider; Booming Blade plus follow-up scimitar in the chardalyn fight
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
