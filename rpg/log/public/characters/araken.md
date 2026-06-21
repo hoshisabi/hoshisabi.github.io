@@ -15,5 +15,6 @@ image: /rpg/log/public/characters/images/araken.webp
 
 - **2026-05-09** — [A Village Called Hommlet (May 9, 2026)](../sessions/2026-05-09) (*A Village Called Hommlet*)
 - **2026-05-23** — [Session 1 (May 23, 2026)](../sessions/2026-05-23) (*Concussive Charisma*)
+- **2026-06-20** — [Session 5 (June 20, 2026)](../sessions/2026-06-20) (*Shadows over the Free City*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
