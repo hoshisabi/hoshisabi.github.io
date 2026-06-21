@@ -5,7 +5,7 @@ layout: character
 title: Cinder
 player: Trey
 race: Human
-class: Paladin 2
+class: Paladin 3
 background: Wayfarer
 dnd_beyond: https://www.dndbeyond.com/characters/165434792
 image: /rpg/log/public/characters/images/cinder.webp
@@ -16,5 +16,6 @@ image: /rpg/log/public/characters/images/cinder.webp
 - **2026-05-09** — [A Village Called Hommlet (May 9, 2026)](../sessions/2026-05-09) (*A Village Called Hommlet*)
 - **2026-05-23** — [Session 1 (May 23, 2026)](../sessions/2026-05-23) (*Concussive Charisma*)
 - **2026-06-06** — [Session 4 (June 6, 2026)](../sessions/2026-06-06) (*Lareth the Beautiful*)
+- **2026-06-20** — [Session 5 (June 20, 2026)](../sessions/2026-06-20) (*Shadows over the Free City*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
