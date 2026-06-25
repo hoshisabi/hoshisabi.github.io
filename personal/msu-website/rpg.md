@@ -26,7 +26,7 @@ Some hints for your search: Be patient. Unless you need the book for the next ga
 | [The Dragon's Trove](https://www.dragonstrove.com/) | Still active — now at dragonstrove.com (added an 's'), on Shopify. |
 | Arpeegy | — |
 | [Pandemonium Books & Games](https://www.pandemoniumbooks.com/) | — |
-| Titan Games | Very large selection! |
+| [Titan Games](https://www.titangames.com/) | Very large selection! |
 | MGC Games | A local hobby store that I go to constantly. MGC later became [Pandemonium Games](https://www.pandemoniumbooks.com/) — still open as of 2026, and now home to the Icewind Dale AL campaign. Pandemonium has been a constant since at least the late 90s. |
 | eBay RPG | eBay's RPG section. Usually just click "Search" and look for my game of choice. |
 | Splort! | Don't know how long this site is going to be up, but the prices are fantastic. |
@@ -35,9 +35,9 @@ Some hints for your search: Be patient. Unless you need the book for the next ga
 
 | Site | Notes |
 |------|-------|
-| Bookfinder | A good place to find those books missing from your collection. |
+| [Bookfinder](https://www.bookfinder.com/) | A good place to find those books missing from your collection. |
 | Pricescan | Does more than just books — "find cheapest price online" includes shipping and handling. |
-| Books.com | Better prices than Amazon because it automatically lowers its price if Amazon has a lower price. |
+| ~~Books.com~~ | ~~Better prices than Amazon because it automatically lowers its price if Amazon has a lower price.~~ (now redirects to Barnes & Noble) |
 
 ## Card Gaming
 
