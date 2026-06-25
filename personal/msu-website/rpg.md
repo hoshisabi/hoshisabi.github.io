@@ -27,7 +27,7 @@ Some hints for your search: Be patient. Unless you need the book for the next ga
 | Arpeegy | — |
 | [Pandemonium Books & Games](https://www.pandemoniumbooks.com/) | — |
 | Titan Games | Very large selection! |
-| MGC Games | A local hobby store that I go to constantly. MGC later became [Pandemonium Games](https://www.pandemoniumbooks.com/) — still open, and now home to the Icewind Dale AL campaign. |
+| MGC Games | A local hobby store that I go to constantly. MGC later became [Pandemonium Games](https://www.pandemoniumbooks.com/) — still open as of 2026, and now home to the Icewind Dale AL campaign. Pandemonium has been a constant since at least the late 90s. |
 | eBay RPG | eBay's RPG section. Usually just click "Search" and look for my game of choice. |
 | Splort! | Don't know how long this site is going to be up, but the prices are fantastic. |
 
