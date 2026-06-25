@@ -10,6 +10,7 @@ description: Various projects being worked on by Daniel E. Chapman II
 exclude:
   - CLAUDE.md
   - rpg/dec2rpg/
+  - personal/
 
 collections:
   adventures:
