@@ -3,7 +3,7 @@ campaign_url: /rpg/icewind-dale/public/
 campaign_name: Icewind Dale
 layout: npc
 title: Savin
-role: Hunter, Coldpeak tribe
+role: Hunter, Elk tribe (Reghedsmen) — formerly Coldpeak tribe
 race: Half-orc
 status: Active ally
 image: /rpg/icewind-dale/public/npcs/images/savin.png
@@ -21,3 +21,5 @@ Was being quietly groomed for tribal leadership by Broken Tusk. Does not want it
 Escorted the party to Durok's spring and the Netherese ruins in Session 4. Mentioned, almost as an aside, that he has gone near the mountain the tribe refuses to name — closer than any hunter should — and never felt what the others describe. He said this without apparent concern. He did not explain it further.
 
 When the Elk tribe returned to camp in Session 6, the ground Savin stands on got considerably more complicated.
+
+By the end of Session 7, Savin left Coldpeak to hunt with the Elk tribe — his father's people — instead.
