@@ -9,6 +9,7 @@ description: Various projects being worked on by Daniel E. Chapman II
 # we'll loop through them ourselves in myadventures.md.
 exclude:
   - CLAUDE.md
+  - rpg/dec2rpg/
 
 collections:
   adventures:
