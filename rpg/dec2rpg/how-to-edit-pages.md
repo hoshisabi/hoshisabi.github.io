@@ -1,0 +1,19 @@
+---
+title: "How To Edit Pages - Quickstart"
+source: "http://dec2rpg.wikidot.com/how-to-edit-pages"
+---
+
+# How To Edit Pages - Quickstart
+
+If you are allowed to edit pages in this Site, simply click on _edit_ button at the bottom of the page. This will open an editor with a toolbar pallette with options. 
+
+To create a link to a new page, use syntax: `[[[new page name]]]` or `[[[new page name | text to display]]]`. Follow the link (which should have a different color if page does not exist) and create a new page and edit it! 
+
+You can also some navigational pages: 
+
+  * [nav:side](</nav:side>) \- left side navigation menu, edit if you wish! 
+  * [nav:top](</nav:top>) \- top navigation menu, you can edit it to make pull-down menus 
+
+
+
+Although creating and editing pages is easy, there are a lot more options that allows creating powerful sites. Please visit [Documentation pages](<http://www.wikidot.com/doc>) to learn more.
