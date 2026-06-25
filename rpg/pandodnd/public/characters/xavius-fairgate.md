@@ -13,5 +13,6 @@ image: https://www.dndbeyond.com/avatars/10/89/636339382189764523.png?width=150&
 
 - **2026-06-10** — [Session 5 (June 10, 2026)](../sessions/2026-06-10) (*Absent without Leave*)
 - **2026-06-17** — [Session 6 (June 17, 2026)](../sessions/2026-06-17) (*Unremembered Things*)
+- **2026-06-24** — [Session 7 (June 24, 2026)](../sessions/2026-06-24) (*Fallen for You*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
