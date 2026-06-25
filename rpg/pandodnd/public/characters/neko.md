@@ -12,6 +12,7 @@ image: https://assets.forge-vtt.com/63fd7e78b7a1ec2221d1c6dc/ddb-images/characte
 ## Appearances
 
 - **2026-05-20** — [Session 2 (May 20, 2026)](../sessions/2026-05-20) (*Professor Bartlesby's Inventorium*)
+- **2026-06-10** — [Session 5 (June 10, 2026)](../sessions/2026-06-10) (*Absent without Leave*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
 

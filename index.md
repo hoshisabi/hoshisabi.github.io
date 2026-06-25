@@ -271,27 +271,36 @@ home: true
   <div class="sec-head">
     <div>
       <div class="sec-num">★ Section 06</div>
-      <h2>U-Con <em>Adventurers League</em></h2>
+      <h2>U-Con <em>Organized Play</em></h2>
     </div>
-    <span class="sec-aside">Returning November 2026</span>
+    <span class="sec-aside">November 13–15, 2026</span>
   </div>
   <div class="ucon-block">
     <div>
-      <div class="ucon-eyebrow">U-Con · Ann Arbor</div>
-      <h3>We ran AL at U-Con — and we're coming back.</h3>
-      <p>If you're an organizer, a DM, or a player who'd like to sit at our tables next year, get in touch. The convention site has the lay of the land at <a href="https://www.ucon-gaming.org/">ucon-gaming.org</a>.</p>
-      <p style="margin-bottom: 0;">This year we also fundraised for Doctors Without Borders.</p>
+      <div class="ucon-eyebrow">U-Con · Ann Arbor · Eagle Crest</div>
+      <h3>Adventurers League & Legends of Greyhawk — both tracks, one room.</h3>
+      <p>U-Con 2026 is on the horizon and we're running two organized play programs this year: the familiar
+      <strong>Adventurers League</strong> and the newly launched <strong>Legends of Greyhawk</strong>.
+      Nine LoG adventures confirmed, more may follow before November.</p>
+      <p>If you're a DM who wants to run games, or a player who wants to sit at our tables,
+      get in touch. Convention details at <a href="https://www.ucon-gaming.org/">ucon-gaming.org</a>.</p>
+      <p style="margin-bottom: 0;">
+        <a class="lp-btn ghost" href="{{ '/ucon-dms' | relative_url }}">
+          Volunteer to DM {% include icons.html name="arrow" %}
+        </a>
+      </p>
     </div>
     <div class="ucon-cause">
       <div class="ucon-cause-lbl">★ Fundraiser</div>
       <div class="ucon-cause-name">Doctors Without Borders</div>
-      <div class="ucon-cause-desc">A personal campaign raising funds alongside our U-Con games. Donations remain open.</div>
+      <div class="ucon-cause-desc">Charity rerolls at every table. Players can donate at AL HQ during the convention, or give directly via the link below.</div>
       <a class="ucon-cause-btn" href="https://events.doctorswithoutborders.org/index.cfm?fuseaction=donordrive.personalCampaign&participantID=8648">
         Donate {% include icons.html name="arrow" %}
       </a>
     </div>
   </div>
 </section>
+
 
 <section class="lp-sec">
   <div class="sec-head">
