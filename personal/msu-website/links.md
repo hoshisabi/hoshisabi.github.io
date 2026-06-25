@@ -16,7 +16,7 @@
 | Name | Notes |
 |------|-------|
 | LHQ | A BBS that I used to hang out on quite extensively in Lansing. |
-| Everything2 | Hard to explain... Like an encyclopedia where you can add your own entries. Almost feels like a BBS, but it's not. |
+| [Everything2](https://everything2.com/) | Hard to explain... Like an encyclopedia where you can add your own entries. Almost feels like a BBS, but it's not. Still active. |
 
 ## Friends' Pages
 
@@ -47,7 +47,7 @@
 | White Wolf | Makers of the World of Darkness games |
 | Alderac Entertainment Group | Makers of Legend of the Five Rings, my favorite card game... and also a very good RPG. |
 | Atlas Games | Makers of the Ars Magica game |
-| WizKids & FanPro | Makers of the Shadowrun roleplaying game |
+| WizKids & FanPro → [Catalyst Game Labs](https://www.catalystgamelabs.com/brands/shadowrun) | Makers of the Shadowrun roleplaying game — now published by Catalyst Game Labs |
 
 ## Programming
 
