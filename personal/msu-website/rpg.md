@@ -23,11 +23,11 @@ Some hints for your search: Be patient. Unless you need the book for the next ga
 | Daili's Collectables | Reasonable prices. Good selection. |
 | Earthsea Games | Perhaps still cleaned out of the "misc rpg" (I did that.) |
 | Sword of the Knight | Sword & Knight Publications. Official Shadowrun fanzine; large list of used RPGs for download in spreadsheet format. |
-| The Dragon's Trove | — |
+| [The Dragon's Trove](https://www.dragonstrove.com/) | Still active — now at dragonstrove.com (added an 's'), on Shopify. |
 | Arpeegy | — |
-| Pandemonium Books & Games | — |
+| [Pandemonium Books & Games](https://www.pandemoniumbooks.com/) | — |
 | Titan Games | Very large selection! |
-| MGC Games | A local hobby store that I go to constantly. |
+| MGC Games | A local hobby store that I go to constantly. MGC later became [Pandemonium Games](https://www.pandemoniumbooks.com/) — still open, and now home to the Icewind Dale AL campaign. |
 | eBay RPG | eBay's RPG section. Usually just click "Search" and look for my game of choice. |
 | Splort! | Don't know how long this site is going to be up, but the prices are fantastic. |
 
