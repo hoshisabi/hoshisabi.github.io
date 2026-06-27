@@ -22,10 +22,24 @@ The party started in Hommlet, where the trouble was organized enough to have a h
 
 ## Sessions
 
-{% assign sessions = site.pages | where_exp: "p", "p.path contains 'log/public/sessions'" | sort: "title" %}
-{% for session in sessions %}
+{% assign sessions = site.pages | where_exp: "p", "p.path contains 'log/public/sessions'" | sort: "path" %}
+{% assign sessions_count = sessions | size %}
+{% assign sessions_reversed = sessions | reverse %}
+
+{% for session in sessions_reversed limit:3 %}
 - [{{ session.title }} — {{ session.session_title }}]({{ session.url }}): {{ session.description }}
 {% endfor %}
+
+{% if sessions_count > 3 %}
+<details class="session-list-toggle">
+<summary>{{ sessions_count | minus: 3 }} older sessions</summary>
+<ul>
+{% for session in sessions_reversed offset:3 %}
+<li><a href="{{ session.url }}">{{ session.title }} — {{ session.session_title }}</a>: {{ session.description }}</li>
+{% endfor %}
+</ul>
+</details>
+{% endif %}
 
 ## Player Characters
 
