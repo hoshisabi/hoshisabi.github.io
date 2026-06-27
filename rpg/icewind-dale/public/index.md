@@ -34,9 +34,9 @@ The blizzard outside the camp reads: *Soon.*
 
 {% if sessions_count > 3 %}
 <details class="session-list-toggle">
-<summary>All sessions ({{ sessions_count }} total)</summary>
+<summary>{{ sessions_count | minus: 3 }} older sessions</summary>
 <ul>
-{% for session in sessions %}
+{% for session in sessions_reversed offset:3 %}
 <li><a href="{{ session.url }}">{{ session.title }} — {{ session.session_title }}</a>: {{ session.description }}</li>
 {% endfor %}
 </ul>
