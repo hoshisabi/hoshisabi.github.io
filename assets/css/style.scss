@@ -1013,6 +1013,37 @@ body.home h2 { border-bottom: none; padding-bottom: 0; }
 }
 .campaign-breadcrumb a:hover { color: var(--link-hover); }
 
+/* Session list expand/collapse toggle (campaign index pages) */
+.session-list-toggle {
+  margin-top: 0.5rem;
+}
+.session-list-toggle > summary {
+  cursor: pointer;
+  list-style: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  color: var(--accent);
+  padding: 0.3rem 0;
+  user-select: none;
+}
+.session-list-toggle > summary::-webkit-details-marker { display: none; }
+.session-list-toggle > summary::before {
+  content: "▸";
+  display: inline-block;
+  transition: transform 0.2s;
+}
+.session-list-toggle[open] > summary::before { transform: rotate(90deg); }
+.session-list-toggle > summary:hover { color: var(--link-hover); }
+.session-list-toggle > ul {
+  margin-top: 0.5rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid var(--border);
+}
+
 @media (max-width: 480px) {
   .portrait {
     float: none;

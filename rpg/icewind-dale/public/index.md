@@ -24,10 +24,24 @@ The blizzard outside the camp reads: *Soon.*
 
 ## Sessions
 
-{% assign sessions = site.pages | where_exp: "p", "p.path contains 'icewind-dale/public/sessions'" | sort: "title" %}
-{% for session in sessions %}
+{% assign sessions = site.pages | where_exp: "p", "p.path contains 'icewind-dale/public/sessions'" | sort: "path" %}
+{% assign sessions_count = sessions | size %}
+{% assign sessions_reversed = sessions | reverse %}
+
+{% for session in sessions_reversed limit:3 %}
 - [{{ session.title }} — {{ session.session_title }}]({{ session.url }}): {{ session.description }}
 {% endfor %}
+
+{% if sessions_count > 3 %}
+<details class="session-list-toggle">
+<summary>All sessions ({{ sessions_count }} total)</summary>
+<ul>
+{% for session in sessions %}
+<li><a href="{{ session.url }}">{{ session.title }} — {{ session.session_title }}</a>: {{ session.description }}</li>
+{% endfor %}
+</ul>
+</details>
+{% endif %}
 
 ## Player Characters
 
