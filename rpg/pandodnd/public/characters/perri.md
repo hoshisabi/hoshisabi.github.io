@@ -13,6 +13,7 @@ image: https://assets.forge-vtt.com/6431a4dc85edf54f2365ce35/ddb-images/characte
 
 - **2026-05-20** — [Session 2 (May 20, 2026)](../sessions/2026-05-20) (*Professor Bartlesby's Inventorium*)
 - **2026-06-03** — [Session 4 (June 3, 2026)](../sessions/2026-06-03) (*Rock Bottom*)
+- **2026-07-01** — [Session 8 (July 1, 2026)](../sessions/2026-07-01) (*Reign of Frogs*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
 
