@@ -1,13 +1,14 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: Icewind Dale
-session_label: Session 10
-date: June 26, 2026
-title: Cold Tooth
-adventure_code: FR-DC-PND-AO-10
-href: /rpg/icewind-dale/public/sessions/2026-06-26
+campaign: PandoDnD Pub Crawl
+session_label: Session 8
+date: July 1, 2026
+title: Reign of Frogs
+adventure_code: PS-DC-PUB-09
+href: /rpg/pandodnd/public/sessions/2026-07-01
 excerpt: >-
-  The Elk Tribe breaks camp. The cold deepens into an uncanny stillness on
-  the journey home. Seven wolves cross the snowfield — two of them the size
-  of horses — and one of the dead wears an Orcish collar naming it for
-  something the mountain has been sending south.
+  The Nameless Voyager drifted through Limbo, crewed by frogs, most of them
+  cultists. One server was desperately trying to catch Alistair's eye. The
+  hostages upstairs had tadpoles in their chests. Between the party and the
+  ascension ritual: three console hacks, a Flash of Genius, and one very
+  large dog.
