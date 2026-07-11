@@ -3,7 +3,8 @@ campaign_url: /rpg/icewind-dale/public/
 campaign_name: Icewind Dale
 layout: npc
 title: Kaarsk
-role: Lead hunter, Coldpeak tribe
+association: Coldpeak tribe
+role: Lead hunter
 race: Orc
 status: Injured
 image: /rpg/icewind-dale/public/npcs/images/kaarsk.png

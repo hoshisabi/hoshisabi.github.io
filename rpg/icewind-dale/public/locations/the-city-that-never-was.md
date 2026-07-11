@@ -3,6 +3,7 @@ campaign_url: /rpg/icewind-dale/public/
 campaign_name: Icewind Dale
 layout: location
 title: The City that Never Was
+association: Netherese Empire
 image: /rpg/icewind-dale/public/locations/images/the-city-that-never-was.png
 image_prompt: "Bold comic book illustration style, high contrast strong linework, limited cool color palette of blues and grays with white snow, dramatic lighting, arctic Icewind Dale setting with snow falling, no text — a faint impossible skyline glimpsed through a gap in storm clouds, distant towers and spires barely visible, like something seen for a second and then doubted, empty snowy foreground"
 ---

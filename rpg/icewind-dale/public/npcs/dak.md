@@ -3,7 +3,8 @@ campaign_url: /rpg/icewind-dale/public/
 campaign_name: Icewind Dale
 layout: npc
 title: Dak
-role: Young hunter in training, Coldpeak tribe
+association: Coldpeak tribe
+role: Young hunter in training
 race: Orc
 status: Active
 image: /rpg/icewind-dale/public/npcs/images/dak.png

@@ -5,7 +5,8 @@ layout: npc
 title: Ragnhild
 also_known_as:
   - Ragni
-role: Leader, Elk tribe (Reghedsmen)
+association: Elk tribe (Reghedsmen)
+role: Leader
 race: Human (Reghedsmen)
 status: Active — arrived Session 6 with the Elk tribe's return
 image: /rpg/icewind-dale/public/npcs/images/ragnhild.png

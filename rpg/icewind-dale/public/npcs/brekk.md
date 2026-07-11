@@ -3,7 +3,8 @@ campaign_url: /rpg/icewind-dale/public/
 campaign_name: Icewind Dale
 layout: npc
 title: Brekk
-role: Brewer and medicine maker, Coldpeak tribe
+association: Coldpeak tribe
+role: Brewer and medicine maker
 race: Orc
 status: Active
 image: /rpg/icewind-dale/public/npcs/images/brekk.png

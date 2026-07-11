@@ -64,6 +64,7 @@ The blizzard outside the camp reads: *Soon.*
 <a href="{{ npc.url }}" class="npc-card">
   {% if npc.image %}<img src="{{ npc.image }}" alt="{{ npc.title }}">{% else %}<div class="npc-no-image"></div>{% endif %}
   <span>{{ npc.title }}</span>
+  {% if npc.association %}<span class="card-player">{{ npc.association }}</span>{% endif %}
 </a>
 {% endfor %}
 </div>
@@ -76,6 +77,7 @@ The blizzard outside the camp reads: *Soon.*
 <a href="{{ loc.url }}" class="npc-card">
   {% if loc.image %}<img src="{{ loc.image }}" alt="{{ loc.title }}">{% else %}<div class="npc-no-image"></div>{% endif %}
   <span>{{ loc.title }}</span>
+  {% if loc.association %}<span class="card-player">{{ loc.association }}</span>{% endif %}
 </a>
 {% endfor %}
 </div>
@@ -88,6 +90,7 @@ The blizzard outside the camp reads: *Soon.*
 <a href="{{ item.url }}" class="npc-card">
   {% if item.image %}<img src="{{ item.image }}" alt="{{ item.title }}">{% else %}<div class="npc-no-image"></div>{% endif %}
   <span>{{ item.title }}</span>
+  {% if item.association %}<span class="card-player">{{ item.association }}</span>{% endif %}
 </a>
 {% endfor %}
 </div>

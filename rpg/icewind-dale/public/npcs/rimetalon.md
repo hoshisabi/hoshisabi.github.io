@@ -3,6 +3,7 @@ campaign_url: /rpg/icewind-dale/public/
 campaign_name: Icewind Dale
 layout: npc
 title: Rimetalon
+association: Durok
 role: Owlbear
 status: Dead — killed Session 6
 image: /rpg/icewind-dale/public/npcs/images/rimetalon.png

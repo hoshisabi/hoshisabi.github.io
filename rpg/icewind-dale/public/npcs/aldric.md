@@ -3,7 +3,8 @@ campaign_url: /rpg/icewind-dale/public/
 campaign_name: Icewind Dale
 layout: npc
 title: Aldric
-role: Field assistant and bodyguard, Arcane Brotherhood
+association: Arcane Brotherhood
+role: Field assistant and bodyguard
 race: Human
 status: Active — first appeared Session 11
 image: /rpg/icewind-dale/public/npcs/images/aldric.png
