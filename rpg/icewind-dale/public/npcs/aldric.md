@@ -7,13 +7,15 @@ role: Field assistant and bodyguard, Arcane Brotherhood
 race: Human
 status: Active — first appeared Session 11
 image: /rpg/icewind-dale/public/npcs/images/aldric.png
-image_prompt: "Bold comic book illustration style, high contrast strong linework, limited color palette of blue-grays and slate with white snow, dramatic lighting, arctic Icewind Dale setting, no text — tall broad-shouldered man with an easy winning smile and relaxed confidence, wearing practical traveling clothes layered over light armor, one hand resting casually at his side, expression of cheerful readiness, mountain backdrop and snow behind him"
+image_prompt: "Bold comic book illustration style, high contrast strong linework, limited color palette of blue-grays and slate with white snow, dramatic lighting, arctic Icewind Dale setting, no text — tall broad-shouldered man with a steady alert expression and quiet confidence, wearing practical traveling clothes layered over light armor, standing with his body angled protectively, hand resting near a weapon, mountain backdrop and snow behind him"
 ---
 
-Thessaly's field assistant. Physically capable. Cheerful in the way people are cheerful when they have never encountered a problem they couldn't carry, punch, or charm into cooperating.
+Thessaly's companion and protector. Not a hired sword — something closer than that, and more complicated.
 
-He introduced himself in the shelter as Yrel — a name from the journal he had no way of knowing. The party's insight checks failed. River played ball with him for the better part of an hour, throw after throw, right up until the ghost wearing him stopped pretending. He dropped when the fight ended. River poured a potion into him.
+Thessaly found him in circumstances he doesn't discuss: poor, in a bad place, the kind of situation that ends one way if nothing intervenes. She intervened. He has been with her since. He thinks of her as his patron in the old sense — the person who gave him a future — and also as someone whose mind he genuinely admires, even when he can't follow it. Especially when he can't follow it. He's watched her work for years and still can't predict what she'll notice next.
 
-He woke with no memory of the possession, and no memory of the ball game. He remembers arriving at the shelter, carrying Thessaly's survey equipment, and then waking on the floor next to a catman who apparently already liked him.
+He is not her assistant in the way assistants are assistants. He carries things, yes, and keeps watch, and handles anything that requires a different kind of strength than hers. He does these things because they need doing and because she trusts him to do them. What he is, more than any of that, is the person who makes sure she comes home.
 
-He knows nothing useful about Netherese history, arcane research, or whatever the Brotherhood actually wants with this mountain. He knows how to carry things, keep watch, defuse a situation with a laugh, and find a willing game of catch in the worst possible circumstances. Thessaly regards this as adequate. She is probably right.
+The party met him possessed by a ghost he had no defense against, doing things he has no memory of. He woke on the floor next to a catman he had apparently been playing ball with for an hour. River poured a potion into him. He came to in time to watch Thessaly recover and give the party her calm professional thanks, and to understand, from context, that he had not been there for any of it.
+
+He has never failed to protect her. He does not yet know what to do with the fact that this time he did.

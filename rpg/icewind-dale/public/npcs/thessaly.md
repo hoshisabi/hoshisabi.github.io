@@ -16,6 +16,8 @@ She was possessed by Yael the entire time the party was in the shelter, which sh
 
 She took Renier's journal for safekeeping — the right call for preservation; not necessarily the right call for the party. She left them a token of invitation to the Brotherhood's regional outpost.
 
-She owes the party her life. She does not know this. She does know they were there when she woke up, and that one of them stabilized her mid-combat while citing what he called the hypocritical oath. This has made an impression.
+She owes the party her life, and she knows it. She woke to a stabilization wound in her chest and five strangers who had clearly just fought something on her behalf — she's a researcher, she put it together. She said thank you like she meant it, because she did.
 
-She is junior enough to be recruited, ignored, or manipulated. A senior name from Luskan has already taken an interest in her field report. She doesn't know that either.
+This is worth noting because it makes her unusual in her organization. The Arcane Brotherhood runs on competition and secrecy — members guard sources, withhold findings, and treat generosity as leverage poorly deployed. Thessaly is not like that. She left the party a genuine token of invitation, not a calculated one, and she is the kind of person who will answer a letter honestly even when a smarter political actor wouldn't.
+
+She is junior enough to be recruited, ignored, or manipulated — but not easily deceived, and not the sort to forget a debt. A senior name from Luskan has already taken an interest in her field report. She doesn't know that yet.
