@@ -9,8 +9,9 @@ layout: default
 
   {% include entity-portrait.html %}
 
-  {% if page.role or page.race or page.status %}
+  {% if page.role or page.race or page.status or page.association %}
   <dl class="npc-meta">
+    {% if page.association %}<dt>Association</dt><dd>{{ page.association }}</dd>{% endif %}
     {% if page.role %}<dt>Role</dt><dd>{{ page.role }}</dd>{% endif %}
     {% if page.race %}<dt>Race</dt><dd>{{ page.race }}</dd>{% endif %}
     {% if page.status %}<dt>Status</dt><dd>{{ page.status }}</dd>{% endif %}

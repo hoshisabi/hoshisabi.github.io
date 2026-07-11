@@ -3,7 +3,8 @@ campaign_url: /rpg/icewind-dale/public/
 campaign_name: Icewind Dale
 layout: npc
 title: Tarsk
-role: Perimeter guard, Coldpeak tribe
+association: Coldpeak tribe
+role: Perimeter guard
 race: Orc
 status: Active
 image: /rpg/icewind-dale/public/npcs/images/tarsk.png

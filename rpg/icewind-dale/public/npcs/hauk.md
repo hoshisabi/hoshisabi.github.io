@@ -3,7 +3,8 @@ campaign_url: /rpg/icewind-dale/public/
 campaign_name: Icewind Dale
 layout: npc
 title: Hauk
-role: Trapper, Coldpeak tribe
+association: Coldpeak tribe
+role: Trapper
 race: Orc
 status: Active — first appeared Session 11
 image: /rpg/icewind-dale/public/npcs/images/hauk.png

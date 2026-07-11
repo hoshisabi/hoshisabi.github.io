@@ -3,7 +3,8 @@ campaign_url: /rpg/icewind-dale/public/
 campaign_name: Icewind Dale
 layout: npc
 title: Vroth & Orrak
-role: Sentries, Coldpeak tribe
+association: Coldpeak tribe
+role: Sentries
 race: Orc
 status: Dead — killed by Rimetalon
 image: /rpg/icewind-dale/public/npcs/images/vroth-and-orrak.png

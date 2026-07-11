@@ -3,7 +3,8 @@ campaign_url: /rpg/icewind-dale/public/
 campaign_name: Icewind Dale
 layout: npc
 title: Thessaly Vorn
-role: Field researcher, Arcane Brotherhood (Luskan)
+association: Arcane Brotherhood
+role: Field researcher (Luskan)
 race: Gnome
 status: Active — first appeared Session 11
 image: /rpg/icewind-dale/public/npcs/images/thessaly.png

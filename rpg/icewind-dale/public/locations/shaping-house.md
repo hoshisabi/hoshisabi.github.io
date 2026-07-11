@@ -3,6 +3,7 @@ campaign_url: /rpg/icewind-dale/public/
 campaign_name: Icewind Dale
 layout: location
 title: The Shaping House
+association: Netherese Empire
 also_known_as:
   - Shaping House
   - the crèche

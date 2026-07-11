@@ -3,6 +3,7 @@ campaign_url: /rpg/icewind-dale/public/
 campaign_name: Icewind Dale
 layout: location
 title: The Standing Stones
+association: Netherese Empire
 also_known_as:
   - Standing Stones
 image: /rpg/icewind-dale/public/locations/images/standing-stones.png

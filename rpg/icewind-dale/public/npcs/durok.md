@@ -5,7 +5,8 @@ layout: npc
 title: Durok Deepseeker
 also_known_as:
   - Durok
-role: Shaman, Coldpeak tribe
+association: Durok
+role: Shaman — formerly Coldpeak tribe
 race: Orc
 status: Missing
 image: /rpg/icewind-dale/public/npcs/images/durok.png

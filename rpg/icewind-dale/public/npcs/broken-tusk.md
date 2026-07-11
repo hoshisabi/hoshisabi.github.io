@@ -3,7 +3,8 @@ campaign_url: /rpg/icewind-dale/public/
 campaign_name: Icewind Dale
 layout: npc
 title: Broken Tusk
-role: Chieftain, Coldpeak tribe
+association: Coldpeak tribe
+role: Chieftain
 race: Orc
 status: Active
 image: /rpg/icewind-dale/public/npcs/images/broken-tusk.png

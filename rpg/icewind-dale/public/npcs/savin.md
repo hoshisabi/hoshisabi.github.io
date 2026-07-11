@@ -3,7 +3,8 @@ campaign_url: /rpg/icewind-dale/public/
 campaign_name: Icewind Dale
 layout: npc
 title: Savin
-role: Hunter, Elk tribe (Reghedsmen) — formerly Coldpeak tribe
+association: Elk tribe (Reghedsmen)
+role: Hunter — formerly Coldpeak tribe
 race: Half-orc
 status: Active ally
 image: /rpg/icewind-dale/public/npcs/images/savin.png

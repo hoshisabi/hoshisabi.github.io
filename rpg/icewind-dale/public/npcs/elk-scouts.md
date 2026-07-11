@@ -3,7 +3,8 @@ campaign_url: /rpg/icewind-dale/public/
 campaign_name: Icewind Dale
 layout: npc
 title: Ulfe, Bjarne, Klaud & Snurre
-role: Scouts, Elk tribe (Reghedsmen)
+association: Elk tribe (Reghedsmen)
+role: Scouts
 race: Human
 status: Active — Bjarne recovering; Ulfe, Klaud & Snurre back at the Elk camp
 image: /rpg/icewind-dale/public/npcs/images/elk-scouts.png

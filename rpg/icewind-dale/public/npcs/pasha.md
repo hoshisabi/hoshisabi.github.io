@@ -3,7 +3,8 @@ campaign_url: /rpg/icewind-dale/public/
 campaign_name: Icewind Dale
 layout: npc
 title: Pasha
-role: Warrior / guide, Elk tribe (Reghedsmen)
+association: Elk tribe (Reghedsmen)
+role: Warrior / guide
 status: Deceased — Session 6
 image: /rpg/icewind-dale/public/npcs/images/pasha.png
 image_prompt: "Bold comic book illustration style, high contrast strong linework, limited color palette of dark blues and grays with white snow, dramatic lighting, arctic Icewind Dale setting with snow falling, no text — weathered human woman warrior in dark fur-lined layered winter armor, dark hair, holding a short blade at her side, steady capable expression, snowy mountain peaks behind her, someone who has survived everything the Dale has thrown at her"

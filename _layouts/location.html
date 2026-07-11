@@ -9,8 +9,9 @@ layout: default
 
   {% include entity-portrait.html %}
 
-  {% if page.status or page.region %}
+  {% if page.status or page.region or page.association %}
   <dl class="location-meta">
+    {% if page.association %}<dt>Association</dt><dd>{{ page.association }}</dd>{% endif %}
     {% if page.region %}<dt>Region</dt><dd>{{ page.region }}</dd>{% endif %}
     {% if page.status %}<dt>Status</dt><dd>{{ page.status }}</dd>{% endif %}
   </dl>
