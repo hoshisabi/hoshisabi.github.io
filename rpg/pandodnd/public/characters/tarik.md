@@ -12,5 +12,6 @@ image: https://www.dndbeyond.com/avatars/57265/958/1581111423-167078717.jpeg?wid
 ## Appearances
 
 - **2026-06-17** — [Session 6 (June 17, 2026)](../sessions/2026-06-17) (*Unremembered Things*)
+- **2026-07-15** — [Session 10 (July 15, 2026)](../sessions/2026-07-15) (*Automatic Updates*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
