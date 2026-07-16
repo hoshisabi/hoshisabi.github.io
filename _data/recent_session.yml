@@ -1,12 +1,13 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: Icewind Dale
-session_label: Session 11
-date: July 10, 2026
-title: The Shelter Holds
-adventure_code: FR-DC-PND-AO-11
-href: /rpg/icewind-dale/public/sessions/2026-07-10
+campaign: PandoDnD Pub Crawl
+session_label: Session 10
+date: July 15, 2026
+title: Automatic Updates
+adventure_code: PS-DC-PUB-01
+href: /rpg/pandodnd/public/sessions/2026-07-15
 excerpt: >-
-  A lean-to that should have rotted centuries ago stands whole in the mountain's
-  shadow. Inside: a journal in careful Loross handwriting, two strangers who
-  never ask what year it is, and a family that went back to never having been.
+  A pub crawl in the most orderly plane in the multiverse turned into a
+  disassembly order, a buzzsaw gauntlet over a lava pit, and a Modron
+  courtroom. The missing pub-crawlers had been there the whole time —
+  manacled, front row.
