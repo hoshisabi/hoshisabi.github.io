@@ -3,6 +3,7 @@ campaign_url: /rpg/icewind-dale/public/
 campaign_name: Icewind Dale
 layout: npc
 title: Arveth
+image: /rpg/icewind-dale/public/npcs/images/arveth.png
 role: The Mountain Over There
 status: Guardian established — Doctor Medicine accepted the Guardianship and committed to her as patron (Great Old One) at close of Session 12
 image_prompt: "Surreal cosmic illustration, deep space void in blacks and cold indigo, geometric white light striations converging into the suggestion of a vast mountain face within the stars, as though the mountain and the cosmos are the same thing, patient and ancient beyond measure, a faint sense of watching from everywhere at once, no text, no letters, no words anywhere in the image"
