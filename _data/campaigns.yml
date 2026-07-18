@@ -7,9 +7,9 @@ running:
       Dungeoncraft, ongoing.
     status: active
     organized_play: Adventurers League
-    sessions: 11
+    sessions: 12
     started: Apr 2026
-    last_updated: "2026-07-10"
+    last_updated: "2026-07-17"
     href: /rpg/icewind-dale/public/
 
   - title: PandoDnD Pub Crawl
@@ -154,4 +154,4 @@ playing:
 # Stats displayed in the telemetry strip on the landing page.
 stats:
   active_campaigns: 2
-  sessions_logged: 48
+  sessions_logged: 49
