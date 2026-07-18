@@ -4,9 +4,9 @@ campaign_name: Icewind Dale
 layout: character
 title: Raydin
 player: Nadir
-race: Eladrin
-class: Wizard 6 (Bladesinger)
-dnd_beyond: https://www.dndbeyond.com/characters/166648821
+race: Shadar-kai
+class: Wizard 7 (Bladesinger)
+dnd_beyond: https://www.dndbeyond.com/characters/166768973
 image: /rpg/icewind-dale/public/characters/images/raydin.png
 image_prompt: >-
   portrait of a young man with warm olive Mediterranean complexion, curly dark hair, strong brows,
@@ -19,7 +19,7 @@ image_prompt: >-
 
 ## Description
 
-Eladrin elf by blood, Bladesinger by training — Raydin approaches spellcasting and swordwork with equal ease and the comfortable assumption that things will probably work out in his favor, which they usually do. His magic expresses through an ornate deck of enchanted cards: he fans them, draws, and the flung card becomes the focus for whatever arcane force he has in mind. He dual-wields scimitars and activates Bladesong when combat closes in, blurring the line between wizard and fighter — though the instinct is still to reach for a spell first. Carries his owl familiar Owlbert and a working theory that fate has already decided the hand and he is simply the dealer.
+Shadar-kai by nature now — something in the mountain's web contact in Session 12 ran cool through him and didn't leave, reclassifying the seasonal Eladrin warmth into something more shadowed. Bladesinger by training, he approaches spellcasting and swordwork with equal ease and the comfortable assumption that things will probably work out in his favor, which they usually do. His magic expresses through an ornate deck of enchanted cards: he fans them, draws, and the flung card becomes the focus for whatever arcane force he has in mind. He dual-wields scimitars and activates Bladesong when combat closes in, blurring the line between wizard and fighter — though the instinct is still to reach for a spell first. Carries his owl familiar Owlbert and a working theory that fate has already decided the hand and he is simply the dealer.
 
 ## Personality
 
