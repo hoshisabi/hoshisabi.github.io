@@ -18,6 +18,7 @@ image: /rpg/pandodnd/public/images/portraits/pal-go-lucky.jpeg
 - **2026-06-10** — [Session 5 (June 10, 2026)](../sessions/2026-06-10) (*Absent without Leave*)
 - **2026-06-24** — [Session 7 (June 24, 2026)](../sessions/2026-06-24) (*Fallen for You*)
 - **2026-07-08** — [Session 9 (July 8, 2026)](../sessions/2026-07-08) (*The Endless Revel*)
+- **2026-07-22** — [Session 11 (July 22, 2026)](../sessions/2026-07-22) (*Escape from Paradise*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
 
