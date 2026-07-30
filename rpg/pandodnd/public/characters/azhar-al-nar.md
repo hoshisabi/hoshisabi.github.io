@@ -12,5 +12,6 @@ image: https://www.dndbeyond.com/avatars/57929/859/1581111423-167987639.jpeg?wid
 ## Appearances
 
 - **2026-07-22** — [Session 11 (July 22, 2026)](../sessions/2026-07-22) (*Escape from Paradise*)
+- **2026-07-29** — [Session 12 (July 29, 2026)](../sessions/2026-07-29) (*Fallen for You*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._

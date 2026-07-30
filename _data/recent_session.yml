@@ -1,13 +1,13 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: Icewind Dale
-session_label: Session 13
-date: July 24, 2026
-title: "Elegant Gloves"
-adventure_code: FR-DC-PND-AO-13
-href: /rpg/icewind-dale/public/sessions/2026-07-24
+campaign: PandoDnD Pub Crawl
+session_label: Session 12
+date: July 29, 2026
+title: Fallen for You
+adventure_code: PS-DC-PUB-11
+href: /rpg/pandodnd/public/sessions/2026-07-29
 excerpt: >-
-  Three giant beavers, drunk on stolen mead, are not the strangest thing
-  between the party and Caer-Konig. At the Brotherhood's lodge, a scholar
-  shares what she found in a dead man's journal — and an elder statesman's
-  composure breaks for exactly one moment.
+  Mahadi's Infernal Rapture is the finest pub in any plane — until his
+  succubus hostess flees with a war machine, a puzzle box, and a smitten
+  paladin named Dudley. Someone has to chase her across Avernus. Someone
+  has to decide what redemption looks like.

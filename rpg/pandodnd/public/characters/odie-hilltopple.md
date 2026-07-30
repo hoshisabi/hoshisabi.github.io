@@ -12,5 +12,6 @@ image: https://www.dndbeyond.com/avatars/44764/683/1581111423-134013927.jpeg?wid
 ## Appearances
 
 - **2026-07-15** — [Session 10 (July 15, 2026)](../sessions/2026-07-15) (*Automatic Updates*)
+- **2026-07-29** — [Session 12 (July 29, 2026)](../sessions/2026-07-29) (*Fallen for You*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
