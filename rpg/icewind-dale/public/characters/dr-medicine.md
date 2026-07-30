@@ -7,7 +7,7 @@ also_known_as:
   - Dr. Medicine
 player: Henry
 race: Human
-class: Warlock 4 (Archfey Patron)
+class: Warlock 7 (Great Old One Patron)
 background: Charlatan
 dnd_beyond: https://www.dndbeyond.com/characters/164677217
 image: /rpg/icewind-dale/public/characters/images/dr-medicine.png
@@ -45,3 +45,4 @@ Fully committed to the bit at all times. Sells snake oil to anything that will h
 - **2026-06-26** — [Session 10 (June 26, 2026)](../sessions/2026-06-26) (*Cold Tooth*) — phased in and out of the Ethereal plane with Fey Step, landing Eldritch Blasts and handing Alina 9 temp HP via Refreshing Step; Hat of Comprehend Languages (traded from a wandering merchant for his Goggles of Night — the merchant said it had belonged to a goat) translated the last wolf's Orcish: *we're done, run*
 - **2026-07-10** — [Session 11 (July 10, 2026)](../sessions/2026-07-10) (*The Shelter Holds*) — 22 Medicine on Raydin's trap-mangled hand, producing a bonus Potion of Greater Healing; summoned Gunter, whose force-damage crit finished Yael; stabilized the dying Thessaly mid-fight, citing the hypocritical oath (*I must attend to my patients*); Arveth now wants to speak with him about becoming the mountain's guardian
 - **2026-07-17** — [Session 12 (July 17, 2026)](../sessions/2026-07-17) (*Nothing Will Have Ever Been*) — swallowed Arveth's pebble and communicated with the mountain directly; saw a future where Brekk and Dak are taken by Durok; used Deception (24) to retroactively make Brekk and Durok old friends and collaborators, changing what was always true; named Guardian of the Mountain; committed to switching patron from Archfey to Great Old One
+- **2026-07-24** — [Session 13 (July 24, 2026)](../sessions/2026-07-24) (*Elegant Gloves*) — summoned Gunter (a Slaad, always was a Slaad); gave Berg a Greater Healing Potion when he went down; Dissonant Whispers dealt 13 psychic damage on a successful save; rolled terribly on persuasion at dinner at exactly the moment it mattered
