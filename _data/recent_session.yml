@@ -1,13 +1,12 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: PandoDnD Pub Crawl
-session_label: Session 12
-date: July 29, 2026
-title: Fallen for You
-adventure_code: PS-DC-PUB-11
-href: /rpg/pandodnd/public/sessions/2026-07-29
+campaign: Icewind Dale
+session_label: Session 14
+date: July 31, 2026
+title: Fur and Hatred
+adventure_code: FR-DC-PND-AO-14
+href: /rpg/icewind-dale/public/sessions/2026-07-31
 excerpt: >-
-  Mahadi's Infernal Rapture is the finest pub in any plane — until his
-  succubus hostess flees with a war machine, a puzzle box, and a smitten
-  paladin named Dudley. Someone has to chase her across Avernus. Someone
-  has to decide what redemption looks like.
+  The road back from the Brotherhood is open snow — until something that
+  learned to make creatures, and to name them, comes up behind you. In camp,
+  a scar that was there last month is gone.
