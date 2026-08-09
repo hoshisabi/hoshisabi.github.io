@@ -1,12 +1,12 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: Icewind Dale
-session_label: Session 14
-date: July 31, 2026
-title: Fur and Hatred
-adventure_code: FR-DC-PND-AO-14
-href: /rpg/icewind-dale/public/sessions/2026-07-31
+campaign: Legends of Greyhawk
+session_label: Session 6
+date: August 8, 2026
+title: Behind Enemy Lines
+adventure_code: Behind Enemy Lines
+href: /rpg/log/public/sessions/2026-08-08
 excerpt: >-
-  The road back from the Brotherhood is open snow — until something that
-  learned to make creatures, and to name them, comes up behind you. In camp,
-  a scar that was there last month is gone.
+  Three hundred ogres, a troll king on a stage, four missing rangers in cages,
+  and a fire ant army waiting for the signal. The party got in. The question
+  was always going to be the getting out.
