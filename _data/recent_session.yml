@@ -1,13 +1,13 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: Legends of Greyhawk
-session_label: Session 7
+campaign: Icewind Dale
+session_label: Session 15
 date: August 8, 2026
-title: Delija's Vault
-adventure_code: Urnst 1-1
-href: /rpg/log/public/sessions/2026-08-08b
+title: The North Is Most Prominent
+adventure_code: FR-DC-PND-AO-15
+href: /rpg/icewind-dale/public/sessions/2026-08-08
 excerpt: >-
-  The Toghust Mountain Mine has four doors, and each one has teeth. A
-  mechanical minotaur, a blue dragon wyrmling, a manticore, and a vault full
-  of cultists — all of them standing between your party and a map somebody
-  powerful wants very much.
+  The compass rose that troubled you last month appears again — inside ice
+  elementals sent to harry an Elk tribesman across the snow. Durok arrives
+  with fire melons and a practitioner's hard reserve. The attacks from the
+  northwest are not meant to kill. They are meant to move you.
