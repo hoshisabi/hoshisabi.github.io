@@ -1,12 +1,13 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
 campaign: Legends of Greyhawk
-session_label: Session 6
+session_label: Session 7
 date: August 8, 2026
-title: Behind Enemy Lines
-adventure_code: Behind Enemy Lines
-href: /rpg/log/public/sessions/2026-08-08
+title: Delija's Vault
+adventure_code: Urnst 1-1
+href: /rpg/log/public/sessions/2026-08-08b
 excerpt: >-
-  Three hundred ogres, a troll king on a stage, four missing rangers in cages,
-  and a fire ant army waiting for the signal. The party got in. The question
-  was always going to be the getting out.
+  The Toghust Mountain Mine has four doors, and each one has teeth. A
+  mechanical minotaur, a blue dragon wyrmling, a manticore, and a vault full
+  of cultists — all of them standing between your party and a map somebody
+  powerful wants very much.
