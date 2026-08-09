@@ -12,5 +12,6 @@ image: https://www.dndbeyond.com/avatars/58215/612/1581111423-160733776.jpeg?wid
 ## Appearances
 
 - **2026-08-08** — [Session 6 (August 8, 2026)](../sessions/2026-08-08) (*Behind Enemy Lines*)
+- **2026-08-08b** — [Session 7 (August 8, 2026)](../sessions/2026-08-08b) (*Delija's Vault*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
