@@ -6,7 +6,7 @@ title: Zeli Vantel
 player: Lazarus
 class: Autognome Ranger 6 (Hunter)
 dnd_beyond: https://www.dndbeyond.com/characters/168310510
-image: https://www.dndbeyond.com/avatars/58037/401/1581111423-168310510.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
+image: /rpg/pandodnd/public/images/portraits/zeli-vantel.jpeg
 ---
 
 ## Appearances

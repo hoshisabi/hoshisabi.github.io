@@ -6,7 +6,7 @@ title: Tarrie
 player: Ttrpger
 class: Lizardfolk Barbarian 8 (Path of the Beast)
 dnd_beyond: https://www.dndbeyond.com/characters/168741923
-image: https://www.dndbeyond.com/avatars/57911/991/1581111423-168741923.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
+image: /rpg/pandodnd/public/images/portraits/tarrie.png
 ---
 
 ## Appearances
