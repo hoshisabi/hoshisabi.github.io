@@ -1,13 +1,13 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: Icewind Dale
-session_label: Session 15
-date: August 8, 2026
-title: The North Is Most Prominent
-adventure_code: FR-DC-PND-AO-15
-href: /rpg/icewind-dale/public/sessions/2026-08-08
+campaign: PandoDnD Pub Crawl
+session_label: Session 13
+date: August 12, 2026
+title: Absent without Leave
+adventure_code: PS-DC-PUB-10
+href: /rpg/pandodnd/public/sessions/2026-08-12
 excerpt: >-
-  The compass rose that troubled you last month appears again — inside ice
-  elementals sent to harry an Elk tribesman across the snow. Durok arrives
-  with fire melons and a practitioner's hard reserve. The attacks from the
-  northwest are not meant to kill. They are meant to move you.
+  A pub crawl to the war-plane of Acheron promised one night of drinking before
+  the battle. It was a trap — and the goblins pouring the drinks were prisoners
+  of it. Some of them only ever wanted to go home. Getting them there meant
+  fighting a war just to leave it.
