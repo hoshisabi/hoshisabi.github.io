@@ -14,5 +14,6 @@ image: /rpg/pandodnd/public/images/portraits/tarrie.png
 - **2026-07-22** — [Session 11 (July 22, 2026)](../sessions/2026-07-22) (*Escape from Paradise*)
 - **2026-07-29** — [Session 12 (July 29, 2026)](../sessions/2026-07-29) (*Fallen for You*)
 - **2026-08-12** — [Session 13 (August 12, 2026)](../sessions/2026-08-12) (*Absent without Leave*)
+- **2026-08-19** — [Session 14 (August 19, 2026)](../sessions/2026-08-19) (*Spider Hunt*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._

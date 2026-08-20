@@ -18,6 +18,7 @@ image: /rpg/pandodnd/public/images/portraits/sparrow.jpeg
 - **2026-06-10** — [Session 5 (June 10, 2026)](../sessions/2026-06-10) (*Absent without Leave*)
 - **2026-06-24** — [Session 7 (June 24, 2026)](../sessions/2026-06-24) (*Fallen for You*)
 - **2026-07-15** — [Session 10 (July 15, 2026)](../sessions/2026-07-15) (*Automatic Updates*)
+- **2026-08-19** — [Session 14 (August 19, 2026)](../sessions/2026-08-19) (*Spider Hunt*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
 
