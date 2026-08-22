@@ -7,8 +7,12 @@ association: Arcane Brotherhood
 role: Field assistant and bodyguard
 race: Human
 status: Active — first appeared Session 11
+timeline: rewoven
+altered_by: reweave
 image: /rpg/icewind-dale/public/npcs/images/aldric.png
-image_prompt: "Bold comic book illustration style, high contrast strong linework, limited color palette of blue-grays and slate with white snow, dramatic lighting, arctic Icewind Dale setting, no text — tall broad-shouldered man with a steady alert expression and quiet confidence, wearing practical traveling clothes layered over light armor, standing with his body angled protectively, hand resting near a weapon, mountain backdrop and snow behind him"
+image_prompt: "Bold comic book illustration style, high contrast strong linework, limited color palette of blue-grays and slate with white snow, dramatic lighting, arctic Icewind Dale setting, no text — tall broad-shouldered man with a steady alert expression and quiet confidence, a hard-lived scar drawn down across one cheek and brow that roughens what used to be an easy handsomeness, wearing practical traveling clothes layered over light armor, standing with his body angled protectively, hand resting near a weapon, mountain backdrop and snow behind him"
+image_never_was: /rpg/icewind-dale/public/npcs/images/aldric-never-was.png
+image_prompt_never_was: "Bold comic book illustration style, high contrast strong linework, limited color palette of blue-grays and slate with white snow, dramatic lighting, arctic Icewind Dale setting, no text — tall broad-shouldered man with a steady alert expression and quiet confidence, wearing practical traveling clothes layered over light armor, standing with his body angled protectively, hand resting near a weapon, mountain backdrop and snow behind him"
 ---
 
 Thessaly's companion and protector. Not a hired sword — something closer than that, and more complicated.
@@ -20,3 +24,7 @@ He is not her assistant in the way assistants are assistants. He carries things,
 The party met him possessed by a ghost he had no defense against, doing things he has no memory of. He woke on the floor next to a catman he had apparently been playing ball with for an hour. River poured a potion into him. He came to in time to watch Thessaly recover and give the party her calm professional thanks, and to understand, from context, that he had not been there for any of it.
 
 He has never failed to protect her. He does not yet know what to do with the fact that this time he did.
+
+> **Before the Reweave** — In the never-was, Aldric's face was unmarked: the easy, unblemished good looks of a man who had never taken the wound that scars him now. The [Reweave](arveth) rewrote him; memory of the smooth-faced Aldric surfaces as half-rumor, not error.
+>
+> <img src="images/aldric-never-was.png" alt="Aldric, before the Reweave" width="200">
