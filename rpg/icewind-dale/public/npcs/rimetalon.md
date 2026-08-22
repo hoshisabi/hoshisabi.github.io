@@ -5,10 +5,15 @@ layout: npc
 title: Rimetalon
 association: Durok
 role: Owlbear
-status: Dead — killed Session 6
+status: Dead — killed Session 6 (in the never-was)
+timeline: never-was
+altered_by: reweave
+reweave_counterpart: rime-talon
 image: /rpg/icewind-dale/public/npcs/images/rimetalon.png
 image_prompt: "Bold comic book illustration style, high contrast strong linework, limited color palette of stark white and icy blue with deep shadow, dramatic lighting, arctic Icewind Dale setting with blizzard snow, no text — immense white-feathered owlbear crouched low and predatory, glowing blue eyes with no natural explanation, massive talons pressing into the snow, jagged ice shards rising around her, fourteen feet of barely contained intent, blizzard swirling behind her"
 ---
+
+> **The never-was** — Rimetalon belongs to the timeline the [Reweave](arveth) edited out. In the rewoven reality this is [Rime Talon](rime-talon), a different creature — and Durok never bonded or named it.
 
 Immense. Fourteen feet of white-feathered owlbear with a blue glow that has no natural explanation. She moves through blizzards without difficulty and has been a presence in this part of the Dale long enough that the Coldpeak treat her as a regional fact rather than a random encounter.
 

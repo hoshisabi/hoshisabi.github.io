@@ -2,8 +2,9 @@
 campaign_url: /rpg/icewind-dale/public/
 campaign_name: Icewind Dale
 layout: character
-title: Doctor Medicine
+title: Father Joseph
 also_known_as:
+  - Doctor Medicine
   - Dr. Medicine
 player: Henry
 race: Human
@@ -48,3 +49,4 @@ Fully committed to the bit at all times. Sells snake oil to anything that will h
 - **2026-07-24** — [Session 13 (July 24, 2026)](../sessions/2026-07-24) (*Elegant Gloves*) — summoned Gunter (a Slaad, always was a Slaad); gave Berg a Greater Healing Potion when he went down; Dissonant Whispers dealt 13 psychic damage on a successful save; rolled terribly on persuasion at dinner at exactly the moment it mattered
 - **2026-07-31** — [Session 14 (July 31, 2026)](../sessions/2026-07-31) (*Fur and Hatred*) — changed out an invocation; Quaza is now following the party; summoned a Slaad (always a Slaad, always Gunter) for 33 slashing damage before it was dissolved by a construct; Kaarsk's ram didn't sit right with him in a way nobody else at the fire noticed
 - **2026-08-08** — [Session 15 (August 8, 2026)](../sessions/2026-08-08) (*The North Is Most Prominent*) — summoned Gunter, which was immediately engulfed by an ice elemental for 26 damage; ordered it to gouge from the inside at disadvantage for 10 slashing; two Eldritch Blasts hit for 21 combined force damage; tried Brekk's vial first and established the smell was genuinely awful
+- **2026-08-21** — [Session 16 (August 21, 2026)](../sessions/2026-08-21) (*It's Just a Rock*) — landed the 27 persuasion with advantage that flipped the council from reluctant charity to an eager Rime Talon hunt; contacted directly by Arveth with a bargain, buried the mountain's pebble in the center of camp while questioning what "save" would mean; attuned to the Stone of Controlling Earth Elementals whose elemental obeys and insults him in equal measure; now going by Father Joseph
