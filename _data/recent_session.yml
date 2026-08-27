@@ -1,13 +1,13 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: Icewind Dale
-session_label: Session 16
-date: August 21, 2026
-title: It's Just a Rock
-adventure_code: FR-DC-PND-AO-16
-href: /rpg/icewind-dale/public/sessions/2026-08-21
+campaign: PandoDnD Online Campaign
+session_label: Session 15
+date: August 26, 2026
+title: Juxtaposition
+adventure_code: PS-DC-PUB-16
+href: /rpg/pandodnd/public/sessions/2026-08-26
 excerpt: >-
-  The Elk tribe is boxed in a ravine with a giant bird roosting overhead, and
-  Cold Peak has no food to spare. The augury that has said Woe all campaign
-  finally turns. And the mountain sends a gift down the snow — just a rock,
-  nothing to worry about.
+  The last stop on the pub crawl should have been the easy one — Arcadia, blue
+  skies, a spring festival. Instead the grown-ups have gone gray and quiet,
+  modrons are measuring the streets straight, and in eight hours the whole town
+  folds into Mechanus. Only the children still care.
