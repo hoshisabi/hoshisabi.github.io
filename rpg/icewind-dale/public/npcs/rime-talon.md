@@ -3,9 +3,11 @@ campaign_url: /rpg/icewind-dale/public/
 campaign_name: Icewind Dale
 layout: npc
 title: Rime Talon
-association: Arcane Brotherhood
+association: Unknown
 role: Unknown — a name out of the north
 status: At large
+image: /rpg/icewind-dale/public/npcs/images/rime-talon.png
+image_prompt: "massive silhouette of a giant snowy owl descending through blizzard clouds, wings spread enormously wide, barely visible through driving snow and ice fog, talons reaching down, the sense of something vast and predatory emerging from the storm, seen from below against a white sky"
 timeline: rewoven
 altered_by: reweave
 reweave_counterpart: rimetalon
