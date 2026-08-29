@@ -1,13 +1,13 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: PandoDnD Online Campaign
-session_label: Session 15
-date: August 26, 2026
-title: Juxtaposition
-adventure_code: PS-DC-PUB-16
-href: /rpg/pandodnd/public/sessions/2026-08-26
+campaign: Icewind Dale
+session_label: Session 17
+date: August 29, 2026
+title: One Fewer Name
+adventure_code: FR-DC-PND-AO-17
+href: /rpg/icewind-dale/public/sessions/2026-08-29
 excerpt: >-
-  The last stop on the pub crawl should have been the easy one — Arcadia, blue
-  skies, a spring festival. Instead the grown-ups have gone gray and quiet,
-  modrons are measuring the streets straight, and in eight hours the whole town
-  folds into Mechanus. Only the children still care.
+  The column marches through Brotherhood-scarred ice toward the Elk ravine.
+  The journal page in River's pack shouldn't exist. The fog that rolls in
+  after the hulk shatters is watching, and the thing above the clouds only
+  needs to be faster than the slowest runner.
