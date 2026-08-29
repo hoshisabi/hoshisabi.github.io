@@ -7,7 +7,8 @@ association: Coldpeak tribe
 role: Hunter (first expedition)
 race: Orc
 status: Taken by Rime Talon — fate unknown (Session 17)
-image_prompt: "Bold comic book illustration style, high contrast strong linework, limited cool color palette of blues and grays with white snow, dramatic lighting, arctic Icewind Dale setting, no text — a young orc hunter in light fur gear, lean and fast-looking rather than bulky, expression eager and alert, running across open white ice with breath visible in the cold, the horizon empty behind him"
+image: /rpg/icewind-dale/public/npcs/images/tarn.png
+image_prompt: "a young orc hunter in light fur gear, lean and fast-looking rather than bulky, expression eager and alert, running across open white ice with breath visible in the cold, the horizon empty behind him"
 ---
 
 The youngest volunteer in the war party that marched northwest to reach the Elk tribe. His first expedition beyond Coldpeak's hunting perimeter. Fast — the fastest runner in the column — and trying not to show how eager he was. Asked Berg about formation on the march out.
