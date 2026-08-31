@@ -1841,3 +1841,61 @@ body.home .home-main { padding-top: 2.5rem; }
   .pando-grid { grid-template-columns: 1fr; }
   .site-nav { display: none; }
 }
+
+/* U-Con schedule grid (ucon-2026-schedule.md) */
+.ucon-schedule-wrap {
+  overflow-x: auto;
+  margin: 1.75rem 0 2rem;
+  border: 1px solid rgba(var(--accent-rgb), 0.15);
+  border-radius: 12px;
+}
+.ucon-schedule-grid {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.88rem;
+  line-height: 1.35;
+}
+.ucon-schedule-grid th,
+.ucon-schedule-grid td {
+  padding: 0.45rem 0.55rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  text-align: center;
+  vertical-align: middle;
+}
+.ucon-schedule-grid th:first-child,
+.ucon-schedule-grid td:first-child,
+.ucon-schedule-grid th:nth-child(2),
+.ucon-schedule-grid td:nth-child(2) {
+  text-align: left;
+}
+.ucon-schedule-grid thead th {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--accent);
+  background: rgba(var(--accent-rgb), 0.06);
+}
+.ucon-schedule-grid tr.tier-header td {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+  background: rgba(var(--accent-rgb), 0.1);
+  text-align: left;
+  padding-top: 0.85rem;
+  padding-bottom: 0.85rem;
+}
+.ucon-schedule-grid code {
+  font-size: 0.78rem;
+  white-space: nowrap;
+}
+.ucon-schedule-grid a {
+  color: var(--link);
+  text-decoration: none;
+}
+.ucon-schedule-grid a:hover {
+  color: var(--link-hover);
+  text-decoration: underline;
+}

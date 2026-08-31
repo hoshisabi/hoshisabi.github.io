@@ -24,6 +24,12 @@ If you're interested in volunteering, please fill out the form below. It's not a
   </a>
 </div>
 
+<div style="text-align: center; margin: 0 0 2rem;">
+  <a class="lp-btn ghost" href="{{ '/ucon-2026-schedule' | relative_url }}">
+    View the 2026 AL / LoG Schedule Grid →
+  </a>
+</div>
+
 ---
 
 ## What to Expect
@@ -34,6 +40,8 @@ If you're interested in volunteering, please fill out the form below. It's not a
 - **Epic** (multi-table event) typically runs Saturday evening
 - **Charity rerolls** benefiting Doctors Without Borders
 - **Badge incentives** for volunteering — details to be confirmed, but historically 2 slots earns a discount and 4 slots earns a free weekend badge
+
+See the **[2026 schedule grid]({{ '/ucon-2026-schedule' | relative_url }})** for which adventures are running in each slot (updates as we finalize tables). Player registration will open on [Tabletop.Events](https://tabletop.events/conventions/u-con-2026) once events publish.
 
 ---
 
