@@ -14,7 +14,10 @@ Schedule status: **{{ meta.status }}** · grid updated {{ meta.as_of }}.
 
 Click a **DM initial** to open that table's Tabletop.Events page (submission view for now; registration links once events publish).
 
-[Browse all U-Con 2026 events on Tabletop.Events](https://tabletop.events/conventions/u-con-2026) ·
+[U-Con 2026 Site](https://www.ucon-gaming.org/) -
+[All our events on Tabletop.Events](https://tabletop.events/conventions/u-con-2026/schedule#?query=U-Con%20Adventurers%20League) -
+[Our Adventurers League events](https://tabletop.events/conventions/u-con-2026/schedule#?query=(AL)) -
+[Our Legends of Greyhawk events](https://tabletop.events/conventions/u-con-2026/schedule#?query=(LoG))
 [DM volunteer info]({{ '/ucon-dms' | relative_url }})
 
 {% include ucon-schedule-grid.html %}
@@ -24,7 +27,7 @@ Click a **DM initial** to open that table's Tabletop.Events page (submission vie
 - **Initials** are the DM for that table. Each initial links to its own event entry when available.
 - Blank cells mean that adventure is not scheduled in that slot.
 - <span class="program-badge al">AL</span> = Adventurers League · <span class="program-badge log">LoG</span> = Legends of Greyhawk
-- **Epic** adventures may list several linked initials in one cell — a coordinated multi-table event.
+- The **Epic** is a coordinated multi-table event with multiple DMs.
 
 ---
 
