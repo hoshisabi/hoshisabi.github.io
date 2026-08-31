@@ -59,6 +59,21 @@
               }
             ]
           }
+        },
+        {
+          "code": "DDAL-DRW-EP-03",
+          "name": "When the Lights Went Out in Candlekeep (Tier 3)",
+          "program": "AL",
+          "table_count": 1,
+          "cells": {
+            "sat_evening": [
+              {
+                "initials": "Many",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/84DB10A4-A3FE-11F1-91D0-86663412E10E"
+              }
+            ]
+          }
         }
       ]
     },
