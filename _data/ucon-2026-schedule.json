@@ -1,0 +1,528 @@
+{
+  "meta": {
+    "year": 2026,
+    "status": "draft",
+    "as_of": "2026-08-29",
+    "link_mode": "submission",
+    "convention_slug": "u-con-2026"
+  },
+  "slot_columns": [
+    {
+      "key": "fri_morning",
+      "label": "Fri AM"
+    },
+    {
+      "key": "fri_afternoon",
+      "label": "Fri PM"
+    },
+    {
+      "key": "fri_evening",
+      "label": "Fri Eve"
+    },
+    {
+      "key": "sat_morning",
+      "label": "Sat AM"
+    },
+    {
+      "key": "sat_afternoon",
+      "label": "Sat PM"
+    },
+    {
+      "key": "sat_evening",
+      "label": "Sat Eve"
+    },
+    {
+      "key": "sun_morning",
+      "label": "Sun AM"
+    },
+    {
+      "key": "sun_afternoon",
+      "label": "Sun PM"
+    }
+  ],
+  "sections": [
+    {
+      "tier": 0,
+      "title": "EPIC Adventures!: Multiple tier, cooperative!",
+      "rows": [
+        {
+          "code": "DDAL-DRW-EP-03",
+          "name": "When the Lights Went Out in Candlekeep (Tier 2)",
+          "program": "AL",
+          "table_count": 1,
+          "cells": {
+            "sat_evening": [
+              {
+                "initials": "Many",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/847DBC6A-A3FE-11F1-A01E-CB05E5CD9493"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "tier": 1,
+      "title": "Tier 1 (Lvl 1-4)",
+      "rows": [
+        {
+          "code": "DDHC-DD-01",
+          "name": "Death at Sunset (Tier 1)",
+          "program": "AL",
+          "table_count": 2,
+          "cells": {
+            "fri_morning": [
+              {
+                "initials": "WK",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/3141FA08-A466-11F1-90B1-A68F4F91FB86"
+              }
+            ],
+            "sun_morning": [
+              {
+                "initials": "WK",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/38869EC2-A466-11F1-A8E9-BC97EC549FFE"
+              }
+            ]
+          }
+        },
+        {
+          "code": "DDHC-DD-02",
+          "name": "Baker's Doesn't (Tier 1)",
+          "program": "AL",
+          "table_count": 2,
+          "cells": {
+            "fri_evening": [
+              {
+                "initials": "HC",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/3483D010-A466-11F1-A8E9-905E0B637E4D"
+              }
+            ],
+            "sat_morning": [
+              {
+                "initials": "HC",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/35A32284-A466-11F1-9CA9-87A09D21CE92"
+              }
+            ]
+          }
+        },
+        {
+          "code": "DDHC-DD-03",
+          "name": "The Will of Orcus (Tier 1)",
+          "program": "AL",
+          "table_count": 2,
+          "cells": {
+            "fri_afternoon": [
+              {
+                "initials": "PA",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/33244C72-A466-11F1-90B1-B416F5BB90EE"
+              }
+            ],
+            "sat_afternoon": [
+              {
+                "initials": "PA",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/37684E6E-A466-11F1-9CA9-A3E57B7E3091"
+              }
+            ]
+          }
+        },
+        {
+          "code": "LoG-D1",
+          "name": "Shadows Beneath the Skull (Tier 1)",
+          "program": "LoG",
+          "table_count": 2,
+          "cells": {
+            "fri_morning": [
+              {
+                "initials": "PR",
+                "program": "LoG",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/320D6ADA-A466-11F1-B691-A5643B830E3F"
+              }
+            ],
+            "sun_afternoon": [
+              {
+                "initials": "PR",
+                "program": "LoG",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/3AB800FA-A466-11F1-9CA9-B59853810189"
+              }
+            ]
+          }
+        },
+        {
+          "code": "LoG-D2",
+          "name": "Echoes of Betrayal (Tier 1)",
+          "program": "LoG",
+          "table_count": 1,
+          "cells": {
+            "fri_evening": [
+              {
+                "initials": "PR",
+                "program": "LoG",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/34E5D440-A466-11F1-9CA9-DCD6FE9D0C62"
+              }
+            ]
+          }
+        },
+        {
+          "code": "LoG-D3",
+          "name": "Havoc and High Seas (Tier 1)",
+          "program": "LoG",
+          "table_count": 1,
+          "cells": {
+            "sat_afternoon": [
+              {
+                "initials": "PR",
+                "program": "LoG",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/37C6C0FC-A466-11F1-B691-AAB40D3BE8E3"
+              }
+            ]
+          }
+        },
+        {
+          "code": "LoG-G1",
+          "name": "The Hands of a Healer (Tier 1)",
+          "program": "LoG",
+          "table_count": 1,
+          "cells": {
+            "fri_afternoon": [
+              {
+                "initials": "BM",
+                "program": "LoG",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/33CD8CCE-A466-11F1-B691-9D988F9FBF2F"
+              }
+            ]
+          }
+        },
+        {
+          "code": "LoG-G2",
+          "name": "The Oath-Bound Blade (Tier 1)",
+          "program": "LoG",
+          "table_count": 1,
+          "cells": {
+            "sat_morning": [
+              {
+                "initials": "BM",
+                "program": "LoG",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/3662029E-A466-11F1-9BA7-B3E5F32A67D7"
+              }
+            ]
+          }
+        },
+        {
+          "code": "LoG-G3",
+          "name": "Nine Swords Against Chaos (Tier 1)",
+          "program": "LoG",
+          "table_count": 1,
+          "cells": {
+            "sun_morning": [
+              {
+                "initials": "BM",
+                "program": "LoG",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/393FC55A-A466-11F1-9CA9-87F5AEC5D905"
+              }
+            ]
+          }
+        },
+        {
+          "code": "LoG-SoS-1",
+          "name": "Bandits, Cultists, and Dragons? Oh My! (Tier 1)",
+          "program": "LoG",
+          "table_count": 3,
+          "cells": {
+            "fri_morning": [
+              {
+                "initials": "RM",
+                "program": "LoG",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/325A5B9C-A466-11F1-9BA7-C9ABD547E1AF"
+              }
+            ],
+            "sat_afternoon": [
+              {
+                "initials": "RM",
+                "program": "LoG",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/38253114-A466-11F1-9BA7-E33E84E7C6D9"
+              }
+            ],
+            "sun_afternoon": [
+              {
+                "initials": "BM",
+                "program": "LoG",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/39FC443C-A466-11F1-9BA7-DF677932DC47"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "tier": 2,
+      "title": "Tier 2 (Lvl 5-10)",
+      "rows": [
+        {
+          "code": "DDHC-DD-04",
+          "name": "For Whom the Void Calls (Tier 2)",
+          "program": "AL",
+          "table_count": 2,
+          "cells": {
+            "fri_morning": [
+              {
+                "initials": "LC",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/30F6C826-A466-11F1-A8E9-DD342BB99E43"
+              }
+            ],
+            "sat_morning": [
+              {
+                "initials": "LC",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/354F7DE6-A466-11F1-A8E9-A9170B06F66D"
+              }
+            ]
+          }
+        },
+        {
+          "code": "DDHC-DD-05",
+          "name": "The Dragon of Najkir (Tier 2)",
+          "program": "AL",
+          "table_count": 2,
+          "cells": {
+            "sat_afternoon": [
+              {
+                "initials": "WK",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/370E0AA8-A466-11F1-90B1-F665969BEF7B"
+              }
+            ],
+            "sun_afternoon": [
+              {
+                "initials": "WK",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/39A59BD2-A466-11F1-B691-FD9091D2C0BE"
+              }
+            ]
+          }
+        },
+        {
+          "code": "DDHC-QIS-05",
+          "name": "The Lost Caverns of Tsojcanth (Tier 2)",
+          "program": "AL",
+          "table_count": 1,
+          "cells": {
+            "fri_afternoon": [
+              {
+                "initials": "JD",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/32B83514-A466-11F1-A8E9-862B5B15BBFB"
+              }
+            ]
+          }
+        },
+        {
+          "code": "DDHC-TYP-4",
+          "name": "White Plume Mountain (Tier 2)",
+          "program": "AL",
+          "table_count": 2,
+          "cells": {
+            "fri_evening": [
+              {
+                "initials": "PM",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/8AB2FD5C-A4DF-11F1-8ED9-BD7393406A56"
+              }
+            ],
+            "sun_morning": [
+              {
+                "initials": "PM",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/BC1EA60A-A4EB-11F1-804A-89E9F6FCF9D4"
+              }
+            ]
+          }
+        },
+        {
+          "code": "FR-DC-UCON26",
+          "name": "Barking Up the Wrong Tree (Tier 2)",
+          "program": "AL",
+          "table_count": 2,
+          "cells": {
+            "sat_morning": [
+              {
+                "initials": "PM",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/0A9CF598-A4EC-11F1-8B79-BB066CF13B69"
+              }
+            ],
+            "sun_afternoon": [
+              {
+                "initials": "PM",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/BC89C520-A4EB-11F1-8ED9-F537322263B5"
+              }
+            ]
+          }
+        },
+        {
+          "code": "LoG-E1",
+          "name": "Whispers Beneath the Cairns (Tier 2)",
+          "program": "LoG",
+          "table_count": 1,
+          "cells": {
+            "fri_afternoon": [
+              {
+                "initials": "RM",
+                "program": "LoG",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/337EF4D8-A466-11F1-9CA9-A523130A0D4B"
+              }
+            ]
+          }
+        },
+        {
+          "code": "LoG-E2",
+          "name": "A Measure of Debt (Tier 2)",
+          "program": "LoG",
+          "table_count": 1,
+          "cells": {
+            "sat_morning": [
+              {
+                "initials": "RM",
+                "program": "LoG",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/360645B2-A466-11F1-B691-BB452220F45F"
+              }
+            ]
+          }
+        },
+        {
+          "code": "LoG-E3",
+          "name": "Architect of Silence (Tier 2)",
+          "program": "LoG",
+          "table_count": 1,
+          "cells": {
+            "sun_morning": [
+              {
+                "initials": "RM",
+                "program": "LoG",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/38EC0ECE-A466-11F1-90B1-B7C30C475F52"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "tier": 3,
+      "title": "Tier 3 (Lvl 11-16)",
+      "rows": [
+        {
+          "code": "DDHC-DD-08",
+          "name": "Shivering Death (Tier 3)",
+          "program": "AL",
+          "table_count": 1,
+          "cells": {
+            "sun_afternoon": [
+              {
+                "initials": "PA",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/3A4E0C22-A466-11F1-90B1-8EDF34C06650"
+              }
+            ]
+          }
+        },
+        {
+          "code": "DDHC-DD-09",
+          "name": "A Copper for a Song (Tier 3)",
+          "program": "AL",
+          "table_count": 1,
+          "cells": {
+            "fri_morning": [
+              {
+                "initials": "NB",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/31A18E8C-A466-11F1-9CA9-A6C17FD878D8"
+              }
+            ]
+          }
+        },
+        {
+          "code": "FR-DC-NBDD-01",
+          "name": "Taggin's Temple of Terror (Tier 3)",
+          "program": "AL",
+          "table_count": 2,
+          "cells": {
+            "fri_evening": [
+              {
+                "initials": "KL",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/EE3E1F42-A402-11F1-BCDC-EC0C033E967B"
+              }
+            ],
+            "sat_morning": [
+              {
+                "initials": "KL",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/EE9E632A-A402-11F1-A01E-B1C4D541AEAB"
+              }
+            ]
+          }
+        },
+        {
+          "code": "FR-DC-ONI-04",
+          "name": "My Brother's Enemy (Tier 3)",
+          "program": "AL",
+          "table_count": 1,
+          "cells": {
+            "sat_afternoon": [
+              {
+                "initials": "NB",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/36B8A3F6-A466-11F1-A8E9-A9310B5B12FF"
+              }
+            ]
+          }
+        },
+        {
+          "code": "FR-DC-ONI-05",
+          "name": "The Shogun of Storms (Tier 3)",
+          "program": "AL",
+          "table_count": 1,
+          "cells": {
+            "fri_evening": [
+              {
+                "initials": "NB",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/342997D0-A466-11F1-9BA7-DDE5F27F3D8E"
+              }
+            ]
+          }
+        },
+        {
+          "code": "PS-DC-NBDD-02",
+          "name": "Ghost in the Hell (Tier 3)",
+          "program": "AL",
+          "table_count": 2,
+          "cells": {
+            "fri_afternoon": [
+              {
+                "initials": "KL",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/EDCC149C-A402-11F1-BBF4-E1E649B3F633"
+              }
+            ],
+            "sun_morning": [
+              {
+                "initials": "KL",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/EEE6ED52-A402-11F1-91D0-9BF36B2CC65A"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
