@@ -1,0 +1,55 @@
+{% assign schedule = site.data.ucon-2026-schedule %}
+{% unless schedule %}
+<p><em>Schedule data not loaded.</em></p>
+{% else %}
+<div class="ucon-schedule-legend">
+  <span class="program-badge al">AL</span> Adventurers League
+  <span class="program-badge log">LoG</span> Legends of Greyhawk
+  <span class="legend-note">· click initials for Tabletop.Events</span>
+</div>
+<div class="ucon-schedule-wrap">
+<table class="ucon-schedule-grid">
+  <thead>
+    <tr>
+      <th scope="col">Code</th>
+      <th scope="col">Adventure</th>
+      {% for col in schedule.slot_columns %}
+      <th scope="col">{{ col.label }}</th>
+      {% endfor %}
+      <th scope="col">Tables</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for section in schedule.sections %}
+    <tr class="tier-header">
+      <td colspan="{{ schedule.slot_columns.size | plus: 3 }}">{{ section.title }}</td>
+    </tr>
+    {% for row in section.rows %}
+    <tr class="schedule-row program-{{ row.program | downcase }}">
+      <td><code>{{ row.code }}</code></td>
+      <td class="adventure-name">
+        <span class="program-badge {{ row.program | downcase }}">{{ row.program }}</span>
+        {{ row.name }}
+      </td>
+      {% for col in schedule.slot_columns %}
+      <td class="slot-cell">
+        {% assign entries = row.cells[col.key] %}
+        {% if entries %}
+          {% for e in entries %}
+            {% if e.url %}
+              <a class="dm-link program-{{ e.program | downcase }}" href="{{ e.url }}" title="{{ row.name }} — {{ col.label }}">{{ e.initials }}</a>{% unless forloop.last %}, {% endunless %}
+            {% else %}
+              <span class="dm-initial program-{{ e.program | downcase }}">{{ e.initials }}</span>{% unless forloop.last %}, {% endunless %}
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+      </td>
+      {% endfor %}
+      <td class="table-count">{{ row.table_count }}</td>
+    </tr>
+    {% endfor %}
+    {% endfor %}
+  </tbody>
+</table>
+</div>
+{% endunless %}
