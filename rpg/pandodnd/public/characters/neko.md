@@ -6,13 +6,14 @@ title: Neko
 player: Ken
 class: Gith Fey Wanderer Ranger 5 / Monk 1
 dnd_beyond: https://www.dndbeyond.com/characters/113570473
-image: https://assets.forge-vtt.com/63fd7e78b7a1ec2221d1c6dc/ddb-images/characters/113570473-neko.jpeg
+image: /rpg/pandodnd/public/images/portraits/neko.png
 ---
 
 ## Appearances
 
 - **2026-05-20** — [Session 2 (May 20, 2026)](../sessions/2026-05-20) (*Professor Bartlesby's Inventorium*)
 - **2026-06-10** — [Session 5 (June 10, 2026)](../sessions/2026-06-10) (*Absent without Leave*)
+- **2026-09-02** — [Session 16 (September 2, 2026)](../sessions/2026-09-02) (*Fallen for You*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
 
