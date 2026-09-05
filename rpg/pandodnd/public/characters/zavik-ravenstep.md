@@ -13,5 +13,6 @@ image: /rpg/pandodnd/public/images/portraits/zavik-ravenstep.png
 
 - **2026-08-19** — [Session 14 (August 19, 2026)](../sessions/2026-08-19) (*Spider Hunt*)
 - **2026-08-26** — [Session 15 (August 26, 2026)](../sessions/2026-08-26) (*Juxtaposition*)
+- **2026-09-02** — [Session 16 (September 2, 2026)](../sessions/2026-09-02) (*Fallen for You*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
