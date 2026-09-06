@@ -6,6 +6,7 @@ title: Roaring River
 also_known_as:
   - River
 player: Eric
+player_slug: eric
 race: Tabaxi
 class: Rogue 3 / Monk (Swashbuckler into Monk multiclass)
 background: Mulhorandi Tomb Raider

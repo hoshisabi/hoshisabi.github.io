@@ -4,6 +4,7 @@ campaign_name: Legends of Greyhawk
 layout: character
 title: Roric
 player: Trey
+player_slug: trey
 race: Human
 class: Battle Master Fighter 3
 background: Farmer

@@ -4,6 +4,7 @@ campaign_name: PandoDnD Pub Crawl
 layout: character
 title: Zeli Vantel
 player: Lazarus
+player_slug: lazarus
 class: Autognome Ranger 6 (Hunter)
 dnd_beyond: https://www.dndbeyond.com/characters/168310510
 image: /rpg/pandodnd/public/images/portraits/zeli-vantel.jpeg

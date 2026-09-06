@@ -4,6 +4,7 @@ campaign_name: PandoDnD Pub Crawl
 layout: character
 title: Kenistopheles
 player: Ken
+player_slug: kenb
 race: Tiefling (Infernal)
 class: Tiefling Warlock 5 (Fiend Patron) / Paladin 1
 alignment: True Neutral

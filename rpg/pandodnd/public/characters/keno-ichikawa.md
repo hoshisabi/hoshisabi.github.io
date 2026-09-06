@@ -4,6 +4,7 @@ campaign_name: PandoDnD Pub Crawl
 layout: character
 title: Keno Ichikawa
 player: Ken
+player_slug: kenb
 class: Human Ranger 5 (Winter Walker)
 dnd_beyond: https://www.dndbeyond.com/characters/156724737
 image: /rpg/pandodnd/public/images/portraits/keno-ichikawa.png

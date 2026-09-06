@@ -4,6 +4,7 @@ campaign_name: Legends of Greyhawk
 layout: character
 title: Ozric Underhill
 player: Rob
+player_slug: rob
 class: Halfling Barbarian 4 (Berserker)
 image: /rpg/log/public/images/ozric-underhill.png
 ---

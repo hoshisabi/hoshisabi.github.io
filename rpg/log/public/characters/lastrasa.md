@@ -4,6 +4,7 @@ campaign_name: Legends of Greyhawk
 layout: character
 title: Lastrasa
 player: Bryan
+player_slug: bryan
 class: Elf Bard 3 (College of Spirits)
 dnd_beyond: https://www.dndbeyond.com/characters/166244064
 image: https://www.dndbeyond.com/avatars/56887/143/1581111423-166244064.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp

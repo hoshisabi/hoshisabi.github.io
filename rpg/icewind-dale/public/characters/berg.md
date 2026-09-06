@@ -6,6 +6,7 @@ title: Berg Wurdnowwah
 also_known_as:
   - Berg
 player: Josh
+player_slug: joshf
 race: Orc
 class: Fighter 4 (Battle Master)
 background: Soldier

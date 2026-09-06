@@ -4,6 +4,7 @@ campaign_name: Legends of Greyhawk
 layout: character
 title: Boon
 player: E. Sennet
+player_slug: ersenn
 class: Human Bard 2
 dnd_beyond: https://www.dndbeyond.com/characters/154474442
 image: https://www.dndbeyond.com/avatars/57290/49/1581111423-154474442.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp

@@ -4,6 +4,7 @@ campaign_name: PandoDnD Pub Crawl
 layout: character
 title: Sparrow
 player: Michael
+player_slug: michaelh
 race: Halfling
 class: Halfling Arcane Trickster Rogue 8
 alignment: True Neutral

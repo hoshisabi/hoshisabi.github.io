@@ -4,6 +4,7 @@ campaign_name: Legends of Greyhawk
 layout: character
 title: Kaelisa
 player: Brian
+player_slug: brian
 image: /rpg/log/public/characters/images/kaelisa.webp
 status: Retired
 ---

@@ -4,6 +4,7 @@ campaign_name: Legends of Greyhawk
 layout: character
 title: Citl-Itzam
 player: Brian
+player_slug: brian
 race: Aasimar
 class: Druid 3 (Circle of the Stars)
 background: Farmer

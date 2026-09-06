@@ -4,6 +4,7 @@ campaign_name: Legends of Greyhawk
 layout: character
 title: Q
 player: Sam
+player_slug: sam
 class: Aasimar Fighter 1/Warlock 1
 dnd_beyond: https://www.dndbeyond.com/characters/169454871
 image: /rpg/log/public/images/q.png

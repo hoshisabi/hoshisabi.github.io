@@ -7,6 +7,7 @@ also_known_as:
   - Doctor Medicine
   - Dr. Medicine
 player: Henry
+player_slug: henryc
 race: Human
 class: Warlock 7 (Great Old One Patron)
 background: Charlatan

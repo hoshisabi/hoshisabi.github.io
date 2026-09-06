@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+{% include campaign-nav.html %}
+
+<article class="player">
+  <h1>{{ page.title }}</h1>
+
+  <p class="player-intro">Characters played by {{ page.title }}.</p>
+
+  {% assign player_key = page.player_slug | default: page.slug %}
+  {% assign chars = site.pages | where: "player_slug", player_key | where: "layout", "character" | where: "campaign_url", page.campaign_url | sort: "title" %}
+
+  {% if chars.size > 0 %}
+  <ul class="player-characters">
+    {% for c in chars %}
+    <li>
+      <a href="{{ c.url | relative_url }}">{{ c.title }}</a>
+      {% if c.class %}<span class="player-char-class"> — {{ c.class }}</span>{% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+  {% else %}
+  <p>No character pages linked yet.</p>
+  {% endif %}
+
+  {{ content }}
+</article>

@@ -11,7 +11,16 @@ layout: default
 
   {% if page.player or page.race or page.class or page.background %}
   <dl class="pc-meta">
-    {% if page.player %}<dt>Player</dt><dd>{{ page.player }}</dd>{% endif %}
+    {% if page.player %}
+    <dt>Player</dt>
+    <dd>
+      {% if page.player_slug %}
+      <a href="{{ page.campaign_url | append: 'players/' | append: page.player_slug | relative_url }}">{{ page.player }}</a>
+      {% else %}
+      {{ page.player }}
+      {% endif %}
+    </dd>
+    {% endif %}
     {% if page.race %}<dt>Race</dt><dd>{{ page.race }}</dd>{% endif %}
     {% if page.class %}<dt>Class</dt><dd>{{ page.class }}</dd>{% endif %}
     {% if page.background %}<dt>Background</dt><dd>{{ page.background }}</dd>{% endif %}

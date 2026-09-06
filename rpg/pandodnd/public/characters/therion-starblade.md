@@ -4,6 +4,7 @@ campaign_name: PandoDnD Pub Crawl
 layout: character
 title: Therion Starblade
 player: Mark
+player_slug: markd
 race: Wood Elf
 class: Wood Elf Eldritch Knight Fighter 6
 alignment: Neutral Good

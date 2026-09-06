@@ -4,6 +4,7 @@ campaign_name: Legends of Greyhawk
 layout: character
 title: Xen
 player: Ken
+player_slug: ken
 class: Human Battlemaster Fighter 3
 background: Farmer
 dnd_beyond: https://www.dndbeyond.com/characters/148655804

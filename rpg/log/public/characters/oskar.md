@@ -4,6 +4,7 @@ campaign_name: Legends of Greyhawk
 layout: character
 title: Oskar
 player: Dan
+player_slug: dan
 race: Human
 class: Fighter 3
 background: Acolyte

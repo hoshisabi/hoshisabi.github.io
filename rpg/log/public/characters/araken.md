@@ -4,6 +4,7 @@ campaign_name: Legends of Greyhawk
 layout: character
 title: Araken
 player: Ken
+player_slug: ken
 race: Human
 class: Ranger 2
 background: Guide
