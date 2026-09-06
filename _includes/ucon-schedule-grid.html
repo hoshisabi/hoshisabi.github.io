@@ -37,7 +37,7 @@
         {% if entries %}
           {% for e in entries %}
             {% if e.url %}
-              <a class="dm-link program-{{ e.program | downcase }}" href="{{ e.url }}" title="{{ row.name }} — {{ col.label }}">{{ e.initials }}</a>{% unless forloop.last %}, {% endunless %}
+              <a class="dm-link program-{{ e.program | downcase }}" href="{{ e.url }}" title="{{ row.name }} — {{ col.label }}{% if e.event_number %} — event #{{ e.event_number }}{% endif %}">{{ e.initials }}</a>{% unless forloop.last %}, {% endunless %}
             {% else %}
               <span class="dm-initial program-{{ e.program | downcase }}">{{ e.initials }}</span>{% unless forloop.last %}, {% endunless %}
             {% endif %}

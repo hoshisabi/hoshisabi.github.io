@@ -12,7 +12,7 @@ permalink: /ucon-2026-schedule/
 Adventurers League and Legends of Greyhawk tables across the weekend.
 Schedule status: **{{ meta.status }}** · grid updated {{ meta.as_of }}.
 
-Click a **DM initial** to open that table's Tabletop.Events page (submission view for now; registration links once events publish).
+Click a **DM initial** to open that table's event page on Tabletop.Events, where you can see the full details and sign up.
 
 [U-Con 2026 Site](https://www.ucon-gaming.org/) -
 [All our events on Tabletop.Events](https://tabletop.events/conventions/u-con-2026/schedule#?query=U-Con%20Adventurers%20League) -
@@ -24,7 +24,7 @@ Click a **DM initial** to open that table's Tabletop.Events page (submission vie
 
 ## Reading the grid
 
-- **Initials** are the DM for that table. Each initial links to its own event entry when available.
+- **Initials** are the DM for that table. Each initial links to that table's event page, and hovering shows its event number.
 - Blank cells mean that adventure is not scheduled in that slot.
 - <span class="program-badge al">AL</span> = Adventurers League · <span class="program-badge log">LoG</span> = Legends of Greyhawk
 - The **Epic** is a coordinated multi-table event with multiple DMs.

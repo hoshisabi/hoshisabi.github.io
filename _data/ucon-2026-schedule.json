@@ -3,7 +3,7 @@
     "year": 2026,
     "status": "draft",
     "as_of": "2026-08-29",
-    "link_mode": "submission",
+    "link_mode": "published",
     "convention_slug": "u-con-2026"
   },
   "slot_columns": [
@@ -55,7 +55,8 @@
               {
                 "initials": "Many",
                 "program": "AL",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/847DBC6A-A3FE-11F1-A01E-CB05E5CD9493"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/659",
+                "event_number": "659"
               }
             ]
           }
@@ -70,7 +71,8 @@
               {
                 "initials": "Many",
                 "program": "AL",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/84DB10A4-A3FE-11F1-91D0-86663412E10E"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/660",
+                "event_number": "660"
               }
             ]
           }
@@ -91,14 +93,16 @@
               {
                 "initials": "WK",
                 "program": "AL",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/3141FA08-A466-11F1-90B1-A68F4F91FB86"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/653",
+                "event_number": "653"
               }
             ],
             "sun_morning": [
               {
                 "initials": "WK",
                 "program": "AL",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/38869EC2-A466-11F1-A8E9-BC97EC549FFE"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/654",
+                "event_number": "654"
               }
             ]
           }
@@ -113,14 +117,16 @@
               {
                 "initials": "HC",
                 "program": "AL",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/3483D010-A466-11F1-A8E9-905E0B637E4D"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/649",
+                "event_number": "649"
               }
             ],
             "sat_morning": [
               {
                 "initials": "HC",
                 "program": "AL",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/35A32284-A466-11F1-9CA9-87A09D21CE92"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/650",
+                "event_number": "650"
               }
             ]
           }
@@ -135,14 +141,16 @@
               {
                 "initials": "PA",
                 "program": "AL",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/33244C72-A466-11F1-90B1-B416F5BB90EE"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/669",
+                "event_number": "669"
               }
             ],
             "sat_afternoon": [
               {
                 "initials": "PA",
                 "program": "AL",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/37684E6E-A466-11F1-9CA9-A3E57B7E3091"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/670",
+                "event_number": "670"
               }
             ]
           }
@@ -157,14 +165,16 @@
               {
                 "initials": "PR",
                 "program": "LoG",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/320D6ADA-A466-11F1-B691-A5643B830E3F"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/682",
+                "event_number": "682"
               }
             ],
             "sun_afternoon": [
               {
                 "initials": "PR",
                 "program": "LoG",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/3AB800FA-A466-11F1-9CA9-B59853810189"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/683",
+                "event_number": "683"
               }
             ]
           }
@@ -179,7 +189,8 @@
               {
                 "initials": "PR",
                 "program": "LoG",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/34E5D440-A466-11F1-9CA9-DCD6FE9D0C62"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/679",
+                "event_number": "679"
               }
             ]
           }
@@ -194,7 +205,8 @@
               {
                 "initials": "PR",
                 "program": "LoG",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/37C6C0FC-A466-11F1-B691-AAB40D3BE8E3"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/680",
+                "event_number": "680"
               }
             ]
           }
@@ -209,7 +221,8 @@
               {
                 "initials": "BM",
                 "program": "LoG",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/33CD8CCE-A466-11F1-B691-9D988F9FBF2F"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/684",
+                "event_number": "684"
               }
             ]
           }
@@ -224,7 +237,8 @@
               {
                 "initials": "BM",
                 "program": "LoG",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/3662029E-A466-11F1-9BA7-B3E5F32A67D7"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/685",
+                "event_number": "685"
               }
             ]
           }
@@ -239,7 +253,8 @@
               {
                 "initials": "BM",
                 "program": "LoG",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/393FC55A-A466-11F1-9CA9-87F5AEC5D905"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/681",
+                "event_number": "681"
               }
             ]
           }
@@ -254,21 +269,24 @@
               {
                 "initials": "RM",
                 "program": "LoG",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/325A5B9C-A466-11F1-9BA7-C9ABD547E1AF"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/676",
+                "event_number": "676"
               }
             ],
             "sat_afternoon": [
               {
                 "initials": "RM",
                 "program": "LoG",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/38253114-A466-11F1-9BA7-E33E84E7C6D9"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/677",
+                "event_number": "677"
               }
             ],
             "sun_afternoon": [
               {
                 "initials": "BM",
                 "program": "LoG",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/39FC443C-A466-11F1-9BA7-DF677932DC47"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/678",
+                "event_number": "678"
               }
             ]
           }
@@ -289,14 +307,16 @@
               {
                 "initials": "LC",
                 "program": "AL",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/30F6C826-A466-11F1-A8E9-DD342BB99E43"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/655",
+                "event_number": "655"
               }
             ],
             "sat_morning": [
               {
                 "initials": "LC",
                 "program": "AL",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/354F7DE6-A466-11F1-A8E9-A9170B06F66D"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/656",
+                "event_number": "656"
               }
             ]
           }
@@ -311,14 +331,16 @@
               {
                 "initials": "WK",
                 "program": "AL",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/370E0AA8-A466-11F1-90B1-F665969BEF7B"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/665",
+                "event_number": "665"
               }
             ],
             "sun_afternoon": [
               {
                 "initials": "WK",
                 "program": "AL",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/39A59BD2-A466-11F1-B691-FD9091D2C0BE"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/666",
+                "event_number": "666"
               }
             ]
           }
@@ -333,7 +355,8 @@
               {
                 "initials": "JD",
                 "program": "AL",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/32B83514-A466-11F1-A8E9-862B5B15BBFB"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/667",
+                "event_number": "667"
               }
             ]
           }
@@ -348,14 +371,16 @@
               {
                 "initials": "PM",
                 "program": "AL",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/8AB2FD5C-A4DF-11F1-8ED9-BD7393406A56"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/671",
+                "event_number": "671"
               }
             ],
             "sun_morning": [
               {
                 "initials": "PM",
                 "program": "AL",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/BC1EA60A-A4EB-11F1-804A-89E9F6FCF9D4"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/672",
+                "event_number": "672"
               }
             ]
           }
@@ -370,14 +395,16 @@
               {
                 "initials": "PM",
                 "program": "AL",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/0A9CF598-A4EC-11F1-8B79-BB066CF13B69"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/651",
+                "event_number": "651"
               }
             ],
             "sun_afternoon": [
               {
                 "initials": "PM",
                 "program": "AL",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/BC89C520-A4EB-11F1-8ED9-F537322263B5"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/652",
+                "event_number": "652"
               }
             ]
           }
@@ -392,7 +419,8 @@
               {
                 "initials": "RM",
                 "program": "LoG",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/337EF4D8-A466-11F1-9CA9-A523130A0D4B"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/686",
+                "event_number": "686"
               }
             ]
           }
@@ -407,7 +435,8 @@
               {
                 "initials": "RM",
                 "program": "LoG",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/360645B2-A466-11F1-B691-BB452220F45F"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/674",
+                "event_number": "674"
               }
             ]
           }
@@ -422,7 +451,8 @@
               {
                 "initials": "RM",
                 "program": "LoG",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/38EC0ECE-A466-11F1-90B1-B7C30C475F52"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/675",
+                "event_number": "675"
               }
             ]
           }
@@ -443,7 +473,8 @@
               {
                 "initials": "PA",
                 "program": "AL",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/3A4E0C22-A466-11F1-90B1-8EDF34C06650"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/662",
+                "event_number": "662"
               }
             ]
           }
@@ -458,7 +489,8 @@
               {
                 "initials": "NB",
                 "program": "AL",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/31A18E8C-A466-11F1-9CA9-A6C17FD878D8"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/648",
+                "event_number": "648"
               }
             ]
           }
@@ -473,14 +505,16 @@
               {
                 "initials": "KL",
                 "program": "AL",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/EE3E1F42-A402-11F1-BCDC-EC0C033E967B"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/663",
+                "event_number": "663"
               }
             ],
             "sat_morning": [
               {
                 "initials": "KL",
                 "program": "AL",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/EE9E632A-A402-11F1-A01E-B1C4D541AEAB"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/664",
+                "event_number": "664"
               }
             ]
           }
@@ -495,7 +529,8 @@
               {
                 "initials": "NB",
                 "program": "AL",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/36B8A3F6-A466-11F1-A8E9-A9310B5B12FF"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/661",
+                "event_number": "661"
               }
             ]
           }
@@ -510,7 +545,8 @@
               {
                 "initials": "NB",
                 "program": "AL",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/342997D0-A466-11F1-9BA7-DDE5F27F3D8E"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/668",
+                "event_number": "668"
               }
             ]
           }
@@ -525,14 +561,16 @@
               {
                 "initials": "KL",
                 "program": "AL",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/EDCC149C-A402-11F1-BBF4-E1E649B3F633"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/657",
+                "event_number": "657"
               }
             ],
             "sun_morning": [
               {
                 "initials": "KL",
                 "program": "AL",
-                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/EEE6ED52-A402-11F1-91D0-9BF36B2CC65A"
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/658",
+                "event_number": "658"
               }
             ]
           }
