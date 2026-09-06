@@ -4,6 +4,7 @@ campaign_name: PandoDnD Pub Crawl
 layout: character
 title: Pierce
 player: Mike
+player_slug: bigmikemc
 race: Human
 class: Human Twilight Cleric 10
 alignment: True Neutral

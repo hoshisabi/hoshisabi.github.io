@@ -4,6 +4,7 @@ campaign_name: PandoDnD Pub Crawl
 layout: character
 title: Glindton
 player: Ttrpger
+player_slug: ttrpger
 class: Shifter Wizard 7 (Bladesinger)
 dnd_beyond: https://www.dndbeyond.com/characters/170199949
 image: /rpg/pandodnd/public/images/portraits/glindton.png

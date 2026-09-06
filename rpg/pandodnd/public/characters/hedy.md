@@ -4,6 +4,7 @@ campaign_name: PandoDnD Pub Crawl
 layout: character
 title: Hedy
 player: Gon
+player_slug: gonprie
 race: Firbolg
 class: Firbolg Artificer 1 / Diviner Wizard 9
 alignment: Chaotic Good

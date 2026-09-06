@@ -4,6 +4,7 @@ campaign_name: Icewind Dale
 layout: character
 title: Raydin
 player: Nadir
+player_slug: nadir
 race: Shadar-kai
 class: Wizard 7 (Bladesinger)
 dnd_beyond: https://www.dndbeyond.com/characters/166768973

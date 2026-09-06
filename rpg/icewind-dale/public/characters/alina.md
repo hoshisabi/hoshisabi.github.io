@@ -6,6 +6,7 @@ title: Alina Shandorath
 also_known_as:
   - Alina
 player: Dominic
+player_slug: dominic
 race: Tiefling (Chthonic Legacy)
 class: Wizard 4 (Evoker)
 background: Guide

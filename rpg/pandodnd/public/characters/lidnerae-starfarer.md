@@ -4,6 +4,7 @@ campaign_name: PandoDnD Pub Crawl
 layout: character
 title: Lidnerae Starfarer
 player: Brainarius
+player_slug: brainarius
 class: Astral Elf War Cleric 6
 dnd_beyond: https://www.dndbeyond.com/characters/158274669
 image: https://www.dndbeyond.com/avatars/28094/788/637962177098696707.jpeg

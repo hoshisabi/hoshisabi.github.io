@@ -4,6 +4,7 @@ campaign_name: PandoDnD Pub Crawl
 layout: character
 title: Tarrie
 player: Ttrpger
+player_slug: ttrpger
 class: Lizardfolk Barbarian 8 (Path of the Beast)
 dnd_beyond: https://www.dndbeyond.com/characters/168741923
 image: /rpg/pandodnd/public/images/portraits/tarrie.png

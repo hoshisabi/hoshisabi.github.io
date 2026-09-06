@@ -4,6 +4,7 @@ campaign_name: PandoDnD Pub Crawl
 layout: character
 title: Pal Go Lucky
 player: Don
+player_slug: dscharfe
 race: Hill Dwarf
 class: Hill Dwarf Paladin 6 (Oath of the Ancients)
 alignment: Lawful Good

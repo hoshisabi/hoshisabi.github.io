@@ -902,7 +902,7 @@ body.home h2 { border-bottom: none; padding-bottom: 0; }
   border-radius: var(--radius);
   cursor: zoom-in;
 }
-.npc::after, .pc::after, .location::after {
+.npc::after, .pc::after, .location::after, .player::after {
   content: ''; display: block; clear: both;
 }
 .npc-meta, .pc-meta, .location-meta {
@@ -921,6 +921,21 @@ body.home h2 { border-bottom: none; padding-bottom: 0; }
 .npc-meta dt::after, .pc-meta dt::after, .location-meta dt::after { content: ':'; }
 .npc-meta dd, .pc-meta dd, .location-meta dd {
   margin: 0;
+  font-size: 0.875rem;
+}
+.player-intro {
+  color: var(--text-muted);
+  margin: 0 0 1rem;
+}
+.player-characters {
+  margin: 0 0 1.5rem;
+  padding-left: 1.25rem;
+}
+.player-characters li {
+  margin: 0.35rem 0;
+}
+.player-char-class {
+  color: var(--text-muted);
   font-size: 0.875rem;
 }
 

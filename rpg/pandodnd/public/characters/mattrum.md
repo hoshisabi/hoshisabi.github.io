@@ -4,6 +4,7 @@ campaign_name: PandoDnD Pub Crawl
 layout: character
 title: Mattrum
 player: Trey
+player_slug: treym
 race: Human
 class: Human Spellfire Sorcerer 5 / Archfey Warlock 5
 alignment: Chaotic Good

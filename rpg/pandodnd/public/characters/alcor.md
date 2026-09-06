@@ -4,6 +4,7 @@ campaign_name: PandoDnD Pub Crawl
 layout: character
 title: Alcor
 player: XZ
+player_slug: xz
 race: Human
 class: Human Stars Druid
 alignment: Neutral

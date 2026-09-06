@@ -4,6 +4,7 @@ campaign_name: PandoDnD Pub Crawl
 layout: character
 title: Scry
 player: XZ
+player_slug: xz
 race: Human
 class: Human Diviner Wizard 10
 alignment: Lawful Neutral

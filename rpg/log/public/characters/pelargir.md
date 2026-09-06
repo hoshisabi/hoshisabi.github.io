@@ -4,6 +4,7 @@ campaign_name: Legends of Greyhawk
 layout: character
 title: Pelargir
 player: Josh
+player_slug: josh
 class: Cleric 4
 image: /rpg/log/public/images/pelargir.png
 ---

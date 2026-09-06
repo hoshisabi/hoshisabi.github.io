@@ -4,6 +4,7 @@ campaign_name: Legends of Greyhawk
 layout: character
 title: Rokrun
 player: Bryan
+player_slug: bryan
 race: Dwarf
 class: Light Cleric 3
 background: Hermit

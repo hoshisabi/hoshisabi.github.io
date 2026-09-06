@@ -4,6 +4,7 @@ campaign_name: Legends of Greyhawk
 layout: character
 title: Logos
 player: Dan
+player_slug: dan
 race: Elf
 class: Wizard 2
 background: Acolyte

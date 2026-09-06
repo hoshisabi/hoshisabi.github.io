@@ -4,6 +4,7 @@ campaign_name: Legends of Greyhawk
 layout: character
 title: Cinder
 player: Trey
+player_slug: trey
 race: Human
 class: Paladin 3
 background: Wayfarer
