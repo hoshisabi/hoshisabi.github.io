@@ -1,13 +1,11 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: Icewind Dale
-session_label: Session 17
-date: August 29, 2026
-title: One Fewer Name
-adventure_code: FR-DC-PND-AO-17
-href: /rpg/icewind-dale/public/sessions/2026-08-29
+campaign: PandoDnD Online Campaign
+session_label: Session 16
+date: September 2, 2026
+title: Fallen for You
+adventure_code: PS-DC-PUB-11
+href: /rpg/pandodnd/public/sessions/2026-09-02
 excerpt: >-
-  The column marches through Brotherhood-scarred ice toward the Elk ravine.
-  The journal page in River's pack shouldn't exist. The fog that rolls in
-  after the hulk shatters is watching, and the thing above the clouds only
-  needs to be faster than the slowest runner.
+  You weren't supposed to be here — but Avernus rolls out the red carpet
+  when it wants a favor, and Mahadi's puzzle box won't recover itself.
