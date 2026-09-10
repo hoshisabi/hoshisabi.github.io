@@ -12,7 +12,7 @@ Jekyll site (GitHub Pages) — player-facing content for Dan's DM campaigns.
 ## Active campaigns
 
 - **Icewind Dale** — AL Dungeoncraft, in-person at Pandemonium Games
-- **PandoDnD Pub Crawl** — AL Dungeoncraft, online (Discord), Planescape season
+- **PandoDnD** — AL drop-in table, online (Discord). Community one-shots and DungeonCraft modules; settings change by night.
 
 ## DM source notes
 

@@ -1,11 +1,12 @@
 slug: pandodnd
-name: PandoDnD Online Campaign
+name: PandoDnD
 dm: Dan
 type: drop-in
 warhorn_slug: pandodnd
 catalog_dir: ~/dev/al_adventure_catalog/maintaindb/_dc
-# Prepended by generate_artwork / process_session before per-achievement prompts
+# Prepended by generate_artwork / process_session before per-achievement prompts.
+# Keep setting-neutral: nights range from Planescape taverns to Baldur's Gate docks.
 image_prompt_prefix: >-
-  Bold vintage woodcut circular badge illustration, planar Pandemonium and tavern noir mood,
+  Bold vintage woodcut circular badge illustration,
   high contrast ink, dramatically lit, absolutely no text, no letters, no words, no labels anywhere in the image,
   simplified shapes

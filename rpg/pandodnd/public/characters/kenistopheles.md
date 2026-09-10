@@ -1,6 +1,6 @@
 ---
 campaign_url: /rpg/pandodnd/public/
-campaign_name: PandoDnD Pub Crawl
+campaign_name: PandoDnD
 layout: character
 title: Kenistopheles
 player: Ken

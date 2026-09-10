@@ -1,6 +1,6 @@
 ---
 campaign_url: /rpg/pandodnd/public/
-campaign_name: PandoDnD Online Campaign
+campaign_name: PandoDnD
 layout: character
 title: Lifeline Mark 2 (2024)
 player: Gon
