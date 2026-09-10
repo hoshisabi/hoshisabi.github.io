@@ -3,7 +3,7 @@
 # Do not edit by hand — your changes will be overwritten on the next refresh.
 
 source: https://warhorn.net/events/pandodnd/schedule/Ya7RynA9U_XsaE_Ve6Ht.atom
-generated_at: '2026-09-06T10:18:38+00:00'
+generated_at: '2026-09-09T10:48:07+00:00'
 entries:
 - code: FR-DC-GAMEJAM-01
   title: Only (Peacock) Fans
@@ -12,3 +12,22 @@ entries:
   summary: FR-DC-GAMEJAM-01 Only (Peacock) Fans Wed 9/9 7-9pm at Online (details in
     event)
   link: https://warhorn.net/events/pandodnd/schedule/sessions/2e3497ee-ad95-42aa-b823-e38e914aff4b
+- code: PS-DC-PUB-15
+  title: Spider Hunt
+  date: '2026-09-16T19:00:00-04:00'
+  tier: Tier 2 · APL 8 · 2 hours
+  summary: PS-DC-PUB-15 Spider Hunt Wed 9/16 7-9pm at Online (details in event)
+  link: https://warhorn.net/events/pandodnd/schedule/sessions/328d69c2-3644-4729-95e9-f3dc17b80b51
+- code: FR-DC-LOOSE-001
+  title: Spells on the Loose
+  date: '2026-09-23T19:00:00-04:00'
+  tier: Tier 2 · APL 8 · 2 hours
+  summary: FR-DC-LOOSE-001 Spells on the Loose Wed 9/23 7-9pm at Online (details in
+    event)
+  link: https://warhorn.net/events/pandodnd/schedule/sessions/b0c142df-d4ab-41b0-8fc2-9c4ba9916ec8
+- code: DDAL06-01
+  title: A Thousand Tiny Deaths
+  date: '2026-09-30T19:00:00-04:00'
+  tier: Tier 2 · APL 8 · 2 hours
+  summary: DDAL06-01 A Thousand Tiny Deaths Wed 9/30 7-9pm at Online (details in event)
+  link: https://warhorn.net/events/pandodnd/schedule/sessions/8a1b7274-97a7-4d77-bf4c-1a830a7da8e0
