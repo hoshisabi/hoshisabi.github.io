@@ -12,11 +12,12 @@ running:
     last_updated: "2026-08-29"
     href: /rpg/icewind-dale/public/
 
-  - title: PandoDnD Pub Crawl
-    sub: AL · DungeonCraft · online (Discord)
+  - title: PandoDnD
+    sub: AL · drop-in · online (Discord)
     desc: >-
-      Planescape season. A rotating cast of adventurers wanders the planes,
-      stumbling into trouble one questionable pub at a time.
+      Wednesday-night Adventurers League. Self-contained adventures from
+      the DungeonCraft catalog and community authors — settings change;
+      the table does not.
     status: active
     organized_play: Adventurers League
     sessions: 32

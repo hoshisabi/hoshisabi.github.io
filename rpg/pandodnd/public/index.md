@@ -1,22 +1,24 @@
 ---
 campaign_url: /rpg/pandodnd/public/
-campaign_name: PandoDnD Pub Crawl
+campaign_name: PandoDnD
 layout: default
-title: Pandemonium Pub Crawl
+title: PandoDnD
 dm: Daniel E. Chapman II
 location: online (Discord)
 status: Active
 ---
 
-# Pandemonium Pub Crawl
+# PandoDnD
 
-*Adventurers League DungeonCraft — Planescape Season. Online, run on Discord.*
+*Adventurers League drop-in table. Online, run on Discord.*
 
 ---
 
-A rotating cast of adventurers wanders the planes, stumbling into trouble one pub at a time. Each session is a self-contained adventure — drop in, play a Tier 2 character, and find out what Pandemonium, Sigil, and the rest of the multiverse have in store. Memory loss, ancient conspiracies, and extremely questionable tavern choices are recurring themes.
+Wednesday nights at PandoDnD. Bring a legal AL character, drop in, play. Each session is its own adventure — no shared plot to catch up on, no homework from last week. Settings, tiers, and authors change from night to night. We run a wide variety of adventures, often with a focus on community written content.
 
-Adventures are drawn from the DC (DungeonCraft) catalog unless otherwise noted.
+We've been running this table online since 2020 — nearly every week, fifty-plus sessions a year. Recaps on this page start with the **Planescape Pub Crawl** (PS-DC-PUB), a planar tavern crawl through Sigil and the Great Wheel. That series is done; from here, we're widening what we run.
+
+Sign up on [Warhorn](https://warhorn.net/events/pandodnd/schedule).
 
 ---
 
@@ -27,7 +29,7 @@ Adventures are drawn from the DC (DungeonCraft) catalog unless otherwise noted.
 {% assign sessions_reversed = sessions | reverse %}
 
 {% for session in sessions_reversed limit:3 %}
-- [{{ session.title }} — {{ session.session_title }}]({{ session.url }}): {{ session.description }}
+- [{{ session.title }} — {{ session.session_title }}]({{ session.url }}){% if session.adventure %} ({{ session.adventure }}){% endif %}: {{ session.description }}
 {% endfor %}
 
 {% if sessions_count > 3 %}
@@ -35,7 +37,7 @@ Adventures are drawn from the DC (DungeonCraft) catalog unless otherwise noted.
 <summary>{{ sessions_count | minus: 3 }} older sessions</summary>
 <ul>
 {% for session in sessions_reversed offset:3 %}
-<li><a href="{{ session.url }}">{{ session.title }} — {{ session.session_title }}</a>: {{ session.description }}</li>
+<li><a href="{{ session.url }}">{{ session.title }} — {{ session.session_title }}</a>{% if session.adventure %} ({{ session.adventure }}){% endif %}: {{ session.description }}</li>
 {% endfor %}
 </ul>
 </details>
