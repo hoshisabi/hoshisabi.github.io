@@ -1,11 +1,12 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: PandoDnD Online Campaign
-session_label: Session 16
-date: September 2, 2026
-title: Fallen for You
-adventure_code: PS-DC-PUB-11
-href: /rpg/pandodnd/public/sessions/2026-09-02
+campaign: PandoDnD
+session_label: Session 17
+date: September 9, 2026
+title: Only (Peacock) Fans (FR-DC-GAMEJAM-01)
+adventure_code: FR-DC-GAMEJAM-01
+href: /rpg/pandodnd/public/sessions/2026-09-09
 excerpt: >-
-  You weren't supposed to be here — but Avernus rolls out the red carpet
-  when it wants a favor, and Mahadi's puzzle box won't recover itself.
+  Ravengard wants evidence, Mell wants eggs, and the Cloakwood already
+  murdered the last person who talked too loud. You came as escorts.
+  You leave having put the nest back.
