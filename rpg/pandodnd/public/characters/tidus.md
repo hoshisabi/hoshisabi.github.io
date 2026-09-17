@@ -13,5 +13,6 @@ image: /rpg/pandodnd/public/images/portraits/tidus.png
 ## Appearances
 
 - **2026-09-02** — [Session 16 (September 2, 2026)](../sessions/2026-09-02) (*Fallen for You*)
+- **2026-09-16** — [Session 18 (September 16, 2026)](../sessions/2026-09-16) (*Spider Hunt*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._

@@ -19,6 +19,7 @@ image: /rpg/pandodnd/public/images/portraits/matrim.jpeg
 - **2026-06-24** — [Session 7 (June 24, 2026)](../sessions/2026-06-24) (*Fallen for You*)
 - **2026-07-08** — [Session 9 (July 8, 2026)](../sessions/2026-07-08) (*The Endless Revel*)
 - **2026-07-22** — [Session 11 (July 22, 2026)](../sessions/2026-07-22) (*Escape from Paradise*)
+- **2026-09-16** — [Session 18 (September 16, 2026)](../sessions/2026-09-16) (*Spider Hunt*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
 

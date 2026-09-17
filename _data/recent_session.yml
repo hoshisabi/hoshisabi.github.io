@@ -1,12 +1,12 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
 campaign: PandoDnD
-session_label: Session 17
-date: September 9, 2026
-title: Only (Peacock) Fans (FR-DC-GAMEJAM-01)
-adventure_code: FR-DC-GAMEJAM-01
-href: /rpg/pandodnd/public/sessions/2026-09-09
+session_label: Session 18
+date: September 16, 2026
+title: Spider Hunt
+adventure_code: PS-DC-PUB-15
+href: /rpg/pandodnd/public/sessions/2026-09-16
 excerpt: >-
-  Ravengard wants evidence, Mell wants eggs, and the Cloakwood already
-  murdered the last person who talked too loud. You came as escorts.
-  You leave having put the nest back.
+  A pub crawl into the Abyss sounded like a story worth ten gold. The beer is
+  fermented mushroom, the walkways are web, teleportation does not work here,
+  and something with seven burning eyes has been eating the neighborhood.

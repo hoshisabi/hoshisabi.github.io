@@ -2,12 +2,12 @@
 campaign_url: /rpg/pandodnd/public/
 campaign_name: PandoDnD
 layout: character
-title: Cedric 2026
+title: Cedric
 player: Trey
 player_slug: treym
 class: Human Cleric 3 (Life Domain) / Druid 8 (Circle of the Stars) / Warlock 5 (Archfey Patron)
 dnd_beyond: https://www.dndbeyond.com/characters/135089309
-image: /rpg/pandodnd/public/images/portraits/cedric-2026.png
+image: /rpg/pandodnd/public/images/portraits/cedric.png
 ---
 
 ## Appearances
