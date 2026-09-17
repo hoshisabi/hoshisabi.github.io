@@ -2,12 +2,12 @@
 campaign_url: /rpg/pandodnd/public/
 campaign_name: PandoDnD
 layout: character
-title: Lifeline Mark 2 (2024)
+title: Lifeline Mark 2
 player: Gon
 player_slug: gonprie
 class: Autognome Druid 10 (Circle of the Stars)
 dnd_beyond: https://www.dndbeyond.com/characters/133594171
-image: /rpg/pandodnd/public/images/portraits/lifeline-mark-2-2024.png
+image: /rpg/pandodnd/public/images/portraits/lifeline-mark-2.png
 ---
 
 ## Appearances
