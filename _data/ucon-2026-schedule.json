@@ -215,7 +215,7 @@
           "code": "LoG-G1",
           "name": "The Hands of a Healer (Tier 1)",
           "program": "LoG",
-          "table_count": 1,
+          "table_count": 2,
           "cells": {
             "fri_afternoon": [
               {
@@ -223,6 +223,14 @@
                 "program": "LoG",
                 "url": "https://tabletop.events/conventions/u-con-2026/schedule/684",
                 "event_number": "684"
+              }
+            ],
+            "fri_evening": [
+              {
+                "initials": "BM",
+                "program": "LoG",
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/678",
+                "event_number": "678"
               }
             ]
           }
@@ -249,7 +257,7 @@
           "program": "LoG",
           "table_count": 1,
           "cells": {
-            "sun_morning": [
+            "sat_afternoon": [
               {
                 "initials": "BM",
                 "program": "LoG",
@@ -263,7 +271,7 @@
           "code": "LoG-SoS-1",
           "name": "Bandits, Cultists, and Dragons? Oh My! (Tier 1)",
           "program": "LoG",
-          "table_count": 3,
+          "table_count": 2,
           "cells": {
             "fri_morning": [
               {
@@ -279,14 +287,6 @@
                 "program": "LoG",
                 "url": "https://tabletop.events/conventions/u-con-2026/schedule/677",
                 "event_number": "677"
-              }
-            ],
-            "sun_afternoon": [
-              {
-                "initials": "BM",
-                "program": "LoG",
-                "url": "https://tabletop.events/conventions/u-con-2026/schedule/678",
-                "event_number": "678"
               }
             ]
           }
@@ -349,14 +349,22 @@
           "code": "DDHC-QIS-05",
           "name": "The Lost Caverns of Tsojcanth (Tier 2)",
           "program": "AL",
-          "table_count": 1,
+          "table_count": 2,
           "cells": {
             "fri_afternoon": [
               {
-                "initials": "JD",
+                "initials": "AG",
                 "program": "AL",
                 "url": "https://tabletop.events/conventions/u-con-2026/schedule/667",
                 "event_number": "667"
+              }
+            ],
+            "sun_morning": [
+              {
+                "initials": "AG",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/event-submissions/4584010A-AF24-11F1-AD23-E2DEBED9AF4D",
+                "event_number": ""
               }
             ]
           }
@@ -464,6 +472,22 @@
       "title": "Tier 3 (Lvl 11-16)",
       "rows": [
         {
+          "code": "CCC-BMG-37",
+          "name": "HULB 3-1 Weakness of Rock (Tier 3)",
+          "program": "AL",
+          "table_count": 1,
+          "cells": {
+            "sat_afternoon": [
+              {
+                "initials": "ZS",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/693",
+                "event_number": "693"
+              }
+            ]
+          }
+        },
+        {
           "code": "DDHC-DD-08",
           "name": "Shivering Death (Tier 3)",
           "program": "AL",
@@ -491,6 +515,22 @@
                 "program": "AL",
                 "url": "https://tabletop.events/conventions/u-con-2026/schedule/648",
                 "event_number": "648"
+              }
+            ]
+          }
+        },
+        {
+          "code": "DDHC-TYP-6",
+          "name": "Against the Giants (Tier 3)",
+          "program": "AL",
+          "table_count": 1,
+          "cells": {
+            "fri_afternoon": [
+              {
+                "initials": "ZS",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/691",
+                "event_number": "691"
               }
             ]
           }
@@ -571,6 +611,44 @@
                 "program": "AL",
                 "url": "https://tabletop.events/conventions/u-con-2026/schedule/658",
                 "event_number": "658"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "tier": 4,
+      "title": "Tier 4 (Lvl 17-20)",
+      "rows": [
+        {
+          "code": "DDAL07-16",
+          "name": "Pools of Cerulean (Tier 4)",
+          "program": "AL",
+          "table_count": 1,
+          "cells": {
+            "sun_afternoon": [
+              {
+                "initials": "ZS",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/694",
+                "event_number": "694"
+              }
+            ]
+          }
+        },
+        {
+          "code": "PO-BK-3-11",
+          "name": "Covenant of the Blood Goddess (Tier 4)",
+          "program": "AL",
+          "table_count": 1,
+          "cells": {
+            "fri_evening": [
+              {
+                "initials": "ZS",
+                "program": "AL",
+                "url": "https://tabletop.events/conventions/u-con-2026/schedule/692",
+                "event_number": "692"
               }
             ]
           }
