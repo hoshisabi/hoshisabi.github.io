@@ -1,12 +1,12 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: PandoDnD
-session_label: Session 18
-date: September 16, 2026
-title: Spider Hunt
-adventure_code: PS-DC-PUB-15
-href: /rpg/pandodnd/public/sessions/2026-09-16
+campaign: Legends of Greyhawk
+session_label: Session 10
+date: September 19, 2026
+title: The Hands of a Healer
+adventure_code: WC-02
+href: /rpg/log/public/sessions/2026-09-19
 excerpt: >-
-  A pub crawl into the Abyss sounded like a story worth ten gold. The beer is
-  fermented mushroom, the walkways are web, teleportation does not work here,
-  and something with seven burning eyes has been eating the neighborhood.
+  A dying healer wants a successor before she takes her last journey. The only
+  lead is a woman on someone else's ledger — five thousand gold of schooling
+  debt, a cruel count, and a tower full of orcs between her and the road out.
