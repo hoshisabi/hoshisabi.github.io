@@ -3,7 +3,7 @@
 # Do not edit by hand — your changes will be overwritten on the next refresh.
 
 source: https://warhorn.net/events/pandodnd/schedule/Ya7RynA9U_XsaE_Ve6Ht.atom
-generated_at: '2026-09-20T10:40:50+00:00'
+generated_at: '2026-09-23T10:49:05+00:00'
 entries:
 - code: FR-DC-LOOSE-001
   title: Spells on the Loose
@@ -18,3 +18,30 @@ entries:
   tier: Tier 2 · APL 8 · 2 hours
   summary: DDAL06-01 A Thousand Tiny Deaths Wed 9/30 7-9pm at Online (details in event)
   link: https://warhorn.net/events/pandodnd/schedule/sessions/8a1b7274-97a7-4d77-bf4c-1a830a7da8e0
+- code: FR-DC-LOOSE-002
+  title: Spells Gone Wild
+  date: '2026-10-07T19:00:00-04:00'
+  tier: Tier 2 · APL 8 · 2 hours
+  summary: FR-DC-LOOSE-002 Spells Gone Wild Wed 10/7 7-9pm at Online (details in event)
+  link: https://warhorn.net/events/pandodnd/schedule/sessions/a8f51838-2fa0-4ba0-af97-3e2c01388db8
+- code: PS-DC-PUB-13
+  title: Escape from Paradise
+  date: '2026-10-14T19:00:00-04:00'
+  tier: Tier 2 · APL 8 · 2 hours
+  summary: PS-DC-PUB-13 Escape from Paradise Wed 10/14 7-9pm at Online (details in
+    event)
+  link: https://warhorn.net/events/pandodnd/schedule/sessions/dc40ebf9-27ad-4290-b6da-77097484763e
+- code: FR-DC-LOOSE-003
+  title: This Spells Trouble
+  date: '2026-10-21T19:00:00-04:00'
+  tier: Tier 2 · APL 8 · 2 hours
+  summary: FR-DC-LOOSE-003 This Spells Trouble Wed 10/21 7-9pm at Online (details
+    in event)
+  link: https://warhorn.net/events/pandodnd/schedule/sessions/74b8ebaa-c228-4009-82a6-e588f10a6f02
+- code: PS-DC-PUB-14
+  title: Beneath the Prison Tree
+  date: '2026-10-28T19:00:00-04:00'
+  tier: Tier 2 · APL 8 · 2 hours
+  summary: PS-DC-PUB-14 Beneath the Prison Tree Wed 10/28 7-9pm at Online (details
+    in event)
+  link: https://warhorn.net/events/pandodnd/schedule/sessions/585c465f-2857-4223-93a4-cda946811738
