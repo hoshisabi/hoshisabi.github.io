@@ -9,7 +9,7 @@ race: Human
 class: Human Spellfire Sorcerer 5 / Archfey Warlock 5
 alignment: Chaotic Good
 dnd_beyond: https://www.dndbeyond.com/characters/145340705
-image: /rpg/pandodnd/public/images/portraits/matrim.jpeg
+image: /rpg/pandodnd/public/images/portraits/matrim.webp
 ---
 
 ## Appearances

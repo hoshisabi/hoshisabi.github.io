@@ -9,7 +9,7 @@ race: Human
 class: Human Twilight Cleric 10
 alignment: True Neutral
 dnd_beyond: https://www.dndbeyond.com/characters/157952824
-image: /rpg/pandodnd/public/images/portraits/pierce.jpeg
+image: /rpg/pandodnd/public/images/portraits/pierce.webp
 ---
 
 ## Appearances

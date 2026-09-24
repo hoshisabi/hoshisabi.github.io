@@ -7,7 +7,7 @@ player: Mike
 player_slug: bigmikemc
 class: Shadar-kai Paladin 8 (Oath of the Noble Genies) / Warlock 2
 dnd_beyond: https://www.dndbeyond.com/characters/155958783
-image: /rpg/pandodnd/public/images/portraits/tarrig.png
+image: /rpg/pandodnd/public/images/portraits/tarrig.webp
 ---
 
 ## Appearances

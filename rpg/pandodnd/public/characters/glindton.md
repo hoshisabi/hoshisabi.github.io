@@ -7,7 +7,7 @@ player: Ttrpger
 player_slug: ttrpger
 class: Shifter Wizard 7 (Bladesinger)
 dnd_beyond: https://www.dndbeyond.com/characters/170199949
-image: /rpg/pandodnd/public/images/portraits/glindton.png
+image: /rpg/pandodnd/public/images/portraits/glindton.webp
 ---
 
 ## Appearances

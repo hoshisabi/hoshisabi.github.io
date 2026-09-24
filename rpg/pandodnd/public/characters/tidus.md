@@ -7,7 +7,7 @@ player: Ttrpger
 player_slug: ttrpger
 class: Dwarf Fighter 5 (Samurai)
 dnd_beyond: https://www.dndbeyond.com/characters/168459602
-image: /rpg/pandodnd/public/images/portraits/tidus.png
+image: /rpg/pandodnd/public/images/portraits/tidus.webp
 ---
 
 ## Appearances

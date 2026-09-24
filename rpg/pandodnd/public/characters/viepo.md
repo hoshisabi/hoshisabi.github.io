@@ -7,7 +7,7 @@ player: Pete
 player_slug: pete
 class: Shadar-kai Fighter 4 (Arcane Archer)
 dnd_beyond: https://www.dndbeyond.com/characters/170727878
-image: /rpg/pandodnd/public/images/portraits/viepo.png
+image: /rpg/pandodnd/public/images/portraits/viepo.webp
 ---
 
 ## Appearances
