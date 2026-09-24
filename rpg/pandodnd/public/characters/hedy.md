@@ -9,7 +9,7 @@ race: Firbolg
 class: Firbolg Artificer 1 / Diviner Wizard 9
 alignment: Chaotic Good
 dnd_beyond: https://www.dndbeyond.com/characters/142336541
-image: /rpg/pandodnd/public/images/portraits/hedy.jpeg
+image: /rpg/pandodnd/public/images/portraits/hedy.webp
 ---
 
 ## Appearances

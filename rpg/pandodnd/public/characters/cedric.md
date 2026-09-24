@@ -7,7 +7,7 @@ player: Trey
 player_slug: treym
 class: Human Cleric 3 (Life Domain) / Druid 8 (Circle of the Stars) / Warlock 5 (Archfey Patron)
 dnd_beyond: https://www.dndbeyond.com/characters/135089309
-image: /rpg/pandodnd/public/images/portraits/cedric.png
+image: /rpg/pandodnd/public/images/portraits/cedric.webp
 ---
 
 ## Appearances

@@ -7,7 +7,7 @@ player: Ken
 player_slug: kenb
 class: Kenku Rogue 4 (Thief) / Monk 7 (Warrior of Shadow)
 dnd_beyond: https://www.dndbeyond.com/characters/115319745
-image: /rpg/pandodnd/public/images/portraits/darkwing-ducken.png
+image: /rpg/pandodnd/public/images/portraits/darkwing-ducken.webp
 ---
 
 ## Appearances

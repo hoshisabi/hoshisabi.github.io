@@ -7,7 +7,7 @@ player: Trey
 player_slug: treym
 class: Paladin 10
 dnd_beyond: https://www.dndbeyond.com/characters/154737127
-image: /rpg/pandodnd/public/images/portraits/perri.png
+image: /rpg/pandodnd/public/images/portraits/perri.webp
 ---
 
 ## Appearances

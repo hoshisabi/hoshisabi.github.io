@@ -7,7 +7,7 @@ player: Pete
 player_slug: pete
 class: Aasimar Cleric 10 (Arcana Domain)
 dnd_beyond: https://www.dndbeyond.com/characters/170712491
-image: /rpg/pandodnd/public/images/portraits/valintino.jpeg
+image: /rpg/pandodnd/public/images/portraits/valintino.webp
 ---
 
 ## Appearances

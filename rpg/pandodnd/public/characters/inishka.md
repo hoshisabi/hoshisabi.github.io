@@ -7,7 +7,7 @@ player: Patman
 player_slug: patman
 class: Human Sorcerer 2
 dnd_beyond: https://www.dndbeyond.com/characters/171409050
-image: /rpg/pandodnd/public/images/portraits/inishka.jpeg
+image: /rpg/pandodnd/public/images/portraits/inishka.webp
 ---
 
 ## Appearances

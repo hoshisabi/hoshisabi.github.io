@@ -7,7 +7,7 @@ player: Ken
 player_slug: kenb
 class: Gith Fey Wanderer Ranger 5 / Monk 1
 dnd_beyond: https://www.dndbeyond.com/characters/113570473
-image: /rpg/pandodnd/public/images/portraits/neko.png
+image: /rpg/pandodnd/public/images/portraits/neko.webp
 ---
 
 ## Appearances

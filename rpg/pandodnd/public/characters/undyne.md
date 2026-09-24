@@ -7,7 +7,7 @@ player: Ttrpger
 player_slug: ttrpger
 class: Triton Barbarian 14 (Path of the Zealot)
 dnd_beyond: https://www.dndbeyond.com/characters/169501512
-image: /rpg/pandodnd/public/images/portraits/undyne.png
+image: /rpg/pandodnd/public/images/portraits/undyne.webp
 ---
 
 ## Appearances
