@@ -1,12 +1,13 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: Legends of Greyhawk
-session_label: Session 10
-date: September 19, 2026
-title: The Hands of a Healer
-adventure_code: WC-02
-href: /rpg/log/public/sessions/2026-09-19
+campaign: PandoDnD
+session_label: Session 19
+date: September 23, 2026
+title: Spells on the Loose
+adventure_code: FR-DC-LOOSE-001
+href: /rpg/pandodnd/public/sessions/2026-09-23
 excerpt: >-
-  A dying healer wants a successor before she takes her last journey. The only
-  lead is a woman on someone else's ledger — five thousand gold of schooling
-  debt, a cruel count, and a tower full of orcs between her and the road out.
+  Thirteen spells walked out of an apprentice's spellbook and into Luskan. One
+  set fire to the cabbages. One took a liking to antiques. One climbed onto a
+  chair carried by its admirers, smiled too wide, and told the whole street
+  what to do.
