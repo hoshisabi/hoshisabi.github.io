@@ -7,6 +7,10 @@ image_prompt_base: "1930s pulp adventure paperback illustration style, bold line
 image_prompt_tags:
   default: exterior
   exterior: "stark white snow, arctic Icewind Dale setting with snow and ice always present"
-  interior: "interior stone chamber, muted blues and grays with amber warmth, no snow"
+  interior: "enclosed interior, muted blues and grays with amber warmth, no snow"
+  cavern: "natural underground cavern, rough rock walls and deep shadow, no sky, muted blues and grays with amber warmth, no snow"
+  lodge: "timber and hide shelter interior, low roof, firelight, furs and hanging gear, muted blues and grays with amber warmth, no snow"
+  ruins: "ancient ruin interior of worked stone, precise masonry, faded carvings, cold still air, muted blues and grays with amber warmth, no snow"
+  camp: "snowbound camp of hide tents and cookfires, stark white snow, arctic Icewind Dale setting with snow and ice always present"
   treasure: "close-up magical object on dark stone,paperback illustration style, bold linework, limited color palette"
 # Player/character details live in dm/characters/pcs/

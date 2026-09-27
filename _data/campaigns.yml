@@ -1,15 +1,15 @@
 # Campaigns featured on the landing page.
 running:
   - title: Icewind Dale
-    sub: AL · 5e · in person at Pandemonium Games
+    sub: Homebrew · 5e · in person at Pandemonium Games
     desc: >-
-      A cold, brutal struggle in the freezing north. Adventurers League
-      Dungeoncraft, ongoing.
+      A cold, brutal struggle in the freezing north. Began as Adventurers
+      League Dungeoncraft; homebrew since Session 20.
     status: active
-    organized_play: Adventurers League
-    sessions: 19
+    organized_play: Homebrew
+    sessions: 20
     started: Apr 2026
-    last_updated: "2026-09-18"
+    last_updated: "2026-09-25"
     href: /rpg/icewind-dale/public/
 
   - title: PandoDnD
@@ -155,4 +155,4 @@ playing:
 # Stats displayed in the telemetry strip on the landing page.
 stats:
   active_campaigns: 2
-  sessions_logged: 65
+  sessions_logged: 66
