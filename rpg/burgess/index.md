@@ -26,7 +26,7 @@ He carries a fey quirk from his time lost: he is compelled to knock before enter
 Any door. Every door. This made his career as a thief complicated.
 
 **Class:** Rogue (Soulknife) — DEX 20, psychic blades, expert at moving unseen and unheard.
-Feats include Healer and Sharpshooter; expertise in Perception, Stealth, Thieves' Tools, and
+Feats include Skilled, Sharpshooter, and Skulker; expertise in Perception, Stealth, Thieves' Tools, and
 Sleight of Hand.
 
 **Notable items recovered during the campaign:**
