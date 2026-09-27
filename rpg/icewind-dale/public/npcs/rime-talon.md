@@ -17,4 +17,4 @@ A name Ulfe carried to Coldpeak in Session 15 — the thing that struck the Elk 
 
 Only the name, and a death, and the cold that came with it.
 
-> **Before the Reweave** — In the never-was there was no Rime Talon. The killer that stalked the Dale in those first weeks was [Rimetalon](rimetalon), an owlbear that Durok had named. The [Reweave](arveth) rewrote that thread; if the old name surfaces in memory, it surfaces as half-rumor, not error.
+> **Before the Reweave** — In the unwoven there was no Rime Talon. The killer that stalked the Dale in those first weeks was [Rimetalon](rimetalon), an owlbear that Durok had named. The [Reweave](arveth) rewrote that thread; if the old name surfaces in memory, it surfaces as half-rumor, not error.
