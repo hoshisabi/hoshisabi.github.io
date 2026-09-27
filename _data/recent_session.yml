@@ -1,12 +1,12 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: Legends of Greyhawk
-session_label: Session 11
-date: September 26, 2026
-title: Mud and Mushrooms
-adventure_code: LoI 3-1
-href: /rpg/log/public/sessions/2026-09-26
+campaign: Icewind Dale
+session_label: Session 20
+date: September 25, 2026
+title: Still Waters
+adventure_code: FR-DC-PND-AO-20
+href: /rpg/icewind-dale/public/sessions/2026-09-25
 excerpt: >-
-  A marsh village is forgetting itself one name at a time, and every doorway is
-  hung with funeral flowers tipped a blue they shouldn't be. The cure grows in a
-  bullywug cave, where two frogs in charge each want the other one dead.
+  A page in River's own hand, from a River who never lived this life. A map
+  that is also a door, a waterfall that should not be frozen, black water under
+  crystal, and at the end of the stream, still water that goes nowhere.
