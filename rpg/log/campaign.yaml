@@ -3,6 +3,10 @@ name: Legends of Greyhawk
 dm: Bryan
 type: campaign
 image_prompt_base: "dungeons and dragons, heroic fantasy, dramatic lighting, absolutely no text, no letters, no words, no labels anywhere in the image"
+image_prompt_tags:
+  default: exterior
+  exterior: "outdoor scene in the World of Greyhawk, open sky, natural landscape"
+  interior: "indoor scene, enclosed space lit by torchlight or candlelight"
 players:
   - player: Brian
     character: Citl-Itzam

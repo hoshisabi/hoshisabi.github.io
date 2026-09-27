@@ -1,13 +1,12 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: PandoDnD
-session_label: Session 19
-date: September 23, 2026
-title: Spells on the Loose
-adventure_code: FR-DC-LOOSE-001
-href: /rpg/pandodnd/public/sessions/2026-09-23
+campaign: Legends of Greyhawk
+session_label: Session 11
+date: September 26, 2026
+title: Mud and Mushrooms
+adventure_code: LoI 3-1
+href: /rpg/log/public/sessions/2026-09-26
 excerpt: >-
-  Thirteen spells walked out of an apprentice's spellbook and into Luskan. One
-  set fire to the cabbages. One took a liking to antiques. One climbed onto a
-  chair carried by its admirers, smiled too wide, and told the whole street
-  what to do.
+  A marsh village is forgetting itself one name at a time, and every doorway is
+  hung with funeral flowers tipped a blue they shouldn't be. The cure grows in a
+  bullywug cave, where two frogs in charge each want the other one dead.
