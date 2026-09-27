@@ -126,12 +126,13 @@ playing:
     last_updated: "2020-03-05"
 
   - title: Cadwell
-    sub: Half-elf Warlock 14 (Great Old Ones)
+    sub: Half-elf Warlock 13 (Great Old One)
     desc: >-
-      Young noble of Waterdeep, born of his father's indiscretions. His father's wife was the one with the money and
-      status, so she never approved of his birth. They provided him with the necessities to not be a pauper, but never
-      fully accepted him. So he set out to prove his worth to his family, and in the process, became awarded high honors
-      from the Blackstaff and Waterdeep.
+      Half a noble of Waterdeep: the son of Regnet Amcathra, but, as his ears make plain, not of Regnet's wife. She
+      never lets her husband forget it, and would prefer the rest of the city forgot "the other child" entirely. In
+      public, a fashionable Harper with honors from the Blackstaff and the city. In private, a warlock whose rooms hold
+      forgotten lore, a kitten that occasionally melts, and a miniature froghemoth named Xang, kept hidden and very
+      quiet.
     dm: Kate Hoff
     status: active
     organized_play: Adventurers League
