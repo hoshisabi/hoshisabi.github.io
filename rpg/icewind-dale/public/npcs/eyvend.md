@@ -8,7 +8,7 @@ role: Watchman
 race: Human
 status: Dead — Session 19
 timeline: rewoven
-altered_by: reweave
+altered_by: rethreading
 image: /rpg/icewind-dale/public/npcs/images/eyvend.png
 image_prompt: "a lean weathered man of about forty in layered elk-hide furs and a fur-lined hood, standing alone and empty-handed at the edge of a canyon rim at first light, watching the far slope, grief settled deep in his face but his posture upright and alert, a man who has decided to keep watch, a ravine camp of hide tents far below him"
 ---
@@ -23,4 +23,4 @@ He took the watch on the ridge the next morning and kept it. He saw the elementa
 
 The morning after the siege, the Elk came to hear his story from Joseph, the one man who had sat with him. That night the tribe held its first telling under the new custom, and he was the first one told. The camp gave Joseph a name for it: Thread Giver. ([Session 20](../sessions/2026-09-25))
 
-> **Before the Reweave**: In the never-was, nobody sat with him at the feast, and he never went to his post. No one was watching the ridge, so the elementals came down through the rim unseen and the camp took it for a rockslide. Elk died under the stone. Eyvend lived. Only Father Joseph remembers it that way. [Arveth](arveth) rewove it in Session 19; memories surface as half-rumor, not error.
+> **Before the Rethreading**: In the unwoven, nobody sat with him at the feast, and he never went to his post. No one was watching the ridge, so the elementals came down through the rim unseen and the camp took it for a rockslide. Elk died under the stone. Eyvend lived. Only Father Joseph remembers it that way. The [Rethreading](arveth) rewrote it in Session 19; memories surface as half-rumor, not error.
