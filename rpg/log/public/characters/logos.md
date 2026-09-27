@@ -6,11 +6,11 @@ title: Logos
 player: Dan
 player_slug: dan
 race: Elf
-class: Wizard 2
+class: Wizard 3 (Diviner)
 background: Acolyte
 dnd_beyond: https://www.dndbeyond.com/characters/162145916
 log_sheet: https://www.greyhawklogsheet.com/share/90bc3ccb-f875-4f08-bb91-c45fa10fb17c?character=Logos
-image: https://www.dndbeyond.com/avatars/55166/28/1581111423-162145916.jpeg
+image: /rpg/log/public/images/portraits/logos.webp
 ---
 
 ## Appearances
@@ -19,5 +19,6 @@ image: https://www.dndbeyond.com/avatars/55166/28/1581111423-162145916.jpeg
 - **2026-08-08** — [Session 6 (August 8, 2026)](../sessions/2026-08-08) (*Behind Enemy Lines*)
 - **2026-08-08b** — [Session 7 (August 8, 2026)](../sessions/2026-08-08b) (*Delija's Vault*)
 - **2026-08-09** — [Session 1 (August 9, 2026)](../sessions/2026-08-09) (*United Front*)
+- **2026-09-26** — [Session 11 (September 26, 2026)](../sessions/2026-09-26) (*Mud and Mushrooms*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
