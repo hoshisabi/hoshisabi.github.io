@@ -1,12 +1,12 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: Icewind Dale
+campaign: PandoDnD
 session_label: Session 20
-date: September 25, 2026
-title: Still Waters
-adventure_code: FR-DC-PND-AO-20
-href: /rpg/icewind-dale/public/sessions/2026-09-25
+date: September 30, 2026
+title: A Thousand Tiny Deaths
+adventure_code: DDAL06-01
+href: /rpg/pandodnd/public/sessions/2026-09-30
 excerpt: >-
-  A page in River's own hand, from a River who never lived this life. A map
-  that is also a door, a waterfall that should not be frozen, black water under
-  crystal, and at the end of the stream, still water that goes nowhere.
+  A storm, a dead man's journal, and a map to a mountain called Stone Tooth.
+  Behind the tripwires and arrow slits lived kobolds who had only ever been
+  guarding what was theirs.
