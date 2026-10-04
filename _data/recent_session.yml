@@ -1,12 +1,12 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: PandoDnD
-session_label: Session 20
-date: September 30, 2026
-title: A Thousand Tiny Deaths
-adventure_code: DDAL06-01
-href: /rpg/pandodnd/public/sessions/2026-09-30
+campaign: Icewind Dale
+session_label: Session 21
+date: October 2, 2026
+title: Tribe of the Weaver
+adventure_code: FR-DC-PND-AO-21
+href: /rpg/icewind-dale/public/sessions/2026-10-02
 excerpt: >-
-  A storm, a dead man's journal, and a map to a mountain called Stone Tooth.
-  Behind the tripwires and arrow slits lived kobolds who had only ever been
-  guarding what was theirs.
+  A eulogy for a man you barely knew, a name the Elk give themselves, a
+  mountain that is suddenly closer than it ever was, and six words from a
+  voice in the dark: coming north, shelter please.
