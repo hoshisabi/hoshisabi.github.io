@@ -16,3 +16,5 @@ Twenty years on perimeter watch. Has seen most things, has a category for everyt
 Found the mud creature at the edge of camp before dawn. It was trudging in from the east, carrying a dagger, asking for Dr. Medicine by name. Tarsk considered his options and sent the younger guard to inform the party they had a visiting dignitary. He was completely serious. The tribe prepared a small dinner.
 
 He notices things. Remembers them. Answers direct questions without elaboration, volunteers nothing unprompted. Not Kaarsk's man. Not Savin's. That's a rarer thing in camp than it sounds.
+
+In [Session 17](../sessions/2026-08-29) he volunteered for the war party to the Elk ravine, a guard eager for a real fight, and he got one. In [Session 18](../sessions/2026-09-11) he ran down from the high approach with Berg and Hauk to join the Elk hunters against the mist-and-frost elementals. He is walking back to Coldpeak with the column.

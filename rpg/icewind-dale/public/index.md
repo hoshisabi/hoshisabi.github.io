@@ -16,11 +16,13 @@ status: Active
 
 ---
 
-Icewind Dale does not care whether you survive. The cold is not malicious — it is simply indifferent, and indifferent things are harder to reason with than hostile ones. The blizzards come without warning and last without mercy. The snow hides rivers, the ice hides drops, and the things that live out here have adapted to conditions that kill travelers in hours. The party has survived three sessions of this. Barely, and not without cost.
+Icewind Dale does not care whether you survive. The cold is not malicious — it is simply indifferent, and indifferent things are harder to reason with than hostile ones. The blizzards come without warning and last without mercy. The snow hides rivers, the ice hides drops, and the things that live out here have adapted to conditions that kill travelers in hours.
 
-What they have found, besides frostbite and exhaustion, is the Coldpeak — an orc tribe who have carved out a life in these mountains by being harder than what the mountains throw at them. The tribe has its own problems: a shaman gone missing, hunters disappearing, and something large and deliberate leaving messages in goat entrails at the camp entrance. The party arrived as outsiders. They are still outsiders. But they have fought beside Kaarsk and earned something that might, eventually, become trust.
+The party came to the Dale as outsiders and found the Coldpeak, an orc tribe who carved out a life in these mountains by being harder than what the mountains throw at them. Twenty sessions later, the party is responsible for them. Durok's oasis feeds the camp. Something from the northwest keeps sending elementals against it, and the compass rose on their cores is the Arcane Brotherhood's. A giant bird called Rime Talon takes people and doesn't bring them back.
 
-The blizzard outside the camp reads: *Soon.*
+There is also the mountain over there, which has a name now, Arveth, and a guardian, Father Joseph. Twice the world has been rewoven around a deal with her. Joseph remembers what changed and nobody else does. River sometimes meets the versions of himself that were left behind.
+
+Now the party is bringing the Elk home to Coldpeak under a new name, the Tribe of the Weaver, and the mountain is closer than it used to be.
 
 ---
 

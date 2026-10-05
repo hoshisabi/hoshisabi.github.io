@@ -5,7 +5,7 @@ layout: npc
 title: Arveth
 image: /rpg/icewind-dale/public/npcs/images/arveth.png
 role: The Mountain Over There
-status: Guardian established — Doctor Medicine accepted the Guardianship and committed to her as patron (Great Old One) at close of Session 12
+status: Father Joseph's patron; busy since the Rethreading
 image_prompt: "Surreal cosmic illustration, deep space void in blacks and cold indigo, geometric white light striations converging into the suggestion of a vast mountain face within the stars, as though the mountain and the cosmos are the same thing, patient and ancient beyond measure, a faint sense of watching from everywhere at once, no text, no letters, no words anywhere in the image"
 ---
 
@@ -24,3 +24,9 @@ The terms are settled. [Doctor Medicine](../characters/dr-medicine) carries a pe
 Arveth communicates through images to anyone who is awake and present: stone, depth, web, a thread plucked and vibrating through the whole chain. No words. When she speaks directly — bypassing images entirely, making contact — the recipient goes still. Comatose. The vision comes from inside. To the rest of the room they just stop. What the recipient experiences is something vast and loud, even at a whisper.
 
 She does not experience urgency as a category. The pace of what she offers is the pace of mountains.
+
+## Since the bargain
+
+- **The second stone ([Session 16](../sessions/2026-08-21)).** Arveth reached out to Father Joseph unasked and offered a bargain: plant a stone from the mountain in the Coldpeak camp, and the home would be safe while the party was gone. [Clod](clod) delivered a plain brown pebble, and Joseph buried it at the center of camp.
+- **The Rethreading ([Session 19](../sessions/2026-09-18)).** In the middle of the fight in the Elk ravine, she called Joseph back to the night before and asked him to talk to a watchman who had given up. He did, on a natural 20. When he came back, the watchman, [Eyvend](eyvend), had raised the alarm this time and died for it, and the Elk had started telling each other's stories.
+- **Busy ([Session 21](../sessions/2026-10-02)).** When the Elk renamed themselves the Tribe of the Weaver, Joseph went cold. Everything they said sounded like worship of her, and for a moment he saw her as a spider and a mountain at once. When he reached for her afterward, she wasn't listening. A whole tribe's worth of stories had just landed in her lap.

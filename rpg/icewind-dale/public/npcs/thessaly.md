@@ -6,7 +6,7 @@ title: Thessaly Vorn
 association: Arcane Brotherhood
 role: Field researcher (Luskan)
 race: Gnome
-status: Active — first appeared Session 11
+status: Coming north, asking for shelter (Session 21)
 image: /rpg/icewind-dale/public/npcs/images/thessaly.png
 image_prompt: "Bold comic book illustration style, high contrast strong linework, limited color palette of blue-grays and deep cobalt with snow, dramatic lighting, arctic Icewind Dale setting, no text — a small slight woman with sharp watchful eyes and cropped dark hair, wearing a heavy fur-trimmed scholar's coat with Brotherhood insignia pinned at the collar, a leather-bound journal tucked under one arm and a quill case at her hip, expression of precise professional attention, mountain backdrop and cold clear sky behind her"
 ---
@@ -24,3 +24,13 @@ This is worth noting because it makes her unusual in her organization. The Arcan
 She is junior enough to be recruited, ignored, or manipulated — but not easily deceived, and not the sort to forget a debt. A senior name from Luskan has already taken an interest in her field report. She doesn't know that yet.
 
 There is also the matter of Aldric. He is too young for her, and thoroughly human in the way that means the arithmetic eventually becomes unkind — gnome years make this more complicated than it sounds, and she is aware of exactly how complicated it is. He is also, she cannot help noticing, quite beautiful, and genuinely fond of her in a way that carries no ulterior motive she has been able to identify after considerable study. That is what she cannot quite settle. She is excellent at handling people who want something from her. She is considerably less certain what to do with someone who simply wants her to be happy. She cares for him. She knows that. What she has not yet decided is what that means, or what she is willing to let it become.
+
+## The outpost
+
+In [Session 13](../sessions/2026-07-24) the party found her at the Brotherhood's outpost, a hunting lodge outside Caer-Konig. She had been working through Renier's journal and had reached the same conclusion they had from the other side: five sites, five crystals, five anchors for a Netherese spell she believed was still active. She didn't know whether stopping it would be good or catastrophic, and her advice was to find out before doing either.
+
+Then [Sarevyn Cole](sarevyn-cole), the expedition's leader, invited everyone to dinner. Near the end of it, [Aldric](aldric) took off his gloves, and the back of his hand showed a scar from a blade that had missed a clean cut. Thessaly gasped. Sarevyn's expression changed for exactly one moment, and then he made a note. The dinner ended shortly after.
+
+## Coming north
+
+At dawn in [Session 21](../sessions/2026-10-02), her voice spoke in Alina's head: *"Thessaly Vorn. Need help urgently. Can't explain in 20 words. Coming north, will you shelter? Please answer."* Alina answered, *"Yes, we will shelter. Hurry. On our way to Coldpeak."* Nobody knows yet who "us" is.
