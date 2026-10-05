@@ -16,3 +16,13 @@ Hunters who go within a mile of the base begin to feel it — not words, just th
 Clod guarded it briefly, by prior arrangement with Dr. Medicine. He returned with a report: a gap in the stone face of the mountain behind them, darkness inside that was warmer than it should have been. He did not go inside. He prefered to return the responsibility of guarding to Dr. Medicine.
 
 Broken Tusk's final word on the subject: *"The more it is thought about, the more present it becomes."*
+
+## Arveth
+
+The tribe still won't name it, but the party knows the name of what's behind it: [Arveth](../npcs/arveth). In [Session 12](../sessions/2026-07-17), Clod led them through a tunnel into a round chamber of dark rock shot through with white striations that seem to move when you look at them. Arveth spoke there in images, of the Dale's mountains as a single web, and Dr. Medicine swallowed a pebble from her and became her guardian. He has been Father Joseph, her warlock, ever since.
+
+Others have heard from it too. [Durok](../npcs/durok) told the party in [Session 16](../sessions/2026-08-21) that the mountain had offered his people greatness and protection, at the cost of "you and others like you," and that he turned it down. That same night, at Arveth's request, Joseph buried a second stone from the mountain at the center of Coldpeak.
+
+## Closer than it was
+
+In [Session 21](../sessions/2026-10-02), the trip back from the Elk ravine took a day and a half, against three days on the way out, and the mountain was in sight by the end of the first day. Everyone in the column says it has always been a one-day walk. Joseph had just asked his earth elemental to deal with that mountain over there, and he has his own theory about it.
