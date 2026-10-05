@@ -38,6 +38,7 @@ The party doesn't own a castle. You're responsible for a camp: **Coldpeak, the T
 
 - You each start with **two special facilities**, chosen from the menu below. More come as the camp grows. How that works will be decided later.
 - Special facilities **can't be bought with gold**.
+- **Some facilities are earned through the story**, not picked. Facilities already in the fiction, run by someone in the camp, may come with their own way to earn them.
 - You can pick any facility on the menu that you meet the requirement for. If a facility fits your character but not its requirement exactly, ask. Reskins are welcome.
 
 ### What gold buys
@@ -83,7 +84,7 @@ Every facility available at 9th level. Each order type is in brackets. **People 
 | Facility | What it does | Could be run by |
 |---|---|---|
 | **Gaming Hall** [Trade] | Games of chance at camp. Brings in gold, sometimes a lot. | |
-| **Greenhouse** [Harvest] | Grows fruit that cures like *Lesser Restoration* (good against exhaustion), plus healing potions or poisons. | Durok (his oasis is already here) |
+| **Greenhouse** [Harvest] | Grows fruit that cures like *Lesser Restoration* (good against exhaustion), plus healing potions or poisons. | Durok's oasis is already one, and it's his. It isn't free, and how a sponsor earns a place in it will come through the story. |
 | **Laboratory** [Craft] | Alchemy: potions and poisons. | |
 | **Sacristy** [Craft] | Holy water and sacred magic items, and helps a caster recover a spell. *Needs a holy symbol or druidic focus.* | |
 | **Scriptorium** [Craft] | Copies books and makes spell scrolls. | |

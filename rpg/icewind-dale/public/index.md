@@ -10,7 +10,7 @@ status: Active
 
 # Icewind Dale
 
-*A D&D 5e Adventurers League campaign, run at Pandemonium Games.*
+*A D&D 5e home campaign run at Pandemonium Games. It started in Adventurers League and has been a home game since Session 20.*
 
 **[House Rules](house-rules)**: magic items, leveling, gold, and the camp.
 
