@@ -4,6 +4,8 @@ campaign_name: Icewind Dale
 layout: lore
 title: House Rules
 category: Table rules
+image: /rpg/icewind-dale/public/images/house-rules.png
+image_prompt: "[interior] close view of a sturdy wooden game table seen from slightly above, scattered polyhedral dice, an unlabeled hand-drawn map with tiny carved tents and figures standing on it, no writing on the map, blank parchment sheets and a pencil, a pewter mug, a folded cardboard screen at the far edge, lit by a hanging lantern and a few candles, warm amber light against cool shadow"
 ---
 
 From Session 20 on, this campaign runs outside Adventurers League. Your characters' AL logs are parked and still valid. The rules below are the ones we agreed at the table, and they change when the table agrees to change them.

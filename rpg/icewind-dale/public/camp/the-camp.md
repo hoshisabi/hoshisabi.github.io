@@ -5,6 +5,8 @@ layout: location
 title: The Camp
 association: Coldpeak and the Tribe of the Weaver
 status: Picks pending
+image: /rpg/icewind-dale/public/camp/images/the-camp.png
+image_prompt: "[camp] wide view of a sheltered mountain hollow ringed by sheer dark cliffs and cave mouths, hide tents clustered around cookfires, a long line of fur-clad travelers with packs and elk-drawn sledges winding down into the hollow from a snowy ravine, tusked gray-green tribespeople with spears waiting at the hollow's mouth to greet them, a broad cavern hall glowing with firelight at the back, a thread of warm steam rising from a cleft in the far cliff"
 ---
 
 The camp the party is responsible for: [Coldpeak](../locations/coldpeak-camp), the Tribe of the Weaver arriving from the Elk ravine, and [Durok's oasis](../locations/duroks-spring). This page shows the camp as it stands. It's updated after each Bastion turn. The rules are on [House Rules](../house-rules).
