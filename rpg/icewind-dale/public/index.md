@@ -12,6 +12,8 @@ status: Active
 
 *A D&D 5e Adventurers League campaign, run at Pandemonium Games.*
 
+**[House Rules](house-rules)**: magic items, leveling, gold, and the camp.
+
 ---
 
 Icewind Dale does not care whether you survive. The cold is not malicious — it is simply indifferent, and indifferent things are harder to reason with than hostile ones. The blizzards come without warning and last without mercy. The snow hides rivers, the ice hides drops, and the things that live out here have adapted to conditions that kill travelers in hours. The party has survived three sessions of this. Barely, and not without cost.
@@ -55,6 +57,21 @@ The blizzard outside the camp reads: *Soon.*
 </a>
 {% endfor %}
 </div>
+
+## The Camp
+
+{% assign camp = site.pages | where_exp: "p", "p.path contains 'icewind-dale/public/camp/'" | sort: "title" %}
+<div class="npc-grid">
+{% for entry in camp %}
+<a href="{{ entry.url }}" class="npc-card">
+  {% if entry.image %}<img src="{{ entry.image }}" alt="{{ entry.title }}">{% else %}<div class="npc-no-image"></div>{% endif %}
+  <span>{{ entry.title }}</span>
+  {% if entry.status %}<span class="card-player">{{ entry.status }}</span>{% endif %}
+</a>
+{% endfor %}
+</div>
+
+Rules for building and running the camp are on [House Rules](house-rules).
 
 ## Notable NPCs
 
