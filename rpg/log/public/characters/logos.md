@@ -34,5 +34,6 @@ His weakness: give him three good options and a time limit, and he'll ask for a 
 - **2026-08-08b** — [Session 7 (August 8, 2026)](../sessions/2026-08-08b) (*Delija's Vault*)
 - **2026-08-09** — [Session 1 (August 9, 2026)](../sessions/2026-08-09) (*United Front*)
 - **2026-09-26** — [Session 11 (September 26, 2026)](../sessions/2026-09-26) (*Mud and Mushrooms*)
+- **2026-09-27** — [Session 12 (September 27, 2026)](../sessions/2026-09-27) (*Nightmare Beneath the Mire*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
