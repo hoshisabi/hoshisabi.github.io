@@ -1,12 +1,13 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: Icewind Dale
+campaign: PandoDnD
 session_label: Session 21
-date: October 2, 2026
-title: Tribe of the Weaver
-adventure_code: FR-DC-PND-AO-21
-href: /rpg/icewind-dale/public/sessions/2026-10-02
+date: October 7, 2026
+title: Spells Gone Wild
+adventure_code: FR-DC-LOOSE-002
+href: /rpg/pandodnd/public/sessions/2026-10-07
 excerpt: >-
-  A eulogy for a man you barely knew, a name the Elk give themselves, a
-  mountain that is suddenly closer than it ever was, and six words from a
-  voice in the dark: coming north, shelter please.
+  The scroll that ruined Breeze Soak's ritual came from a shop in Rat Alley,
+  where the owner keeps a bandage on his hand and a suit of armor that won't
+  stay still. Under a warehouse on Dragon's Beach, someone is chanting to Vecna
+  in Draconic.
