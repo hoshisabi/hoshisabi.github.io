@@ -661,7 +661,7 @@ body.home h2 { border-bottom: none; padding-bottom: 0; }
 }
 .adventure-card-inner {
   display: grid;
-  grid-template-columns: 140px 1fr;
+  grid-template-columns: 172px 1fr;
   align-items: stretch;
   min-height: 100%;
   text-decoration: none;
@@ -669,29 +669,21 @@ body.home h2 { border-bottom: none; padding-bottom: 0; }
 }
 .adventure-card-inner:hover { color: var(--text); }
 
+/* Cover sits inset like a book on a shelf, top-aligned with the title. */
 .adventure-card-image {
   position: relative;
-  width: 140px;
-  background: var(--card-grad-soft);
-  overflow: hidden;
-  border-right: 1px solid var(--border);
+  width: 172px;
+  padding: 1.15rem 0 1.15rem 1.25rem;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: center;
-}
-.adventure-card-image::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: var(--img-fade);
-  pointer-events: none;
 }
 .adventure-card-image img {
   width: 100%;
   height: auto;
-  max-height: 100%;
   display: block;
-  object-fit: contain;
+  border-radius: 4px;
+  box-shadow: var(--shadow-card), 0 0 0 1px var(--border);
   transition: transform 0.5s ease;
 }
 .adventure-card:hover .adventure-card-image img {
@@ -854,12 +846,12 @@ body.home h2 { border-bottom: none; padding-bottom: 0; }
   border-color: rgba(var(--accent-2-rgb),0.20);
 }
 .adventure-card.is-bundle .adventure-card-inner {
-  grid-template-columns: 90px 1fr auto;
+  grid-template-columns: 110px 1fr auto;
   align-items: center;
 }
 .adventure-card.is-bundle .adventure-card-image {
-  width: 90px;
-  border-right: 1px solid var(--border);
+  width: 110px;
+  padding: 0.9rem 0 0.9rem 1.25rem;
 }
 .adventure-card.is-bundle .adventure-card-body {
   padding: 0.9rem 1.25rem;
@@ -886,11 +878,18 @@ body.home h2 { border-bottom: none; padding-bottom: 0; }
   .adventure-grid { grid-template-columns: 1fr; }
   .adventure-series .series-head { grid-template-columns: 1fr; align-items: start; gap: 0.4rem; }
   .adventure-series h2 { font-size: 1.55rem; }
-  .adventure-card-inner { grid-template-columns: 110px 1fr; }
-  .adventure-card-image { width: 110px; }
-  .adventure-card.is-bundle .adventure-card-inner { grid-template-columns: 70px 1fr; }
-  .adventure-card.is-bundle .adventure-card-image { width: 70px; }
+  .adventure-card-inner { grid-template-columns: 126px 1fr; }
+  .adventure-card-image { width: 126px; padding: 1rem 0 1rem 1rem; }
+  .adventure-card.is-bundle .adventure-card-inner { grid-template-columns: 86px 1fr; }
+  .adventure-card.is-bundle .adventure-card-image { width: 86px; padding: 0.9rem 0 0.9rem 1rem; }
   .adventure-card.is-bundle .bundle-flag { display: none; }
+}
+
+/* Phones: cover above the text so the description gets the full card width. */
+@media (max-width: 480px) {
+  .adventure-card:not(.is-bundle) .adventure-card-inner { grid-template-columns: 1fr; }
+  .adventure-card:not(.is-bundle) .adventure-card-image { width: auto; padding: 1.15rem 1.25rem 0; justify-content: flex-start; }
+  .adventure-card:not(.is-bundle) .adventure-card-image img { width: 120px; }
 }
 
 /* NPC / PC / Location pages */
