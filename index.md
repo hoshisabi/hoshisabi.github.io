@@ -44,6 +44,9 @@ home: true
     <a class="lp-btn ghost" href="https://warhorn.net/events/pandodnd/schedule" target="_blank" rel="noopener">
       PandoDnD schedule
     </a>
+    <a class="lp-btn ghost" href="{{ '/ucon/' | relative_url }}">
+      U-Con 2026
+    </a>
     <a class="lp-btn ghost" href="https://aladventurecatalog.com/" target="_blank" rel="noopener">
       AL Adventure Catalog
     </a>
@@ -291,24 +294,22 @@ home: true
     <div>
       <div class="ucon-eyebrow">U-Con · Ann Arbor · Eagle Crest</div>
       <h3>Adventurers League & Legends of Greyhawk — both tracks, one room.</h3>
+      {% include ucon-counts.html %}
       <p>U-Con 2026 is on the horizon and we're running two organized play programs this year: the familiar
-      <strong>Adventurers League</strong> and the newly launched <strong>Legends of Greyhawk</strong>.
-      Nine LoG adventures confirmed, more may follow before November.</p>
-      <p>If you're a DM who wants to run games, or a player who wants to sit at our tables,
-      get in touch. Convention details at <a href="https://www.ucon-gaming.org/">ucon-gaming.org</a>.</p>
+      <strong>Adventurers League</strong> and the newly launched <strong>Legends of Greyhawk</strong> —
+      {{ ucon_al_count }} AL and {{ ucon_log_count }} LoG adventures across the weekend.</p>
+      <p>Registration is open on <a href="https://tabletop.events/conventions/u-con-2026">Tabletop.Events</a>,
+      and tables are filling. Convention details at <a href="https://www.ucon-gaming.org/">ucon-gaming.org</a>.</p>
       <p style="margin-bottom: 0;">
-        <a class="lp-btn ghost" href="{{ '/ucon-dms' | relative_url }}">
-          Volunteer to DM {% include icons.html name="arrow" %}
+        <a class="lp-btn ghost" href="{{ '/ucon/' | relative_url }}">
+          Our U-Con tables {% include icons.html name="arrow" %}
         </a>
       </p>
     </div>
     <div class="ucon-cause">
       <div class="ucon-cause-lbl">★ Fundraiser</div>
       <div class="ucon-cause-name">Doctors Without Borders</div>
-      <div class="ucon-cause-desc">Charity rerolls at every table. Players can donate at AL HQ during the convention, or give directly via the link below.</div>
-      <a class="ucon-cause-btn" href="https://events.doctorswithoutborders.org/index.cfm?fuseaction=donordrive.personalCampaign&participantID=8648">
-        Donate {% include icons.html name="arrow" %}
-      </a>
+      <div class="ucon-cause-desc">Charity rerolls at every table. Donations are collected at AL HQ during the convention.</div>
     </div>
   </div>
 </section>

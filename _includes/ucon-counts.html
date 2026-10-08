@@ -1,0 +1,12 @@
+{%- comment -%}
+  Counts distinct adventures per program from _data/ucon-2026-schedule.json
+  (written by ucondms/scripts/publish_schedule.py). An adventure can have
+  several rows (one per tier), so count unique codes rather than rows.
+  Sets: ucon_al_count, ucon_log_count, ucon_slot_count.
+{%- endcomment -%}
+{%- assign _ucon = site.data.ucon-2026-schedule -%}
+{%- assign _ucon_rows = "" | split: "" -%}
+{%- for _s in _ucon.sections -%}{%- assign _ucon_rows = _ucon_rows | concat: _s.rows -%}{%- endfor -%}
+{%- assign ucon_al_count = _ucon_rows | where: "program", "AL" | map: "code" | uniq | size -%}
+{%- assign ucon_log_count = _ucon_rows | where: "program", "LoG" | map: "code" | uniq | size -%}
+{%- assign ucon_slot_count = _ucon.slot_columns | size -%}

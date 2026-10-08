@@ -18,7 +18,7 @@ Click a **DM initial** to open that table's event page on Tabletop.Events, where
 [All our events on Tabletop.Events](https://tabletop.events/conventions/u-con-2026/schedule#?query=U-Con%20Adventurers%20League) -
 [Our Adventurers League events](https://tabletop.events/conventions/u-con-2026/schedule#?query=(AL)) -
 [Our Legends of Greyhawk events](https://tabletop.events/conventions/u-con-2026/schedule#?query=(LoG))
-[DM volunteer info]({{ '/ucon-dms' | relative_url }})
+[About our U-Con tables]({{ '/ucon/' | relative_url }})
 
 {% include ucon-schedule-grid.html %}
 
@@ -31,4 +31,4 @@ Click a **DM initial** to open that table's event page on Tabletop.Events, where
 
 ---
 
-[← Back to DM volunteer page]({{ '/ucon-dms' | relative_url }})
+[← Back to U-Con 2026]({{ '/ucon/' | relative_url }})
