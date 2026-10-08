@@ -1,0 +1,44 @@
+<script>
+  // Hides PandoDnD schedule entries that have already ended.
+  // The schedule data only refreshes once a day, so without this the page
+  // keeps showing last night's session as "up next" until the next rebuild.
+  // data-end is a Unix timestamp (seconds), so this is timezone-independent.
+  (function () {
+    var now = Date.now() / 1000;
+    document.querySelectorAll('[data-schedule]').forEach(function (box) {
+      var limit = box.dataset.schedule === 'upnext' ? 1 : parseInt(box.dataset.limit, 10) || Infinity;
+      var shown = 0;
+      box.querySelectorAll('[data-end]').forEach(function (el) {
+        var upcoming = parseInt(el.dataset.end, 10) > now;
+        var show = upcoming && shown < limit;
+        el.hidden = !show;
+        el.classList.toggle('is-next', show && shown === 0);
+        if (show) shown++;
+      });
+      var empty = box.parentElement.querySelector('[data-schedule-empty]');
+      if (empty) empty.hidden = shown > 0;
+    });
+  })();
+
+  // Session times are printed in Eastern time. For visitors elsewhere, add
+  // the same moment in their own time zone and locale. Skipped when the
+  // visitor's local time matches Detroit's, so Eastern visitors see no change.
+  (function () {
+    if (!window.Intl || !Intl.DateTimeFormat) return;
+    var parts = { weekday: 'short', month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' };
+    var local = new Intl.DateTimeFormat(undefined, parts);
+    var localWithZone = new Intl.DateTimeFormat(undefined, Object.assign({ timeZoneName: 'short' }, parts));
+    var eastern;
+    try {
+      eastern = new Intl.DateTimeFormat(undefined, Object.assign({ timeZone: 'America/Detroit' }, parts));
+    } catch (e) {
+      return;
+    }
+    document.querySelectorAll('[data-local-time]').forEach(function (el) {
+      var when = new Date(parseInt(el.dataset.localTime, 10) * 1000);
+      if (isNaN(when) || local.format(when) === eastern.format(when)) return;
+      el.textContent = 'Your time: ' + localWithZone.format(when);
+      el.hidden = false;
+    });
+  })();
+</script>
