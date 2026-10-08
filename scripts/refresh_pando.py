@@ -93,17 +93,22 @@ def parse_entries(xml_bytes: bytes) -> list[dict]:
                 link = ln.get("href", "")
                 break
 
-        # Start time — gd:when startTime
+        # Start/end time — gd:when startTime/endTime
         when = entry.find(f"{GD_NS}when")
         start_raw = (when.get("startTime") if when is not None else "") or ""
+        end_raw = (when.get("endTime") if when is not None else "") or ""
         if not start_raw:
             continue
         try:
             start = dt.datetime.fromisoformat(start_raw.replace("Z", "+00:00"))
         except ValueError:
             continue
-        if start.astimezone(dt.timezone.utc) < now:
-            continue  # skip past events
+        try:
+            end = dt.datetime.fromisoformat(end_raw.replace("Z", "+00:00"))
+        except ValueError:
+            end = start + dt.timedelta(hours=2)
+        if end.astimezone(dt.timezone.utc) < now:
+            continue  # skip events that have already ended
 
         content = first_text(entry.find(f"{ATOM_NS}content"))
         summary = pick_summary(content)
@@ -112,6 +117,7 @@ def parse_entries(xml_bytes: bytes) -> list[dict]:
             "code": code,
             "title": title,
             "date": start.isoformat(),
+            "end": end.isoformat(),
             "tier": "Tier 2 · APL 8 · 2 hours",  # leave hardcoded for now
             "summary": summary,
             "link": link or "https://warhorn.net/events/pandodnd",

@@ -12,22 +12,22 @@ home: true
   {%- assign _wlbl = "Splines reticulated" -%}
   {%- assign _wnum = _wd | times: 137 | modulo: 9000 | plus: 1000 -%}
 {%- elsif _wi == 1 -%}
-  {%- assign _wlbl = "Cursed dice rolled" -%}
+  {%- assign _wlbl = "Cursed dice" -%}
   {%- assign _wnum = _wd | times: 23 | modulo: 900 | plus: 100 -%}
 {%- elsif _wi == 2 -%}
-  {%- assign _wlbl = "Flumphs that can dance on a pin" -%}
+  {%- assign _wlbl = "Flumphs per pin" -%}
   {%- assign _wnum = _wd | times: 7 | modulo: 9 | plus: 1 -%}
 {%- elsif _wi == 3 -%}
-  {%- assign _wlbl = "Number P4ND0 is thinking of" -%}
+  {%- assign _wlbl = "P4ND0 thinks of" -%}
   {%- assign _wnum = _wd | times: 59 | modulo: 98 | plus: 1 -%}
 {%- elsif _wi == 4 -%}
-  {%- assign _wlbl = "Whatever you do — don't pick" -%}
+  {%- assign _wlbl = "Don't pick this" -%}
   {%- assign _wnum = _wd | times: 11 | modulo: 19 | plus: 1 -%}
 {%- elsif _wi == 5 -%}
-  {%- assign _wlbl = "Plot hooks the party ignored" -%}
+  {%- assign _wlbl = "Hooks ignored" -%}
   {%- assign _wnum = _wd | times: 13 | modulo: 16 | plus: 7 -%}
 {%- else -%}
-  {%- assign _wlbl = "Times the DM smiled without explaining" -%}
+  {%- assign _wlbl = "Unexplained DM smiles" -%}
   {%- assign _wnum = _wd | times: 17 | modulo: 11 | plus: 3 -%}
 {%- endif -%}
 
@@ -77,28 +77,37 @@ home: true
     </div>
   </div>
   <div class="tel-divider"></div>
-  {%- if next -%}
-  <a class="tel-upnext" href="{{ next.link }}" target="_blank" rel="noopener">
+  {%- comment -%}
+    Every upcoming entry is rendered; only the first is shown at build time.
+    _includes/schedule-filter.html hides entries that have ended by the
+    time the page is viewed, since the schedule only refreshes once a day.
+  {%- endcomment -%}
+  <div class="upn-slot" data-schedule="upnext">
+  {%- for e in site.data.pando_schedule.entries limit: 6 -%}
+  {%- assign _start = e.date | date: "%s" | plus: 0 -%}
+  {%- if e.end -%}{%- assign _end = e.end | date: "%s" | plus: 0 -%}{%- else -%}{%- assign _end = _start | plus: 7200 -%}{%- endif -%}
+  <a class="tel-upnext" href="{{ e.link }}" target="_blank" rel="noopener" data-end="{{ _end }}"{% unless forloop.first %} hidden{% endunless %}>
     <div class="upn-date">
-      <div class="upn-day">{{ next.date | date: "%a" }}</div>
-      <div class="upn-num">{{ next.date | date: "%-d" }}</div>
-      <div class="upn-month">{{ next.date | date: "%b" }}</div>
+      <div class="upn-day">{{ e.date | date: "%a" }}</div>
+      <div class="upn-num">{{ e.date | date: "%-d" }}</div>
+      <div class="upn-month">{{ e.date | date: "%b" }}</div>
     </div>
     <div class="upn-info">
       <div class="upn-lbl"><span class="feed-dot live"></span> Up next at the table · PandoDnD</div>
-      <div class="upn-title">{{ next.title }}</div>
-      <div class="upn-meta">{{ next.code }} · {{ next.tier }} · {{ next.date | date: "%-I:%M %p" }}</div>
+      <div class="upn-title">{{ e.title }}</div>
+      <div class="upn-meta">{{ e.code }} · {{ e.tier }} · {{ e.date | date: "%-I:%M %p" }} ET</div>
+      <div class="upn-local local-time" data-local-time="{{ _start }}" hidden></div>
     </div>
     <div class="upn-arr">{% include icons.html name="arrow" %}</div>
   </a>
-  {%- else -%}
-  <div class="tel-upnext">
+  {%- endfor -%}
+  <div class="tel-upnext" data-schedule-empty{% if next %} hidden{% endif %}>
     <div class="upn-info">
       <div class="upn-lbl">Up next at the table</div>
       <div class="upn-empty">No sessions on the books — check back soon.</div>
     </div>
   </div>
-  {%- endif -%}
+  </div>
 </section>
 
 {%- assign sorted_running = site.data.campaigns.running | sort: "last_updated" | reverse -%}
@@ -174,7 +183,7 @@ home: true
       <div class="star-foot">
         <span>{{ c.campaign }}</span>
         {%- if c.dm -%}<span class="dim">·</span><span>DM: {{ c.dm }}</span>{%- endif -%}
-        {%- if c.organized_play -%}<span class="dim">·</span><span>{{ c.organized_play }}</span>{%- endif -%}
+        {%- if c.organized_play and c.organized_play != c.campaign -%}<span class="dim">·</span><span>{{ c.organized_play }}</span>{%- endif -%}
       </div>
     {%- if c.href or c.dnd_beyond -%}
     </a>
@@ -213,15 +222,18 @@ home: true
       Live · Warhorn
     </span>
   </div>
-  {%- if site.data.pando_schedule.entries.size > 0 -%}
-  <div class="pando-grid">
-    {%- for e in site.data.pando_schedule.entries limit: 4 -%}
-    <a class="pando-card {% if forloop.first %}is-next{% endif %}" href="{{ e.link }}" target="_blank" rel="noopener">
-      {%- if forloop.first -%}<div class="pando-flag">★ Next session</div>{%- endif -%}
+  <div class="pando-grid" data-schedule="grid" data-limit="4">
+    {%- for e in site.data.pando_schedule.entries limit: 8 -%}
+    {%- assign _start = e.date | date: "%s" | plus: 0 -%}
+    {%- if e.end -%}{%- assign _end = e.end | date: "%s" | plus: 0 -%}{%- else -%}{%- assign _end = _start | plus: 7200 -%}{%- endif -%}
+    <a class="pando-card{% if forloop.first %} is-next{% endif %}" href="{{ e.link }}" target="_blank" rel="noopener" data-end="{{ _end }}"{% if forloop.index > 4 %} hidden{% endif %}>
+      <div class="pando-flag">★ Next session</div>
       <div class="pando-code">{{ e.code }}</div>
       <div class="pando-title">{{ e.title }}</div>
-      <div class="pando-when">{{ e.date | date: "%a, %b %-d" }} · {{ e.date | date: "%-I:%M %p" }}</div>
-      <div class="pando-summary">{{ e.summary }}</div>
+      <div class="pando-when">{{ e.date | date: "%a, %b %-d" }} · {{ e.date | date: "%-I:%M %p" }} ET
+        <span class="local-time" data-local-time="{{ _start }}" hidden></span>
+      </div>
+      <div class="pando-tier">{{ e.tier }}</div>
       <div class="pando-foot">
         <span>Warhorn</span>
         {% include icons.html name="external" size=11 %}
@@ -229,10 +241,10 @@ home: true
     </a>
     {%- endfor -%}
   </div>
-  {%- else -%}
-  <div class="pando-empty">Schedule is currently empty.</div>
-  {%- endif -%}
+  <div class="pando-empty" data-schedule-empty{% if site.data.pando_schedule.entries.size > 0 %} hidden{% endif %}>Schedule is currently empty.</div>
 </section>
+
+{% include schedule-filter.html %}
 
 <section class="lp-sec">
   <div class="sec-head">

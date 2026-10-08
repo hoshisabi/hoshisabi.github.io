@@ -1179,7 +1179,7 @@ body.home .home-main { padding-top: 2.5rem; }
   background: linear-gradient(90deg, transparent, var(--accent), transparent);
   opacity: 0.5;
 }
-.tel-stats { display: grid; grid-template-columns: repeat(3, auto); gap: 2.25rem; }
+.tel-stats { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 1.25rem; }
 .tel-stat { display: flex; flex-direction: column; gap: 0.25rem; }
 .tel-num {
   font-family: var(--font-display);
@@ -1198,6 +1198,18 @@ body.home .home-main { padding-top: 2.5rem; }
   color: var(--text-muted);
 }
 .tel-divider { width: 1px; height: 56px; background: var(--border); }
+
+/* Schedule entries toggled by _includes/schedule-filter.html */
+.tel-upnext[hidden], .pando-card[hidden], .pando-empty[hidden] { display: none; }
+.local-time {
+  display: block;
+  margin-top: 0.2rem;
+  font-family: var(--font-mono);
+  font-size: 0.66rem;
+  letter-spacing: 0.04em;
+  color: var(--text-muted);
+}
+.local-time[hidden] { display: none; }
 
 /* Up Next card (inside telemetry) */
 .tel-upnext {
@@ -1445,12 +1457,12 @@ body.home .home-main { padding-top: 2.5rem; }
   font-size: 0.88rem;
   color: var(--text-dim);
   line-height: 1.55;
-  flex: 1;
-  margin: 0;
+  margin: 0 0 auto;
 }
 .star-foot {
   display: flex;
-  gap: 0.85rem;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.85rem;
   padding-top: 0.85rem;
   border-top: 1px solid var(--border);
   font-family: var(--font-mono);
@@ -1458,6 +1470,17 @@ body.home .home-main { padding-top: 2.5rem; }
   color: var(--accent);
 }
 .star-foot .dim { color: var(--text-muted); }
+
+/* Landing page previews: clamp descriptions so one long bio doesn't
+   stretch the whole row. The "View all" pages show them in full. */
+.home .star-desc,
+.home .proj-desc {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
+  overflow: hidden;
+}
 
 /* Latest session teaser (.lp-session) */
 .lp-session {
@@ -1581,11 +1604,12 @@ body.home .home-main { padding-top: 2.5rem; }
   margin-bottom: 0.35rem;
   border-bottom: 1px solid var(--border);
 }
-.pando-summary {
+.pando-card:not(.is-next) .pando-flag { visibility: hidden; }
+.pando-tier {
   font-size: 0.78rem;
   color: var(--text-dim);
   line-height: 1.55;
-  flex: 1;
+  margin-bottom: auto;
 }
 .pando-foot {
   display: flex;
@@ -1605,7 +1629,7 @@ body.home .home-main { padding-top: 2.5rem; }
 /* Projects */
 .proj-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 1rem;
 }
 .proj-card {
@@ -1670,7 +1694,7 @@ body.home .home-main { padding-top: 2.5rem; }
   font-size: 0.82rem;
   color: var(--text-dim);
   line-height: 1.55;
-  flex: 1;
+  margin-bottom: auto;
 }
 .proj-foot {
   display: flex;
@@ -1852,7 +1876,7 @@ body.home .home-main { padding-top: 2.5rem; }
   .hero-title { font-size: 3.75rem; }
   .lp-hero { padding: 3rem 0 2rem; }
   .lp-telemetry { padding: 1.25rem; }
-  .tel-stats { gap: 1.25rem; }
+  .tel-stats { grid-template-columns: repeat(3, auto); gap: 1.25rem; }
   .pando-grid { grid-template-columns: 1fr; }
   .site-nav { display: none; }
 }
