@@ -1,13 +1,12 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: PandoDnD
-session_label: Session 21
-date: October 7, 2026
-title: Spells Gone Wild
-adventure_code: FR-DC-LOOSE-002
-href: /rpg/pandodnd/public/sessions/2026-10-07
+campaign: Icewind Dale
+session_label: Session 22
+date: October 9, 2026
+title: One Fabric
+adventure_code: FR-DC-PND-AO-22
+href: /rpg/icewind-dale/public/sessions/2026-10-09
 excerpt: >-
-  The scroll that ruined Breeze Soak's ritual came from a shop in Rat Alley,
-  where the owner keeps a bandage on his hand and a suit of armor that won't
-  stay still. Under a warehouse on Dragon's Beach, someone is chanting to Vecna
-  in Draconic.
+  Sixty strangers at the gate, a story about a bird the size of a mountain, a
+  scholar who can't remember her own journal, and somewhere under the Great
+  Hall, a small, indistinguishable pebble that is no longer just a rock.
