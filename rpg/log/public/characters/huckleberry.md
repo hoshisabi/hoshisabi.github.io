@@ -9,7 +9,7 @@ race: Halfling
 class: Sorcerer 2
 background: Charlatan
 dnd_beyond: https://www.dndbeyond.com/characters/169814903
-image: /rpg/log/public/characters/images/huckleberry.jpg
+image: /rpg/log/public/images/portraits/huckleberry.webp
 ---
 
 ## Introduction
@@ -27,5 +27,6 @@ He's a **2nd-level sorcerer**. He still does the patter, the flourishes and the 
 ## Appearances
 
 - **2026-09-19** — [Session 10 (September 19, 2026)](../sessions/2026-09-19) (*The Hands of a Healer*)
+- **2026-10-10** — [Session 13 (October 10, 2026)](../sessions/2026-10-10) (*Oath Bound Blade*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
