@@ -5,7 +5,7 @@ layout: location
 title: The Great Hall
 association: Coldpeak tribe
 image: /rpg/icewind-dale/public/locations/images/the-great-hall.png
-image_prompt: "[cavern] a vast natural cavern cut deep into a mountain, a great central fire pit burning low with hide-draped benches and drying racks around it, smoke rising into darkness above, the rough rock floor near the fire cracked by a faint cold-blue glow seeping up from deep beneath the stone, no figures, no text no letters no words anywhere"
+image_prompt: "[cavern] a vast natural cavern cut deep into a mountain serving as a tribe's feast hall and meeting place, long rough-hewn timber tables with benches running the length of the cave, wooden bowls, platters and drinking horns left on the tables, a great central fire pit with a cooking spit, hide hangings and drying racks along the rock walls, smoke rising into darkness above, warm firelight, no figures, no text no letters no words anywhere"
 ---
 
 The heart of [Coldpeak camp](coldpeak-camp): a wide cavern at the back of the hollow, where the mountain stops being a wall and becomes a roof. The tribe gathers here to eat, argue, and wait out the worst weather. A fire burns at its center and has not been allowed to go out. Council is held at that fire, and so are most meals.
