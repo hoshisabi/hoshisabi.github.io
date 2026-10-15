@@ -18,5 +18,6 @@ image: /rpg/pandodnd/public/images/portraits/xavius-fairgate.webp
 - **2026-07-01** — [Session 8 (July 1, 2026)](../sessions/2026-07-01) (*Reign of Frogs*)
 - **2026-08-19** — [Session 14 (August 19, 2026)](../sessions/2026-08-19) (*Spider Hunt*)
 - **2026-08-26** — [Session 15 (August 26, 2026)](../sessions/2026-08-26) (*Juxtaposition*)
+- **2026-10-14** — [Session 22 (October 14, 2026)](../sessions/2026-10-14) (*Escape from Paradise*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._

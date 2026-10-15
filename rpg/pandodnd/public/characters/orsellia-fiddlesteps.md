@@ -13,5 +13,6 @@ image: /rpg/pandodnd/public/images/portraits/orsellia-fiddlesteps.webp
 ## Appearances
 
 - **2026-09-16** — [Session 18 (September 16, 2026)](../sessions/2026-09-16) (*Spider Hunt*)
+- **2026-10-14** — [Session 22 (October 14, 2026)](../sessions/2026-10-14) (*Escape from Paradise*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._

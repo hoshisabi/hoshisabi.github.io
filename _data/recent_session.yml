@@ -1,12 +1,13 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: Icewind Dale
+campaign: PandoDnD
 session_label: Session 22
-date: October 9, 2026
-title: One Fabric
-adventure_code: FR-DC-PND-AO-22
-href: /rpg/icewind-dale/public/sessions/2026-10-09
+date: October 14, 2026
+title: Escape from Paradise
+adventure_code: PS-DC-PUB-13
+href: /rpg/pandodnd/public/sessions/2026-10-14
 excerpt: >-
-  Sixty strangers at the gate, a story about a bird the size of a mountain, a
-  scholar who can't remember her own journal, and somewhere under the Great
-  Hall, a small, indistinguishable pebble that is no longer just a rock.
+  Elysium is so pleasant that nobody who visits ever quite gets around to
+  leaving. A bodyguard with a famous beard has been gone ten days, his daughter
+  drew you his picture, and the celestials at the gate won't let anyone be
+  dragged home against their will.

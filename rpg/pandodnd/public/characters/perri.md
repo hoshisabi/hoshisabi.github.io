@@ -17,6 +17,7 @@ image: /rpg/pandodnd/public/images/portraits/perri.webp
 - **2026-07-01** — [Session 8 (July 1, 2026)](../sessions/2026-07-01) (*Reign of Frogs*)
 - **2026-08-12** — [Session 13 (August 12, 2026)](../sessions/2026-08-12) (*Absent without Leave*)
 - **2026-09-02** — [Session 16 (September 2, 2026)](../sessions/2026-09-02) (*Fallen for You*)
+- **2026-10-14** — [Session 22 (October 14, 2026)](../sessions/2026-10-14) (*Escape from Paradise*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
 
