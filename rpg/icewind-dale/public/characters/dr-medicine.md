@@ -7,9 +7,9 @@ also_known_as:
   - Doctor Medicine
   - Dr. Medicine
 player: Henry
-player_slug: henryc
+player_slug: aerie
 race: Human
-class: Warlock 7 (Great Old One Patron)
+class: Warlock 9 (Great Old One Patron)
 background: Charlatan
 dnd_beyond: https://www.dndbeyond.com/characters/164677217
 image: /rpg/icewind-dale/public/characters/images/dr-medicine.png

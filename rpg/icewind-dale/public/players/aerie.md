@@ -2,6 +2,6 @@
 campaign_url: /rpg/icewind-dale/public/
 campaign_name: Icewind Dale
 layout: player
-title: Henry
-player_slug: henryc
+title: Aerie
+player_slug: aerie
 ---
