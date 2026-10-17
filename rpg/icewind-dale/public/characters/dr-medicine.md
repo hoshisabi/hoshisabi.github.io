@@ -6,7 +6,7 @@ title: Father Joseph
 also_known_as:
   - Doctor Medicine
   - Dr. Medicine
-player: Eri
+player: Erilyn
 player_slug: eri
 race: Human
 class: Warlock 9 (Great Old One Patron)
