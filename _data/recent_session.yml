@@ -1,13 +1,12 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: PandoDnD
-session_label: Session 22
-date: October 14, 2026
-title: Escape from Paradise
-adventure_code: PS-DC-PUB-13
-href: /rpg/pandodnd/public/sessions/2026-10-14
+campaign: Icewind Dale
+session_label: Session 23
+date: October 16, 2026
+title: The Start of Something Bigger
+adventure_code: FR-DC-PND-AO-23
+href: /rpg/icewind-dale/public/sessions/2026-10-16
 excerpt: >-
-  Elysium is so pleasant that nobody who visits ever quite gets around to
-  leaving. A bodyguard with a famous beard has been gone ten days, his daughter
-  drew you his picture, and the celestials at the gate won't let anyone be
-  dragged home against their will.
+  A tea that tastes like the inside of a boot, a perch on a cliff built for
+  something far too big, a knotted cord left in the snow, and at the bottom of
+  a warm stone stair, a door with everyone they came for on the other side.

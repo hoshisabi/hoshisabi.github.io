@@ -7,9 +7,9 @@ running:
       League Dungeoncraft; homebrew since Session 20.
     status: active
     organized_play: Homebrew
-    sessions: 22
+    sessions: 23
     started: Apr 2026
-    last_updated: "2026-10-09"
+    last_updated: "2026-10-16"
     href: /rpg/icewind-dale/public/
 
   - title: PandoDnD
@@ -157,4 +157,4 @@ playing:
 # Stats displayed in the telemetry strip on the landing page.
 stats:
   active_campaigns: 2
-  sessions_logged: 71
+  sessions_logged: 72
