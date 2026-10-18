@@ -7,16 +7,24 @@
     var now = Date.now() / 1000;
     document.querySelectorAll('[data-schedule]').forEach(function (box) {
       var limit = box.dataset.schedule === 'upnext' ? 1 : parseInt(box.dataset.limit, 10) || Infinity;
+      // data-offset skips the first N upcoming entries, so a "later" list
+      // can start after the session the "up next" card already shows.
+      var offset = parseInt(box.dataset.offset, 10) || 0;
+      var seen = 0;
       var shown = 0;
       box.querySelectorAll('[data-end]').forEach(function (el) {
         var upcoming = parseInt(el.dataset.end, 10) > now;
-        var show = upcoming && shown < limit;
+        var show = upcoming && seen >= offset && shown < limit;
+        if (upcoming) seen++;
         el.hidden = !show;
         el.classList.toggle('is-next', show && shown === 0);
         if (show) shown++;
       });
-      var empty = box.parentElement.querySelector('[data-schedule-empty]');
+      // A box with its own empty-state message shows it; a box without one
+      // hides itself when nothing is left to list.
+      var empty = box.querySelector('[data-schedule-empty]');
       if (empty) empty.hidden = shown > 0;
+      else box.hidden = shown === 0;
     });
   })();
 
