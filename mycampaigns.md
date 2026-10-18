@@ -26,8 +26,6 @@ wide: true
       </div>
       <div class="star-desc">{{ c.desc }}</div>
       <div class="star-foot">
-        <span>Portal</span>
-        <span class="dim">·</span>
         <span>{{ c.sessions }} sessions</span>
       </div>
     </a>

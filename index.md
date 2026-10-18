@@ -38,20 +38,11 @@ home: true
     An experienced DM with <em>two active campaigns</em> and weekly session logs — plus a small set of code and the occasional note. A working space for things I'm bothering to finish.
   </p>
   <div class="hero-ctas">
-    <a class="lp-btn ghost" href="{{ '/myadventures' | relative_url }}">
+    <a class="lp-btn primary" href="{{ '/myadventures' | relative_url }}">
       My Adventures {% include icons.html name="arrow" %}
-    </a>
-    <a class="lp-btn ghost" href="https://warhorn.net/events/pandodnd/schedule" target="_blank" rel="noopener">
-      PandoDnD schedule
-    </a>
-    <a class="lp-btn ghost" href="{{ '/ucon/' | relative_url }}">
-      U-Con 2026
     </a>
     <a class="lp-btn ghost" href="https://aladventurecatalog.com/" target="_blank" rel="noopener">
       AL Adventure Catalog
-    </a>
-    <a class="lp-btn ghost" href="https://github.com/hoshisabi" target="_blank" rel="noopener">
-      My Tinkering
     </a>
   </div>
 </section>
@@ -85,6 +76,7 @@ home: true
     _includes/schedule-filter.html hides entries that have ended by the
     time the page is viewed, since the schedule only refreshes once a day.
   {%- endcomment -%}
+  <div class="upn-col">
   <div class="upn-slot" data-schedule="upnext">
   {%- for e in site.data.pando_schedule.entries limit: 6 -%}
   {%- assign _start = e.date | date: "%s" | plus: 0 -%}
@@ -111,13 +103,29 @@ home: true
     </div>
   </div>
   </div>
+  <div class="upn-later" data-schedule="later" data-offset="1" data-limit="3"{% if site.data.pando_schedule.entries.size < 2 %} hidden{% endif %}>
+    <div class="upn-later-head">
+      <span>Then</span>
+      <a href="https://warhorn.net/events/pandodnd/schedule" target="_blank" rel="noopener">
+        Full schedule {% include icons.html name="external" size=11 %}
+      </a>
+    </div>
+    {%- for e in site.data.pando_schedule.entries limit: 8 -%}
+    {%- assign _start = e.date | date: "%s" | plus: 0 -%}
+    {%- if e.end -%}{%- assign _end = e.end | date: "%s" | plus: 0 -%}{%- else -%}{%- assign _end = _start | plus: 7200 -%}{%- endif -%}
+    <a class="upn-row" href="{{ e.link }}" target="_blank" rel="noopener" data-end="{{ _end }}"{% if forloop.first or forloop.index > 4 %} hidden{% endif %}>
+      <span class="upn-row-when">{{ e.date | date: "%a, %b %-d" }}</span>
+      <span class="upn-row-title">{{ e.title }}</span>
+    </a>
+    {%- endfor -%}
+  </div>
+  </div>
 </section>
 
 {%- assign sorted_running = site.data.campaigns.running | sort: "last_updated" | reverse -%}
 <section class="lp-sec">
   <div class="sec-head">
     <div>
-      <div class="sec-num">★ Section 01</div>
       <h2>Campaigns I <em>run</em></h2>
     </div>
     <a class="sec-aside sec-aside-link" href="{{ '/mycampaigns' | relative_url }}">
@@ -136,8 +144,6 @@ home: true
       </div>
       <div class="star-desc">{{ c.desc }}</div>
       <div class="star-foot">
-        <span>Portal</span>
-        <span class="dim">·</span>
         <span>{{ c.sessions }} sessions</span>
       </div>
     </a>
@@ -149,14 +155,13 @@ home: true
 <section class="lp-sec">
   <div class="sec-head">
     <div>
-      <div class="sec-num">★ Section 02</div>
       <h2>Characters I <em>play</em></h2>
     </div>
     <a class="sec-aside sec-aside-link" href="{{ '/mycharacters' | relative_url }}">
       View all {% include icons.html name="arrow" %}
     </a>
   </div>
-  <div class="star-grid">
+  <div class="star-grid is-rail">
     {%- for c in sorted_playing limit: 3 -%}
     {%- if c.href -%}
     <a class="star-card is-{{ c.status }}" href="{{ c.href | relative_url }}">
@@ -200,7 +205,6 @@ home: true
 <section class="lp-sec">
   <div class="sec-head">
     <div>
-      <div class="sec-num">★ Section 03</div>
       <h2>Latest <em>session</em></h2>
     </div>
     <span class="sec-aside">Updated {{ session.date }}</span>
@@ -214,52 +218,18 @@ home: true
   </a>
 </section>
 
-<section class="lp-sec">
-  <div class="sec-head">
-    <div>
-      <div class="sec-num">★ Section 04</div>
-      <h2>Coming up <em>at PandoDnD</em></h2>
-    </div>
-    <span class="sec-aside">
-      <span class="feed-dot live"></span>
-      Live · Warhorn
-    </span>
-  </div>
-  <div class="pando-grid" data-schedule="grid" data-limit="4">
-    {%- for e in site.data.pando_schedule.entries limit: 8 -%}
-    {%- assign _start = e.date | date: "%s" | plus: 0 -%}
-    {%- if e.end -%}{%- assign _end = e.end | date: "%s" | plus: 0 -%}{%- else -%}{%- assign _end = _start | plus: 7200 -%}{%- endif -%}
-    <a class="pando-card{% if forloop.first %} is-next{% endif %}" href="{{ e.link }}" target="_blank" rel="noopener" data-end="{{ _end }}"{% if forloop.index > 4 %} hidden{% endif %}>
-      <div class="pando-flag">★ Next session</div>
-      <div class="pando-code">{{ e.code }}</div>
-      <div class="pando-title">{{ e.title }}</div>
-      <div class="pando-when">{{ e.date | date: "%a, %b %-d" }} · {{ e.date | date: "%-I:%M %p" }} ET
-        <span class="local-time" data-local-time="{{ _start }}" hidden></span>
-      </div>
-      <div class="pando-tier">{{ e.tier }}</div>
-      <div class="pando-foot">
-        <span>Warhorn</span>
-        {% include icons.html name="external" size=11 %}
-      </div>
-    </a>
-    {%- endfor -%}
-  </div>
-  <div class="pando-empty" data-schedule-empty{% if site.data.pando_schedule.entries.size > 0 %} hidden{% endif %}>Schedule is currently empty.</div>
-</section>
-
 {% include schedule-filter.html %}
 
 <section class="lp-sec">
   <div class="sec-head">
     <div>
-      <div class="sec-num">★ Section 05</div>
       <h2>Code I'm <em>tinkering with</em></h2>
     </div>
     <a class="sec-aside sec-aside-link" href="https://github.com/hoshisabi">
       github.com/hoshisabi {% include icons.html name="external" size=11 %}
     </a>
   </div>
-  <div class="proj-grid">
+  <div class="proj-grid is-rail">
     {%- for p in site.data.projects -%}
     {%- assign status_class = p.status | replace: " ", "-" -%}
     <a class="proj-card" href="{{ p.href }}" target="_blank" rel="noopener">
@@ -285,7 +255,6 @@ home: true
 <section class="lp-sec">
   <div class="sec-head">
     <div>
-      <div class="sec-num">★ Section 06</div>
       <h2>U-Con <em>Organized Play</em></h2>
     </div>
     <span class="sec-aside">November 13–15, 2026</span>
@@ -318,7 +287,6 @@ home: true
 <section class="lp-sec">
   <div class="sec-head">
     <div>
-      <div class="sec-num">★ Section 07</div>
       <h2>Reference <em>shelf</em></h2>
     </div>
     <span class="sec-aside">Curated</span>
