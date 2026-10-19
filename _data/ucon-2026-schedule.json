@@ -2,7 +2,7 @@
   "meta": {
     "year": 2026,
     "status": "draft",
-    "as_of": "2026-08-29",
+    "as_of": "2026-10-19",
     "link_mode": "published",
     "convention_slug": "u-con-2026"
   },
@@ -53,10 +53,11 @@
           "cells": {
             "sat_evening": [
               {
-                "initials": "Many",
+                "initials": "RM",
                 "program": "AL",
                 "url": "https://tabletop.events/conventions/u-con-2026/schedule/659",
-                "event_number": "659"
+                "event_number": "659",
+                "tables": 1
               }
             ]
           }
@@ -65,14 +66,15 @@
           "code": "DDAL-DRW-EP-03",
           "name": "When the Lights Went Out in Candlekeep (Tier 3)",
           "program": "AL",
-          "table_count": 1,
+          "table_count": 3,
           "cells": {
             "sat_evening": [
               {
-                "initials": "Many",
+                "initials": "NB, PA, PM",
                 "program": "AL",
                 "url": "https://tabletop.events/conventions/u-con-2026/schedule/660",
-                "event_number": "660"
+                "event_number": "660",
+                "tables": 3
               }
             ]
           }
@@ -87,19 +89,11 @@
           "code": "DDHC-DD-01",
           "name": "Death at Sunset (Tier 1)",
           "program": "AL",
-          "table_count": 2,
+          "table_count": 1,
           "cells": {
-            "fri_morning": [
-              {
-                "initials": "WK",
-                "program": "AL",
-                "url": "https://tabletop.events/conventions/u-con-2026/schedule/653",
-                "event_number": "653"
-              }
-            ],
             "sun_morning": [
               {
-                "initials": "WK",
+                "initials": "DC",
                 "program": "AL",
                 "url": "https://tabletop.events/conventions/u-con-2026/schedule/654",
                 "event_number": "654"
@@ -151,62 +145,6 @@
                 "program": "AL",
                 "url": "https://tabletop.events/conventions/u-con-2026/schedule/670",
                 "event_number": "670"
-              }
-            ]
-          }
-        },
-        {
-          "code": "LoG-D1",
-          "name": "Shadows Beneath the Skull (Tier 1)",
-          "program": "LoG",
-          "table_count": 2,
-          "cells": {
-            "fri_morning": [
-              {
-                "initials": "PR",
-                "program": "LoG",
-                "url": "https://tabletop.events/conventions/u-con-2026/schedule/682",
-                "event_number": "682"
-              }
-            ],
-            "sun_afternoon": [
-              {
-                "initials": "PR",
-                "program": "LoG",
-                "url": "https://tabletop.events/conventions/u-con-2026/schedule/683",
-                "event_number": "683"
-              }
-            ]
-          }
-        },
-        {
-          "code": "LoG-D2",
-          "name": "Echoes of Betrayal (Tier 1)",
-          "program": "LoG",
-          "table_count": 1,
-          "cells": {
-            "fri_evening": [
-              {
-                "initials": "PR",
-                "program": "LoG",
-                "url": "https://tabletop.events/conventions/u-con-2026/schedule/679",
-                "event_number": "679"
-              }
-            ]
-          }
-        },
-        {
-          "code": "LoG-D3",
-          "name": "Havoc and High Seas (Tier 1)",
-          "program": "LoG",
-          "table_count": 1,
-          "cells": {
-            "sat_afternoon": [
-              {
-                "initials": "PR",
-                "program": "LoG",
-                "url": "https://tabletop.events/conventions/u-con-2026/schedule/680",
-                "event_number": "680"
               }
             ]
           }
@@ -325,22 +263,14 @@
           "code": "DDHC-DD-05",
           "name": "The Dragon of Najkir (Tier 2)",
           "program": "AL",
-          "table_count": 2,
+          "table_count": 1,
           "cells": {
             "sat_afternoon": [
               {
-                "initials": "WK",
+                "initials": "DC",
                 "program": "AL",
                 "url": "https://tabletop.events/conventions/u-con-2026/schedule/665",
                 "event_number": "665"
-              }
-            ],
-            "sun_afternoon": [
-              {
-                "initials": "WK",
-                "program": "AL",
-                "url": "https://tabletop.events/conventions/u-con-2026/schedule/666",
-                "event_number": "666"
               }
             ]
           }
