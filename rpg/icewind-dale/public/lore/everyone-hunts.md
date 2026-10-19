@@ -16,6 +16,8 @@ Coldpeak values its specialists. The smith who keeps the spears from breaking mi
 
 A hunter's first real hunt is the moment this becomes personal — not a graduation into "hunter" as a job, but into the tribe's basic expectation that this person now spends part of their time feeding it directly, the same as everyone else. The memory-bone carved to mark a first hunt isn't a trophy. It's a record of the day that expectation started applying.
 
+It's also how Coldpeak decides who is grown. The tribe doesn't count years. Someone who hunts is of age, and an adult's say goes with it. When Veska asked to join the rescue for [Tarn](../npcs/tarn) in [Session 23](../sessions/2026-10-16), she was young, but nobody argued. *"She hunts."* That settled it.
+
 The tradition carried more weight after Rimetalon's attack on the camp. Several hunters were hurt badly enough to drop Coldpeak's hunting capacity at exactly the wrong time, and the gap wasn't closed by reassigning anyone's job — it was closed by everyone else's traps, crops, and time in the field quietly absorbing more of the load. "Everyone hunts" stopped being something people nodded along to and became the thing keeping the camp fed, which is part of why the Coldpeak and Elk tribes combined their hunting parties rather than running thinner ones separately.
 
 Guests are not exempt either, though nobody phrases it as a rule. A turn at the forge or a brew that gets someone back on their feet is appreciated — but it's time at the traps, the crops, or in the field with spear or bow that Coldpeak actually counts. Coldpeak doesn't keep score out loud. It just notices.
