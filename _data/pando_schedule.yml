@@ -3,16 +3,8 @@
 # Do not edit by hand — your changes will be overwritten on the next refresh.
 
 source: https://warhorn.net/events/pandodnd/schedule/Ya7RynA9U_XsaE_Ve6Ht.atom
-generated_at: '2026-10-21T11:13:30+00:00'
+generated_at: '2026-10-22T11:12:13+00:00'
 entries:
-- code: FR-DC-LOOSE-003
-  title: This Spells Trouble
-  date: '2026-10-21T19:00:00-04:00'
-  end: '2026-10-21T21:00:00-04:00'
-  tier: Tier 2 · APL 8 · 2 hours
-  summary: FR-DC-LOOSE-003 This Spells Trouble Wed 10/21 7-9pm at Online (details
-    in event)
-  link: https://warhorn.net/events/pandodnd/schedule/sessions/74b8ebaa-c228-4009-82a6-e588f10a6f02
 - code: PS-DC-PUB-14
   title: Beneath the Prison Tree
   date: '2026-10-28T19:00:00-04:00'
@@ -36,3 +28,19 @@ entries:
   tier: Tier 2 · APL 8 · 2 hours
   summary: PS-DC-PUB-12 The Endless Revel Wed 11/11 7-9pm at Online (details in event)
   link: https://warhorn.net/events/pandodnd/schedule/sessions/3d16e96d-8e2b-48a3-af4a-6799550fe154
+- code: FR-DC-LOOSE-003
+  title: This Spells Trouble
+  date: '2026-11-18T19:00:00-05:00'
+  end: '2026-11-18T21:00:00-05:00'
+  tier: Tier 2 · APL 8 · 2 hours
+  summary: FR-DC-LOOSE-003 This Spells Trouble Wed 11/18 7-9pm at Online (details
+    in event)
+  link: https://warhorn.net/events/pandodnd/schedule/sessions/03bc7818-16d5-4de7-9e65-35e8b931df57
+- code: FR-DC-LOOSE-002
+  title: Spells Gone Wild
+  date: '2026-11-25T19:00:00-05:00'
+  end: '2026-11-25T21:00:00-05:00'
+  tier: Tier 2 · APL 8 · 2 hours
+  summary: FR-DC-LOOSE-002 Spells Gone Wild Wed 11/25 7-9pm at Online (details in
+    event)
+  link: https://warhorn.net/events/pandodnd/schedule/sessions/f1dbc419-7975-43ca-abb7-ea537fa542d9
