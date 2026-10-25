@@ -9,6 +9,7 @@ race: Halfling
 class: Sorcerer 3 (Wild Magic)
 background: Charlatan
 dnd_beyond: https://www.dndbeyond.com/characters/169814903
+log_sheet: https://www.greyhawklogsheet.com/share/90bc3ccb-f875-4f08-bb91-c45fa10fb17c?character=Huckleberry
 image: /rpg/log/public/images/portraits/huckleberry.webp
 ---
 
