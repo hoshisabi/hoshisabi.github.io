@@ -8,6 +8,7 @@ player_slug: bigmikemc
 class: Human Monk 16 (Warrior of the Mystic Arts)
 dnd_beyond: https://www.dndbeyond.com/characters/150028747
 image: /rpg/pandodnd/public/images/portraits/brand-sr.webp
+last_seen: "2026-09-09"
 ---
 
 ## Appearances

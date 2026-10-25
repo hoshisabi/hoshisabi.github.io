@@ -7,6 +7,7 @@ player: Brian
 player_slug: brian
 image: /rpg/log/public/characters/images/kaelisa.webp
 status: Retired
+last_seen: "2026-05-09"
 ---
 
 ## Appearances

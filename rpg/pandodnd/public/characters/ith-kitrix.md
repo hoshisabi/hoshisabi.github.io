@@ -8,6 +8,7 @@ player_slug: patman
 class: Kobold Druid 4 (Circle of Wildfire)
 dnd_beyond: https://www.dndbeyond.com/characters/167499373
 image: /rpg/pandodnd/public/images/portraits/ith-kitrix.webp
+last_seen: "2026-09-30"
 ---
 
 ## Appearances

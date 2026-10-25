@@ -8,6 +8,7 @@ player_slug: nadir
 class: Wizard 7 (Bladesinger)
 dnd_beyond: https://www.dndbeyond.com/characters/166768973
 image: https://www.dndbeyond.com/avatars/57168/523/1581111423-166768973.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
+last_seen: "2026-07-01"
 ---
 
 ## Appearances

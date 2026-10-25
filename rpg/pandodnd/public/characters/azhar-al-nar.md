@@ -8,6 +8,7 @@ player_slug: markd
 class: Fire Genasi Paladin 9 (Oath of the Noble Genies)
 dnd_beyond: https://www.dndbeyond.com/characters/167987639
 image: /rpg/pandodnd/public/images/portraits/azhar-al-nar.webp
+last_seen: "2026-08-12"
 ---
 
 ## Appearances

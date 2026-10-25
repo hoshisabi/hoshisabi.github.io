@@ -8,6 +8,7 @@ player_slug: kenb
 class: Human Bard 2
 dnd_beyond: https://www.dndbeyond.com/characters/166816489
 image: /rpg/pandodnd/public/images/portraits/don-kenonji.webp
+last_seen: "2026-10-07"
 ---
 
 ## Appearances

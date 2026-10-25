@@ -8,6 +8,7 @@ player_slug: matthew
 class: Human Sorcerer 3 (Draconic Sorcery)
 dnd_beyond: https://www.dndbeyond.com/characters/171586476
 image: /rpg/log/public/images/portraits/silef.webp
+last_seen: "2026-09-27"
 ---
 
 ## Appearances

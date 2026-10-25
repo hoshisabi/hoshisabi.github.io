@@ -8,6 +8,7 @@ player_slug: kenb
 class: Dhampir Sorcerer 6 (Divine Soul) / Cleric 3 (Life Domain)
 dnd_beyond: https://www.dndbeyond.com/characters/123619927
 image: /rpg/pandodnd/public/images/portraits/count-von-kount.webp
+last_seen: "2026-10-14"
 ---
 
 ## Appearances

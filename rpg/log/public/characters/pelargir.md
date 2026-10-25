@@ -7,6 +7,7 @@ player: Josh
 player_slug: josh
 class: Cleric 4
 image: /rpg/log/public/images/pelargir.png
+last_seen: "2026-08-08"
 ---
 
 ## Appearances

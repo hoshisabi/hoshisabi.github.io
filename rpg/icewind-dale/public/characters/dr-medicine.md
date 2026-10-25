@@ -19,6 +19,7 @@ image_prompt: >-
   other hand tucked in coat pocket, wide confident showman's smile that suggests he has
   already sold you something, faint eldritch shimmer hinting at hidden power beneath the patter,
   warm amber accent highlight
+last_seen: "2026-10-16"
 ---
 
 ## Description

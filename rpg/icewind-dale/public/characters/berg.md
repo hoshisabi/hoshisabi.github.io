@@ -17,6 +17,7 @@ image_prompt: >-
   gray-green skin, strong jaw with short tusks, calm and calculating expression suggesting
   quiet strategic intelligence, holding a single chess piece between two fingers and studying
   it thoughtfully, full figure standing, broad shoulders filling the frame, warm amber accent highlight
+last_seen: "2026-10-16"
 ---
 
 ## Description

@@ -8,6 +8,7 @@ player_slug: ttrpger
 class: Custom Lineage Paladin 1
 dnd_beyond: https://www.dndbeyond.com/characters/171255375
 image: /rpg/pandodnd/public/images/portraits/brogladeen.webp
+last_seen: "2026-10-07"
 ---
 
 ## Appearances

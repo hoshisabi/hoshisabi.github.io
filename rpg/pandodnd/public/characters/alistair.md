@@ -8,6 +8,7 @@ player_slug: ttrpger
 class: Battlesmith Artificer 6
 dnd_beyond: https://www.dndbeyond.com/characters/165170568
 image: https://assets.forge-vtt.com/5e8b516891f93735fd1249d1/ddb-images/characters/165170568-alistair.jpeg?1778108615086
+last_seen: "2026-07-15"
 ---
 
 ## Appearances

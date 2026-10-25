@@ -8,6 +8,7 @@ player_slug: treym
 class: Human Ranger 4 (Winter Walker)
 dnd_beyond: https://www.dndbeyond.com/characters/158077496
 image: /rpg/pandodnd/public/images/portraits/jorin.webp
+last_seen: "2026-10-07"
 ---
 
 ## Appearances

@@ -7,6 +7,7 @@ player: Rob
 player_slug: rob
 class: Halfling Barbarian 4 (Berserker)
 image: /rpg/log/public/images/ozric-underhill.png
+last_seen: "2026-08-08"
 ---
 
 ## Appearances

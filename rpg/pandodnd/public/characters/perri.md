@@ -8,6 +8,7 @@ player_slug: treym
 class: Paladin 10
 dnd_beyond: https://www.dndbeyond.com/characters/154737127
 image: /rpg/pandodnd/public/images/portraits/perri.webp
+last_seen: "2026-10-14"
 ---
 
 ## Appearances

@@ -8,6 +8,7 @@ player_slug: dscharfe
 class: Hill Dwarf Artificer 1 / Wizard 15 (Evoker)
 dnd_beyond: https://www.dndbeyond.com/characters/166920526
 image: /rpg/pandodnd/public/images/portraits/happy-go-lucky.webp
+last_seen: "2026-09-09"
 ---
 
 ## Appearances

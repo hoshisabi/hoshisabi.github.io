@@ -17,6 +17,7 @@ image_prompt: >-
   markings, alert amber eyes, lean muscular build, wearing practical dark leather traveling clothes
   and a wrapped scarf, short blades at his belt, quiet and competent expression suggesting someone
   accustomed to moving unseen through dangerous places, warm amber accent highlight
+last_seen: "2026-10-16"
 ---
 
 ## Description

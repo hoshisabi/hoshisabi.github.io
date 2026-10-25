@@ -10,6 +10,7 @@ class: Ranger 3 (Hunter)
 background: Guide
 dnd_beyond: https://www.dndbeyond.com/characters/154776593
 image: /rpg/log/public/images/portraits/nimbus.webp
+last_seen: "2026-10-24"
 ---
 
 ## Appearances

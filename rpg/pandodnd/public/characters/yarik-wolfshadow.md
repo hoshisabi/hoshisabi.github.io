@@ -8,6 +8,7 @@ player_slug: markd
 class: Human Barbarian 5 (Path of the Wild Heart)
 dnd_beyond: https://www.dndbeyond.com/characters/170969490
 image: /rpg/pandodnd/public/images/portraits/yarik-wolfshadow.webp
+last_seen: "2026-09-16"
 ---
 
 ## Appearances

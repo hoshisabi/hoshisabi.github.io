@@ -10,6 +10,7 @@ class: Firbolg Artificer 1 / Diviner Wizard 9
 alignment: Chaotic Good
 dnd_beyond: https://www.dndbeyond.com/characters/142336541
 image: /rpg/pandodnd/public/images/portraits/hedy.webp
+last_seen: "2026-09-16"
 ---
 
 ## Appearances

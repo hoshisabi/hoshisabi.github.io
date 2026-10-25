@@ -8,6 +8,7 @@ player_slug: kenb
 class: Human Ranger 5 (Winter Walker)
 dnd_beyond: https://www.dndbeyond.com/characters/156724737
 image: /rpg/pandodnd/public/images/portraits/keno-ichikawa.webp
+last_seen: "2026-08-12"
 ---
 
 ## Appearances

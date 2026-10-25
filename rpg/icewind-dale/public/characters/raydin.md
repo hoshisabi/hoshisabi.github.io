@@ -15,6 +15,7 @@ image_prompt: >-
   one hand fanning five glowing amber-edged playing cards, other hand revealing a single ornate glowing
   card, knowing and confident smile, celestial four-pointed star motif, starry arctic night sky background,
   warm amber accent highlight
+last_seen: "2026-07-17"
 ---
 
 

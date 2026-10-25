@@ -8,6 +8,7 @@ player_slug: gonprie
 class: Shadar-kai Cleric 1 / Wizard 4 (Diviner)
 dnd_beyond: https://www.dndbeyond.com/characters/134013927
 image: https://www.dndbeyond.com/avatars/44764/683/1581111423-134013927.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
+last_seen: "2026-07-29"
 ---
 
 ## Appearances

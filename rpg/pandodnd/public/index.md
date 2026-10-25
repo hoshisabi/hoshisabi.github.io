@@ -59,22 +59,10 @@ Sign up on [Warhorn](https://warhorn.net/events/pandodnd/schedule).
 
 The twelve characters seen most recently at the table, newest session first. Party composition changes weekly; pages here capture **appearances observed** during published sessions—not a canonical roster.
 
-{% assign recent_seen = "|" %}
-{% assign recent_count = 0 %}
+{% assign recent = characters | where_exp: "c", "c.last_seen" | sort: "last_seen" | reverse %}
 <div class="npc-grid">
-{% for session in sessions_reversed %}
-{% for entry in session.players %}
-{% if recent_count >= 12 %}{% break %}{% endif %}
-{% assign key = "|" | append: entry.character | append: "|" %}
-{% if recent_seen contains key %}{% continue %}{% endif %}
-{% assign char = characters | where: "title", entry.character | first %}
-{% if char %}
+{% for char in recent limit:12 %}
 {% include character-card.html char=char %}
-{% assign recent_seen = recent_seen | append: entry.character | append: "|" %}
-{% assign recent_count = recent_count | plus: 1 %}
-{% endif %}
-{% endfor %}
-{% if recent_count >= 12 %}{% break %}{% endif %}
 {% endfor %}
 </div>
 

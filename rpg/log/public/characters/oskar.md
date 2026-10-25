@@ -11,6 +11,7 @@ background: Acolyte
 dnd_beyond: https://www.dndbeyond.com/characters/165429907
 log_sheet: https://www.greyhawklogsheet.com/share/90bc3ccb-f875-4f08-bb91-c45fa10fb17c?character=Oskar
 image: /rpg/log/public/characters/images/oskar.webp
+last_seen: "2026-06-20"
 ---
 
 ## Introduction

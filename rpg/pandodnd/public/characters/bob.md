@@ -8,6 +8,7 @@ player_slug: gy_zero
 class: Plasmoid Artificer 1 / Wizard 9 (Order of Scribes)
 dnd_beyond: https://www.dndbeyond.com/characters/146649766
 image: https://www.dndbeyond.com/avatars/55417/877/1581111423-146649766.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
+last_seen: "2026-07-22"
 ---
 
 ## Appearances

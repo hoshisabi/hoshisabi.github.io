@@ -8,6 +8,7 @@ player_slug: allison
 class: Kobold Artificer 1
 dnd_beyond: https://www.dndbeyond.com/characters/151400952
 image: /rpg/pandodnd/public/images/portraits/teeli.webp
+last_seen: "2026-10-07"
 ---
 
 ## Appearances

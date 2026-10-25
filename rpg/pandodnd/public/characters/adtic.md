@@ -8,6 +8,7 @@ player_slug: ttrpger
 class: Dhampir Circle of Spores Druid 8
 dnd_beyond: https://www.dndbeyond.com/characters/165170061
 image: https://www.dndbeyond.com/avatars/56464/300/1581111423-165170061.jpeg
+last_seen: "2026-06-03"
 ---
 
 ## Appearances

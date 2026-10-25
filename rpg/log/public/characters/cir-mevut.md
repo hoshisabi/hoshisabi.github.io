@@ -10,6 +10,7 @@ class: Cleric 3 (Arcana Domain)
 background: Sage
 dnd_beyond: https://www.dndbeyond.com/characters/169175330
 image: /rpg/log/public/images/portraits/cir-mevut.webp
+last_seen: "2026-10-10"
 ---
 
 ## Appearances

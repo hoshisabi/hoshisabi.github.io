@@ -10,6 +10,7 @@ class: Warlock 3 (Vestige Patron)
 background: Charlatan
 dnd_beyond: https://www.dndbeyond.com/characters/169613289
 image: /rpg/log/public/images/portraits/madmartiken.webp
+last_seen: "2026-10-24"
 ---
 
 ## Appearances

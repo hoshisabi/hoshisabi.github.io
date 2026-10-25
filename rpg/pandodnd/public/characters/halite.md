@@ -8,6 +8,7 @@ player_slug: bigmikemc
 class: Dwarf Barbarian 2
 dnd_beyond: https://www.dndbeyond.com/characters/170180068
 image: /rpg/pandodnd/public/images/portraits/halite.webp
+last_seen: "2026-10-07"
 ---
 
 ## Appearances

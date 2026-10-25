@@ -8,6 +8,7 @@ player_slug: lazarus
 class: Human Cleric 4 (Peace Domain) / Sorcerer 3 (Draconic Sorcery)
 dnd_beyond: https://www.dndbeyond.com/characters/171024136
 image: /rpg/pandodnd/public/images/portraits/orsellia-fiddlesteps.webp
+last_seen: "2026-10-14"
 ---
 
 ## Appearances

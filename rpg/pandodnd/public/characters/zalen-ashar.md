@@ -8,6 +8,7 @@ player_slug: markd
 class: Fire Genasi Paladin 14 (Oath of the Noble Genies)
 dnd_beyond: https://www.dndbeyond.com/characters/154697301
 image: /rpg/pandodnd/public/images/portraits/zalen-ashar.webp
+last_seen: "2026-09-09"
 ---
 
 ## Appearances

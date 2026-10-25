@@ -8,6 +8,7 @@ player_slug: kenb
 class: Human Paladin 1 / Bard 7 (College of Dance)
 dnd_beyond: https://www.dndbeyond.com/characters/146660237
 image: https://www.dndbeyond.com/avatars/49307/364/1581111423-146660237.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
+last_seen: "2026-07-01"
 ---
 
 ## Appearances

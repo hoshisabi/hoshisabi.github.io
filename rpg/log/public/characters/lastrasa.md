@@ -8,6 +8,7 @@ player_slug: bryan
 class: Elf Bard 4 (College of Spirits)
 dnd_beyond: https://www.dndbeyond.com/characters/166244064
 image: /rpg/log/public/images/portraits/lastrasa.webp
+last_seen: "2026-09-26"
 ---
 
 ## Appearances

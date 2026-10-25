@@ -8,6 +8,7 @@ player_slug: jsweat2
 class: Dhampir Fighter 1 / Warlock 3 (Undead Patron)
 dnd_beyond: https://www.dndbeyond.com/characters/168690328
 image: /rpg/log/public/images/portraits/deimos-locke.webp
+last_seen: "2026-09-27"
 ---
 
 ## Appearances

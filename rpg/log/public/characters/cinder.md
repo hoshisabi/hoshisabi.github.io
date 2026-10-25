@@ -10,6 +10,7 @@ class: Paladin 3
 background: Wayfarer
 dnd_beyond: https://www.dndbeyond.com/characters/165434792
 image: /rpg/log/public/characters/images/cinder.webp
+last_seen: "2026-06-20"
 ---
 
 ## Appearances

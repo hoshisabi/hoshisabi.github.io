@@ -8,6 +8,7 @@ player_slug: kenb
 class: Human Cleric 9 (Forge Domain)
 dnd_beyond: https://www.dndbeyond.com/characters/138695268
 image: /rpg/pandodnd/public/images/portraits/kenjiro.webp
+last_seen: "2026-09-16"
 ---
 
 ## Appearances

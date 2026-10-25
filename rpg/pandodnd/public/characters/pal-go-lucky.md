@@ -10,6 +10,7 @@ class: Hill Dwarf Paladin 6 (Oath of the Ancients)
 alignment: Lawful Good
 dnd_beyond: https://www.dndbeyond.com/characters/141093656
 image: /rpg/pandodnd/public/images/portraits/pal-go-lucky.webp
+last_seen: "2026-08-26"
 ---
 
 ## Appearances

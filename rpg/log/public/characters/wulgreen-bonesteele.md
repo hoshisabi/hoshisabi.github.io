@@ -8,6 +8,7 @@ player_slug: timerino
 class: Orc Paladin 3 (Oath of Vengeance)
 dnd_beyond: https://www.dndbeyond.com/characters/162272826
 image: /rpg/log/public/images/portraits/wulgreen-bonesteele.webp
+last_seen: "2026-09-26"
 ---
 
 ## Appearances

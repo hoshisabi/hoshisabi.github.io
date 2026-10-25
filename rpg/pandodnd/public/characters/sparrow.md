@@ -10,6 +10,7 @@ class: Halfling Arcane Trickster Rogue 8
 alignment: True Neutral
 dnd_beyond: https://www.dndbeyond.com/characters/146856726
 image: /rpg/pandodnd/public/images/portraits/sparrow.webp
+last_seen: "2026-10-14"
 ---
 
 ## Appearances

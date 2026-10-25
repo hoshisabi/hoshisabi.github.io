@@ -8,6 +8,7 @@ player_slug: gonprie
 class: Dwarf Barbarian 3 (Path of the Wild Heart) / Monk 10 (Way of the Kensei)
 dnd_beyond: https://www.dndbeyond.com/characters/148588558
 image: /rpg/pandodnd/public/images/portraits/solana-aefir.webp
+last_seen: "2026-09-09"
 ---
 
 ## Appearances

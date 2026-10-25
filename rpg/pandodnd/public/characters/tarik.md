@@ -8,6 +8,7 @@ player_slug: treym
 class: Human Ranger 10 (Hollow Warden)
 dnd_beyond: https://www.dndbeyond.com/characters/167078717
 image: https://www.dndbeyond.com/avatars/57265/958/1581111423-167078717.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
+last_seen: "2026-07-15"
 ---
 
 ## Appearances

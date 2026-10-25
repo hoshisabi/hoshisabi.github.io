@@ -17,6 +17,7 @@ image_prompt: >-
   brown hair in a bob cut, striking violet eyes, pointy ears, wearing a dark blue long coat over
   a deep magenta blouse, leather crossbody satchel, one hand raised holding a crackling glowing
   orb of eldritch energy, alert and confident expression with dry humor, warm amber accent highlight
+last_seen: "2026-10-16"
 ---
 
 ## Description

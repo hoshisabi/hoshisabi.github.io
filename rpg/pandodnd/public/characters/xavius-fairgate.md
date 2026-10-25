@@ -8,6 +8,7 @@ player_slug: patman
 class: Human Ranger 8 (Horizon Walker)/Fighter 1
 dnd_beyond: https://www.dndbeyond.com/characters/161565862
 image: /rpg/pandodnd/public/images/portraits/xavius-fairgate.webp
+last_seen: "2026-10-14"
 ---
 
 ## Appearances

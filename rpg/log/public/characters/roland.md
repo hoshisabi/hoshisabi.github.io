@@ -8,6 +8,7 @@ player_slug: james
 class: Reborn Ranger 4 (Hollow Warden)
 dnd_beyond: https://www.dndbeyond.com/characters/166688393
 image: /rpg/log/public/images/portraits/roland.webp
+last_seen: "2026-09-26"
 ---
 
 ## Appearances

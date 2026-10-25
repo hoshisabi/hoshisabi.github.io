@@ -10,6 +10,7 @@ class: Wood Elf Eldritch Knight Fighter 6
 alignment: Neutral Good
 dnd_beyond: https://www.dndbeyond.com/characters/162592792
 image: /rpg/pandodnd/public/images/portraits/therion-starblade.webp
+last_seen: "2026-05-27"
 ---
 
 ## Appearances

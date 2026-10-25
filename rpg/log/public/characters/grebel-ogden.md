@@ -8,6 +8,7 @@ player_slug: calvin
 class: Dragonborn Rogue 2 / Bard 1 / Fighter 1
 dnd_beyond: https://www.dndbeyond.com/characters/170414163
 image: /rpg/log/public/images/portraits/grebel-ogden.webp
+last_seen: "2026-09-26"
 ---
 
 ## Appearances

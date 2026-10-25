@@ -9,6 +9,7 @@ class: Human Battlemaster Fighter 3
 background: Farmer
 dnd_beyond: https://www.dndbeyond.com/characters/148655804
 image: /rpg/log/public/characters/images/xen.webp
+last_seen: "2026-06-06"
 ---
 
 ## Appearances

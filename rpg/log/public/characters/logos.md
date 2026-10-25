@@ -11,6 +11,7 @@ background: Acolyte
 dnd_beyond: https://www.dndbeyond.com/characters/162145916
 log_sheet: https://www.greyhawklogsheet.com/share/90bc3ccb-f875-4f08-bb91-c45fa10fb17c?character=Logos
 image: /rpg/log/public/images/portraits/logos.webp
+last_seen: "2026-09-27"
 ---
 
 ## Introduction

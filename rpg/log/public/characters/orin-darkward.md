@@ -10,6 +10,7 @@ class: Ranger 3 (Gloom Stalker)
 background: Guide
 dnd_beyond: https://www.dndbeyond.com/characters/169793695
 image: /rpg/log/public/images/portraits/orin-darkward.webp
+last_seen: "2026-10-24"
 ---
 
 ## Appearances

@@ -8,6 +8,7 @@ player_slug: michaelh
 class: Dwarf Cleric 4 (Life Domain)
 dnd_beyond: https://www.dndbeyond.com/characters/145733405
 image: /rpg/pandodnd/public/images/portraits/axeforger.webp
+last_seen: "2026-09-30"
 ---
 
 ## Appearances

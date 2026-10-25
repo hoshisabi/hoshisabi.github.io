@@ -8,6 +8,7 @@ player_slug: ttrpger
 class: Halfling Ranger 8 (Beast Master)
 dnd_beyond: https://www.dndbeyond.com/characters/171164356
 image: /rpg/pandodnd/public/images/portraits/langi.webp
+last_seen: "2026-10-14"
 ---
 
 ## Appearances

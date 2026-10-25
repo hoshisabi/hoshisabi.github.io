@@ -8,6 +8,7 @@ player_slug: ersenn
 class: Human Bard 2
 dnd_beyond: https://www.dndbeyond.com/characters/154474442
 image: https://www.dndbeyond.com/avatars/57290/49/1581111423-154474442.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
+last_seen: "2026-08-09"
 ---
 
 ## Appearances

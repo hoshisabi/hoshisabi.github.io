@@ -8,6 +8,7 @@ player_slug: gonprie
 class: Autognome Druid 10 (Circle of the Stars)
 dnd_beyond: https://www.dndbeyond.com/characters/133594171
 image: /rpg/pandodnd/public/images/portraits/lifeline-mark-2.webp
+last_seen: "2026-09-02"
 ---
 
 ## Appearances

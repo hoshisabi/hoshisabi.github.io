@@ -10,6 +10,7 @@ class: Human Diviner Wizard 10
 alignment: Lawful Neutral
 dnd_beyond: https://www.dndbeyond.com/characters/156688046
 image: https://www.dndbeyond.com/avatars/55673/169/1581111423-156688046.jpeg
+last_seen: "2026-05-13"
 ---
 
 ## Appearances

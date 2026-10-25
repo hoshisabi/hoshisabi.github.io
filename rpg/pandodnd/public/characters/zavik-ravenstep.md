@@ -8,6 +8,7 @@ player_slug: markd
 class: Shadar-kai Rogue 5 (Scout) / Fighter 2
 dnd_beyond: https://www.dndbeyond.com/characters/169926474
 image: /rpg/pandodnd/public/images/portraits/zavik-ravenstep.webp
+last_seen: "2026-09-02"
 ---
 
 ## Appearances

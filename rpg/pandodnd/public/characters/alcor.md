@@ -9,6 +9,7 @@ race: Human
 class: Human Stars Druid
 alignment: Neutral
 image: /rpg/pandodnd/public/images/portraits/alcor.webp
+last_seen: "2026-05-27"
 ---
 
 ## Appearances
