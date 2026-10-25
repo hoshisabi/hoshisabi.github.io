@@ -7,7 +7,7 @@ player: MarkD
 player_slug: markd
 class: Shadar-kai Ranger 6 (Gloom Stalker)
 dnd_beyond: https://www.dndbeyond.com/characters/167218673
-image: https://www.dndbeyond.com/avatars/57265/619/1581111423-149901526.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp
+image: /rpg/pandodnd/public/images/portraits/vexal-shadeprowler.webp
 last_seen: "2026-07-08"
 ---
 

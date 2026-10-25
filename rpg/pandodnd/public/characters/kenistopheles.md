@@ -9,7 +9,7 @@ race: Tiefling (Infernal)
 class: Tiefling Warlock 5 (Fiend Patron) / Paladin 1
 alignment: True Neutral
 dnd_beyond: https://www.dndbeyond.com/characters/152296722
-image: https://www.dndbeyond.com/avatars/52022/264/1581111423-152296722.jpeg
+image: /rpg/pandodnd/public/images/portraits/kenistopheles.webp
 last_seen: "2026-05-13"
 ---
 

@@ -9,7 +9,7 @@ race: Dwarf
 class: Light Cleric 3
 background: Hermit
 dnd_beyond: https://www.dndbeyond.com/characters/154436221
-image: https://www.dndbeyond.com/avatars/52368/97/1581111423-154436221.jpeg
+image: /rpg/log/public/images/portraits/rokrun.webp
 last_seen: "2026-05-30"
 ---
 

@@ -6,7 +6,7 @@ title: Lambeth Margrave
 player: OP
 player_slug: onlypetrichor
 class: Warlock 7 / Bard 3
-image: https://assets.forge-vtt.com/5e8b516891f93735fd1249d1/tokenizer/pc-images/lambeth_margrave.Avatar.webp?1779318198794
+image: /rpg/pandodnd/public/images/portraits/lambeth-margrave.webp
 last_seen: "2026-05-20"
 ---
 
