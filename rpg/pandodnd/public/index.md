@@ -51,23 +51,13 @@ Sign up on [Warhorn](https://warhorn.net/events/pandodnd/schedule).
 <div class="npc-grid">
 {% for player in players %}
 {% assign player_chars = characters | where: "player_slug", player.player_slug %}
-{% assign latest = player_chars | where_exp: "c", "c.image" | sort: "last_seen" | last %}
+{% assign latest = player_chars | sort: "last_seen" | last %}
+{% assign others = player_chars.size | minus: 1 %}
 <a href="{{ player.url }}" class="npc-card">
-  {% if latest %}<img src="{{ latest.image }}" alt="{{ player.title }}">{% else %}<div class="npc-no-image"></div>{% endif %}
+  {% if latest.image %}<img src="{{ latest.image }}" alt="{{ latest.title }}">{% else %}<div class="npc-no-image"></div>{% endif %}
   <span>{{ player.title }}</span>
-  <span class="card-player">{{ player_chars.size }} character{% if player_chars.size != 1 %}s{% endif %}</span>
+  {% if latest %}<span class="card-player">{{ latest.title }}{% if others > 0 %}<br>(+{{ others }} other{% if others != 1 %}s{% endif %}){% endif %}</span>{% endif %}
 </a>
-{% endfor %}
-</div>
-
-## Recent characters
-
-The twelve characters seen most recently at the table, newest session first. Party composition changes weekly; pages here capture **appearances observed** during published sessions—not a canonical roster.
-
-{% assign recent = characters | where_exp: "c", "c.last_seen" | sort: "last_seen" | reverse %}
-<div class="npc-grid">
-{% for char in recent limit:12 %}
-{% include character-card.html char=char %}
 {% endfor %}
 </div>
 
