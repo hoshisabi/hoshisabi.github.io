@@ -16,5 +16,6 @@ image: /rpg/log/public/images/portraits/madmartiken.webp
 
 - **2026-09-19** — [Session 10 (September 19, 2026)](../sessions/2026-09-19) (*The Hands of a Healer*)
 - **2026-10-10** — [Session 13 (October 10, 2026)](../sessions/2026-10-10) (*Oath Bound Blade*)
+- **2026-10-24** — [Session 14 (October 24, 2026)](../sessions/2026-10-24) (*Nine Swords Against Chaos*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
