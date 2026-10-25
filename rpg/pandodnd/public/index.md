@@ -48,12 +48,17 @@ Sign up on [Warhorn](https://warhorn.net/events/pandodnd/schedule).
 
 ## Players
 
-<ul class="player-list">
+<div class="npc-grid">
 {% for player in players %}
 {% assign player_chars = characters | where: "player_slug", player.player_slug %}
-<li><a href="{{ player.url }}">{{ player.title }}</a> <span class="card-player">{{ player_chars.size }}</span></li>
+{% assign latest = player_chars | where_exp: "c", "c.image" | sort: "last_seen" | last %}
+<a href="{{ player.url }}" class="npc-card">
+  {% if latest %}<img src="{{ latest.image }}" alt="{{ player.title }}">{% else %}<div class="npc-no-image"></div>{% endif %}
+  <span>{{ player.title }}</span>
+  <span class="card-player">{{ player_chars.size }} character{% if player_chars.size != 1 %}s{% endif %}</span>
+</a>
 {% endfor %}
-</ul>
+</div>
 
 ## Recent characters
 
