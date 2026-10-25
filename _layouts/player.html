@@ -7,20 +7,17 @@ layout: default
 <article class="player">
   <h1>{{ page.title }}</h1>
 
-  <p class="player-intro">Characters played by {{ page.title }}.</p>
+  <p class="player-intro">Characters played by {{ page.title }}, most recently seen first.</p>
 
   {% assign player_key = page.player_slug | default: page.slug %}
-  {% assign chars = site.pages | where: "player_slug", player_key | where: "layout", "character" | where: "campaign_url", page.campaign_url | sort: "title" %}
+  {% assign chars = site.pages | where: "player_slug", player_key | where: "layout", "character" | where: "campaign_url", page.campaign_url | sort: "last_seen" | reverse %}
 
   {% if chars.size > 0 %}
-  <ul class="player-characters">
+  <div class="npc-grid">
     {% for c in chars %}
-    <li>
-      <a href="{{ c.url | relative_url }}">{{ c.title }}</a>
-      {% if c.class %}<span class="player-char-class"> — {{ c.class }}</span>{% endif %}
-    </li>
+    {% include character-card.html char=c sub=c.class %}
     {% endfor %}
-  </ul>
+  </div>
   {% else %}
   <p>No character pages linked yet.</p>
   {% endif %}
