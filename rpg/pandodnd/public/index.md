@@ -44,21 +44,9 @@ Sign up on [Warhorn](https://warhorn.net/events/pandodnd/schedule).
 {% endif %}
 
 {% assign characters = site.pages | where: "layout", "character" | where: "campaign_url", page.campaign_url %}
-{% assign players = site.pages | where: "layout", "player" | where: "campaign_url", page.campaign_url | sort_natural: "title" %}
 
 ## Players
 
-<div class="npc-grid">
-{% for player in players %}
-{% assign player_chars = characters | where: "player_slug", player.player_slug %}
-{% assign latest = player_chars | sort: "last_seen" | last %}
-{% assign others = player_chars.size | minus: 1 %}
-<a href="{{ player.url }}" class="npc-card">
-  {% if latest.image %}<img src="{{ latest.image }}" alt="{{ latest.title }}">{% else %}<div class="npc-no-image"></div>{% endif %}
-  <span>{{ player.title }}</span>
-  {% if latest %}<span class="card-player">{{ latest.title }}{% if others > 0 %}<br>(+{{ others }} other{% if others != 1 %}s{% endif %}){% endif %}</span>{% endif %}
-</a>
-{% endfor %}
-</div>
+{% include player-grid.html limit=12 %}
 
 [View all {{ characters.size }} characters →](all-characters)

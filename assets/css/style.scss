@@ -1034,6 +1034,39 @@ body.home h2 { border-bottom: none; padding-bottom: 0; }
   user-select: none;
 }
 .session-list-toggle > summary::-webkit-details-marker { display: none; }
+
+/* Player grid (_includes/player-grid.html): sort switch + "more players" */
+.player-sort {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
+}
+.player-sort[hidden], .player-more[hidden] { display: none; }
+.player-sort button, .player-more {
+  font: inherit;
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  color: var(--accent);
+  padding: 0.2rem 0.6rem;
+  cursor: pointer;
+}
+.player-sort button[aria-pressed="true"] {
+  background: var(--accent-soft);
+  border-color: var(--accent);
+}
+.player-sort button:hover, .player-more:hover { color: var(--link-hover); }
+.player-grid.is-limited:not(.show-all) .is-extra { display: none; }
+.player-grid { margin-bottom: 0.75rem; }
+.player-more { margin-bottom: 2rem; }
+.player-more::before { content: "▸ "; }
 .session-list-toggle > summary::before {
   content: "▸";
   display: inline-block;

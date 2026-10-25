@@ -1,0 +1,79 @@
+{% comment %}
+  Player cards for a campaign index, newest player first. Each card shows the
+  player's most recently seen character and how many others they have played.
+  The first `limit` cards show; the rest sit behind a "more players" button.
+  A Recent / A–Z switch reorders the cards (A–Z shows everyone). Without
+  JavaScript, every card shows in recent order.
+{% endcomment %}
+{% assign grid_limit = include.limit | default: 12 %}
+{% assign grid_chars = site.pages | where: "layout", "character" | where: "campaign_url", page.campaign_url %}
+{% assign grid_players = site.pages | where: "layout", "player" | where: "campaign_url", page.campaign_url %}
+
+{% assign grid_keys = "" %}
+{% for player in grid_players %}
+{% assign player_chars = grid_chars | where: "player_slug", player.player_slug %}
+{% assign latest = player_chars | sort: "last_seen" | last %}
+{% assign seen = latest.last_seen | default: "0000-00-00" %}
+{% assign grid_keys = grid_keys | append: seen | append: "~" | append: player.player_slug | append: ";" %}
+{% endfor %}
+{% assign grid_keys = grid_keys | split: ";" | sort | reverse %}
+
+<div class="player-sort" hidden>
+  <span>Sort</span>
+  <button type="button" data-sort="recent" aria-pressed="true">Recent</button>
+  <button type="button" data-sort="name" aria-pressed="false">A–Z</button>
+</div>
+<div class="npc-grid player-grid">
+{% for key in grid_keys %}
+{% assign slug = key | split: "~" | last %}
+{% assign player = grid_players | where: "player_slug", slug | first %}
+{% assign player_chars = grid_chars | where: "player_slug", slug %}
+{% assign latest = player_chars | sort: "last_seen" | last %}
+{% assign others = player_chars.size | minus: 1 %}
+<a href="{{ player.url }}" class="npc-card{% if forloop.index > grid_limit %} is-extra{% endif %}" data-rank="{{ forloop.index }}" data-name="{{ player.title | downcase | escape }}">
+  {% if latest.image %}<img src="{{ latest.image }}" alt="{{ latest.title }}">{% else %}<div class="npc-no-image"></div>{% endif %}
+  <span>{{ player.title }}</span>
+  {% if latest %}<span class="card-player">{{ latest.title }}{% if others > 0 %}<br>(+{{ others }} other{% if others != 1 %}s{% endif %}){% endif %}</span>{% endif %}
+</a>
+{% endfor %}
+</div>
+{% assign extra_count = grid_keys.size | minus: grid_limit %}
+{% if extra_count > 0 %}
+<div class="player-more-row">
+<button type="button" class="player-more" hidden>{{ extra_count }} more player{% if extra_count != 1 %}s{% endif %}</button>
+</div>
+{% endif %}
+
+<script>
+(function () {
+  var grid = document.querySelector(".player-grid");
+  var sortBar = document.querySelector(".player-sort");
+  var more = document.querySelector(".player-more");
+  if (!grid || !sortBar) return;
+  var cards = Array.prototype.slice.call(grid.children);
+  var expanded = false;
+
+  function render(mode) {
+    var key = mode === "name" ? "name" : "rank";
+    cards.sort(function (a, b) {
+      var x = a.dataset[key], y = b.dataset[key];
+      return key === "rank" ? x - y : x.localeCompare(y);
+    }).forEach(function (c) { grid.appendChild(c); });
+    var showAll = mode === "name" || expanded;
+    grid.classList.toggle("show-all", showAll);
+    if (more) more.hidden = showAll;
+    sortBar.querySelectorAll("button").forEach(function (b) {
+      b.setAttribute("aria-pressed", String(b.dataset.sort === mode));
+    });
+  }
+
+  grid.classList.add("is-limited");
+  sortBar.hidden = false;
+  sortBar.addEventListener("click", function (e) {
+    var b = e.target.closest("button[data-sort]");
+    if (b) render(b.dataset.sort);
+  });
+  if (more) more.addEventListener("click", function () { expanded = true; render("recent"); });
+  render("recent");
+})();
+</script>
