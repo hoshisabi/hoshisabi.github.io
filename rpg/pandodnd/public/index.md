@@ -43,17 +43,39 @@ Sign up on [Warhorn](https://warhorn.net/events/pandodnd/schedule).
 </details>
 {% endif %}
 
-## Characters we've catalogued
+{% assign characters = site.pages | where: "layout", "character" | where: "campaign_url", page.campaign_url %}
+{% assign players = site.pages | where: "layout", "player" | where: "campaign_url", page.campaign_url | sort_natural: "title" %}
 
-Party composition changes weekly; pages here capture **appearances observed** during published sessions—not a canonical roster.
+## Players
 
-{% assign appearances = site.pages | where_exp: "p", "p.path contains 'pandodnd/public/characters'" | sort: "title" %}
+<ul class="player-list">
+{% for player in players %}
+{% assign player_chars = characters | where: "player_slug", player.player_slug %}
+<li><a href="{{ player.url }}">{{ player.title }}</a> <span class="card-player">{{ player_chars.size }}</span></li>
+{% endfor %}
+</ul>
+
+## Recent characters
+
+The twelve characters seen most recently at the table, newest session first. Party composition changes weekly; pages here capture **appearances observed** during published sessions—not a canonical roster.
+
+{% assign recent_seen = "|" %}
+{% assign recent_count = 0 %}
 <div class="npc-grid">
-{% for char in appearances %}
-<a href="{{ char.url }}" class="npc-card">
-  {% if char.image %}<img src="{{ char.image }}" alt="{{ char.title }}">{% else %}<div class="npc-no-image"></div>{% endif %}
-  <span>{{ char.title }}</span>
-  {% if char.player %}<span class="card-player">{{ char.player }}</span>{% endif %}
-</a>
+{% for session in sessions_reversed %}
+{% for entry in session.players %}
+{% if recent_count >= 12 %}{% break %}{% endif %}
+{% assign key = "|" | append: entry.character | append: "|" %}
+{% if recent_seen contains key %}{% continue %}{% endif %}
+{% assign char = characters | where: "title", entry.character | first %}
+{% if char %}
+{% include character-card.html char=char %}
+{% assign recent_seen = recent_seen | append: entry.character | append: "|" %}
+{% assign recent_count = recent_count | plus: 1 %}
+{% endif %}
+{% endfor %}
+{% if recent_count >= 12 %}{% break %}{% endif %}
 {% endfor %}
 </div>
+
+[View all {{ characters.size }} characters →](all-characters)
