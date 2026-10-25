@@ -2,7 +2,7 @@
   "meta": {
     "year": 2026,
     "status": "draft",
-    "as_of": "2026-10-19",
+    "as_of": "2026-10-20",
     "link_mode": "published",
     "convention_slug": "u-con-2026"
   },
@@ -331,7 +331,7 @@
             ],
             "sun_afternoon": [
               {
-                "initials": "PM",
+                "initials": "DC",
                 "program": "AL",
                 "url": "https://tabletop.events/conventions/u-con-2026/schedule/652",
                 "event_number": "652"
