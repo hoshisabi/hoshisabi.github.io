@@ -6,7 +6,7 @@ title: Huckleberry
 player: Dan
 player_slug: dan
 race: Halfling
-class: Sorcerer 2
+class: Sorcerer 3 (Wild Magic)
 background: Charlatan
 dnd_beyond: https://www.dndbeyond.com/characters/169814903
 image: /rpg/log/public/images/portraits/huckleberry.webp
@@ -20,7 +20,7 @@ Then one night the card he pulled from behind someone's ear was on fire. The dov
 
 His magic has started to become **real**, and Huckleberry has no idea why. He's recently learned there's something **wild** in his blood: sorcery he never asked for, which he can't control and definitely can't rehearse.
 
-He's a **2nd-level sorcerer**. He still does the patter, the flourishes and the "nothing up my sleeve," partly because it's who he is and partly because he's no longer sure what *is* up his sleeve.
+He's a **3rd-level sorcerer**. He still does the patter, the flourishes and the "nothing up my sleeve," partly because it's who he is and partly because he's no longer sure what *is* up his sleeve.
 
 *"For my next trick... honestly, your guess is as good as mine."*
 

@@ -154,6 +154,21 @@ playing:
     last_updated: "2026-05-30"
     href: /rpg/log/public/characters/logos
 
+  - title: Huckleberry
+    sub: Halfling · Sorcerer 3 (Wild Magic)
+    desc: >-
+      A halfling stage magician whose tricks have started working for real. The card comes out on fire, the dove
+      comes out a bat, and the vanishing act loses his assistant. There's wild magic in his blood, and he can't
+      rehearse it.
+    campaign: Legends of Greyhawk
+    organized_play: Legends of Greyhawk
+    dnd_beyond: https://www.dndbeyond.com/characters/169814903
+    portrait: /rpg/log/public/images/portraits/huckleberry.webp
+    dm: drop-in
+    status: active
+    last_updated: "2026-10-24"
+    href: /rpg/log/public/characters/huckleberry
+
 # Stats displayed in the telemetry strip on the landing page.
 stats:
   active_campaigns: 2
