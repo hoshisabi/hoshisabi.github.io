@@ -2,7 +2,7 @@
   "meta": {
     "year": 2026,
     "status": "draft",
-    "as_of": "2026-10-20",
+    "as_of": "2026-10-28",
     "link_mode": "published",
     "convention_slug": "u-con-2026"
   },
@@ -109,7 +109,7 @@
           "cells": {
             "fri_evening": [
               {
-                "initials": "HC",
+                "initials": "EC",
                 "program": "AL",
                 "url": "https://tabletop.events/conventions/u-con-2026/schedule/649",
                 "event_number": "649"
@@ -117,7 +117,7 @@
             ],
             "sat_morning": [
               {
-                "initials": "HC",
+                "initials": "EC",
                 "program": "AL",
                 "url": "https://tabletop.events/conventions/u-con-2026/schedule/650",
                 "event_number": "650"
@@ -259,7 +259,7 @@
           "cells": {
             "sat_afternoon": [
               {
-                "initials": "DC",
+                "initials": "PM",
                 "program": "AL",
                 "url": "https://tabletop.events/conventions/u-con-2026/schedule/665",
                 "event_number": "665"
@@ -323,7 +323,7 @@
           "cells": {
             "sat_morning": [
               {
-                "initials": "PM",
+                "initials": "DC",
                 "program": "AL",
                 "url": "https://tabletop.events/conventions/u-con-2026/schedule/651",
                 "event_number": "651"
