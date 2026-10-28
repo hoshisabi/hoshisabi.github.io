@@ -1,7 +1,6 @@
 .env
 .idea/
 .vscode/
-/ucondms/dmlookup.csv
 Gemfile
 Gemfile.lock
 _site/
