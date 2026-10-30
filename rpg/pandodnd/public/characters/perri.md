@@ -8,7 +8,7 @@ player_slug: treym
 class: Paladin 10
 dnd_beyond: https://www.dndbeyond.com/characters/154737127
 image: /rpg/pandodnd/public/images/portraits/perri.webp
-last_seen: "2026-10-14"
+last_seen: "2026-10-28"
 ---
 
 ## Appearances
@@ -19,6 +19,7 @@ last_seen: "2026-10-14"
 - **2026-08-12** — [Session 13 (August 12, 2026)](../sessions/2026-08-12) (*Absent without Leave*)
 - **2026-09-02** — [Session 16 (September 2, 2026)](../sessions/2026-09-02) (*Fallen for You*)
 - **2026-10-14** — [Session 22 (October 14, 2026)](../sessions/2026-10-14) (*Escape from Paradise*)
+- **2026-10-28** — [Session 23 (October 28, 2026)](../sessions/2026-10-28) (*Beneath the Prison Tree*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
 

@@ -10,7 +10,7 @@ class: Hill Dwarf Paladin 6 (Oath of the Ancients)
 alignment: Lawful Good
 dnd_beyond: https://www.dndbeyond.com/characters/141093656
 image: /rpg/pandodnd/public/images/portraits/pal-go-lucky.webp
-last_seen: "2026-08-26"
+last_seen: "2026-10-28"
 ---
 
 ## Appearances
@@ -23,6 +23,7 @@ last_seen: "2026-08-26"
 - **2026-07-22** — [Session 11 (July 22, 2026)](../sessions/2026-07-22) (*Escape from Paradise*)
 - **2026-08-19** — [Session 14 (August 19, 2026)](../sessions/2026-08-19) (*Spider Hunt*)
 - **2026-08-26** — [Session 15 (August 26, 2026)](../sessions/2026-08-26) (*Juxtaposition*)
+- **2026-10-28** — [Session 23 (October 28, 2026)](../sessions/2026-10-28) (*Beneath the Prison Tree*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
 
