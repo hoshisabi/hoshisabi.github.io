@@ -1,12 +1,13 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
-campaign: Icewind Dale
+campaign: PandoDnD
 session_label: Session 23
-date: October 16, 2026
-title: The Start of Something Bigger
-adventure_code: FR-DC-PND-AO-23
-href: /rpg/icewind-dale/public/sessions/2026-10-16
+date: October 28, 2026
+title: Beneath the Prison Tree
+adventure_code: PS-DC-PUB-14
+href: /rpg/pandodnd/public/sessions/2026-10-28
 excerpt: >-
-  A tea that tastes like the inside of a boot, a perch on a cliff built for
-  something far too big, a knotted cord left in the snow, and at the bottom of
-  a warm stone stair, a door with everyone they came for on the other side.
+  On Carceri the air burns your nose and the drinks come garnished with
+  scorpion tails. For one gold, a frog-faced bartender will sell you directions
+  to an imprisoned wizard's treasure. Nobody has ever come back to pay him the
+  rest.
