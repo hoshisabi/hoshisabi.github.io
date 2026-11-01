@@ -44,6 +44,9 @@ home: true
     <a class="lp-btn ghost" href="https://aladventurecatalog.com/" target="_blank" rel="noopener">
       AL Adventure Catalog
     </a>
+    <a class="lp-btn ghost" href="https://hoshisabi.itch.io/pixel-patchwork" target="_blank" rel="noopener">
+      Pixel Patchwork
+    </a>
   </div>
 </section>
 
