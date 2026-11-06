@@ -1,13 +1,12 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
 campaign: PandoDnD
-session_label: Session 23
-date: October 28, 2026
-title: Beneath the Prison Tree
-adventure_code: PS-DC-PUB-14
-href: /rpg/pandodnd/public/sessions/2026-10-28
+session_label: Session 24
+date: November 4, 2026
+title: Spells on the Loose
+adventure_code: FR-DC-LOOSE-001
+href: /rpg/pandodnd/public/sessions/2026-11-04
 excerpt: >-
-  On Carceri the air burns your nose and the drinks come garnished with
-  scorpion tails. For one gold, a frog-faced bartender will sell you directions
-  to an imprisoned wizard's treasure. Nobody has ever come back to pay him the
-  rest.
+  In Luskan nobody looks up when the Host Tower flashes. They look up when a
+  bird made of burning hands glides into the market. An apprentice's spellbook
+  has burst, and its spells are out in the city, learning what they like.
