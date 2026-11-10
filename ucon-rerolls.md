@@ -28,6 +28,10 @@ Put $1 on the table for each reroll you want. Your DM will bring the donations t
 
 Stop by AL HQ to buy reroll tickets in advance, then bring them to any of your games.
 
+## Bonus certificate for $5 or more
+
+Donate $5 or more over the convention and you earn the **Toy Red Dragon** event certificate, an official Adventurers League award: a stuffed dragon that breathes a cone of fire once a day when squeezed. Pick it up at AL HQ.
+
 ---
 
 Thank you for playing with us and for supporting Doctors Without Borders!

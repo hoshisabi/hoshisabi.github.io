@@ -41,7 +41,13 @@ Registration is open on [Tabletop.Events](https://tabletop.events/conventions/u-
 
 ## Charity
 
-Every table offers charity rerolls benefiting **Doctors Without Borders**. Donations are collected at AL HQ during the convention.
+Every table offers charity rerolls benefiting **Doctors Without Borders**. Donations are collected at AL HQ during the convention, and $5 or more earns a bonus event certificate.
+
+<div style="text-align: center; margin: 2rem 0;">
+  <a class="lp-btn ghost" href="{{ '/ucon/rerolls/' | relative_url }}">
+    How charity rerolls work →
+  </a>
+</div>
 
 ---
 

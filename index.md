@@ -281,7 +281,7 @@ home: true
     <div class="ucon-cause">
       <div class="ucon-cause-lbl">★ Fundraiser</div>
       <div class="ucon-cause-name">Doctors Without Borders</div>
-      <div class="ucon-cause-desc">Charity rerolls at every table. Donations are collected at AL HQ during the convention.</div>
+      <div class="ucon-cause-desc">Charity rerolls at every table. Donations are collected at AL HQ during the convention. <a href="{{ '/ucon/rerolls/' | relative_url }}">How it works</a></div>
     </div>
   </div>
 </section>
