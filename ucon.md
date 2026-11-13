@@ -57,6 +57,12 @@ U-Con's official health and safety policies are at [ucon-gaming.org/policies](ht
 
 ---
 
+## Ideas for Next Year
+
+Is there an adventure you'd love to see, a time slot that would work better, or anything else that would make U-Con even more fun? Tell your DM, who can jot it down for us, stop by AL HQ during the convention, or send me a note any time. Every suggestion gets read.
+
+---
+
 ## Questions?
 
 Reach out any time. I genuinely love talking about this.
