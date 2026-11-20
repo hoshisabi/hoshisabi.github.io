@@ -66,11 +66,11 @@ Quill and Awakened Spellbook suit a scholar who literally woke up mid-thought. A
 * [Character Sheet](https://www.dndbeyond.com/characters/100533223/YOBfDI)
 * Session notes:
   * Session 00 2023-06-01: [transcription](session_notes/session_00_2023-06-01.md) — character creation questions (originally embedded in Rool notes)
-  * Session 01 2023-10-12: [scan](session_notes/Spare%20Session%2001%202023-10-12%20p1.jpg) | [transcription](session_notes/session_01_2023-10-12.md)
-  * Session 02 2023-10-26: [scan](session_notes/Spare%20Session%2002%202023-10-26%20p1.jpg) | [transcription](session_notes/session_02_2023-10-26.md)
-  * Session 03 2023-11-02: [scan](session_notes/Spare%20Session%2003%202023-11-02%20p1.jpg) | [transcription](session_notes/session_03_2023-11-02.md)
+  * Session 01 2023-10-12: [scan p1](session_notes/Spare%20Session%2001%202023-10-12%20p1.jpg) · [p2](session_notes/Spare%20Session%2001%202023-10-12%20p2.jpg) · [p3](session_notes/Spare%20Session%2001%202023-10-12%20p3.jpg) · [p4](session_notes/Spare%20Session%2001%202023-10-12%20p4.jpg) · [p5](session_notes/Spare%20Session%2001%202023-10-12%20p5.jpg) · [p6](session_notes/Spare%20Session%2001%202023-10-12%20p6.jpg) | [transcription](session_notes/session_01_2023-10-12.md)
+  * Session 02 2023-10-26: [scan p1](session_notes/Spare%20Session%2002%202023-10-26%20p1.jpg) · [p2](session_notes/Spare%20Session%2002%202023-10-26%20p2.jpg) | [transcription](session_notes/session_02_2023-10-26.md)
+  * Session 03 2023-11-02: [scan p1](session_notes/Spare%20Session%2003%202023-11-02%20p1.jpg) · [p2](session_notes/Spare%20Session%2003%202023-11-02%20p2.jpg) | [transcription](session_notes/session_03_2023-11-02.md)
   * Session 04 2023-11-16: [transcription](session_notes/session_04_2023-11-16.md) (online session, no scan)
   * Session 05 2023-11-30: [scan](session_notes/Spare%20Session%2005%202023-11-30%20p1.jpg) | [transcription](session_notes/session_05_2023-11-30.md)
-  * Session 06 2023-12-07: [scan](session_notes/Spare%20Session%2006%202023-12-07%20p1.jpg) | [transcription](session_notes/session_06_2023-12-07.md)
+  * Session 06 2023-12-07: [scan p1](session_notes/Spare%20Session%2006%202023-12-07%20p1.jpg) · [p2](session_notes/Spare%20Session%2006%202023-12-07%20p2.jpg) | [transcription](session_notes/session_06_2023-12-07.md)
   * Session 07 2024-01-11: [scan](session_notes/Spare%20Session%2007%202024-01-11%20p1.jpg) | [transcription](session_notes/session_07_2024-01-11.md)
 
