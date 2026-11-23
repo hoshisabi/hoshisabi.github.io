@@ -31,7 +31,17 @@
   {% endif %}
 </head>
 
+{%- assign _nav_running = site.data.campaigns.running | sort: "last_updated" | reverse -%}
+{%- assign _nav_playing = site.data.campaigns.playing | sort: "last_updated" | reverse -%}
+{%- assign _is_home = false -%}
+{%- if page.url == "/" or page.url == "/index.html" -%}{%- assign _is_home = true -%}{%- endif -%}
+{%- assign _is_adv = false -%}
+{%- if page.url contains "/myadventures" -%}{%- assign _is_adv = true -%}{%- endif -%}
+{%- assign _is_camp = false -%}
+{%- if page.url contains "/mycampaigns" or page.url contains "/mycharacters" or page.url contains "/rpg/" -%}{%- assign _is_camp = true -%}{%- endif -%}
+
 <body{% if page.home %} class="home"{% endif %}>
+  <a class="skip-link" href="#main-content">Skip to content</a>
 
   <header class="site-header">
     <div class="container site-header-row">
@@ -40,8 +50,8 @@
         <span class="site-title-name">hoshisabi</span>
       </a>
       <div class="header-right">
-      <nav class="site-nav">
-        <a href="{{ '/' | relative_url }}">Home</a>
+      <nav class="site-nav" aria-label="Primary">
+        <a href="{{ '/' | relative_url }}"{% if _is_home %} aria-current="page"{% endif %}>Home</a>
 
         {%- comment -%}
           Adventures dropdown
@@ -53,8 +63,8 @@
           matching <section id="series-{id}"> on the adventures page.
         {%- endcomment -%}
         <div class="nav-dropdown">
-          <a class="dropdown-trigger" href="{{ '/myadventures' | relative_url }}">
-            Adventures <span class="arrow">▾</span>
+          <a class="dropdown-trigger" href="{{ '/myadventures' | relative_url }}"{% if _is_adv %} aria-current="page"{% endif %}>
+            Adventures <span class="arrow" aria-hidden="true">▾</span>
           </a>
           <div class="dropdown-menu">
             <a href="{{ '/myadventures' | relative_url }}">All adventures</a>
@@ -69,22 +79,26 @@
         </div>
 
         <div class="nav-dropdown">
-          <button class="dropdown-trigger" aria-haspopup="true" aria-expanded="false">
-            Campaigns <span class="arrow">▾</span>
+          <button class="dropdown-trigger{% if _is_camp %} is-active{% endif %}" type="button" aria-haspopup="true" aria-expanded="false">
+            Campaigns <span class="arrow" aria-hidden="true">▾</span>
           </button>
           <div class="dropdown-menu">
             <a class="dropdown-section-title" href="{{ '/mycampaigns' | relative_url }}">Running</a>
-            <a href="{{ '/rpg/icewind-dale/public/' | relative_url }}">Icewind Dale</a>
-            <a href="{{ '/rpg/pandodnd/public/' | relative_url }}">PandoDnD</a>
-            <a href="{{ '/rpg/phandelver' | relative_url }}">Phandelver (Finished)</a>
+            {% for c in _nav_running %}
+              {% if c.href %}
+                <a href="{{ c.href | relative_url }}">{{ c.nav_title | default: c.title }}{% if c.status != "active" %} ({{ c.status | capitalize }}){% endif %}</a>
+              {% endif %}
+            {% endfor %}
             <a class="dropdown-section-title" href="{{ '/mycharacters' | relative_url }}">Playing</a>
-            <a href="{{ '/rpg/spare/spare' | relative_url }}">Spare (Retired)</a>
-            <a href="{{ '/rpg/burgess/' | relative_url }}">Burgess</a>
-            <a href="{{ '/rpg/rool/' | relative_url }}">Rool</a>
+            {% for c in _nav_playing %}
+              {% if c.href %}
+                <a href="{{ c.href | relative_url }}">{{ c.nav_title | default: c.title }}{% if c.status == "retired" %} (Retired){% endif %}</a>
+              {% endif %}
+            {% endfor %}
+            <a class="dropdown-footer-link" href="{{ '/mycharacters' | relative_url }}">All characters →</a>
           </div>
         </div>
 
-        <a href="{{ '/ucon/' | relative_url }}">U-Con</a>
         <a href="https://pandodnd.com">PandoDnD</a>
         <a class="nav-icon" href="https://github.com/hoshisabi" aria-label="GitHub">
           {% include icons.html name="github" size=16 %}
@@ -99,11 +113,45 @@
           <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/>
         </svg>
       </button>
+      <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-nav">
+        <svg class="icon-menu" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/>
+        </svg>
+        <svg class="icon-close" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
+        </svg>
+      </button>
       </div>
     </div>
+
+    <nav class="mobile-nav" id="mobile-nav" aria-label="Mobile navigation" hidden>
+      <div class="container mobile-nav-inner">
+        <a class="mobile-nav-link" href="{{ '/' | relative_url }}"{% if _is_home %} aria-current="page"{% endif %}>Home</a>
+        <a class="mobile-nav-link" href="{{ '/myadventures' | relative_url }}"{% if _is_adv %} aria-current="page"{% endif %}>Adventures</a>
+        <div class="mobile-nav-group">
+          <a class="mobile-nav-heading" href="{{ '/mycampaigns' | relative_url }}">Running</a>
+          {% for c in _nav_running %}
+            {% if c.href %}
+              <a class="mobile-nav-sublink" href="{{ c.href | relative_url }}">{{ c.nav_title | default: c.title }}{% if c.status != "active" %} ({{ c.status | capitalize }}){% endif %}</a>
+            {% endif %}
+          {% endfor %}
+        </div>
+        <div class="mobile-nav-group">
+          <a class="mobile-nav-heading" href="{{ '/mycharacters' | relative_url }}">Playing</a>
+          {% for c in _nav_playing %}
+            {% if c.href %}
+              <a class="mobile-nav-sublink" href="{{ c.href | relative_url }}">{{ c.nav_title | default: c.title }}{% if c.status == "retired" %} (Retired){% endif %}</a>
+            {% endif %}
+          {% endfor %}
+          <a class="mobile-nav-sublink is-more" href="{{ '/mycharacters' | relative_url }}">All characters →</a>
+        </div>
+        <a class="mobile-nav-link" href="https://pandodnd.com">PandoDnD</a>
+        <a class="mobile-nav-link" href="https://github.com/hoshisabi">GitHub</a>
+      </div>
+    </nav>
   </header>
 
-  <main class="{% if page.home %}home-main{% elsif page.wide %}container wide page-content{% else %}container page-content{% endif %}">
+  <main id="main-content" class="{% if page.home %}home-main{% elsif page.wide %}container wide page-content{% else %}container page-content{% endif %}">
     {% if page.home %}
       <div class="container">
         {{ content }}
@@ -137,11 +185,75 @@
   </footer>
 
   <script>
-    document.querySelector(".theme-toggle").addEventListener("click", function () {
-      var next = document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark";
-      document.documentElement.setAttribute("data-theme", next);
-      localStorage.setItem("theme", next);
-    });
+    (function () {
+      var themeBtn = document.querySelector(".theme-toggle");
+      function syncThemeBtn() {
+        var dark = document.documentElement.getAttribute("data-theme") === "dark";
+        themeBtn.setAttribute("aria-label", dark ? "Switch to light theme" : "Switch to dark theme");
+        themeBtn.setAttribute("aria-pressed", dark ? "true" : "false");
+      }
+      if (themeBtn) {
+        syncThemeBtn();
+        themeBtn.addEventListener("click", function () {
+          var next = document.documentElement.getAttribute("data-theme") === "dark" ? "light" : "dark";
+          document.documentElement.setAttribute("data-theme", next);
+          localStorage.setItem("theme", next);
+          syncThemeBtn();
+        });
+      }
+
+      // Desktop dropdown click/keyboard toggle for button triggers
+      document.querySelectorAll(".nav-dropdown").forEach(function (dd) {
+        var btn = dd.querySelector("button.dropdown-trigger");
+        if (!btn) return;
+        btn.addEventListener("click", function (e) {
+          e.stopPropagation();
+          var open = dd.classList.toggle("is-open");
+          btn.setAttribute("aria-expanded", open ? "true" : "false");
+        });
+      });
+
+      // Mobile nav drawer toggle
+      var navToggle = document.querySelector(".nav-toggle");
+      var mobileNav = document.getElementById("mobile-nav");
+      function setMobileOpen(open) {
+        if (!navToggle || !mobileNav) return;
+        mobileNav.hidden = !open;
+        navToggle.setAttribute("aria-expanded", open ? "true" : "false");
+        navToggle.setAttribute("aria-label", open ? "Close menu" : "Open menu");
+      }
+      if (navToggle && mobileNav) {
+        navToggle.addEventListener("click", function () {
+          setMobileOpen(mobileNav.hidden);
+        });
+        mobileNav.querySelectorAll("a").forEach(function (a) {
+          a.addEventListener("click", function () { setMobileOpen(false); });
+        });
+      }
+
+      document.addEventListener("click", function (e) {
+        document.querySelectorAll(".nav-dropdown.is-open").forEach(function (dd) {
+          if (!dd.contains(e.target)) {
+            dd.classList.remove("is-open");
+            var btn = dd.querySelector("button.dropdown-trigger");
+            if (btn) btn.setAttribute("aria-expanded", "false");
+          }
+        });
+      });
+
+      document.addEventListener("keydown", function (e) {
+        if (e.key !== "Escape") return;
+        document.querySelectorAll(".nav-dropdown.is-open").forEach(function (dd) {
+          dd.classList.remove("is-open");
+          var btn = dd.querySelector("button.dropdown-trigger");
+          if (btn) btn.setAttribute("aria-expanded", "false");
+        });
+        if (mobileNav && !mobileNav.hidden) {
+          setMobileOpen(false);
+          if (navToggle) navToggle.focus();
+        }
+      });
+    })();
   </script>
 
 </body>

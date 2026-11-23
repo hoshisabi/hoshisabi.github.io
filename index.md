@@ -47,6 +47,9 @@ home: true
     <a class="lp-btn ghost" href="https://hoshisabi.itch.io/pixel-patchwork" target="_blank" rel="noopener">
       Pixel Patchwork
     </a>
+    <a class="lp-btn ghost" href="{{ '/ucon/' | relative_url }}">
+      U-Con
+    </a>
   </div>
 </section>
 
@@ -175,9 +178,9 @@ home: true
     {%- endif -%}
       <div class="star-head">
         {%- if c.portrait -%}
-        <div style="display:flex;gap:0.5rem;align-items:flex-start;min-width:0;">
-          <img src="{{ c.portrait }}" alt="{{ c.title }}" style="width:40px;height:40px;object-fit:cover;border-radius:4px;flex-shrink:0;">
-          <div style="min-width:0;">
+        <div class="star-identity">
+          <img class="star-avatar" src="{{ c.portrait }}" alt="{{ c.title }}" loading="lazy">
+          <div class="star-identity-text">
             <div class="star-title">{{ c.title }}</div>
             <div class="star-sub">{{ c.sub }}</div>
           </div>

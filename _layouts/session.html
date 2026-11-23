@@ -15,4 +15,44 @@ layout: default
 
 {{ content }}
 
+{% assign _path_parts = page.path | split: '/' %}
+{% assign _filename = _path_parts | last %}
+{% assign _dir_prefix = page.path | remove: _filename %}
+{% assign _siblings = site.pages | where: "layout", "session" | where_exp: "p", "p.path contains _dir_prefix" | sort: "path" %}
+{% assign _prev_session = nil %}
+{% assign _next_session = nil %}
+{% assign _found_current = false %}
+{% for _s in _siblings %}
+  {% if _found_current %}
+    {% assign _next_session = _s %}
+    {% break %}
+  {% endif %}
+  {% if _s.path == page.path %}
+    {% assign _found_current = true %}
+  {% else %}
+    {% assign _prev_session = _s %}
+  {% endif %}
+{% endfor %}
+
+{% if _prev_session or _next_session %}
+<nav class="session-pager" aria-label="Session navigation">
+  <div class="session-pager-slot is-prev">
+    {% if _prev_session %}
+    <a class="session-pager-link" href="{{ _prev_session.url | relative_url }}">
+      <span class="session-pager-dir">← Previous session</span>
+      <span class="session-pager-title">{{ _prev_session.title }}{% if _prev_session.session_title %} — {{ _prev_session.session_title }}{% endif %}</span>
+    </a>
+    {% endif %}
+  </div>
+  <div class="session-pager-slot is-next">
+    {% if _next_session %}
+    <a class="session-pager-link" href="{{ _next_session.url | relative_url }}">
+      <span class="session-pager-dir">Next session →</span>
+      <span class="session-pager-title">{{ _next_session.title }}{% if _next_session.session_title %} — {{ _next_session.session_title }}{% endif %}</span>
+    </a>
+    {% endif %}
+  </div>
+</nav>
+{% endif %}
+
 {% include portrait-lightbox.html %}

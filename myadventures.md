@@ -28,6 +28,29 @@ wide: true
 {%- endfor -%}
 {%- assign series_total = visible_series.size -%}
 
+{%- assign tier_list = site.adventures | where_exp: "a", "a.bundle != true" | map: "tier" | compact | uniq | sort -%}
+
+<div class="filter-toolbar" aria-label="Filter adventures">
+  <div class="filter-bar" role="group" aria-label="Filter by tier">
+    <span class="filter-label">Tier</span>
+    <button class="filter-pill" type="button" data-adv-tier="all" aria-pressed="true">All</button>
+    {%- for t in tier_list -%}
+    <button class="filter-pill" type="button" data-adv-tier="{{ t }}" aria-pressed="false">Tier {{ t }}</button>
+    {%- endfor -%}
+  </div>
+  <div class="filter-bar" role="group" aria-label="Filter by runtime">
+    <span class="filter-label">Length</span>
+    <button class="filter-pill" type="button" data-adv-runtime="all" aria-pressed="true">All</button>
+    <button class="filter-pill" type="button" data-adv-runtime="2" aria-pressed="false">2 hours</button>
+    <button class="filter-pill" type="button" data-adv-runtime="4" aria-pressed="false">4 hours</button>
+    <button class="filter-pill" type="button" data-adv-runtime="flex" aria-pressed="false">Flexible</button>
+  </div>
+  <div class="filter-status">
+    <span id="adv-filter-count" aria-live="polite"></span>
+    <button class="filter-reset" type="button" id="adv-filter-reset" hidden>Reset</button>
+  </div>
+</div>
+
 {% for series in visible_series %}
 {% assign series_idx = forloop.index %}
 {% assign series_adventures = site.adventures | where: "series", series.id | sort: "order" %}
@@ -44,7 +67,11 @@ wide: true
   {% endif %}
   <div class="adventure-grid">
     {% for adventure in series_adventures %}
-    <article class="adventure-card{% if adventure.bundle %} is-bundle{% endif %}">
+    {%- assign rt_bucket = "flex" -%}
+    {%- if adventure.runtime == "2 hours" -%}{%- assign rt_bucket = "2" -%}
+    {%- elsif adventure.runtime == "4 hours" -%}{%- assign rt_bucket = "4" -%}
+    {%- endif -%}
+    <article class="adventure-card{% if adventure.bundle %} is-bundle{% endif %}" data-tier="{{ adventure.tier }}" data-runtime="{{ rt_bucket }}" data-bundle="{% if adventure.bundle %}true{% else %}false{% endif %}">
       <a class="adventure-card-inner" href="{{ adventure.link }}" target="_blank" rel="noopener">
         {% if adventure.image %}
         <div class="adventure-card-image">
@@ -87,3 +114,74 @@ wide: true
   </div>
 </section>
 {% endfor %}
+
+<p class="filter-empty" id="adv-filter-empty" hidden>No adventures match those filters.</p>
+
+<script>
+(function () {
+  var tier = 'all';
+  var runtime = 'all';
+  var tierBtns = document.querySelectorAll('[data-adv-tier]');
+  var rtBtns = document.querySelectorAll('[data-adv-runtime]');
+  var sections = document.querySelectorAll('.adventure-series');
+  var countEl = document.getElementById('adv-filter-count');
+  var resetBtn = document.getElementById('adv-filter-reset');
+  var emptyEl = document.getElementById('adv-filter-empty');
+
+  function apply() {
+    var active = tier !== 'all' || runtime !== 'all';
+    var totalShown = 0;
+    var totalNonBundle = 0;
+
+    sections.forEach(function (sec) {
+      var cards = sec.querySelectorAll('.adventure-card');
+      var secShown = 0;
+      cards.forEach(function (card) {
+        var isBundle = card.dataset.bundle === 'true';
+        if (!isBundle) totalNonBundle++;
+        var match = !active || (!isBundle
+          && (tier === 'all' || card.dataset.tier === tier)
+          && (runtime === 'all' || card.dataset.runtime === runtime));
+        card.hidden = !match;
+        if (match) {
+          secShown++;
+          if (!isBundle) totalShown++;
+        }
+      });
+      sec.hidden = secShown === 0;
+    });
+
+    if (countEl) {
+      countEl.textContent = active ? ('Showing ' + totalShown + ' of ' + totalNonBundle + ' adventures') : '';
+    }
+    if (resetBtn) resetBtn.hidden = !active;
+    if (emptyEl) emptyEl.hidden = !active || totalShown > 0;
+  }
+
+  tierBtns.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      tier = btn.dataset.advTier;
+      tierBtns.forEach(function (b) { b.setAttribute('aria-pressed', b === btn ? 'true' : 'false'); });
+      apply();
+    });
+  });
+
+  rtBtns.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      runtime = btn.dataset.advRuntime;
+      rtBtns.forEach(function (b) { b.setAttribute('aria-pressed', b === btn ? 'true' : 'false'); });
+      apply();
+    });
+  });
+
+  if (resetBtn) {
+    resetBtn.addEventListener('click', function () {
+      tier = 'all';
+      runtime = 'all';
+      tierBtns.forEach(function (b) { b.setAttribute('aria-pressed', b.dataset.advTier === 'all' ? 'true' : 'false'); });
+      rtBtns.forEach(function (b) { b.setAttribute('aria-pressed', b.dataset.advRuntime === 'all' ? 'true' : 'false'); });
+      apply();
+    });
+  }
+})();
+</script>
