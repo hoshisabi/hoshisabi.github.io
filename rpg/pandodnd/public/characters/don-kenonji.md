@@ -8,12 +8,13 @@ player_slug: kenb
 class: Human Bard 2
 dnd_beyond: https://www.dndbeyond.com/characters/166816489
 image: /rpg/pandodnd/public/images/portraits/don-kenonji.webp
-last_seen: "2026-11-04"
+last_seen: "2026-11-18"
 ---
 
 ## Appearances
 
 - **2026-10-07** — [Session 21 (October 7, 2026)](../sessions/2026-10-07) (*Spells Gone Wild*)
 - **2026-11-04** — [Session 24 (November 4, 2026)](../sessions/2026-11-04) (*Spells on the Loose*)
+- **2026-11-18** — [Session 25 (November 18, 2026)](../sessions/2026-11-18) (*This Spells Trouble*)
 
 _Note: drop-in roster; this page grows when the character appears in recaps._
