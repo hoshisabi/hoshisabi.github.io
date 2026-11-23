@@ -17,3 +17,17 @@
   desc: >-
     An unofficial but comprehensive alternate source of AL documentation
     and rulings.
+
+- title: What is Legends of Greyhawk?
+  href: https://www.dndbeyond.com/en/legends-of-greyhawk
+  external: true
+  desc: >-
+    Official D&D Beyond overview and starting point for the Legends of
+    Greyhawk organized play campaign.
+
+- title: Legends of Greyhawk
+  href: https://www.legendsofgreyhawk.com/
+  external: true
+  desc: >-
+    Campaign primers, character creation guidelines, regional info,
+    schedules, and player resources for LoG.
