@@ -1,12 +1,13 @@
 # The "Latest session" teaser on the landing page.
 # Update this after each session you want to highlight.
 campaign: PandoDnD
-session_label: Session 24
-date: November 4, 2026
-title: Spells on the Loose
-adventure_code: FR-DC-LOOSE-001
-href: /rpg/pandodnd/public/sessions/2026-11-04
+session_label: Session 25
+date: November 18, 2026
+title: This Spells Trouble
+adventure_code: FR-DC-LOOSE-003
+href: /rpg/pandodnd/public/sessions/2026-11-18
 excerpt: >-
-  In Luskan nobody looks up when the Host Tower flashes. They look up when a
-  bird made of burning hands glides into the market. An apprentice's spellbook
-  has burst, and its spells are out in the city, learning what they like.
+  Breeze Soak's stray spells have taken over a Vecna cult cave in the Spine of
+  the World, glowing purple with Underdark faerzress. Between a trick
+  guillotine, an animated bed, a chill flumph, and a golden sarcophagus, magic
+  refuses to stay put.

@@ -20,9 +20,9 @@ running:
       the table does not.
     status: active
     organized_play: Adventurers League
-    sessions: 39
+    sessions: 40
     started: "2024"
-    last_updated: "2026-11-04"
+    last_updated: "2026-11-18"
     href: /rpg/pandodnd/public/
 
   - title: "Phandelver and Below: The Shattered Obelisk"
@@ -178,4 +178,4 @@ playing:
 # Stats displayed in the telemetry strip on the landing page.
 stats:
   active_campaigns: 2
-  sessions_logged: 74
+  sessions_logged: 75
