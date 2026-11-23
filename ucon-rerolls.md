@@ -6,9 +6,9 @@ permalink: /ucon/rerolls/
 
 # U-Con Charity Rerolls
 
-**$1 = 1 reroll, and every dollar benefits Doctors Without Borders.**
+**$1 = 1 reroll, and together we raised $250 for Doctors Without Borders at U-Con 2026.**
 
-Charity rerolls are back at every Adventurers League and Legends of Greyhawk table at U-Con 2026. Pick whichever way of giving is easiest for you:
+Thank you to all the players and DMs who supported charity rerolls across our Adventurers League and Legends of Greyhawk tables this year! We look forward to bringing them back next year and hope you can join us again. Below is how charity rerolls worked at the convention (our donation page remains open if you'd still like to support Doctors Without Borders):
 
 ## Donate online
 

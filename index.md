@@ -263,28 +263,28 @@ home: true
     <div>
       <h2>U-Con <em>Organized Play</em></h2>
     </div>
-    <span class="sec-aside">November 13–15, 2026</span>
+    <span class="sec-aside">November 13–15, 2026 · Wrapped</span>
   </div>
   <div class="ucon-block">
     <div>
       <div class="ucon-eyebrow">U-Con · Ann Arbor · Eagle Crest</div>
-      <h3>Adventurers League & Legends of Greyhawk — both tracks, one room.</h3>
+      <h3>Thank you to the players and DMs who made U-Con 2026 happen.</h3>
       {% include ucon-counts.html %}
-      <p>U-Con 2026 is on the horizon and we're running two organized play programs this year: the familiar
-      <strong>Adventurers League</strong> and the newly launched <strong>Legends of Greyhawk</strong> —
+      <p>U-Con 2026 is a wrap! This year we ran both
+      <strong>Adventurers League</strong> and <strong>Legends of Greyhawk</strong>, with
       {{ ucon_al_count }} AL and {{ ucon_log_count }} LoG adventures across the weekend.</p>
-      <p>Registration is open on <a href="https://tabletop.events/conventions/u-con-2026">Tabletop.Events</a>,
-      and tables are filling. Convention details at <a href="https://www.ucon-gaming.org/">ucon-gaming.org</a>.</p>
+      <p>We're already looking forward to next year and hope you can join us at the tables again.
+      Convention info at <a href="https://www.ucon-gaming.org/">ucon-gaming.org</a>.</p>
       <p style="margin-bottom: 0;">
         <a class="lp-btn ghost" href="{{ '/ucon/' | relative_url }}">
-          Our U-Con tables {% include icons.html name="arrow" %}
+          U-Con 2026 archive {% include icons.html name="arrow" %}
         </a>
       </p>
     </div>
     <div class="ucon-cause">
       <div class="ucon-cause-lbl">★ Fundraiser</div>
       <div class="ucon-cause-name">Doctors Without Borders</div>
-      <div class="ucon-cause-desc">Charity rerolls at every table. Donations are collected at AL HQ during the convention. <a href="{{ '/ucon/rerolls/' | relative_url }}">How it works</a></div>
+      <div class="ucon-cause-desc">We raised <strong>$250</strong> through charity rerolls across our tables this year. Thank you to everyone who pitched in! <a href="{{ '/ucon/rerolls/' | relative_url }}">How it worked</a></div>
     </div>
   </div>
 </section>

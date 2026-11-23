@@ -4,15 +4,14 @@ layout: default
 permalink: /ucon-2026-schedule/
 ---
 
-# U-Con 2026 — Organized Play Schedule
+# U-Con 2026: Organized Play Schedule Archive
 
 {% assign schedule = site.data.ucon-2026-schedule %}
 {% assign meta = schedule.meta %}
 
-Adventurers League and Legends of Greyhawk tables across the weekend.
-Schedule status: **{{ meta.status }}** · grid updated {{ meta.as_of }}.
+Thank you to all the players and DMs who joined us for Adventurers League and Legends of Greyhawk at U-Con 2026. We're already looking forward to next year and hope you can join us again!
 
-Click a **DM initial** to open that table's event page on Tabletop.Events, where you can see the full details and sign up.
+This grid stays up as an archive of the weekend's tables (last updated {{ meta.as_of }}). Click any **DM initial** to view that table's event page on Tabletop.Events.
 
 [U-Con 2026 Site](https://www.ucon-gaming.org/) -
 [All our events on Tabletop.Events](https://tabletop.events/conventions/u-con-2026/schedule#?query=U-Con%20Adventurers%20League) -
