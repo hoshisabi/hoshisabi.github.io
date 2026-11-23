@@ -53,7 +53,7 @@ Now the party is bringing the Elk home to Coldpeak under a new name, the Tribe o
 <div class="npc-grid">
 {% for char in characters %}
 <a href="{{ char.url }}" class="npc-card">
-  {% if char.image %}<img src="{{ char.image }}" alt="{{ char.title }}">{% else %}<div class="npc-no-image"></div>{% endif %}
+  {% if char.image %}<img src="{{ char.image }}" alt="{{ char.title | escape }}">{% else %}<div class="npc-no-image"></div>{% endif %}
   <span>{{ char.title }}</span>
   {% if char.player %}<span class="card-player">{{ char.player }}</span>{% endif %}
 </a>
@@ -66,7 +66,7 @@ Now the party is bringing the Elk home to Coldpeak under a new name, the Tribe o
 <div class="npc-grid">
 {% for entry in camp %}
 <a href="{{ entry.url }}" class="npc-card">
-  {% if entry.image %}<img src="{{ entry.image }}" alt="{{ entry.title }}">{% else %}<div class="npc-no-image"></div>{% endif %}
+  {% if entry.image %}<img src="{{ entry.image }}" alt="{{ entry.title | escape }}">{% else %}<div class="npc-no-image"></div>{% endif %}
   <span>{{ entry.title }}</span>
   {% if entry.status %}<span class="card-player">{{ entry.status }}</span>{% endif %}
 </a>
@@ -81,7 +81,7 @@ Rules for building and running the camp are on [House Rules](house-rules).
 <div class="npc-grid">
 {% for npc in npcs %}
 <a href="{{ npc.url }}" class="npc-card">
-  {% if npc.image %}<img src="{{ npc.image }}" alt="{{ npc.title }}">{% else %}<div class="npc-no-image"></div>{% endif %}
+  {% if npc.image %}<img src="{{ npc.image }}" alt="{{ npc.title | escape }}">{% else %}<div class="npc-no-image"></div>{% endif %}
   <span>{{ npc.title }}</span>
   {% if npc.association %}<span class="card-player">{{ npc.association }}</span>{% endif %}
 </a>
@@ -94,7 +94,7 @@ Rules for building and running the camp are on [House Rules](house-rules).
 <div class="npc-grid">
 {% for loc in locations %}
 <a href="{{ loc.url }}" class="npc-card">
-  {% if loc.image %}<img src="{{ loc.image }}" alt="{{ loc.title }}">{% else %}<div class="npc-no-image"></div>{% endif %}
+  {% if loc.image %}<img src="{{ loc.image }}" alt="{{ loc.title | escape }}">{% else %}<div class="npc-no-image"></div>{% endif %}
   <span>{{ loc.title }}</span>
   {% if loc.association %}<span class="card-player">{{ loc.association }}</span>{% endif %}
 </a>
@@ -107,7 +107,7 @@ Rules for building and running the camp are on [House Rules](house-rules).
 <div class="npc-grid">
 {% for item in items %}
 <a href="{{ item.url }}" class="npc-card">
-  {% if item.image %}<img src="{{ item.image }}" alt="{{ item.title }}">{% else %}<div class="npc-no-image"></div>{% endif %}
+  {% if item.image %}<img src="{{ item.image }}" alt="{{ item.title | escape }}">{% else %}<div class="npc-no-image"></div>{% endif %}
   <span>{{ item.title }}</span>
   {% if item.association %}<span class="card-player">{{ item.association }}</span>{% endif %}
 </a>
@@ -120,7 +120,7 @@ Rules for building and running the camp are on [House Rules](house-rules).
 <div class="npc-grid">
 {% for entry in lore %}
 <a href="{{ entry.url }}" class="npc-card">
-  {% if entry.image %}<img src="{{ entry.image }}" alt="{{ entry.title }}">{% else %}<div class="npc-no-image"></div>{% endif %}
+  {% if entry.image %}<img src="{{ entry.image }}" alt="{{ entry.title | escape }}">{% else %}<div class="npc-no-image"></div>{% endif %}
   <span>{{ entry.title }}</span>
   {% if entry.category %}<span class="card-player">{{ entry.category }}</span>{% endif %}
 </a>

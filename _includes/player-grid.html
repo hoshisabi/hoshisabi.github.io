@@ -31,7 +31,7 @@
 {% assign latest = player_chars | sort: "last_seen" | last %}
 {% assign others = player_chars.size | minus: 1 %}
 <a href="{{ player.url }}" class="npc-card{% if forloop.index > grid_limit %} is-extra{% endif %}" data-rank="{{ forloop.index }}" data-name="{{ player.title | downcase | escape }}">
-  {% if latest.image %}<img src="{{ latest.image }}" alt="{{ latest.title }}">{% else %}<div class="npc-no-image"></div>{% endif %}
+  {% if latest.image %}<img src="{{ latest.image }}" alt="{{ latest.title | escape }}">{% else %}<div class="npc-no-image"></div>{% endif %}
   <span>{{ player.title }}</span>
   {% if latest %}<span class="card-player">{{ latest.title }}{% if others > 0 %}<br>(+{{ others }} other{% if others != 1 %}s{% endif %}){% endif %}</span>{% endif %}
 </a>

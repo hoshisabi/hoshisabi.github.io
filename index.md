@@ -179,7 +179,7 @@ home: true
       <div class="star-head">
         {%- if c.portrait -%}
         <div class="star-identity">
-          <img class="star-avatar" src="{{ c.portrait }}" alt="{{ c.title }}" loading="lazy">
+          <img class="star-avatar" src="{{ c.portrait }}" alt="{{ c.title | escape }}" loading="lazy">
           <div class="star-identity-text">
             <div class="star-title">{{ c.title }}</div>
             <div class="star-sub">{{ c.sub }}</div>

@@ -1,6 +1,6 @@
 {% assign card_sub = include.sub | default: include.char.player %}
 <a href="{{ include.char.url }}" class="npc-card">
-  {% if include.char.image %}<img src="{{ include.char.image }}" alt="{{ include.char.title }}">{% else %}<div class="npc-no-image"></div>{% endif %}
+  {% if include.char.image %}<img src="{{ include.char.image }}" alt="{{ include.char.title | escape }}">{% else %}<div class="npc-no-image"></div>{% endif %}
   <span>{{ include.char.title }}</span>
   {% if card_sub %}<span class="card-player">{{ card_sub }}</span>{% endif %}
 </a>

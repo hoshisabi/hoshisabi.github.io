@@ -11,4 +11,4 @@
 {% else %}
   {% assign portrait_src = '/rpg/_shared/images/default-portrait.png' %}
 {% endif %}
-<img src="{{ portrait_src }}" alt="{{ page.title }}" class="portrait">
+<img src="{{ portrait_src }}" alt="{{ page.title | escape }}" class="portrait">

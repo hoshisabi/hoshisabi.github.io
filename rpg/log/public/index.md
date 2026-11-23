@@ -47,7 +47,7 @@ The party started in Hommlet, where the trouble was organized enough to have a h
 <div class="npc-grid">
 {% for char in characters %}
 <a href="{{ char.url }}" class="npc-card">
-  {% if char.image %}<img src="{{ char.image }}" alt="{{ char.title }}">{% else %}<div class="npc-no-image"></div>{% endif %}
+  {% if char.image %}<img src="{{ char.image }}" alt="{{ char.title | escape }}">{% else %}<div class="npc-no-image"></div>{% endif %}
   <span>{{ char.title }}</span>
   {% if char.player %}<span class="card-player">{{ char.player }}</span>{% endif %}
 </a>
