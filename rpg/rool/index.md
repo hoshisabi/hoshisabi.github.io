@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Rool
-image: RoolPortrait.png
+image: RoolPortrait.webp
 race: Fairy (Brownie)
 class: Druid 11 (Circle of the Shepherd)
 dnd_beyond: https://ddb.ac/characters/73151462/6veXru

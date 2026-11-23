@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Spare
-image: SparePortrait.png
+image: SparePortrait.webp
 race: Human (Custom Lineage — Shadovar)
 class: Wizard 4 (Order of Scribes)
 dnd_beyond: https://www.dndbeyond.com/characters/100533223/YOBfDI
